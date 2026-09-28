@@ -1,0 +1,78 @@
+{
+  "subject_id": "accounting",
+  "subject_name": "Accounting",
+  "category": "BUSINESS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Accounting Principles",
+          "content": "# Introduction to Accounting Principles\n\n## Learning Objectives\n1. Define accounting and its purpose in business\n2. Understand the accounting equation\n3. Identify the three main financial statements\n4. Distinguish between cash and accrual accounting\n5. Apply Generally Accepted Accounting Principles (GAAP)\n\n## What is Accounting?\n\nAccounting is the systematic recording, reporting, and analysis of financial transactions. It's the language of business \u2014 it communicates financial health to stakeholders.\n\n## The Accounting Equation\n\n**Assets = Liabilities + Owner's Equity**\n\nThis equation MUST always balance. Every transaction affects at least two accounts (double-entry bookkeeping).\n\n- **Assets**: What the company OWNS (cash, inventory, equipment, accounts receivable)\n- **Liabilities**: What the company OWES (loans, accounts payable, taxes owed)\n- **Owner's Equity**: The owner's claim on assets (investment + retained earnings - withdrawals)\n\n### Example:\nYou start a business with $50,000 cash:\n- Assets ($50,000 cash) = Liabilities ($0) + Equity ($50,000)\n\nYou take a $20,000 bank loan:\n- Assets ($70,000 cash) = Liabilities ($20,000 loan) + Equity ($50,000)\n\n## Three Main Financial Statements\n\n### 1. Income Statement (Profit & Loss)\nShows revenues and expenses over a period.\nRevenue - Expenses = Net Income (or Net Loss)\n\n### 2. Balance Sheet\nSnapshot of financial position at a specific date.\nAssets = Liabilities + Equity\n\n### 3. Cash Flow Statement\nTracks actual cash in and out:\n- Operating activities (day-to-day business)\n- Investing activities (buying/selling assets)\n- Financing activities (loans, equity)\n\n## Cash vs Accrual Accounting\n- **Cash basis**: Records when cash is received/paid\n- **Accrual basis**: Records when revenue is earned/expenses incurred (GAAP requires this for most businesses)\n\n## GAAP Principles\n- **Revenue Recognition**: Record revenue when earned, not when received\n- **Matching Principle**: Match expenses to the revenues they help generate\n- **Cost Principle**: Record assets at original cost\n- **Going Concern**: Assume business will continue operating\n- **Consistency**: Use same methods period to period\n\n## Practice Problems\n1. A company has $100,000 in assets and $40,000 in liabilities. What is owner's equity?\n   **Answer**: $60,000 (Assets - Liabilities = Equity)\n2. Which financial statement shows profit or loss?\n   **Answer**: Income Statement (Profit & Loss)\n3. Under accrual accounting, when do you record revenue?\n   **Answer**: When it is earned, regardless of when cash is received\n\n## Key Takeaways\n- The accounting equation (A = L + E) must always balance\n- Three core statements: Income Statement, Balance Sheet, Cash Flow\n- Accrual accounting records transactions when earned/incurred\n- GAAP provides standardized rules for financial reporting",
+          "quiz": [
+            {
+              "question": "What is the main focus of Accounting?",
+              "options": [
+                "Study of accounting",
+                "Only theory",
+                "Random topics",
+                "None"
+              ],
+              "correct": "Study of accounting",
+              "explanation": "Accounting is the systematic study of its domain"
+            },
+            {
+              "question": "True or False: This subject has practical applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Never"
+              ],
+              "correct": "True",
+              "explanation": "Accounting has extensive real-world applications"
+            },
+            {
+              "question": "What level is this lesson?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 = Beginner (AP/GCSE + 10%)"
+            },
+            {
+              "question": "How many mastery levels does SKA offer?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 levels: Beginner through Grandmaster"
+            },
+            {
+              "question": "What does the quiz at the end of each lesson test?",
+              "options": [
+                "Memory only",
+                "Understanding of key concepts",
+                "Speed reading",
+                "Nothing"
+              ],
+              "correct": "Understanding of key concepts",
+              "explanation": "Quizzes test comprehension of the lesson's core concepts"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
