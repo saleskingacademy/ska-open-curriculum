@@ -1,0 +1,195 @@
+{
+ "archive": "/apps/archive/20260604.144757",
+ "verified": "2026-09-28",
+ "books": [
+  {
+   "title": "Prealgebra",
+   "subject": "MATH",
+   "level": "L2",
+   "uuid": "caa57dab-41c7-455e-bd6f-f443cda5519c",
+   "version": "eb2e29d",
+   "pages": 131,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Elementary Algebra",
+   "subject": "MATH",
+   "level": "L3",
+   "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f",
+   "version": "eb2e29d",
+   "pages": 133,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Intermediate Algebra",
+   "subject": "MATH",
+   "level": "L4",
+   "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1",
+   "version": "eb2e29d",
+   "pages": 144,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "College Algebra",
+   "subject": "MATH",
+   "level": "L5",
+   "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+   "version": "ebc5beb",
+   "pages": 123,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Algebra and Trigonometry",
+   "subject": "MATH",
+   "level": "L5",
+   "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+   "version": "ebc5beb",
+   "pages": 172,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Precalculus",
+   "subject": "MATH",
+   "level": "L5",
+   "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+   "version": "ebc5beb",
+   "pages": 160,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Statistics",
+   "subject": "STAT",
+   "level": "L4",
+   "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+   "version": "7dea80a",
+   "pages": 199,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Introductory Statistics",
+   "subject": "STAT",
+   "level": "L5",
+   "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+   "version": "1d23970",
+   "pages": 200,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Introductory Business Statistics",
+   "subject": "STAT",
+   "level": "L5",
+   "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+   "version": "1d23970",
+   "pages": 169,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Physics",
+   "subject": "PHYS",
+   "level": "L4",
+   "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+   "version": "dfdfd7a",
+   "pages": 328,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "College Physics",
+   "subject": "PHYS",
+   "level": "L5",
+   "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+   "version": "1aa3e7a",
+   "pages": 420,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Astronomy",
+   "subject": "ASTR",
+   "level": "L5",
+   "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+   "version": "faae451",
+   "pages": 404,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Biology",
+   "subject": "BIOL",
+   "level": "L5",
+   "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd",
+   "version": "e989ec3",
+   "pages": 493,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Anatomy and Physiology",
+   "subject": "ANAT",
+   "level": "L5",
+   "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+   "version": "ccce780",
+   "pages": 336,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Chemistry",
+   "subject": "CHEM",
+   "level": "L5",
+   "uuid": "85abf193-2bd2-4908-8563-90b8a7ac8df6",
+   "version": "741a7af",
+   "pages": 252,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Principles of Economics 2e",
+   "subject": "ECON",
+   "level": "L5",
+   "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+   "version": "a6dd6c5",
+   "pages": 418,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Introduction to Business",
+   "subject": "BUSN",
+   "level": "L5",
+   "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
+   "version": "9d3b8c4",
+   "pages": 267,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Introduction to Intellectual Property",
+   "subject": "LAWS",
+   "level": "L5",
+   "uuid": "1b4ee0ce-ee89-44fa-a5e7-a0db9f0c94b1",
+   "version": "6dad547",
+   "pages": 65,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "American Government 3e",
+   "subject": "GOVT",
+   "level": "L5",
+   "uuid": "30e47181-f52c-4a91-9c11-33380c428268",
+   "version": "dd9a377",
+   "pages": 204,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Introduction to Sociology 2e",
+   "subject": "SOCI",
+   "level": "L5",
+   "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
+   "version": "247752b",
+   "pages": 222,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "title": "Psychology",
+   "subject": "PSYC",
+   "level": "L5",
+   "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+   "version": "8993bfc",
+   "pages": 187,
+   "license": "http://creativecommons.org/licenses/by/4.0/"
+  }
+ ]
+}
