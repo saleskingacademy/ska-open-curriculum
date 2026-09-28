@@ -1,0 +1,74 @@
+[
+  {
+    "subject_id": "data_science",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Data Science Foundations",
+    "content": "Data science extracts insight and predictions from data using statistics, programming, and domain knowledge. KEY CONCEPTS: The data science lifecycle \u2014 collect, clean, explore, model, communicate. Structured vs unstructured data. Correlation vs causation. WORKED EXAMPLE: Analyzing sales data to find which factors predict churn. PRACTICE: 1) List the lifecycle stages. 2) Give an example of correlation that isn't causation. 3) Classify 3 data types.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which of the following correctly lists the stages of the data science lifecycle?\", \"options\": [\"Collect, Clean, Explore, Model, Communicate\", \"Model, Collect, Clean, Communicate, Explore\", \"Clean, Collect, Model, Explore, Communicate\", \"Explore, Model, Clean, Collect, Communicate\"], \"correct\": 0, \"explanation\": \"The data science lifecycle follows the order: collect data, clean it, explore it, build models, and communicate results.\"}, {\"q\": \"Which example best illustrates correlation without causation?\", \"options\": [\"Ice cream sales increase as drowning incidents increase\", \"Smoking causes lung cancer\", \"Exercise reduces risk of heart disease\", \"Studying improves exam scores\"], \"correct\": 0, \"explanation\": \"Ice cream sales and drowning incidents both increase in summer, showing correlation but no direct causal relationship.\"}, {\"q\": \"Which of the following is an example of unstructured data?\", \"options\": [\"Sales transaction records\", \"Customer survey responses in free text\", \"Employee ID numbers\", \"Product categories\"], \"correct\": 1, \"explanation\": \"Free text survey responses are unstructured data, unlike structured data like transaction records or IDs.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Statistics & Probability",
+    "content": "Statistics is the backbone of data science. KEY CONCEPTS: Mean/median/mode, variance/standard deviation, distributions (normal, skewed), probability, sampling, hypothesis testing, p-values, confidence intervals. WORKED EXAMPLE: An A/B test uses hypothesis testing to decide if a change truly improved conversion. PRACTICE: 1) Explain standard deviation. 2) Define a p-value. 3) Describe sampling bias.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What does the standard deviation measure in a data set?\", \"options\": [\"The average value\", \"The middle value\", \"The spread of data around the mean\", \"The most frequent value\"], \"correct\": 2, \"explanation\": \"Standard deviation quantifies how much the data points deviate from the mean, indicating the spread or variability in the data.\"}, {\"q\": \"In hypothesis testing, what does a p-value represent?\", \"options\": [\"The probability that the null hypothesis is true\", \"The probability of observing the data if the null hypothesis is true\", \"The probability that the alternative hypothesis is true\", \"The confidence level of the test\"], \"correct\": 1, \"explanation\": \"A p-value indicates the probability of obtaining the observed data, or something more extreme, assuming the null hypothesis is true.\"}, {\"q\": \"What is sampling bias?\", \"options\": [\"When the sample size is too large\", \"When the sample does not represent the population fairly\", \"When data is normally distributed\", \"When the mean and median are equal\"], \"correct\": 1, \"explanation\": \"Sampling bias occurs when the sample is not representative of the population, leading to inaccurate or skewed results.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Data Wrangling & EDA",
+    "content": "Real data is messy; cleaning and exploring it is most of the work. KEY CONCEPTS: Missing values, outliers, normalization, feature engineering, exploratory data analysis (EDA), visualization. WORKED EXAMPLE: Filling missing ages with the median before modeling prevents skew. PRACTICE: 1) Name 3 data-cleaning steps. 2) Explain feature engineering. 3) Describe why EDA matters.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which of the following is NOT typically considered a data-cleaning step?\", \"options\": [\"Handling missing values\", \"Removing outliers\", \"Feature engineering\", \"Normalization\"], \"correct\": 2, \"explanation\": \"Feature engineering involves creating new features from existing data, not cleaning the data itself.\"}, {\"q\": \"Why is exploratory data analysis (EDA) important before modeling?\", \"options\": [\"It helps identify data quality issues and patterns\", \"It automatically builds predictive models\", \"It replaces the need for data cleaning\", \"It normalizes the data\"], \"correct\": 0, \"explanation\": \"EDA helps understand the data, uncover issues like missing values or outliers, and discover patterns that inform modeling.\"}, {\"q\": \"What does feature engineering involve?\", \"options\": [\"Filling missing values with median\", \"Creating new variables from existing data\", \"Visualizing data distributions\", \"Removing outliers\"], \"correct\": 1, \"explanation\": \"Feature engineering is the process of creating new features or transforming existing ones to improve model performance.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Machine Learning for Data Science",
+    "content": "Applying ML models to make predictions. KEY CONCEPTS: Regression (predict numbers), classification (predict categories), clustering, train/test split, cross-validation, evaluation metrics (accuracy, precision, recall, F1, RMSE). WORKED EXAMPLE: Predicting house prices (regression) vs spam detection (classification). PRACTICE: 1) Match a problem to a model type. 2) Explain train/test split. 3) Define precision vs recall.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which machine learning model type would you use to predict the price of a house?\", \"options\": [\"Classification\", \"Regression\", \"Clustering\", \"Cross-validation\"], \"correct\": 1, \"explanation\": \"Predicting house prices involves predicting continuous numerical values, which is the purpose of regression models.\"}, {\"q\": \"What is the main purpose of splitting data into train and test sets?\", \"options\": [\"To increase the size of the dataset\", \"To evaluate model performance on unseen data\", \"To reduce the number of features\", \"To improve clustering results\"], \"correct\": 1, \"explanation\": \"The train/test split allows us to train the model on one portion of data and evaluate its performance on unseen data to assess generalization.\"}, {\"q\": \"Which evaluation metric best balances precision and recall in classification tasks?\", \"options\": [\"Accuracy\", \"F1 Score\", \"RMSE\", \"Cross-validation\"], \"correct\": 1, \"explanation\": \"The F1 score is the harmonic mean of precision and recall, providing a balance between the two metrics.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Data Visualization & Communication",
+    "content": "Insight is worthless if not communicated. KEY CONCEPTS: Chart selection (bar, line, scatter, heatmap), dashboards, storytelling with data, avoiding misleading visuals. WORKED EXAMPLE: A line chart shows trend over time; a bar chart compares categories. PRACTICE: 1) Match chart to data type. 2) Identify a misleading visual. 3) Structure a data story.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which chart type is most appropriate for showing trends over time?\", \"options\": [\"Bar chart\", \"Line chart\", \"Scatter plot\", \"Heatmap\"], \"correct\": 1, \"explanation\": \"Line charts effectively display data trends over a continuous time period.\"}, {\"q\": \"What is a key reason to avoid misleading visuals in data communication?\", \"options\": [\"To make charts look more colorful\", \"To ensure accurate interpretation of data\", \"To use more complex chart types\", \"To reduce the amount of data shown\"], \"correct\": 1, \"explanation\": \"Misleading visuals can cause incorrect conclusions, so clarity and accuracy are essential.\"}, {\"q\": \"In storytelling with data, what is the primary purpose of structuring your data story?\", \"options\": [\"To confuse the audience\", \"To highlight key insights clearly\", \"To include as many charts as possible\", \"To focus only on raw data\"], \"correct\": 1, \"explanation\": \"Structuring a data story helps communicate insights clearly and effectively to the audience.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Big Data & Pipelines",
+    "content": "At scale, data needs specialized tools and pipelines. KEY CONCEPTS: ETL (extract-transform-load), data warehouses vs lakes, distributed processing (Spark), SQL at scale, streaming vs batch. WORKED EXAMPLE: An ETL pipeline pulls raw logs, transforms them, and loads a warehouse for analysis. PRACTICE: 1) Explain ETL. 2) Compare warehouse vs lake. 3) Define batch vs streaming.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What does the 'T' in ETL stand for in big data pipelines?\", \"options\": [\"Transform\", \"Transfer\", \"Translate\", \"Transmit\"], \"correct\": 0, \"explanation\": \"In ETL, 'T' stands for Transform, which means converting raw data into a suitable format before loading.\"}, {\"q\": \"Which of the following best distinguishes a data warehouse from a data lake?\", \"options\": [\"A warehouse stores structured data; a lake stores raw and unstructured data\", \"A warehouse is for streaming data; a lake is for batch data\", \"A warehouse uses Spark; a lake uses SQL\", \"A warehouse is distributed; a lake is centralized\"], \"correct\": 0, \"explanation\": \"Data warehouses store cleaned, structured data optimized for analysis, while data lakes store raw, unstructured or semi-structured data.\"}, {\"q\": \"What is the primary difference between batch and streaming processing?\", \"options\": [\"Batch processes data in chunks; streaming processes data continuously\", \"Batch requires SQL; streaming does not\", \"Batch is real-time; streaming is delayed\", \"Batch is only for logs; streaming is only for sensors\"], \"correct\": 0, \"explanation\": \"Batch processing handles data in large, discrete chunks, whereas streaming processes data continuously as it arrives.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Advanced Modeling",
+    "content": "Sophisticated modeling and deployment. KEY CONCEPTS: Ensemble methods (random forest, gradient boosting), deep learning, hyperparameter tuning, model deployment, MLOps, monitoring drift. WORKED EXAMPLE: Gradient boosting often wins on tabular data by combining weak learners. PRACTICE: 1) Explain ensembling. 2) Define hyperparameter tuning. 3) Describe model drift.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is the primary advantage of ensemble methods like gradient boosting in modeling?\", \"options\": [\"They combine multiple weak learners to create a stronger overall model\", \"They require no hyperparameter tuning\", \"They are only used for image data\", \"They eliminate the need for model deployment\"], \"correct\": 0, \"explanation\": \"Ensemble methods combine several weak learners to improve predictive performance, making the overall model stronger.\"}, {\"q\": \"What does hyperparameter tuning involve in advanced modeling?\", \"options\": [\"Adjusting model parameters learned during training\", \"Selecting and optimizing external parameters that control the learning process\", \"Deploying the model to production\", \"Monitoring data drift after deployment\"], \"correct\": 1, \"explanation\": \"Hyperparameter tuning is the process of selecting and optimizing parameters that are not learned during training but control the learning process, such as learning rate or tree depth.\"}, {\"q\": \"What is model drift and why is monitoring it important?\", \"options\": [\"A change in model architecture over time; it helps improve training speed\", \"A shift in data distribution that can degrade model performance; monitoring ensures model remains accurate\", \"An increase in model size; monitoring prevents memory issues\", \"A type of hyperparameter; monitoring tunes the model better\"], \"correct\": 1, \"explanation\": \"Model drift refers to changes in the input data distribution over time, which can cause the model's performance to degrade. Monitoring drift is crucial to maintain model accuracy in production.\"}]"
+  },
+  {
+    "subject_id": "data_science",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Data Strategy",
+    "content": "At King level you drive data strategy for an organization. KEY CONCEPTS: Data as a strategic asset, building data culture, governance, ethics/privacy, measuring ROI of data initiatives, the data-informed decision engine. WORKED EXAMPLE: A company builds a data platform that makes every team measurably data-driven. PRACTICE: 1) Design a data strategy. 2) Address a privacy concern. 3) Measure a data project's ROI.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is a primary goal of data strategy at the King level?\", \"options\": [\"To collect as much data as possible\", \"To drive data as a strategic asset across the organization\", \"To focus only on data privacy\", \"To eliminate all manual decision-making\"], \"correct\": 1, \"explanation\": \"At the King level, the goal is to leverage data as a strategic asset that informs and drives organizational decisions.\"}, {\"q\": \"Which of the following is essential when building a data culture within an organization?\", \"options\": [\"Ignoring governance to speed up processes\", \"Ensuring every team becomes measurably data-driven\", \"Limiting data access to only the executive team\", \"Avoiding measurement of data initiative outcomes\"], \"correct\": 1, \"explanation\": \"Building a data culture involves enabling every team to use data effectively and measurably in their decision-making.\"}, {\"q\": \"When addressing privacy concerns in a data strategy, what is a key consideration?\", \"options\": [\"Maximizing data collection regardless of consent\", \"Implementing governance and ethics policies to protect privacy\", \"Sharing all data openly to promote transparency\", \"Ignoring privacy to improve ROI\"], \"correct\": 1, \"explanation\": \"Effective data strategy includes governance and ethics policies that protect privacy and address related concerns.\"}]"
+  }
+]

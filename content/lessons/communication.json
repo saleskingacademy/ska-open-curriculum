@@ -1,0 +1,98 @@
+[
+  {
+    "id": "communication_L1_1",
+    "subject_id": "communication",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Communication Foundations",
+    "content": "KEY CONCEPTS: Communication is the transfer of meaning, not just information \u2014 the message received matters more than the message sent. The Shannon-Weaver model: sender \u2192 encoding \u2192 channel \u2192 decoding \u2192 receiver, with noise at every stage. Mehrabian's research on emotional communication: tone and body language carry disproportionate weight when words and delivery conflict. Active listening is the highest-leverage skill: listening to understand, not to reply. The curse of knowledge \u2014 experts forget what it's like not to know, and communicate over people's heads.\n\nWORKED EXAMPLE: A manager says 'we need this soon.' The employee hears 'this week'; the manager meant 'today.' The words transferred; the meaning didn't. Specificity ('by 3pm today') eliminates the gap. Most communication failures are precision failures, not effort failures.\n\nPRACTICE: 1) Rewrite three vague requests as specific ones. 2) Identify one instance where you assumed shared context that wasn't shared. 3) Practice reflecting back what someone said before responding.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Communication is fundamentally the transfer of:\", \"options\": [\"Information\", \"Meaning\", \"Words\", \"Data\"], \"correct\": 1, \"explanation\": \"The message received (meaning) matters more than the message sent.\"}, {\"q\": \"The 'curse of knowledge' means:\", \"options\": [\"Knowing too much is bad\", \"Experts forget what it's like not to know\", \"Knowledge is dangerous\", \"Learning is painful\"], \"correct\": 1, \"explanation\": \"Experts communicate over people's heads by forgetting the novice view.\"}, {\"q\": \"Most communication failures are:\", \"options\": [\"Effort failures\", \"Precision failures\", \"Intelligence failures\", \"Technology failures\"], \"correct\": 1, \"explanation\": \"Vagueness, not lack of effort, causes most breakdowns.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L2_1",
+    "subject_id": "communication",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Clarity, Structure & Persuasion",
+    "content": "KEY CONCEPTS: The Pyramid Principle (Minto): lead with the answer, then support it \u2014 never build up to the point. BLUF (Bottom Line Up Front) is the military version. The Rule of Three: humans retain three points, not seven. Signposting ('There are two problems here \u2014 first...') orients the listener. Persuasion structure: Ethos (credibility), Pathos (emotion), Logos (logic) \u2014 Aristotle's triad still governs.\n\nWORKED EXAMPLE: Weak: 'We analyzed the data, ran three models, considered alternatives, and after careful review concluded we should exit the market.' Strong: 'We should exit the market. Three reasons: margins are negative, the trend is worsening, and reinvestment yields more elsewhere.' Same content, opposite impact.\n\nPRACTICE: 1) Rewrite an email using BLUF. 2) Structure an argument in exactly three supporting points. 3) Identify ethos/pathos/logos in a persuasive piece you admire.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The Pyramid Principle says you should:\", \"options\": [\"Build up to your point\", \"Lead with the answer, then support it\", \"Save the best for last\", \"Avoid conclusions\"], \"correct\": 1, \"explanation\": \"Lead with the answer; never build up to it.\"}, {\"q\": \"BLUF stands for:\", \"options\": [\"Basic Layout Under Format\", \"Bottom Line Up Front\", \"Brief List Under Five\", \"Build Logic Using Facts\"], \"correct\": 1, \"explanation\": \"Bottom Line Up Front \\u2014 the answer comes first.\"}, {\"q\": \"Aristotle's persuasion triad is:\", \"options\": [\"Ethos, Pathos, Logos\", \"Past, Present, Future\", \"Facts, Feelings, Force\", \"Say, Show, Sell\"], \"correct\": 0, \"explanation\": \"Credibility, emotion, and logic.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L3_1",
+    "subject_id": "communication",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Difficult Conversations & Conflict",
+    "content": "KEY CONCEPTS: Every difficult conversation has three layers (Stone/Patton/Heen): the What Happened conversation, the Feelings conversation, and the Identity conversation. Most people fight over facts while the real conflict is identity ('am I competent? am I a good person?'). Nonviolent Communication (Rosenberg): Observation \u2192 Feeling \u2192 Need \u2192 Request, without evaluation or blame. Separate impact from intent \u2014 'you hurt me' is valid; 'you meant to hurt me' is a guess.\n\nWORKED EXAMPLE: Instead of 'You're always late and it's disrespectful' (blame, identity attack), NVC gives: 'When the meeting started 15 minutes late (observation), I felt frustrated (feeling) because I needed the full hour to decide (need). Could we start on time going forward? (request).' Same message, no defensiveness triggered.\n\nPRACTICE: 1) Convert a blame statement into NVC form. 2) Identify the identity issue beneath a recent conflict. 3) Practice separating impact from intent in a real disagreement.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Difficult conversations have how many layers?\", \"options\": [\"One\", \"Two\", \"Three\", \"Five\"], \"correct\": 2, \"explanation\": \"What Happened, Feelings, and Identity.\"}, {\"q\": \"NVC (Nonviolent Communication) structure is:\", \"options\": [\"Observation, Feeling, Need, Request\", \"Attack, Defend, Resolve\", \"State, Blame, Demand\", \"Listen, Agree, Comply\"], \"correct\": 0, \"explanation\": \"Observation \\u2192 Feeling \\u2192 Need \\u2192 Request.\"}, {\"q\": \"Separating impact from intent means:\", \"options\": [\"Intent doesn't matter\", \"'You hurt me' is valid; 'you meant to' is a guess\", \"Impact is irrelevant\", \"Always assume malice\"], \"correct\": 1, \"explanation\": \"You can know impact; you can only guess at intent.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L4_1",
+    "subject_id": "communication",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Presenting & Public Speaking",
+    "content": "KEY CONCEPTS: Structure beats charisma. Open with a hook (question, story, or surprising fact), state your thesis within 60 seconds, deliver three supporting sections, close with a call to action. Slides support you; they are not your notes \u2014 one idea per slide, minimal text. Nerves are physiological, not moral: reframe arousal as excitement rather than fear (Brooks' reappraisal research). Pausing is powerful \u2014 silence signals confidence and gives listeners time to absorb.\n\nWORKED EXAMPLE: A speaker fills every silence with 'um' out of anxiety. Replacing filler with a two-second pause immediately reads as authority rather than nervousness \u2014 the same information, delivered with confidence, is received completely differently.\n\nPRACTICE: 1) Write a 60-second opening with a hook and thesis. 2) Reduce a text-heavy slide to one idea. 3) Record yourself and count filler words; re-record replacing them with pauses.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"In presenting, structure beats:\", \"options\": [\"Preparation\", \"Charisma\", \"Content\", \"Practice\"], \"correct\": 1, \"explanation\": \"A well-structured talk outperforms raw charisma.\"}, {\"q\": \"The best way to handle nerves is to:\", \"options\": [\"Suppress them\", \"Reframe arousal as excitement\", \"Avoid speaking\", \"Apologize for them\"], \"correct\": 1, \"explanation\": \"Reappraisal turns the same physiology into an asset.\"}, {\"q\": \"Pausing during a talk signals:\", \"options\": [\"Confusion\", \"Confidence\", \"Weakness\", \"Unpreparedness\"], \"correct\": 1, \"explanation\": \"Silence reads as authority and aids absorption.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L5_1",
+    "subject_id": "communication",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Written Communication & Influence at Distance",
+    "content": "KEY CONCEPTS: Writing is asynchronous influence \u2014 it must work without your presence. Clarity rules: short sentences, active voice ('the team missed the deadline' not 'the deadline was missed'), concrete nouns over abstractions. The inverted pyramid (journalism): most important information first, detail descending. Email discipline: one topic, clear subject line, explicit ask, deadline. In writing, ambiguity compounds \u2014 every unclear sentence multiplies across every reader.\n\nWORKED EXAMPLE: Subject 'Update' with three paragraphs and a buried request gets ignored. Subject 'Decision needed by Thu: vendor\u9009\u62e9' with the ask in line one gets answered. The information is identical; only the packaging changed the outcome.\n\nPRACTICE: 1) Rewrite a passive-voice paragraph in active voice. 2) Restructure a rambling email using the inverted pyramid. 3) Write three subject lines that state the ask and deadline.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Active voice means:\", \"options\": [\"'The deadline was missed'\", \"'The team missed the deadline'\", \"'Deadlines get missed'\", \"'It was missed'\"], \"correct\": 1, \"explanation\": \"Active voice names the actor and is clearer.\"}, {\"q\": \"The inverted pyramid puts:\", \"options\": [\"Details first\", \"Most important information first\", \"Conclusions last\", \"Context before content\"], \"correct\": 1, \"explanation\": \"Most important first, detail descending.\"}, {\"q\": \"An effective email subject line should:\", \"options\": [\"Be vague to create curiosity\", \"State the ask and deadline\", \"Be one word\", \"Be omitted\"], \"correct\": 1, \"explanation\": \"Clarity about the ask drives response.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L6_1",
+    "subject_id": "communication",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Executive Communication & Stakeholder Management",
+    "content": "KEY CONCEPTS: Executives buy outcomes, not process \u2014 lead with impact, not effort. The 'so what?' test: every statement must survive the question. Tailor to the audience's decision: what do they need to decide, and what do they need to know to decide it? Manage stakeholders by mapping power \u00d7 interest: high power/high interest = manage closely; low/low = monitor. Escalation is not failure; late escalation is. Communicating bad news early preserves credibility; hiding it destroys it permanently.\n\nWORKED EXAMPLE: An engineer reports 'we refactored the auth module and improved test coverage.' The executive hears nothing actionable. Reframed: 'Login failures dropped 90%, which removes the top support cost.' Same work, translated into the currency the audience actually values.\n\nPRACTICE: 1) Apply the 'so what?' test to five status statements. 2) Map your stakeholders on power \u00d7 interest. 3) Rewrite a technical update in outcome language.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Executives primarily buy:\", \"options\": [\"Effort\", \"Outcomes\", \"Process\", \"Detail\"], \"correct\": 1, \"explanation\": \"Lead with impact, not the work you did.\"}, {\"q\": \"The 'so what?' test asks:\", \"options\": [\"Is this true?\", \"Does this statement matter to the decision?\", \"Is this long enough?\", \"Who said this?\"], \"correct\": 1, \"explanation\": \"Every statement must justify its relevance.\"}, {\"q\": \"Regarding bad news, credibility is preserved by:\", \"options\": [\"Hiding it\", \"Communicating it early\", \"Blaming others\", \"Waiting for a fix\"], \"correct\": 1, \"explanation\": \"Late escalation, not escalation itself, is the failure.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L7_1",
+    "subject_id": "communication",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Narrative & Organizational Communication",
+    "content": "KEY CONCEPTS: At scale, leaders don't communicate messages \u2014 they build narratives. A narrative is a repeated, coherent story that explains where we are, where we're going, and why it matters. Repetition is not redundancy: a message must be heard many times before it's internalized; leaders quit repeating long before audiences absorb. Communication cascades break at each layer \u2014 what the CEO says is not what the frontline hears. Channel selection matters: sensitive news in person, decisions in writing, culture in stories.\n\nWORKED EXAMPLE: A CEO announces a strategy once and assumes it landed. Six months later, no one can articulate it. The fix isn't a better speech \u2014 it's the same message, repeated consistently across every channel and every leader, for months. Consistency over eloquence.\n\nPRACTICE: 1) Write your organization's narrative in three sentences. 2) Identify where your communication cascade breaks. 3) Design a repetition plan for one key message.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"At scale, leaders should build:\", \"options\": [\"Messages\", \"Narratives\", \"Slides\", \"Memos\"], \"correct\": 1, \"explanation\": \"A coherent, repeated story that explains direction.\"}, {\"q\": \"Leaders typically stop repeating a message:\", \"options\": [\"Too late\", \"Long before audiences absorb it\", \"At the right time\", \"Never\"], \"correct\": 1, \"explanation\": \"Repetition is required far beyond the leader's boredom.\"}, {\"q\": \"Communication cascades:\", \"options\": [\"Work perfectly\", \"Break at each layer\", \"Only work in writing\", \"Are unnecessary\"], \"correct\": 1, \"explanation\": \"What the CEO says is not what the frontline hears.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "communication_L8_1",
+    "subject_id": "communication",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Communication as Leadership",
+    "content": "KEY CONCEPTS: At the highest level, communication IS leadership \u2014 an organization can only become what its leaders can articulate. Framing determines reality: whoever names the problem controls the solution space. Symbolic acts communicate more powerfully than statements \u2014 what leaders spend time on, tolerate, and reward is the real message. Psychological safety (Edmondson) is created or destroyed by how leaders respond to bad news and dissent. The King-level insight: your communication is not what you say; it is what people believe after you leave the room.\n\nWORKED EXAMPLE: A leader declares 'we value candor,' then visibly bristles when challenged. The behavior overrides the statement instantly, and candor dies. Conversely, a leader who publicly thanks someone for delivering unwelcome news teaches the entire organization that truth is safe \u2014 one act communicates more than a year of memos.\n\nPRACTICE: 1) List what your calendar and rewards communicate about your real priorities. 2) Reframe a problem in your organization and observe how the solution space shifts. 3) Design one symbolic act that would make your stated value credible.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Framing matters because:\", \"options\": [\"It's decorative\", \"Whoever names the problem controls the solution space\", \"It saves time\", \"It's required\"], \"correct\": 1, \"explanation\": \"The frame determines which solutions seem possible.\"}, {\"q\": \"Leaders communicate most powerfully through:\", \"options\": [\"Statements\", \"Symbolic acts and behavior\", \"Emails\", \"Slides\"], \"correct\": 1, \"explanation\": \"What leaders reward and tolerate is the real message.\"}, {\"q\": \"Psychological safety is destroyed when leaders:\", \"options\": [\"Ask questions\", \"React badly to bad news or dissent\", \"Repeat messages\", \"Delegate\"], \"correct\": 1, \"explanation\": \"The response to dissent teaches whether truth is safe.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

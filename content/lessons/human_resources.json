@@ -1,0 +1,98 @@
+[
+  {
+    "id": "human_resources_L1_1",
+    "subject_id": "human_resources",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "HR Foundations",
+    "content": "KEY CONCEPTS: Human Resources aligns people strategy with business strategy \u2014 the right people, in the right roles, engaged and developing. The employee lifecycle: attract, recruit, onboard, develop, retain, offboard. HR's dual role: employee advocate AND business steward \u2014 the tension is the job, not a flaw. Human capital is often the largest cost and the primary source of competitive advantage. Compliance (labor law, anti-discrimination, safety) is the floor, not the goal \u2014 great HR builds culture and capability above it.\n\nWORKED EXAMPLE: A company treats HR as pure administration (payroll, paperwork). Turnover is high and hiring is slow. Reframing HR as a strategic function \u2014 improving hiring quality, onboarding, and retention \u2014 turns a cost center into a driver of performance. The activities look similar; the mindset changes everything.\n\nPRACTICE: 1) Map your organization's employee lifecycle. 2) Identify one stage with the biggest drop-off. 3) Distinguish an administrative HR task from a strategic one.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"HR's dual role is:\", \"options\": [\"Payroll and paperwork\", \"Employee advocate and business steward\", \"Hiring and firing\", \"Compliance only\"], \"correct\": 1, \"explanation\": \"The tension between the two is the job.\"}, {\"q\": \"Compliance is:\", \"options\": [\"The goal of HR\", \"The floor, not the goal\", \"Unimportant\", \"The whole job\"], \"correct\": 1, \"explanation\": \"Great HR builds culture above the legal floor.\"}, {\"q\": \"Human capital is often:\", \"options\": [\"A minor cost\", \"The largest cost and primary competitive advantage\", \"Irrelevant\", \"Purely administrative\"], \"correct\": 1, \"explanation\": \"People are both major cost and key advantage.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L2_1",
+    "subject_id": "human_resources",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Recruiting & Selection",
+    "content": "KEY CONCEPTS: Hiring is prediction under uncertainty \u2014 the goal is to predict future performance, and most methods predict poorly. Structured interviews (same questions, scored rubric) predict far better than unstructured 'gut' interviews. Work samples and job-relevant tests are the strongest predictors. Beware bias: halo effect, similarity bias (hiring people like yourself), and recency. Define the role's success criteria BEFORE interviewing. Candidate experience matters \u2014 how you treat applicants shapes your employer brand whether you hire them or not.\n\nWORKED EXAMPLE: Two managers interview the same candidate. The unstructured one hires on 'chemistry'; the structured one scores specific competencies against a rubric. Six months later, the structured hire outperforms \u2014 because 'chemistry' measured similarity to the interviewer, not ability to do the job. Structure beats intuition in hiring.\n\nPRACTICE: 1) Write 3 structured interview questions with scoring criteria. 2) Identify a bias in a recent hiring decision. 3) Design a work sample for a role.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which predicts job performance best?\", \"options\": [\"Gut-feel interviews\", \"Structured interviews and work samples\", \"Resume length\", \"First impressions\"], \"correct\": 1, \"explanation\": \"Structure and job-relevant tests beat intuition.\"}, {\"q\": \"Similarity bias means:\", \"options\": [\"Hiring the best\", \"Hiring people like yourself\", \"Random selection\", \"Fair hiring\"], \"correct\": 1, \"explanation\": \"'Chemistry' often measures similarity, not ability.\"}, {\"q\": \"Success criteria should be defined:\", \"options\": [\"After interviewing\", \"Before interviewing\", \"Never\", \"By the candidate\"], \"correct\": 1, \"explanation\": \"Define the target before evaluating.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L3_1",
+    "subject_id": "human_resources",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Onboarding & Engagement",
+    "content": "KEY CONCEPTS: The first 90 days determine long-term success and retention \u2014 most turnover is set in motion early. Effective onboarding covers role clarity, relationships, and cultural integration, not just paperwork. Employee engagement (emotional commitment) drives discretionary effort, retention, and performance \u2014 it's measurable (eNPS, Gallup Q12). The drivers of engagement: meaningful work, growth, recognition, good management, and autonomy. Managers, not perks, are the biggest lever \u2014 people leave managers, not companies.\n\nWORKED EXAMPLE: A company adds ping-pong tables and free snacks to boost engagement; scores don't move. The real driver was managers who never gave feedback or growth. Perks are visible but weak; the manager relationship is invisible but decisive. Fixing management moved engagement where perks failed.\n\nPRACTICE: 1) Design a 90-day onboarding plan. 2) List the top engagement drivers for your team. 3) Identify why perks often fail to move engagement.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Most turnover is set in motion during:\", \"options\": [\"Year three\", \"The first 90 days\", \"Exit\", \"Never\"], \"correct\": 1, \"explanation\": \"Early experience shapes long-term retention.\"}, {\"q\": \"People primarily leave:\", \"options\": [\"Companies\", \"Managers\", \"Salaries\", \"Offices\"], \"correct\": 1, \"explanation\": \"The manager relationship is decisive.\"}, {\"q\": \"Perks like ping-pong tables:\", \"options\": [\"Strongly drive engagement\", \"Are weak drivers vs management quality\", \"Are the top factor\", \"Replace good managers\"], \"correct\": 1, \"explanation\": \"Visible but weak; management is the real lever.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L4_1",
+    "subject_id": "human_resources",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Performance Management",
+    "content": "KEY CONCEPTS: Performance management should develop people, not just rate them. Goal-setting: SMART goals and OKRs create clarity and alignment. Continuous feedback beats annual reviews \u2014 timely, specific, behavior-focused. Separate development conversations from compensation conversations (people can't hear growth feedback when money is on the table). The forced-ranking/stack-ranking approach often damages collaboration. Radical candor: care personally AND challenge directly \u2014 avoid ruinous empathy (nice but useless) and obnoxious aggression.\n\nWORKED EXAMPLE: A manager saves all feedback for the annual review, then delivers a year of criticism at once. The employee is blindsided and demoralized. The same feedback, given in small, timely moments throughout the year, would have driven improvement instead of resentment. Timing determines whether feedback develops or destroys.\n\nPRACTICE: 1) Write a SMART goal. 2) Give a piece of feedback using the SBI model (Situation-Behavior-Impact). 3) Explain why development and pay conversations should be separated.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Development and compensation conversations should be:\", \"options\": [\"Combined\", \"Separated\", \"Skipped\", \"Public\"], \"correct\": 1, \"explanation\": \"People can't hear growth feedback when pay is at stake.\"}, {\"q\": \"Continuous feedback beats annual reviews because it's:\", \"options\": [\"Cheaper\", \"Timely and specific\", \"Less work\", \"Optional\"], \"correct\": 1, \"explanation\": \"Timely feedback develops; delayed feedback blindsides.\"}, {\"q\": \"Radical candor means:\", \"options\": [\"Being harsh\", \"Care personally AND challenge directly\", \"Being nice only\", \"Avoiding feedback\"], \"correct\": 1, \"explanation\": \"Both care and directness are required.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L5_1",
+    "subject_id": "human_resources",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Compensation & Total Rewards",
+    "content": "KEY CONCEPTS: Compensation must be internally equitable (fair across roles) and externally competitive (fair vs market). Pay structure: base, variable (bonus/commission), equity, benefits. Job evaluation and salary bands create consistency and reduce bias. Pay transparency is rising \u2014 secrecy breeds distrust and legal risk. Total rewards includes non-cash value: growth, flexibility, purpose, recognition. Beware misaligned incentives \u2014 you get what you reward, including unintended behavior (Goodhart's Law applies to comp too).\n\nWORKED EXAMPLE: A sales team is paid purely on revenue. Reps discount heavily to close deals, destroying margin \u2014 they optimized exactly what was measured. Adding a margin component to comp realigned behavior. The lesson: compensation is a behavior-design tool, and poorly designed incentives produce precisely the wrong actions.\n\nPRACTICE: 1) Design a pay structure for a role (base + variable). 2) Identify a misaligned incentive and fix it. 3) List three non-cash elements of total rewards.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Compensation must be:\", \"options\": [\"Secret\", \"Internally equitable and externally competitive\", \"Always highest\", \"Random\"], \"correct\": 1, \"explanation\": \"Fair internally and vs market.\"}, {\"q\": \"Paying sales purely on revenue can cause:\", \"options\": [\"Higher margins\", \"Excessive discounting that destroys margin\", \"Better behavior\", \"No effect\"], \"correct\": 1, \"explanation\": \"You get what you reward \\u2014 misaligned incentives.\"}, {\"q\": \"Total rewards includes:\", \"options\": [\"Only cash\", \"Non-cash value like growth and flexibility\", \"Only equity\", \"Only benefits\"], \"correct\": 1, \"explanation\": \"Purpose, growth, and flexibility count.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L6_1",
+    "subject_id": "human_resources",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Development, Culture & Retention",
+    "content": "KEY CONCEPTS: Learning and development builds capability and signals investment in people \u2014 the 70-20-10 model (70% on-the-job, 20% from others, 10% formal). Career pathing and internal mobility retain talent. Culture is 'how things really work here' \u2014 the behaviors that get rewarded and tolerated, not the values on the wall. Psychological safety (Edmondson) enables learning, innovation, and honesty. Retention is cheaper than replacement (replacing an employee costs 50-200% of salary). Exit interviews reveal systemic problems if you actually act on them.\n\nWORKED EXAMPLE: A company posts 'integrity' as a core value but promotes a manager who hits numbers by cutting corners. The real culture \u2014 revealed by who gets rewarded \u2014 is 'results at any cost.' Employees read behavior, not posters. Culture is defined by what leaders tolerate and reward, period.\n\nPRACTICE: 1) Apply the 70-20-10 model to a development plan. 2) Identify a gap between your stated and actual culture. 3) Calculate the cost of replacing a key employee.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The 70-20-10 model says most development comes from:\", \"options\": [\"Formal training\", \"On-the-job experience\", \"Books\", \"Conferences\"], \"correct\": 1, \"explanation\": \"70% on-the-job, 20% from others, 10% formal.\"}, {\"q\": \"Real culture is defined by:\", \"options\": [\"Values on the wall\", \"What gets rewarded and tolerated\", \"The mission statement\", \"The handbook\"], \"correct\": 1, \"explanation\": \"Behavior, not posters, reveals culture.\"}, {\"q\": \"Replacing an employee costs roughly:\", \"options\": [\"Nothing\", \"50-200% of salary\", \"One week's pay\", \"A fixed $100\"], \"correct\": 1, \"explanation\": \"Retention is far cheaper than replacement.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L7_1",
+    "subject_id": "human_resources",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Strategic HR & Org Design",
+    "content": "KEY CONCEPTS: Strategic HR designs the organization to execute strategy \u2014 structure follows strategy. Organizational design choices: functional, divisional, matrix, flat \u2014 each trades coordination against speed. Workforce planning matches future capability needs to talent supply. Change management (Kotter, ADKAR) determines whether transformations succeed \u2014 most fail on the people side, not the technical side. HR analytics turns intuition into evidence: predicting attrition, measuring hiring quality, quantifying engagement's business impact. Building leadership pipelines and succession planning ensures continuity.\n\nWORKED EXAMPLE: A company reorganizes into a matrix for flexibility but doesn't clarify decision rights. Employees now have two bosses and no clear authority \u2014 coordination collapses. The structure wasn't wrong; the missing decision-rights design was. Org design is about clarifying who decides what, not just drawing boxes.\n\nPRACTICE: 1) Recommend an org structure for a given strategy. 2) Apply a change model to a transformation. 3) Design one HR analytics metric that would inform a business decision.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A matrix structure without clear decision rights causes:\", \"options\": [\"Better speed\", \"Coordination collapse\", \"Lower cost\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Org design must clarify who decides what.\"}, {\"q\": \"Most transformations fail on:\", \"options\": [\"The technical side\", \"The people side\", \"Budget\", \"Technology\"], \"correct\": 1, \"explanation\": \"Change management is the usual failure point.\"}, {\"q\": \"Structure should follow:\", \"options\": [\"Tradition\", \"Strategy\", \"The org chart tool\", \"Headcount\"], \"correct\": 1, \"explanation\": \"Design the org to execute the strategy.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "human_resources_L8_1",
+    "subject_id": "human_resources",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 People as Competitive Advantage",
+    "content": "KEY CONCEPTS: At the highest level, people strategy IS business strategy \u2014 companies win or lose on their ability to attract, develop, and unleash human potential. The best organizations build cultures that are hard to copy because they're systemic \u2014 thousands of interlocking norms, not a policy. Talent density (concentration of high performers) compounds: A-players attract A-players and repel mediocrity. Leaders shape culture through what they measure, model, and tolerate. The King-level truth: strategy, technology, and capital are all copyable \u2014 a genuinely great culture of engaged, capable, aligned people is the one advantage competitors cannot replicate, because it lives in relationships and norms, not documents.\n\nWORKED EXAMPLE: Two competitors have identical business models and funding. One builds a culture where the best people want to work and do their best work; the other treats people as interchangeable. Over a decade, the talent-dense company pulls decisively ahead \u2014 not from any single decision, but from the compounding advantage of consistently better people, better engaged. Culture is the ultimate moat.\n\nPRACTICE: 1) Identify what makes a great culture hard to copy. 2) Assess your team's talent density and one way to raise it. 3) List what your leadership behavior actually rewards versus what you say you value.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Talent density means:\", \"options\": [\"Many employees\", \"Concentration of high performers\", \"Low pay\", \"Big offices\"], \"correct\": 1, \"explanation\": \"A-players attract A-players; it compounds.\"}, {\"q\": \"The one advantage competitors cannot easily copy is:\", \"options\": [\"Technology\", \"Capital\", \"A genuinely great culture of aligned people\", \"Business model\"], \"correct\": 2, \"explanation\": \"Culture lives in relationships and norms, not documents.\"}, {\"q\": \"Leaders shape culture primarily through:\", \"options\": [\"Speeches\", \"What they measure, model, and tolerate\", \"Memos\", \"Values statements\"], \"correct\": 1, \"explanation\": \"Behavior and rewards define real culture.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "economics_L1_1",
+    "subject_id": "economics",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Economics Foundations",
+    "content": "KEY CONCEPTS: Economics studies how people allocate scarce resources among competing uses. The central problem: unlimited wants, limited resources. Opportunity cost \u2014 the value of the next-best alternative forgone \u2014 is the true cost of any choice, not the money spent. Marginal thinking: rational decisions compare marginal benefit to marginal cost, not totals. Incentives drive behavior; change incentives and you change outcomes. Micro studies individuals and firms; macro studies whole economies (growth, inflation, unemployment).\n\nWORKED EXAMPLE: You spend an evening studying instead of working a $100 shift. The economic cost of studying isn't zero \u2014 it's the $100 you gave up (opportunity cost). Every choice has this hidden cost, which is why 'free' rarely is.\n\nPRACTICE: 1) Identify the opportunity cost of three recent decisions. 2) Give an example where changing an incentive changed behavior. 3) Explain a decision using marginal (not total) reasoning.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Opportunity cost is:\", \"options\": [\"The money you spend\", \"The value of the next-best alternative forgone\", \"Always zero\", \"The total cost\"], \"correct\": 1, \"explanation\": \"The true cost is what you gave up.\"}, {\"q\": \"Rational decisions compare:\", \"options\": [\"Total benefit to total cost\", \"Marginal benefit to marginal cost\", \"Past to future\", \"Income to wealth\"], \"correct\": 1, \"explanation\": \"Marginal thinking drives good decisions.\"}, {\"q\": \"The central economic problem is:\", \"options\": [\"Too much money\", \"Unlimited wants, limited resources\", \"Government\", \"Inflation\"], \"correct\": 1, \"explanation\": \"Scarcity forces allocation choices.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L2_1",
+    "subject_id": "economics",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Supply, Demand & Markets",
+    "content": "KEY CONCEPTS: Demand slopes down (higher price, less quantity demanded); supply slopes up. Equilibrium is where they intersect \u2014 the market-clearing price. Shifts vs movements: a price change moves along the curve; a change in income, tastes, or input costs shifts the whole curve. Price elasticity measures responsiveness: elastic (luxuries, many substitutes) vs inelastic (necessities, few substitutes). Price controls distort: price ceilings (rent control) cause shortages; price floors (minimum wage) can cause surplus (unemployment).\n\nWORKED EXAMPLE: A city caps rent below equilibrium. Demand exceeds supply at that price \u2192 a shortage. Landlords under-invest, waitlists form, and black markets emerge. The control fought the price but not the underlying scarcity, so scarcity reappears as shortage instead of high price.\n\nPRACTICE: 1) Draw supply/demand and find equilibrium. 2) Show how a demand shift differs from a price movement. 3) Predict the effect of a price ceiling below equilibrium.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Market equilibrium is where:\", \"options\": [\"Price is highest\", \"Supply and demand intersect\", \"Demand is zero\", \"Government sets price\"], \"correct\": 1, \"explanation\": \"The market-clearing price.\"}, {\"q\": \"A price ceiling below equilibrium causes:\", \"options\": [\"Surplus\", \"Shortage\", \"Equilibrium\", \"Higher supply\"], \"correct\": 1, \"explanation\": \"Demand exceeds supply at the capped price.\"}, {\"q\": \"A change in income causes:\", \"options\": [\"Movement along the demand curve\", \"A shift of the whole demand curve\", \"No change\", \"A supply increase\"], \"correct\": 1, \"explanation\": \"Non-price factors shift the curve.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L3_1",
+    "subject_id": "economics",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Consumer & Producer Behavior",
+    "content": "KEY CONCEPTS: Consumers maximize utility subject to budget; the law of diminishing marginal utility explains downward-sloping demand (each additional unit is worth less). Producers maximize profit where marginal revenue = marginal cost. Consumer surplus (value received minus price paid) and producer surplus (price received minus cost) together measure market efficiency. Deadweight loss is efficiency destroyed by taxes, controls, or monopoly. Sunk costs are irrelevant; only marginal decisions matter.\n\nWORKED EXAMPLE: A firm asks whether to produce one more unit. Its total cost is irrelevant \u2014 it produces if the marginal revenue from that unit exceeds the marginal cost of making it. Firms that decide on average or total cost systematically over- or under-produce.\n\nPRACTICE: 1) Explain diminishing marginal utility with an example. 2) Find the profit-maximizing point (MR=MC). 3) Illustrate consumer and producer surplus on a graph.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Diminishing marginal utility means:\", \"options\": [\"Each unit is worth more\", \"Each additional unit is worth less\", \"Utility is constant\", \"Price rises\"], \"correct\": 1, \"explanation\": \"Explains downward-sloping demand.\"}, {\"q\": \"Firms maximize profit where:\", \"options\": [\"MR = MC\", \"Price is highest\", \"Total cost is lowest\", \"Revenue is highest\"], \"correct\": 0, \"explanation\": \"Marginal revenue equals marginal cost.\"}, {\"q\": \"Sunk costs in decisions should be:\", \"options\": [\"Central\", \"Ignored\", \"Doubled\", \"Recovered\"], \"correct\": 1, \"explanation\": \"Only marginal costs matter going forward.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L4_1",
+    "subject_id": "economics",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Market Structures & Competition",
+    "content": "KEY CONCEPTS: Perfect competition (many firms, identical products, price takers) \u2192 efficient but rare. Monopoly (one seller, price maker) \u2192 higher prices, lower output, deadweight loss. Oligopoly (few large firms) \u2192 strategic interdependence, often game-theoretic. Monopolistic competition (many firms, differentiated products) \u2192 most real markets. Barriers to entry (economies of scale, patents, network effects) determine market power. Antitrust exists to prevent abuse of monopoly power.\n\nWORKED EXAMPLE: Two gas stations across the street price-match constantly \u2014 an oligopoly where each watches the other. Neither cuts price (they'd start a price war both lose) nor raises it (they'd lose customers). This standoff, explained by game theory, is why oligopoly prices are often 'sticky.'\n\nPRACTICE: 1) Classify three real markets by structure. 2) Explain how a barrier to entry creates market power. 3) Describe why oligopolists avoid price wars.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A monopoly typically produces:\", \"options\": [\"More output, lower prices\", \"Lower output, higher prices\", \"Perfect efficiency\", \"Zero profit\"], \"correct\": 1, \"explanation\": \"Market power raises price, cuts output.\"}, {\"q\": \"Most real-world markets are:\", \"options\": [\"Perfect competition\", \"Monopolistic competition\", \"Pure monopoly\", \"Command economies\"], \"correct\": 1, \"explanation\": \"Many firms, differentiated products.\"}, {\"q\": \"Oligopolists avoid price wars because:\", \"options\": [\"Laws forbid it\", \"Both sides lose\", \"Prices are fixed\", \"They can't compete\"], \"correct\": 1, \"explanation\": \"Mutual destruction deters cutting.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L5_1",
+    "subject_id": "economics",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Macroeconomics: Growth, Inflation, Unemployment",
+    "content": "KEY CONCEPTS: GDP measures total output (consumption + investment + government + net exports). Real GDP adjusts for inflation. Inflation (general price rise) erodes purchasing power; measured by CPI. The unemployment rate counts those seeking work. The business cycle: expansion, peak, recession, trough. Aggregate demand and supply determine output and price level. The Phillips Curve suggests a short-run inflation-unemployment trade-off (contested long-run). Economic growth comes from labor, capital, and productivity \u2014 productivity is the long-run driver of living standards.\n\nWORKED EXAMPLE: An economy's GDP rises 5%, but inflation is 6% \u2014 real GDP actually shrank. Nominal growth masked a real contraction. This is why economists always distinguish nominal from real: the headline number can lie about whether people are actually better off.\n\nPRACTICE: 1) Compute real GDP from nominal GDP and inflation. 2) Explain the four business-cycle phases. 3) Identify the long-run source of rising living standards.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Real GDP differs from nominal GDP by:\", \"options\": [\"Adjusting for inflation\", \"Adding exports\", \"Subtracting taxes\", \"Counting only cash\"], \"correct\": 0, \"explanation\": \"Real GDP removes inflation's effect.\"}, {\"q\": \"The long-run driver of living standards is:\", \"options\": [\"Population\", \"Productivity\", \"Government spending\", \"Trade deficits\"], \"correct\": 1, \"explanation\": \"Productivity growth raises real incomes.\"}, {\"q\": \"5% nominal growth with 6% inflation means:\", \"options\": [\"Real growth\", \"Real GDP shrank\", \"No change\", \"Higher wealth\"], \"correct\": 1, \"explanation\": \"Real GDP fell despite nominal rise.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L6_1",
+    "subject_id": "economics",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Monetary & Fiscal Policy",
+    "content": "KEY CONCEPTS: Central banks conduct monetary policy \u2014 adjusting interest rates and money supply to manage inflation and employment. Lower rates stimulate (cheaper borrowing); higher rates cool an overheating economy. Fiscal policy is government spending and taxation. Expansionary policy (spend more, tax less) fights recession; contractionary fights inflation. The multiplier effect: a dollar of spending circulates, generating more than a dollar of activity. Trade-offs: stimulus risks inflation and debt; austerity risks recession. Crowding out \u2014 government borrowing can raise rates and reduce private investment.\n\nWORKED EXAMPLE: In a recession, a central bank cuts rates to near zero and the government boosts spending. Borrowing gets cheap, demand rises, employment recovers \u2014 but if overdone, too much money chasing goods produces inflation later. Policy is a balance between two opposite dangers.\n\nPRACTICE: 1) Choose monetary and fiscal responses to a recession. 2) Explain the multiplier effect. 3) Describe the inflation risk of prolonged stimulus.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Lowering interest rates tends to:\", \"options\": [\"Cool the economy\", \"Stimulate the economy\", \"Cause unemployment\", \"Reduce demand\"], \"correct\": 1, \"explanation\": \"Cheaper borrowing boosts activity.\"}, {\"q\": \"Expansionary fiscal policy is:\", \"options\": [\"Spend more, tax less\", \"Spend less, tax more\", \"Raise rates\", \"Cut money supply\"], \"correct\": 0, \"explanation\": \"Used to fight recession.\"}, {\"q\": \"The multiplier effect means a dollar of spending:\", \"options\": [\"Disappears\", \"Generates more than a dollar of activity\", \"Equals one dollar\", \"Causes deflation\"], \"correct\": 1, \"explanation\": \"Spending circulates through the economy.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L7_1",
+    "subject_id": "economics",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Economic Systems & Behavioral Economics",
+    "content": "KEY CONCEPTS: Behavioral economics shows humans systematically deviate from 'rational actor' models: loss aversion, anchoring, framing, present bias (hyperbolic discounting), herding. Nudges reshape choices without removing options. Market failures justify intervention: externalities (pollution \u2014 costs borne by third parties), public goods (non-excludable, non-rival), information asymmetry (lemons problem), monopoly. Coase theorem: with clear property rights and low transaction costs, parties can bargain to efficiency without regulation. Game theory (Nash equilibrium, prisoner's dilemma) explains strategic behavior.\n\nWORKED EXAMPLE: A factory pollutes a river, imposing costs on downstream users it doesn't pay for (negative externality). The market underprices the harm and overproduces pollution. A tax equal to the external cost (Pigouvian tax) makes the polluter internalize it \u2014 aligning private incentive with social cost.\n\nPRACTICE: 1) Identify a market failure and a policy remedy. 2) Give an example of a behavioral bias affecting a real decision. 3) Explain a prisoner's dilemma in business.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A negative externality like pollution means:\", \"options\": [\"Costs fall on third parties\", \"Benefits are shared\", \"Prices are fair\", \"No market failure\"], \"correct\": 0, \"explanation\": \"Costs borne by those not in the transaction.\"}, {\"q\": \"A Pigouvian tax aims to:\", \"options\": [\"Raise revenue only\", \"Make polluters internalize external costs\", \"Ban production\", \"Subsidize firms\"], \"correct\": 1, \"explanation\": \"Aligns private cost with social cost.\"}, {\"q\": \"Present bias (hyperbolic discounting) means people:\", \"options\": [\"Plan perfectly\", \"Overweight immediate rewards\", \"Ignore the present\", \"Save too much\"], \"correct\": 1, \"explanation\": \"A key behavioral deviation from rationality.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "economics_L8_1",
+    "subject_id": "economics",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Economic Strategy & Global Systems",
+    "content": "KEY CONCEPTS: At the highest level, economics becomes strategic reasoning about systems, incentives, and long-run dynamics. Comparative advantage (Ricardo): nations and firms gain by specializing where their opportunity cost is lowest and trading \u2014 even if one is better at everything. Network effects and increasing returns can lock in winners (why some markets tip to one dominant player). Institutions (property rights, rule of law, contract enforcement) explain why some economies prosper and others don't more than resources do. The King-level insight: durable advantage comes from understanding incentive structures and second-order effects that others miss \u2014 most decisions fail by ignoring how the system responds.\n\nWORKED EXAMPLE: A country rich in resources stays poor while a resource-scarce one thrives. The difference isn't resources \u2014 it's institutions: secure property rights and contract enforcement that let people invest for the long term. Economists call resource-rich stagnation the 'resource curse,' and it proves incentives and institutions beat raw endowment.\n\nPRACTICE: 1) Apply comparative advantage to a make-vs-buy or trade decision. 2) Identify a market with strong network effects and explain the lock-in. 3) Analyze a decision's second-order effects \u2014 how the system responds to the first move.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Comparative advantage says you should specialize where:\", \"options\": [\"You're best at everything\", \"Your opportunity cost is lowest\", \"You have most resources\", \"Prices are highest\"], \"correct\": 1, \"explanation\": \"Gains from trade come from relative opportunity cost.\"}, {\"q\": \"The 'resource curse' shows that prosperity depends more on:\", \"options\": [\"Natural resources\", \"Institutions (property rights, rule of law)\", \"Population size\", \"Geography\"], \"correct\": 1, \"explanation\": \"Institutions beat raw endowment.\"}, {\"q\": \"King-level economic insight emphasizes:\", \"options\": [\"First-order effects only\", \"Second-order effects and system responses\", \"Ignoring incentives\", \"Short-term thinking\"], \"correct\": 1, \"explanation\": \"Most decisions fail by ignoring how systems respond.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

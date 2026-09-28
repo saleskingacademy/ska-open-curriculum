@@ -1,0 +1,98 @@
+[
+  {
+    "id": "personal_finance_L1_1",
+    "subject_id": "personal_finance",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Personal Finance Foundations",
+    "content": "KEY CONCEPTS: Personal finance is managing your money to build security and freedom. The foundation: spend less than you earn, and invest the difference. Net worth (assets minus liabilities) is the true scoreboard, not income \u2014 high earners with high spending stay broke. The four pillars: earn, save, invest, protect. Cash flow (money in vs out) determines everything. Pay yourself first: save/invest before spending, automatically, so it happens regardless of willpower.\n\nWORKED EXAMPLE: Two people earn $80,000. One spends $80,000 and saves nothing; the other spends $60,000 and invests $20,000 yearly. After 20 years at 7%, the saver has ~$820,000; the spender has $0 and the same lifestyle treadmill. Income didn't determine wealth \u2014 the gap between earning and spending did.\n\nPRACTICE: 1) Calculate your net worth. 2) Determine your monthly cash flow. 3) Set up one 'pay yourself first' automation.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The true measure of wealth is:\", \"options\": [\"Income\", \"Net worth (assets minus liabilities)\", \"Salary\", \"Job title\"], \"correct\": 1, \"explanation\": \"High earners with high spending stay broke.\"}, {\"q\": \"'Pay yourself first' means:\", \"options\": [\"Spend then save what's left\", \"Save/invest automatically before spending\", \"Buy luxuries first\", \"Never save\"], \"correct\": 1, \"explanation\": \"Automation beats willpower.\"}, {\"q\": \"Wealth comes from:\", \"options\": [\"High income alone\", \"The gap between earning and spending, invested\", \"Luck\", \"Spending more\"], \"correct\": 1, \"explanation\": \"The gap, invested, builds wealth.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L2_1",
+    "subject_id": "personal_finance",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Budgeting & Cash Flow",
+    "content": "KEY CONCEPTS: A budget is a plan for your money, not a restriction \u2014 it's telling money where to go instead of wondering where it went. Frameworks: 50/30/20 (needs/wants/savings), zero-based (every dollar assigned), envelope method. Track spending to reveal reality (people underestimate discretionary spending by 20-40%). Fixed vs variable expenses; needs vs wants. The goal isn't deprivation \u2014 it's alignment between spending and what you actually value. Automate savings so the budget works without daily willpower.\n\nWORKED EXAMPLE: Someone 'can't figure out where the money goes.' Tracking for one month reveals $400/month on takeout and subscriptions they'd forgotten. Awareness alone, without any 'discipline,' redirects that toward goals. Most budgeting problems are visibility problems \u2014 you can't manage what you don't measure.\n\nPRACTICE: 1) Apply the 50/30/20 rule to your income. 2) Track one week of spending. 3) Identify one 'invisible' recurring expense.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A budget is:\", \"options\": [\"A restriction\", \"A plan telling money where to go\", \"Optional\", \"For poor people\"], \"correct\": 1, \"explanation\": \"Direction, not deprivation.\"}, {\"q\": \"The 50/30/20 rule splits income into:\", \"options\": [\"Needs/wants/savings\", \"Rent/food/fun\", \"Past/present/future\", \"Cash/credit/debit\"], \"correct\": 0, \"explanation\": \"50% needs, 30% wants, 20% savings.\"}, {\"q\": \"Most budgeting problems are actually:\", \"options\": [\"Income problems\", \"Visibility problems (not tracking)\", \"Tax problems\", \"Impossible\"], \"correct\": 1, \"explanation\": \"You can't manage what you don't measure.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L3_1",
+    "subject_id": "personal_finance",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Debt & Credit",
+    "content": "KEY CONCEPTS: Not all debt is equal: high-interest consumer debt (credit cards ~20%+) destroys wealth; low-interest strategic debt (mortgage) can be reasonable. Payoff strategies: avalanche (highest interest first \u2014 mathematically optimal) vs snowball (smallest balance first \u2014 psychologically motivating). Credit score (payment history, utilization, age, mix, inquiries) affects loan rates worth thousands. Keep utilization under 30%. Compound interest works against you in debt exactly as it works for you in investing \u2014 it's the same force pointed the wrong way.\n\nWORKED EXAMPLE: A $5,000 credit card balance at 22% making minimum payments takes over a decade to clear and costs ~$5,000+ in interest \u2014 you pay double. The same $5,000 invested at 8% would have grown. High-interest debt is negative compounding; eliminating it is a guaranteed high return.\n\nPRACTICE: 1) List your debts by interest rate. 2) Choose avalanche or snowball and justify it. 3) Explain how utilization affects your credit score.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The avalanche debt method pays off:\", \"options\": [\"Smallest balance first\", \"Highest interest rate first\", \"Random debts\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Mathematically optimal.\"}, {\"q\": \"Credit utilization should be kept:\", \"options\": [\"Above 90%\", \"Under 30%\", \"At 100%\", \"Irrelevant\"], \"correct\": 1, \"explanation\": \"Lower utilization helps your score.\"}, {\"q\": \"High-interest debt is:\", \"options\": [\"Good\", \"Negative compounding working against you\", \"Free\", \"An investment\"], \"correct\": 1, \"explanation\": \"Same force as investing, pointed wrong.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L4_1",
+    "subject_id": "personal_finance",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Saving, Emergency Funds & Goals",
+    "content": "KEY CONCEPTS: An emergency fund (3-6 months of expenses in accessible cash) is the foundation that prevents debt spirals when life happens \u2014 it's insurance, not investment, so prioritize accessibility over return. Sinking funds save gradually for known future expenses (car, holidays). Goal-based saving: specific, time-bound targets with automated contributions. High-yield savings for short-term; investments for long-term. The sequence matters: emergency fund first, then high-interest debt, then investing \u2014 this order minimizes risk of catastrophic setback.\n\nWORKED EXAMPLE: A car breaks down ($1,500 repair). With an emergency fund, it's an annoyance. Without one, it goes on a credit card at 22%, triggering a debt spiral that costs far more and derails other goals. The emergency fund's value isn't its return \u2014 it's preventing forced borrowing at the worst moment.\n\nPRACTICE: 1) Calculate your target emergency fund. 2) Set up a sinking fund for a known future expense. 3) Order your financial priorities correctly.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"An emergency fund should be:\", \"options\": [\"Invested in stocks\", \"3-6 months of expenses in accessible cash\", \"Zero\", \"In crypto\"], \"correct\": 1, \"explanation\": \"It's insurance \\u2014 prioritize accessibility.\"}, {\"q\": \"The correct priority order is:\", \"options\": [\"Invest, then emergency fund\", \"Emergency fund, high-interest debt, then investing\", \"Spend first\", \"Debt only\"], \"correct\": 1, \"explanation\": \"This minimizes catastrophic risk.\"}, {\"q\": \"An emergency fund's value is:\", \"options\": [\"Its high return\", \"Preventing forced borrowing at bad moments\", \"Nothing\", \"Tax savings\"], \"correct\": 1, \"explanation\": \"It stops debt spirals.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L5_1",
+    "subject_id": "personal_finance",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Investing for Wealth",
+    "content": "KEY CONCEPTS: Building wealth requires investing, not just saving (inflation erodes cash). Start with tax-advantaged accounts (retirement accounts with employer match = free money, invest to at least the match first). Low-cost index funds for most people (diversified, cheap, beat most active managers). Time in the market beats timing. Automate contributions (dollar-cost averaging). Asset allocation by age and risk tolerance. The biggest lever early is savings rate; the biggest lever over time is compounding \u2014 start now, even small, because the earliest dollars compound the longest.\n\nWORKED EXAMPLE: An employer matches 100% of 401(k) contributions up to 5%. Not contributing to the match is turning down a guaranteed 100% return \u2014 free money left on the table. Even someone with debt should usually capture the full match first, because no investment reliably returns 100% instantly.\n\nPRACTICE: 1) Identify any employer match you're not fully using. 2) Explain why index funds suit most investors. 3) Calculate the cost of delaying investing by 5 years.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"An employer 401(k) match is:\", \"options\": [\"A scam\", \"Free money \\u2014 a guaranteed return\", \"A loan\", \"Taxable penalty\"], \"correct\": 1, \"explanation\": \"Not capturing it leaves guaranteed returns on the table.\"}, {\"q\": \"For most people, the best core investment is:\", \"options\": [\"Individual stock picking\", \"Low-cost index funds\", \"Day trading\", \"Lottery\"], \"correct\": 1, \"explanation\": \"Diversified, cheap, beats most active managers.\"}, {\"q\": \"The earliest invested dollars matter most because they:\", \"options\": [\"Are bigger\", \"Compound the longest\", \"Are safer\", \"Are taxed less\"], \"correct\": 1, \"explanation\": \"Time is compounding's key ingredient.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L6_1",
+    "subject_id": "personal_finance",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Taxes, Insurance & Protection",
+    "content": "KEY CONCEPTS: Taxes are most people's largest lifetime expense \u2014 legal optimization (tax-advantaged accounts, deductions, credits, holding periods) keeps more of what you earn. Understand marginal vs effective rate. Insurance protects against catastrophic risk: health, disability (your income is your biggest asset), life (if others depend on you), property, liability. Insure what you can't afford to lose; self-insure small risks. Avoid insurance as investment (usually poor value). Estate basics: will, beneficiaries, power of attorney. Protection is the pillar that keeps one disaster from erasing decades of progress.\n\nWORKED EXAMPLE: A primary earner becomes disabled with no disability insurance. The household income vanishes while expenses continue, wiping out savings in months. Disability insurance \u2014 cheap relative to the risk \u2014 would have replaced the income. People insure their car but not their income, which is backwards: your ability to earn is your largest asset.\n\nPRACTICE: 1) Distinguish marginal from effective tax rate. 2) Identify your largest uninsured catastrophic risk. 3) List three basic estate documents.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"For most people, the largest lifetime expense is:\", \"options\": [\"Housing\", \"Taxes\", \"Food\", \"Cars\"], \"correct\": 1, \"explanation\": \"Legal tax optimization keeps more of your earnings.\"}, {\"q\": \"Your biggest asset to insure is often:\", \"options\": [\"Your car\", \"Your income (disability insurance)\", \"Your phone\", \"Your furniture\"], \"correct\": 1, \"explanation\": \"Income enables everything else.\"}, {\"q\": \"You should insure:\", \"options\": [\"Every small risk\", \"What you can't afford to lose\", \"Nothing\", \"Only cheap things\"], \"correct\": 1, \"explanation\": \"Self-insure small; insure catastrophic.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L7_1",
+    "subject_id": "personal_finance",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Wealth Strategy & Financial Independence",
+    "content": "KEY CONCEPTS: Financial independence (FI) means investment income covers your expenses \u2014 work becomes optional. The number: ~25x annual expenses invested (the 4% rule \u2014 withdraw 4% yearly with reasonable safety). The two levers to FI: increase the gap (earn more, spend less) and invest the difference consistently. Lifestyle inflation (spending rising with income) is the primary FI killer \u2014 raises should mostly go to investing, not upgrading. Multiple income streams reduce risk. Tax-efficient withdrawal sequencing in retirement. The math is simple; the behavior (consistency, avoiding lifestyle creep) is the hard part.\n\nWORKED EXAMPLE: Someone spends $40,000/year. Their FI number is $1,000,000 (25x). By saving 50% of a $80,000 income, they reach it in ~17 years; saving 10%, it takes ~50 years. The savings rate \u2014 not the income \u2014 is the dominant driver of how fast you reach freedom. Doubling your savings rate more than doubles your progress.\n\nPRACTICE: 1) Calculate your FI number (25x expenses). 2) Estimate years to FI at your current savings rate. 3) Identify your biggest lifestyle-inflation risk.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The FI number is roughly:\", \"options\": [\"10x expenses\", \"25x annual expenses\", \"100x income\", \"1x salary\"], \"correct\": 1, \"explanation\": \"The 4% rule: 25x expenses.\"}, {\"q\": \"The primary killer of financial independence is:\", \"options\": [\"Low income\", \"Lifestyle inflation (spending rising with income)\", \"Taxes\", \"Inflation\"], \"correct\": 1, \"explanation\": \"Raises should mostly go to investing.\"}, {\"q\": \"The dominant driver of speed to FI is:\", \"options\": [\"Income\", \"Savings rate\", \"Luck\", \"Market timing\"], \"correct\": 1, \"explanation\": \"Savings rate beats income for FI speed.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "personal_finance_L8_1",
+    "subject_id": "personal_finance",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Money as a Tool for Freedom",
+    "content": "KEY CONCEPTS: At the highest level, money is a tool for freedom, options, and impact \u2014 not a scoreboard or end in itself. Wealth's real value is time, autonomy, and the ability to align life with values. The stages: survival, stability, security, independence, abundance, legacy. Generational wealth requires teaching financial capability, not just transferring assets (most wealth is lost by the third generation because heirs lack the skills). Giving and impact become part of a complete financial life. The King-level truth: the goal was never the biggest number \u2014 it was buying back your time and living deliberately. Money bought poorly buys stuff; money bought wisely buys freedom.\n\nWORKED EXAMPLE: Two people reach the same net worth. One keeps chasing more, trapped by lifestyle and status, never feeling secure. The other reaches 'enough,' stops trading time for money they don't need, and spends their life on what matters to them. Same number, opposite outcomes \u2014 because one understood money as a means to freedom and the other made it the end. Knowing your 'enough' is the final financial skill.\n\nPRACTICE: 1) Define your personal 'enough' number and what freedom it buys. 2) Identify what you'd do with reclaimed time. 3) Consider how you'd teach financial capability to the next generation.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Money's real value is:\", \"options\": [\"Status\", \"Time, autonomy, and freedom\", \"A scoreboard\", \"Stuff\"], \"correct\": 1, \"explanation\": \"A tool for freedom, not an end.\"}, {\"q\": \"Most generational wealth is lost by the third generation because heirs:\", \"options\": [\"Are unlucky\", \"Lack financial capability (skills weren't taught)\", \"Pay taxes\", \"Give it away\"], \"correct\": 1, \"explanation\": \"Teaching capability matters more than transferring assets.\"}, {\"q\": \"The final financial skill is:\", \"options\": [\"Earning more always\", \"Knowing your 'enough'\", \"Never spending\", \"Maximizing the number\"], \"correct\": 1, \"explanation\": \"Enough buys freedom; endless chasing is a trap.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

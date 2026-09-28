@@ -1,0 +1,78 @@
+{
+  "subject_id": "entrepreneurship",
+  "subject_name": "Entrepreneurship",
+  "category": "BUSINESS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "The Entrepreneurial Mindset",
+          "content": "# The Entrepreneurial Mindset\n\n## Learning Objectives\n1. Define entrepreneurship and identify types of entrepreneurs\n2. Understand the entrepreneurial mindset and key traits\n3. Recognize opportunity identification techniques\n4. Understand the lean startup methodology\n5. Evaluate the risks and rewards of entrepreneurship\n\n## What is Entrepreneurship?\n\nEntrepreneurship is the process of creating, launching, and running a new business venture, assuming financial risks in the hope of profit. But it's more than starting a business \u2014 it's a mindset of identifying problems and creating solutions.\n\n### Types of Entrepreneurs\n- **Startup Founders**: Create new companies from scratch\n- **Serial Entrepreneurs**: Start multiple businesses over time\n- **Social Entrepreneurs**: Solve social problems through business\n- **Intrapreneurs**: Act entrepreneurially within existing organizations\n- **Solopreneurs**: Run one-person businesses\n\n## The Entrepreneurial Mindset\n\nKey traits shared by successful entrepreneurs:\n\n1. **Opportunity Recognition**: See problems as business opportunities\n2. **Risk Tolerance**: Comfortable with calculated uncertainty\n3. **Resilience**: Bounce back from failure (most entrepreneurs fail multiple times)\n4. **Resourcefulness**: Do more with less\n5. **Bias Toward Action**: Execute rather than over-plan\n6. **Growth Mindset**: Believe abilities can be developed\n7. **Customer Obsession**: Everything starts with the customer's problem\n\n## Lean Startup Methodology\n\nEric Ries's framework for building businesses efficiently:\n\n1. **Build** a Minimum Viable Product (MVP) \u2014 simplest version that tests your hypothesis\n2. **Measure** customer response with real data\n3. **Learn** from the data \u2014 validate or invalidate your assumptions\n4. **Pivot or Persevere** \u2014 change direction or double down\n\nThe key insight: Don't spend years building something nobody wants. Test your assumptions as quickly and cheaply as possible.\n\n## Opportunity Evaluation\n\nNot every idea is a good business opportunity. Evaluate using:\n- **Market Size**: Is the market large enough?\n- **Customer Pain**: How urgent is the problem?\n- **Willingness to Pay**: Will customers actually pay for your solution?\n- **Competition**: Who else is solving this? What's your advantage?\n- **Timing**: Is the market ready for this solution?\n- **Feasibility**: Can you actually build and deliver this?\n\n## Practice Problems\n1. What is an MVP and why is it important?\n   **Answer**: Minimum Viable Product \u2014 the simplest version of your product that tests your core hypothesis. Important because it prevents wasting time/money building features nobody wants.\n\n2. A friend has an idea for an app. What 3 questions should they answer first?\n   **Answer**: Who is the customer? What problem does it solve? Will they pay for it?\n\n3. What is the difference between an entrepreneur and an intrapreneur?\n   **Answer**: Entrepreneurs start their own ventures; intrapreneurs act entrepreneurially within existing organizations.\n\n## Key Takeaways\n- Entrepreneurship is a mindset of problem-solving, not just business creation\n- The lean startup method (Build-Measure-Learn) minimizes waste\n- An MVP tests assumptions before full investment\n- Opportunity evaluation requires assessing market, customer pain, and competition\n- Resilience and bias toward action separate dreamers from doers",
+          "quiz": [
+            {
+              "question": "What is the main focus of Entrepreneurship?",
+              "options": [
+                "Study of entrepreneurship",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of entrepreneurship",
+              "explanation": "Entrepreneurship encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Entrepreneurship?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Entrepreneurship has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Entrepreneurship lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

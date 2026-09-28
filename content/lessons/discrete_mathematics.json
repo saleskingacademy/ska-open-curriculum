@@ -1,0 +1,98 @@
+[
+  {
+    "id": "discrete_mathematics_L1_1",
+    "subject_id": "discrete_mathematics",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Logic & Proof",
+    "content": "KEY CONCEPTS: Discrete math studies distinct, separate values \u2014 the mathematics of computation. Propositional logic: statements that are true or false, combined with AND (\u2227), OR (\u2228), NOT (\u00ac), IMPLIES (\u2192). Truth tables evaluate compound statements. Logical equivalences (De Morgan's laws: \u00ac(A\u2227B) = \u00acA\u2228\u00acB). Predicate logic adds quantifiers: \u2200 (for all), \u2203 (there exists). Proof techniques: direct proof, proof by contradiction, proof by contrapositive, and mathematical induction (prove base case, then that each case implies the next \u2014 like dominoes).\n\nWORKED EXAMPLE: Prove that if n\u00b2 is even, then n is even, by contrapositive: assume n is odd (n=2k+1), then n\u00b2 = 4k\u00b2+4k+1 = 2(2k\u00b2+2k)+1, which is odd. Since 'n odd \u2192 n\u00b2 odd' is proven, its contrapositive 'n\u00b2 even \u2192 n even' holds. Contrapositive proof turns a hard direct proof into an easy one \u2014 a core technique of rigorous reasoning.\n\nPRACTICE: 1) Build a truth table for A \u2192 B. 2) State De Morgan's laws. 3) Explain how mathematical induction works.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"De Morgan's law states \\u00ac(A\\u2227B) equals:\", \"options\": [\"\\u00acA\\u2227\\u00acB\", \"\\u00acA\\u2228\\u00acB\", \"A\\u2228B\", \"A\\u2227B\"], \"correct\": 1, \"explanation\": \"NOT(A AND B) = NOT A OR NOT B.\"}, {\"q\": \"Mathematical induction proves a statement by:\", \"options\": [\"Examples\", \"Base case + each case implies the next\", \"Guessing\", \"Contradiction only\"], \"correct\": 1, \"explanation\": \"Like falling dominoes.\"}, {\"q\": \"Proof by contrapositive proves A\\u2192B by proving:\", \"options\": [\"A and B\", \"\\u00acB \\u2192 \\u00acA\", \"A \\u2192 \\u00acB\", \"B \\u2192 A\"], \"correct\": 1, \"explanation\": \"The contrapositive is logically equivalent.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L2_1",
+    "subject_id": "discrete_mathematics",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Sets, Relations & Functions",
+    "content": "KEY CONCEPTS: A set is a collection of distinct objects. Operations: union (\u222a), intersection (\u2229), complement, difference. Subsets and power sets (2\u207f subsets for n elements). Venn diagrams visualize relationships. Cartesian products form ordered pairs. Relations connect elements; properties: reflexive, symmetric, transitive (equivalence relations partition sets). Functions map each input to exactly one output; injective (one-to-one), surjective (onto), bijective (both \u2014 enabling inverses). Cardinality measures set size, including the profound result that some infinities are larger than others (Cantor).\n\nWORKED EXAMPLE: A set with 3 elements {a,b,c} has 2\u00b3 = 8 subsets (including the empty set and itself). The power set grows exponentially \u2014 this exponential explosion is why many computational problems become intractable as size grows, connecting set theory directly to computational complexity. Counting subsets correctly is foundational to combinatorics and algorithm analysis.\n\nPRACTICE: 1) Find the union and intersection of {1,2,3} and {2,3,4}. 2) Count the subsets of a 4-element set. 3) Explain what makes a function bijective.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A set with n elements has how many subsets?\", \"options\": [\"n\", \"2\\u207f\", \"n\\u00b2\", \"n!\"], \"correct\": 1, \"explanation\": \"Power set size is 2\\u207f.\"}, {\"q\": \"A bijective function is:\", \"options\": [\"Only one-to-one\", \"Both one-to-one and onto\", \"Neither\", \"Random\"], \"correct\": 1, \"explanation\": \"Injective and surjective \\u2014 has an inverse.\"}, {\"q\": \"Set intersection (\\u2229) contains:\", \"options\": [\"All elements\", \"Elements in both sets\", \"Elements in either\", \"No elements\"], \"correct\": 1, \"explanation\": \"Common elements.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L3_1",
+    "subject_id": "discrete_mathematics",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Combinatorics & Counting",
+    "content": "KEY CONCEPTS: Combinatorics counts arrangements and selections. The multiplication principle (independent choices multiply). Permutations (order matters): n!/(n\u2212r)! ways to arrange r of n. Combinations (order doesn't matter): C(n,r) = n!/(r!(n\u2212r)!). The binomial theorem expands (a+b)\u207f using combinations (Pascal's triangle). The pigeonhole principle (n+1 items in n boxes forces a shared box) proves surprising results. Inclusion-exclusion counts overlapping sets. Counting is the foundation of probability, algorithm analysis, and cryptography.\n\nWORKED EXAMPLE: How many 5-card poker hands from 52 cards? Order doesn't matter, so it's C(52,5) = 52!/(5!\u00b747!) = 2,598,960. This single combination calculation determines every poker probability. Distinguishing when order matters (permutations) from when it doesn't (combinations) is the crucial skill \u2014 getting it wrong is the most common counting error.\n\nPRACTICE: 1) Compute C(6,2). 2) How many ways to arrange 4 books on a shelf? 3) Apply the pigeonhole principle: how many people guarantee two share a birth month?",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"When order matters, you use:\", \"options\": [\"Combinations\", \"Permutations\", \"Sets\", \"Unions\"], \"correct\": 1, \"explanation\": \"Permutations count ordered arrangements.\"}, {\"q\": \"C(52,5) counts:\", \"options\": [\"Ordered hands\", \"5-card poker hands (order irrelevant)\", \"All cards\", \"Permutations\"], \"correct\": 1, \"explanation\": \"Combinations \\u2014 order doesn't matter.\"}, {\"q\": \"The pigeonhole principle says n+1 items in n boxes forces:\", \"options\": [\"Empty boxes\", \"At least one shared box\", \"Equal distribution\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Two must share.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L4_1",
+    "subject_id": "discrete_mathematics",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Number Theory",
+    "content": "KEY CONCEPTS: Number theory studies integers. Divisibility, the Euclidean algorithm for greatest common divisor (GCD). Prime numbers and the Fundamental Theorem of Arithmetic (unique factorization). Modular arithmetic ('clock math' \u2014 remainders): a \u2261 b (mod n). Congruences and their properties. Fermat's Little Theorem and Euler's theorem. Number theory, once considered 'pure,' now underpins modern cryptography \u2014 RSA encryption relies on the difficulty of factoring large numbers, securing nearly all internet communication.\n\nWORKED EXAMPLE: In modular arithmetic, 17 mod 5 = 2 (17 = 3\u00d75 + 2). Clock arithmetic works this way: 15:00 + 4 hours = 19:00, but on a 12-hour clock, 15 mod 12 = 3, so it's 3 + 4 = 7 o'clock. RSA encryption uses modular exponentiation on huge numbers \u2014 the same modular arithmetic, scaled up, is what keeps your online banking secure. Pure number theory became the foundation of digital security.\n\nPRACTICE: 1) Find GCD(48, 36) using the Euclidean algorithm. 2) Compute 23 mod 7. 3) Explain how factoring difficulty relates to encryption.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Modular arithmetic is like:\", \"options\": [\"Regular counting\", \"Clock math (remainders)\", \"Fractions\", \"Decimals\"], \"correct\": 1, \"explanation\": \"a \\u2261 b (mod n) uses remainders.\"}, {\"q\": \"RSA encryption relies on the difficulty of:\", \"options\": [\"Adding\", \"Factoring large numbers\", \"Sorting\", \"Counting\"], \"correct\": 1, \"explanation\": \"Factoring is hard, securing communication.\"}, {\"q\": \"17 mod 5 equals:\", \"options\": [\"2\", \"3\", \"1\", \"0\"], \"correct\": 0, \"explanation\": \"17 = 3\\u00d75 + 2.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L5_1",
+    "subject_id": "discrete_mathematics",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Graph Theory",
+    "content": "KEY CONCEPTS: A graph is a set of vertices (nodes) connected by edges \u2014 modeling networks, relationships, and structures. Directed vs undirected, weighted vs unweighted. Degree (edges per vertex). Paths, cycles, connectivity. Trees (connected, acyclic graphs \u2014 the structure of hierarchies and many algorithms). Key problems: shortest path (Dijkstra's algorithm \u2014 GPS navigation), spanning trees (minimum-cost networks), graph coloring (scheduling, map coloring), Euler and Hamiltonian paths. Graphs model social networks, the internet, molecules, logistics \u2014 everything connected.\n\nWORKED EXAMPLE: GPS finds the fastest route by modeling roads as a weighted graph (intersections = vertices, roads = edges, travel time = weights) and running Dijkstra's shortest-path algorithm. Every time your phone navigates, it's solving a graph theory problem. The same algorithms route internet packets, optimize deliveries, and rank web pages \u2014 graph theory is the mathematics of connection.\n\nPRACTICE: 1) Define a tree in graph terms. 2) Explain what Dijkstra's algorithm finds. 3) Give three real systems modeled as graphs.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A tree is a graph that is:\", \"options\": [\"Fully connected with cycles\", \"Connected and acyclic\", \"Disconnected\", \"Weighted only\"], \"correct\": 1, \"explanation\": \"Connected, no cycles.\"}, {\"q\": \"Dijkstra's algorithm finds:\", \"options\": [\"The largest node\", \"The shortest path\", \"All cycles\", \"The color\"], \"correct\": 1, \"explanation\": \"Powers GPS navigation.\"}, {\"q\": \"GPS navigation models roads as a:\", \"options\": [\"Set\", \"Weighted graph\", \"Tree only\", \"List\"], \"correct\": 1, \"explanation\": \"Intersections=vertices, roads=weighted edges.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L6_1",
+    "subject_id": "discrete_mathematics",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Algorithms & Complexity",
+    "content": "KEY CONCEPTS: An algorithm is a step-by-step procedure. Analyzing efficiency: Big-O notation describes how runtime grows with input size \u2014 O(1) constant, O(log n) logarithmic, O(n) linear, O(n log n), O(n\u00b2) quadratic, O(2\u207f) exponential. Recursion (functions calling themselves) and its relation to induction. Divide-and-conquer, dynamic programming, greedy algorithms. Complexity classes: P (efficiently solvable) vs NP (efficiently checkable). The P vs NP question asks whether these are the same \u2014 the most important open problem in computer science, unsolved, with strong evidence they differ.\n\nWORKED EXAMPLE: Searching a sorted list of 1 million items: linear search checks up to 1,000,000; binary search (halving each step) checks only ~20 (log\u2082 of a million). This is the difference between O(n) and O(log n) \u2014 for large inputs, algorithmic efficiency matters more than faster hardware. A better algorithm beats a faster computer, which is why complexity analysis is central to computer science.\n\nPRACTICE: 1) Rank O(n), O(log n), O(n\u00b2) by growth. 2) Explain why binary search is O(log n). 3) Describe the difference between P and NP.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Binary search on a sorted list is:\", \"options\": [\"O(n)\", \"O(log n)\", \"O(n\\u00b2)\", \"O(2\\u207f)\"], \"correct\": 1, \"explanation\": \"Halving each step.\"}, {\"q\": \"Big-O notation describes:\", \"options\": [\"Exact runtime\", \"How runtime grows with input size\", \"Memory only\", \"Cost in dollars\"], \"correct\": 1, \"explanation\": \"Growth rate of an algorithm.\"}, {\"q\": \"P vs NP asks whether:\", \"options\": [\"P is bigger\", \"Efficiently-checkable problems are also efficiently-solvable\", \"N equals P\", \"Nothing\"], \"correct\": 1, \"explanation\": \"The great open problem; likely P\\u2260NP.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L7_1",
+    "subject_id": "discrete_mathematics",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Boolean Algebra, Automata & Computation",
+    "content": "KEY CONCEPTS: Boolean algebra (variables that are 0 or 1, with AND/OR/NOT) is the mathematics of digital circuits \u2014 every computer chip implements Boolean logic in silicon. Logic gates build from it. Finite automata and state machines model computation and pattern recognition (regular expressions). The Turing machine defines what is computable at all \u2014 some problems (the Halting Problem) are provably impossible for any computer to solve. Formal languages and grammars underpin compilers. Computability theory reveals the fundamental limits of what algorithms can and cannot do.\n\nWORKED EXAMPLE: The Halting Problem asks: can a program determine whether any given program will eventually stop or loop forever? Turing proved this is undecidable \u2014 NO algorithm can solve it for all cases. This isn't a limitation of current technology; it's a mathematical impossibility, proving that computation itself has hard boundaries. Some things cannot be computed, no matter how powerful the machine \u2014 a profound result at the foundation of computer science.\n\nPRACTICE: 1) Explain what Boolean algebra models in computers. 2) Describe what a Turing machine defines. 3) Explain why the Halting Problem is significant.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Boolean algebra is the mathematics of:\", \"options\": [\"Fractions\", \"Digital circuits (0/1 logic)\", \"Geometry\", \"Calculus\"], \"correct\": 1, \"explanation\": \"Every chip implements it.\"}, {\"q\": \"The Halting Problem is:\", \"options\": [\"Solvable\", \"Undecidable (no algorithm solves it for all cases)\", \"Easy\", \"About sorting\"], \"correct\": 1, \"explanation\": \"Turing proved it impossible.\"}, {\"q\": \"A Turing machine defines:\", \"options\": [\"A real computer\", \"What is computable at all\", \"A network\", \"A database\"], \"correct\": 1, \"explanation\": \"The theoretical model of computation.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "discrete_mathematics_L8_1",
+    "subject_id": "discrete_mathematics",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Discrete Math as the Foundation of Computing",
+    "content": "KEY CONCEPTS: At the highest level, discrete mathematics is revealed as the theoretical bedrock of all computing \u2014 every algorithm, data structure, database, network, encryption scheme, and AI system rests on it. Logic became digital circuits; graph theory became networks and search; number theory became cryptography; combinatorics became complexity analysis; automata became compilers and programming languages. The deepest results reveal fundamental limits: undecidability (some problems no algorithm can solve), intractability (P vs NP \u2014 some problems appear inherently hard), and the boundaries of formal systems (G\u00f6del). The King-level truth: discrete mathematics doesn't just enable computing \u2014 it defines its very possibilities and limits. Understanding it means understanding what computers can do, what they cannot do, and why \u2014 the conceptual foundation beneath the entire digital world, including the hard limits that no clever engineering can overcome.\n\nWORKED EXAMPLE: When you use a password, cryptography (number theory) protects it; when you search Google, graph algorithms (PageRank) rank results; when your code compiles, automata theory parses it; when a problem is 'too slow,' complexity theory (Big-O, NP-hardness) explains why. Every layer of computing traces to discrete mathematics. And its limit results \u2014 the Halting Problem, P vs NP \u2014 define hard boundaries: no architecture, however clever, computes the uncomputable or makes NP-complete problems efficiently solvable. Discrete math is both the foundation and the fence.\n\nPRACTICE: 1) Connect three areas of discrete math to three real technologies. 2) Explain the difference between 'hard' (intractable) and 'impossible' (undecidable) problems. 3) Reflect on why understanding computational limits matters for building systems.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"An 'undecidable' problem is:\", \"options\": [\"Just slow\", \"Impossible for any algorithm (like the Halting Problem)\", \"Easy\", \"NP-complete\"], \"correct\": 1, \"explanation\": \"No algorithm can solve it.\"}, {\"q\": \"Discrete math is best described as computing's:\", \"options\": [\"Decoration\", \"Theoretical foundation and its limits\", \"Competitor\", \"Optional add-on\"], \"correct\": 1, \"explanation\": \"It defines what computing can and cannot do.\"}, {\"q\": \"An NP-complete problem is:\", \"options\": [\"Impossible\", \"Hard (intractable) but not impossible\", \"Easy\", \"Undecidable\"], \"correct\": 1, \"explanation\": \"'Hard' differs from 'impossible' (undecidable).\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

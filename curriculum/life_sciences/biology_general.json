@@ -1,0 +1,78 @@
+{
+  "subject_id": "biology_general",
+  "subject_name": "Biology",
+  "category": "LIFE_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Biology and the Scientific Method",
+          "content": "# Introduction to Biology and the Scientific Method\n\n## Learning Objectives\n1. Define biology and describe its major branches\n2. List and explain the characteristics of life\n3. Apply the steps of the scientific method\n4. Distinguish between hypotheses, theories, and laws\n5. Understand the hierarchy of biological organization\n\n## What is Biology?\n\nBiology is the scientific study of life. The word comes from Greek: bios (life) + logos (study of). It encompasses everything from molecular interactions within cells to entire ecosystems.\n\n### Characteristics of Life\nAll living things share these properties:\n1. **Cellular organization**: Made of one or more cells\n2. **Metabolism**: Chemical reactions for energy\n3. **Homeostasis**: Maintaining stable internal conditions\n4. **Growth and development**: Increasing in size and complexity\n5. **Reproduction**: Producing offspring\n6. **Response to stimuli**: Reacting to environment\n7. **Evolution**: Populations change over generations\n8. **Use of energy**: All life requires energy input\n\n### Hierarchy of Life\nAtom \u2192 Molecule \u2192 Organelle \u2192 Cell \u2192 Tissue \u2192 Organ \u2192 Organ System \u2192 Organism \u2192 Population \u2192 Community \u2192 Ecosystem \u2192 Biosphere\n\n## The Scientific Method\n1. **Observation**: Notice something in nature\n2. **Question**: Ask why or how\n3. **Hypothesis**: Propose a testable explanation\n4. **Experiment**: Design controlled tests\n5. **Data Collection**: Record results\n6. **Analysis**: Interpret the data\n7. **Conclusion**: Support or reject the hypothesis\n8. **Communication**: Share findings with scientific community\n\n### Key Terms\n- **Independent variable**: What you change\n- **Dependent variable**: What you measure\n- **Control group**: No treatment (baseline)\n- **Experimental group**: Receives treatment\n\n### Hypothesis vs Theory vs Law\n- **Hypothesis**: Testable prediction (educated guess)\n- **Theory**: Well-tested explanation supported by extensive evidence (NOT a guess)\n- **Law**: Describes WHAT happens (not why) \u2014 e.g., Law of Gravity\n\n## Practice Problems\n1. A plant growing toward light demonstrates which characteristic of life?\n   **Answer**: Response to stimuli\n2. In an experiment testing fertilizer effects on plant growth, what is the independent variable?\n   **Answer**: The fertilizer (what you change)\n3. Why is a theory NOT just a guess?\n   **Answer**: A theory is supported by extensive, repeated evidence and testing\n\n## Key Takeaways\n- Biology studies all living things from molecules to ecosystems\n- All life shares 8 characteristics including cells, metabolism, and reproduction\n- The scientific method is a systematic approach to understanding nature\n- Theories are well-supported explanations, not guesses",
+          "quiz": [
+            {
+              "question": "What is the main focus of Biology?",
+              "options": [
+                "Study of biology",
+                "Only theory",
+                "Random topics",
+                "None"
+              ],
+              "correct": "Study of biology",
+              "explanation": "Biology is the systematic study of its domain"
+            },
+            {
+              "question": "True or False: This subject has practical applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Never"
+              ],
+              "correct": "True",
+              "explanation": "Biology has extensive real-world applications"
+            },
+            {
+              "question": "What level is this lesson?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 = Beginner (AP/GCSE + 10%)"
+            },
+            {
+              "question": "How many mastery levels does SKA offer?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 levels: Beginner through Grandmaster"
+            },
+            {
+              "question": "What does the quiz at the end of each lesson test?",
+              "options": [
+                "Memory only",
+                "Understanding of key concepts",
+                "Speed reading",
+                "Nothing"
+              ],
+              "correct": "Understanding of key concepts",
+              "explanation": "Quizzes test comprehension of the lesson's core concepts"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

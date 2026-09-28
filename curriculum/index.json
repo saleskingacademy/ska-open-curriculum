@@ -1,0 +1,4937 @@
+{
+  "institution": "Sales King Academy",
+  "version": "1.0",
+  "total_subjects": 968,
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 77440,
+  "categories": {
+    "social_sciences": {
+      "count": 57,
+      "subjects": [
+        "abnormal_psychology",
+        "ai_ethics_governance",
+        "anthropology",
+        "behavioral_psychology",
+        "bioethics",
+        "clinical_psychology",
+        "cognitive_psychology",
+        "comparative_religion",
+        "criminology",
+        "cultural_anthropology",
+        "demography",
+        "developmental_psychology",
+        "eastern_philosophy",
+        "educational_psychology",
+        "educational_psychology_ed",
+        "ethics",
+        "ethics_moral_philosophy",
+        "forensic_psychology",
+        "gender_studies",
+        "health_psychology",
+        "logic_philosophy",
+        "media_ethics",
+        "medical_ethics",
+        "modern_philosophy",
+        "neuropsychology",
+        "philosophy_intro",
+        "philosophy_mind",
+        "philosophy_of_language",
+        "philosophy_of_mind",
+        "philosophy_of_science",
+        "philosophy_science",
+        "physical_anthropology",
+        "political_philosophy",
+        "political_science",
+        "positive_psychology",
+        "psychology_general",
+        "research_methods_social",
+        "social_psychology",
+        "social_theory",
+        "social_work",
+        "sociology",
+        "sports_psychology",
+        "theology",
+        "western_philosophy",
+        "world_religions",
+        "buddhism",
+        "islam_studies",
+        "christianity_studies",
+        "judaism_studies",
+        "hinduism_studies",
+        "stoicism",
+        "taoism",
+        "comparative_mythology",
+        "classics",
+        "linguistics_historical",
+        "renaissance_studies",
+        "monetary_policy"
+      ]
+    },
+    "mathematics": {
+      "count": 42,
+      "subjects": [
+        "abstract_algebra",
+        "actuarial_mathematics",
+        "applied_mathematics",
+        "arithmetic",
+        "bayesian_statistics",
+        "combinatorics",
+        "complex_analysis",
+        "cryptography_math",
+        "differential_equations",
+        "discrete_mathematics",
+        "financial_mathematics",
+        "geometry",
+        "linear_algebra",
+        "mathematical_logic",
+        "mathematical_modeling",
+        "number_theory",
+        "numerical_methods",
+        "pre_algebra",
+        "precalculus",
+        "probability",
+        "real_analysis",
+        "set_theory",
+        "statistics",
+        "topology",
+        "trigonometry",
+        "measure_theory",
+        "functional_analysis",
+        "algebraic_geometry",
+        "representation_theory",
+        "numerical_analysis",
+        "homotopy_type_theory",
+        "langlands_program",
+        "tropical_geometry",
+        "derived_algebraic_geometry",
+        "geometric_group_theory",
+        "operator_algebras",
+        "motivic_cohomology",
+        "higher_category_theory",
+        "arithmetic_geometry",
+        "stochastic_analysis",
+        "ergodic_theory",
+        "model_theory"
+      ]
+    },
+    "business": {
+      "count": 155,
+      "subjects": [
+        "accounting",
+        "advanced_negotiation",
+        "adventure_tourism",
+        "advertising",
+        "aerospace_engineering",
+        "aerospace_materials",
+        "aerospace_propulsion",
+        "affiliate_marketing",
+        "agribusiness",
+        "agricultural_economics",
+        "airport_management",
+        "banking",
+        "behavioral_economics",
+        "behavioral_finance",
+        "brand_management",
+        "business_analytics",
+        "business_ethics",
+        "business_fundamentals",
+        "business_law",
+        "business_strategy",
+        "business_writing",
+        "carbon_management",
+        "casino_management",
+        "classroom_management",
+        "cold_chain_logistics",
+        "commercial_real_estate",
+        "compliance_finance",
+        "construction_management_re",
+        "consulting",
+        "content_marketing",
+        "content_strategy",
+        "corporate_finance",
+        "cruise_line_management",
+        "development_economics",
+        "digital_marketing",
+        "dropshipping",
+        "e_commerce",
+        "educational_leadership",
+        "entrepreneurship",
+        "environmental_economics",
+        "esports_management",
+        "event_management",
+        "farm_management",
+        "financial_accounting",
+        "food_beverage_management",
+        "forex_trading",
+        "franchise_development",
+        "freight_management",
+        "geopolitical_strategy",
+        "global_trade_logistics",
+        "guest_relations",
+        "health_economics",
+        "heritage_tourism",
+        "hospitality_law",
+        "hospitality_marketing",
+        "hotel_management",
+        "influencer_marketing",
+        "insurance",
+        "insurance_finance",
+        "insurance_licensing",
+        "intellectual_property_business",
+        "international_business",
+        "international_economics",
+        "investment_analysis",
+        "knowledge_management",
+        "labor_economics",
+        "leadership",
+        "lean_supply_chain",
+        "logistics",
+        "logistics_operations",
+        "macroeconomics",
+        "management",
+        "managerial_accounting",
+        "marine_operations",
+        "marketing",
+        "microeconomics",
+        "military_leadership",
+        "military_logistics",
+        "military_strategy",
+        "monetary_economics",
+        "negotiation",
+        "operations_management",
+        "operations_research",
+        "personal_finance",
+        "pest_management",
+        "portfolio_management",
+        "private_equity",
+        "procurement",
+        "project_management",
+        "property_management",
+        "public_economics",
+        "range_management",
+        "real_estate",
+        "real_estate_appraisal",
+        "real_estate_development",
+        "real_estate_finance",
+        "real_estate_fundamentals",
+        "real_estate_investment",
+        "real_estate_law",
+        "real_estate_licensing",
+        "real_estate_marketing",
+        "real_estate_negotiation",
+        "recreation_management",
+        "residential_real_estate",
+        "resort_management",
+        "restaurant_management",
+        "retirement_planning",
+        "revenue_management_hospitality",
+        "revenue_operations",
+        "reverse_logistics",
+        "risk_management",
+        "sales",
+        "sales_psychology",
+        "seo",
+        "social_media_marketing",
+        "social_media_strategy",
+        "spa_management",
+        "space_exploration_history",
+        "space_systems_engineering",
+        "spacecraft_design",
+        "spanish",
+        "sports_management",
+        "sports_marketing",
+        "startup_funding",
+        "stock_market",
+        "strategic_management",
+        "stress_management",
+        "supply_chain",
+        "supply_chain_analytics",
+        "supply_chain_management",
+        "supply_chain_resilience",
+        "supply_chain_risk",
+        "sustainability_business",
+        "sustainable_supply_chains",
+        "sustainable_tourism",
+        "syntax",
+        "talent_management",
+        "tax_law",
+        "tax_planning",
+        "technical_product_management",
+        "time_management",
+        "tourism_planning",
+        "trade_finance",
+        "transportation_management",
+        "travel_agency_operations",
+        "vendor_management",
+        "venture_capital",
+        "warehouse_management",
+        "waste_management",
+        "wealth_management",
+        "wildlife_management",
+        "corporate_strategy",
+        "business_intelligence",
+        "product_management",
+        "supply_chain_strategy"
+      ]
+    },
+    "general": {
+      "count": 182,
+      "subjects": [
+        "acting",
+        "addiction_science",
+        "advanced_cryptography",
+        "aerodynamics",
+        "aesthetics",
+        "agile_methodology",
+        "agile_scrum",
+        "aging_gerontology_science",
+        "agronomy",
+        "air_force_science",
+        "air_traffic_control",
+        "aircraft_maintenance",
+        "aircraft_systems",
+        "american_literature",
+        "applied_cryptography",
+        "ar_vr_development",
+        "archaeology",
+        "architecture",
+        "assessment_evaluation",
+        "athletic_training",
+        "audience_analytics",
+        "autonomous_systems",
+        "autonomous_vehicles_tech",
+        "aviation_pilot",
+        "aviation_safety",
+        "avionics",
+        "baking_pastry",
+        "big_data",
+        "biohacking_longevity",
+        "bioinformatics",
+        "bioinformatics_genomics",
+        "braille_accessibility",
+        "brewing_fermentation_science",
+        "british_literature",
+        "cad_cam",
+        "career_development",
+        "classical_studies",
+        "coaching_methodology",
+        "cognitive_science",
+        "communication_skills",
+        "communication_studies",
+        "communication_theory",
+        "community_development",
+        "comparative_politics",
+        "competitive_analysis",
+        "computational_complexity",
+        "conflict_resolution",
+        "corporate_communications",
+        "corporate_governance",
+        "counterterrorism",
+        "creative_thinking",
+        "crisis_communications",
+        "critical_thinking",
+        "cryptocurrency",
+        "cryptography",
+        "customs_brokerage",
+        "death_dying_studies",
+        "debate",
+        "decision_making",
+        "decision_science",
+        "defi",
+        "demand_forecasting",
+        "digital_forensics_advanced",
+        "digital_media_production",
+        "digital_twins",
+        "diplomacy",
+        "disability_studies",
+        "distributed_systems",
+        "drone_technology",
+        "drums",
+        "econometrics",
+        "electronics",
+        "emotional_intelligence",
+        "enterprise_ai_architecture",
+        "epistemology",
+        "esports_competitive_gaming",
+        "ethnic_studies",
+        "exercise_science",
+        "existentialism",
+        "exoplanet_science",
+        "financial_planning",
+        "financial_regulations",
+        "fintech",
+        "fintech_systems",
+        "fiscal_policy",
+        "flight_navigation",
+        "folklore_mythology",
+        "food_safety",
+        "food_science",
+        "food_technology",
+        "forensic_science",
+        "fundamental_analysis",
+        "futures_trading",
+        "futurism_futures_studies",
+        "game_theory",
+        "geography",
+        "geopolitics",
+        "gis_mapping",
+        "go",
+        "goal_setting",
+        "graph_theory",
+        "guitar",
+        "human_factors_aviation",
+        "human_geography",
+        "human_resources",
+        "import_export",
+        "indigenous_studies_global",
+        "infectious_disease",
+        "information_science",
+        "information_security",
+        "information_theory",
+        "innovation_methods",
+        "intelligence_analysis",
+        "international_relations",
+        "interpersonal_skills",
+        "inventory_optimization",
+        "journalism",
+        "kinesiology",
+        "land_use_planning",
+        "landscape_architecture",
+        "last_mile_delivery",
+        "library_science",
+        "media_studies",
+        "memory_techniques",
+        "mergers_acquisitions",
+        "military_tactics",
+        "mindfulness_meditation",
+        "mortgage_lending",
+        "museum_studies",
+        "mythology",
+        "national_security",
+        "naval_science",
+        "nft_digital_assets",
+        "options_trading",
+        "orchestration",
+        "organizational_behavior",
+        "paleontology_fossils",
+        "parallel_computing",
+        "parenting",
+        "peacekeeping",
+        "penetration_testing",
+        "performance_analysis",
+        "photojournalism",
+        "physical_fitness",
+        "piano",
+        "planetary_science",
+        "poetry_poetics",
+        "postcolonial_theory",
+        "predictive_analytics",
+        "problem_solving",
+        "productivity",
+        "property_valuation",
+        "public_administration",
+        "public_policy",
+        "public_relations",
+        "public_speaking",
+        "reit_analysis",
+        "relationship_skills",
+        "religious_studies",
+        "rocket_science",
+        "satellite_communications",
+        "school_counseling",
+        "six_sigma",
+        "speed_reading",
+        "sports_analytics",
+        "sports_journalism",
+        "strategic_intelligence",
+        "strength_conditioning",
+        "study_skills",
+        "systems_thinking",
+        "technical_analysis",
+        "tokenomics_defi",
+        "toxicology",
+        "unmanned_aerial_systems",
+        "urban_planning",
+        "urban_planning_design",
+        "urban_studies",
+        "veterans_affairs",
+        "volcanology_seismology",
+        "weapons_systems",
+        "world_literature",
+        "youth_sports_development"
+      ]
+    },
+    "law": {
+      "count": 38,
+      "subjects": [
+        "administrative_law",
+        "aviation_law",
+        "bankruptcy_law",
+        "civil_law",
+        "constitutional_law",
+        "contract_law",
+        "contract_law_legal",
+        "copyright_law",
+        "corporate_law",
+        "criminal_justice",
+        "criminal_law",
+        "employment_law",
+        "environmental_law",
+        "family_law",
+        "health_law",
+        "human_rights_law",
+        "immigration_law",
+        "industrial_design",
+        "industrial_engineering",
+        "industrial_organizational_psych",
+        "intellectual_property_law",
+        "international_law",
+        "labor_law",
+        "law_enforcement",
+        "legal_fundamentals",
+        "legal_research",
+        "legal_writing",
+        "maritime_law",
+        "media_law",
+        "mediation_arbitration",
+        "military_law",
+        "patent_law",
+        "property_law",
+        "securities_law",
+        "sports_law_ethics",
+        "tort_law",
+        "trademark_law",
+        "trial_advocacy"
+      ]
+    },
+    "education": {
+      "count": 18,
+      "subjects": [
+        "adult_education",
+        "curriculum_design",
+        "early_childhood_education",
+        "education_policy",
+        "educational_research",
+        "educational_technology",
+        "elementary_education",
+        "esl_teaching",
+        "financial_literacy",
+        "gifted_education",
+        "higher_education_admin",
+        "literacy_education",
+        "multicultural_education",
+        "online_learning_design",
+        "pedagogy",
+        "secondary_education",
+        "special_education",
+        "stem_education"
+      ]
+    },
+    "computer_science": {
+      "count": 90,
+      "subjects": [
+        "agricultural_biotechnology",
+        "algorithms",
+        "angular",
+        "antitrust_law",
+        "api_design",
+        "artificial_intelligence_foundations",
+        "biotechnology",
+        "blockchain",
+        "cloud_computing",
+        "cloud_native_architecture",
+        "cnc_programming",
+        "compiler_design",
+        "computer_architecture",
+        "computer_fundamentals",
+        "computer_networks",
+        "computer_vision",
+        "computer_vision_ai",
+        "cpp",
+        "csharp",
+        "cyber_defense",
+        "cyber_law",
+        "cybersecurity",
+        "data_engineering",
+        "data_science",
+        "data_structures",
+        "database_design",
+        "deep_learning",
+        "devops",
+        "devops_culture",
+        "devops_engineering",
+        "docker_kubernetes",
+        "fitness_programming",
+        "generative_ai_systems",
+        "html_css",
+        "human_computer_interaction",
+        "iot_programming",
+        "java",
+        "javascript",
+        "kotlin",
+        "large_language_models",
+        "machine_learning",
+        "microservices",
+        "mobile_development",
+        "natural_language_processing",
+        "neurolinguistic_programming",
+        "no_code_low_code",
+        "nodejs",
+        "nosql",
+        "operating_systems",
+        "php",
+        "programming_basics",
+        "prompt_engineering",
+        "python",
+        "react",
+        "reinforcement_learning",
+        "robotics_programming",
+        "ruby",
+        "rust",
+        "software_engineering",
+        "sql",
+        "swift",
+        "system_design",
+        "typescript",
+        "version_control_git",
+        "vue",
+        "web_design",
+        "compilers",
+        "blockchain_development",
+        "computer_graphics",
+        "site_reliability_engineering",
+        "mobile_app_development",
+        "quantum_error_correction",
+        "topological_quantum_computing",
+        "homomorphic_encryption",
+        "zero_knowledge_proofs",
+        "neuromorphic_computing",
+        "federated_learning",
+        "mechanistic_interpretability",
+        "neural_architecture_search",
+        "differentiable_programming",
+        "formal_verification",
+        "type_theory",
+        "category_theory_cs",
+        "program_synthesis",
+        "photonic_computing",
+        "dna_data_storage",
+        "causal_inference_ml",
+        "graph_neural_networks",
+        "diffusion_models",
+        "spiking_neural_networks"
+      ]
+    },
+    "engineering": {
+      "count": 51,
+      "subjects": [
+        "agricultural_engineering",
+        "agricultural_engineering_ag",
+        "chemical_engineering",
+        "civil_engineering",
+        "climate_engineering",
+        "control_systems",
+        "electrical_engineering",
+        "electrical_work",
+        "embedded_systems",
+        "engineering_fundamentals",
+        "environmental_engineering",
+        "financial_engineering",
+        "geotechnical_engineering",
+        "irrigation_engineering",
+        "manufacturing_engineering",
+        "marine_engineering",
+        "materials_engineering",
+        "materials_science",
+        "mechanical_engineering",
+        "mechatronics",
+        "mining_engineering",
+        "nanotechnology",
+        "nuclear_engineering",
+        "ocean_engineering",
+        "petroleum_engineering",
+        "power_systems",
+        "quality_engineering",
+        "reliability_engineering",
+        "robotics_engineering",
+        "signal_processing",
+        "structural_engineering",
+        "systems_engineering",
+        "telecommunications",
+        "transportation_engineering",
+        "vlsi_design",
+        "water_resources_engineering",
+        "photonics",
+        "quantum_engineering",
+        "nanophotonics",
+        "soft_robotics",
+        "swarm_robotics",
+        "brain_computer_interfaces",
+        "molecular_nanotechnology",
+        "tissue_engineering",
+        "additive_manufacturing_advanced",
+        "microfluidics",
+        "mems_nems",
+        "aerospace_propulsion_advanced",
+        "hypersonics",
+        "directed_energy_systems",
+        "fault_tolerant_systems"
+      ]
+    },
+    "agriculture": {
+      "count": 22,
+      "subjects": [
+        "agriculture",
+        "agriculture_fundamentals",
+        "agroforestry",
+        "animal_husbandry",
+        "animal_science",
+        "apiculture",
+        "aquaculture",
+        "crop_science",
+        "dairy_science",
+        "forestry",
+        "horticulture",
+        "irrigation_science",
+        "permaculture",
+        "poultry_science",
+        "precision_agriculture",
+        "regenerative_agriculture",
+        "seed_technology",
+        "soil_science",
+        "sustainable_agriculture",
+        "viticulture",
+        "weed_science",
+        "wine_viticulture_enology"
+      ]
+    },
+    "medical": {
+      "count": 63,
+      "subjects": [
+        "alternative_medicine",
+        "anesthesiology",
+        "biomedical_engineering",
+        "cardiology",
+        "clinical_research",
+        "dental_hygiene",
+        "dental_science",
+        "dentistry_oral_health",
+        "dermatology",
+        "emergency_medicine",
+        "emt_paramedic",
+        "endocrinology",
+        "epidemiology",
+        "epidemiology_medical",
+        "gastroenterology",
+        "geriatrics",
+        "health_informatics",
+        "hematology",
+        "internal_medicine",
+        "medical_assisting",
+        "mental_health",
+        "nephrology",
+        "neurology",
+        "nursing",
+        "nutrition_medical",
+        "nutrition_science",
+        "nutrition_wellness",
+        "occupational_therapy",
+        "oncology",
+        "ophthalmology",
+        "orthopedics",
+        "palliative_care",
+        "pathology",
+        "pediatrics",
+        "pharmacology",
+        "pharmacology_medical",
+        "pharmacy_technician",
+        "phlebotomy",
+        "physical_therapy",
+        "plant_pathology",
+        "psychiatry",
+        "public_health",
+        "pulmonology",
+        "radiology",
+        "radiology_technician",
+        "rehabilitation",
+        "sleep_science",
+        "speech_pathology",
+        "sports_medicine",
+        "sports_nutrition",
+        "surgery_fundamentals",
+        "telemedicine",
+        "urology",
+        "veterinary_science",
+        "veterinary_technician",
+        "precision_oncology",
+        "immunotherapy_advanced",
+        "regenerative_medicine",
+        "nanomedicine",
+        "gene_therapy",
+        "neuroprosthetics",
+        "pharmacogenomics",
+        "radiogenomics"
+      ]
+    },
+    "life_sciences": {
+      "count": 41,
+      "subjects": [
+        "anatomy_physiology",
+        "astrobiology",
+        "biology_general",
+        "botany",
+        "cell_biology",
+        "cognitive_neuroscience",
+        "computational_neuroscience",
+        "conservation_biology",
+        "developmental_biology",
+        "ecology",
+        "ecology_advanced",
+        "entomology",
+        "evolution",
+        "genetics",
+        "human_anatomy",
+        "human_physiology",
+        "immunology",
+        "marine_biology",
+        "microbiology",
+        "molecular_biology",
+        "mycology",
+        "neuroscience",
+        "obstetrics_gynecology",
+        "ornithology",
+        "parasitology",
+        "synthetic_biology",
+        "virology",
+        "zoology",
+        "optogenetics",
+        "cryo_electron_microscopy",
+        "single_cell_genomics",
+        "crispr_gene_editing",
+        "protein_folding_prediction",
+        "systems_biology",
+        "epigenetics_advanced",
+        "connectomics",
+        "organoid_engineering",
+        "xenobiology",
+        "metabolomics",
+        "phylogenomics",
+        "biophotonics"
+      ]
+    },
+    "history": {
+      "count": 33,
+      "subjects": [
+        "ancient_china_civilization",
+        "ancient_egypt_civilization",
+        "ancient_greek",
+        "ancient_india_civilization",
+        "ancient_mesoamerica",
+        "ancient_mesopotamia",
+        "ancient_philosophy",
+        "art_history",
+        "astrology_cultural_history",
+        "byzantine_empire",
+        "economic_history",
+        "economic_history_hum",
+        "history_african",
+        "history_american",
+        "history_ancient",
+        "history_art",
+        "history_asian",
+        "history_european",
+        "history_latin_american",
+        "history_medieval",
+        "history_middle_east",
+        "history_modern",
+        "history_renaissance",
+        "history_science",
+        "history_world",
+        "medieval_studies",
+        "military_history",
+        "military_history_studies",
+        "music_history",
+        "ottoman_empire",
+        "prehistory_human_origins",
+        "roman_civilization",
+        "viking_norse_history"
+      ]
+    },
+    "arts": {
+      "count": 42,
+      "subjects": [
+        "animation",
+        "art_criticism",
+        "art_fundamentals",
+        "broadcasting",
+        "cartography_gis",
+        "ceramics",
+        "cinematography",
+        "culinary_arts",
+        "dance",
+        "digital_art",
+        "directing_theater",
+        "documentary_filmmaking",
+        "drawing",
+        "ethnomusicology",
+        "fashion_design",
+        "film_studies",
+        "filmmaking",
+        "game_design",
+        "game_development",
+        "graphic_design",
+        "illustration",
+        "interior_design",
+        "music_production",
+        "music_theory",
+        "painting",
+        "painting_trades",
+        "photography",
+        "podcast_production",
+        "podcasting",
+        "printmaking",
+        "sculpture",
+        "sound_design",
+        "stagecraft",
+        "television_film_production",
+        "theater_studies",
+        "typography_design",
+        "ui_ux_design",
+        "video_editing",
+        "voice",
+        "film_directing",
+        "art_conservation",
+        "typography"
+      ]
+    },
+    "languages": {
+      "count": 39,
+      "subjects": [
+        "arabic",
+        "computational_linguistics",
+        "corpus_linguistics",
+        "creative_writing",
+        "english_composition",
+        "english_grammar",
+        "english_literature",
+        "french",
+        "german",
+        "hebrew",
+        "hindi",
+        "italian",
+        "japanese",
+        "korean",
+        "latin",
+        "linguistics",
+        "linguistics_applied",
+        "mandarin_chinese",
+        "music_composition",
+        "phonetics_phonology",
+        "playwriting",
+        "portuguese",
+        "psycholinguistics",
+        "rhetoric",
+        "russian",
+        "sanskrit",
+        "screenwriting",
+        "semantics_pragmatics",
+        "sign_language",
+        "sign_language_communication",
+        "sociolinguistics",
+        "speech_writing",
+        "swahili",
+        "technical_writing",
+        "technical_writing_advanced",
+        "thai",
+        "translation_interpretation",
+        "turkish",
+        "vietnamese"
+      ]
+    },
+    "physical_sciences": {
+      "count": 62,
+      "subjects": [
+        "astronomy",
+        "astrophysics",
+        "auto_mechanics",
+        "aviation_meteorology",
+        "biochemistry",
+        "biomechanics",
+        "chemistry_analytical",
+        "chemistry_environmental",
+        "chemistry_general",
+        "chemistry_inorganic",
+        "chemistry_nuclear",
+        "chemistry_organic",
+        "chemistry_physical",
+        "chemistry_polymer",
+        "classical_mechanics_advanced",
+        "condensed_matter",
+        "cosmology",
+        "diesel_mechanics",
+        "earth_science",
+        "flight_mechanics",
+        "geology",
+        "green_chemistry",
+        "metaphysics",
+        "meteorology",
+        "nuclear_physics",
+        "oceanography",
+        "orbital_mechanics",
+        "organic_farming",
+        "particle_physics",
+        "physics_electromagnetism",
+        "physics_mechanics",
+        "physics_optics",
+        "physics_thermodynamics",
+        "physics_waves",
+        "plasma_physics",
+        "quantum_computing",
+        "quantum_computing_applications",
+        "quantum_information",
+        "quantum_machine_learning",
+        "quantum_mechanics",
+        "relativity",
+        "statistical_mechanics",
+        "string_theory_physics",
+        "geophysics",
+        "atmospheric_science",
+        "materials_physics",
+        "quantum_field_theory",
+        "string_theory",
+        "loop_quantum_gravity",
+        "condensed_matter_physics",
+        "quantum_optics",
+        "spintronics",
+        "metamaterials",
+        "plasmonics",
+        "topological_insulators",
+        "quantum_thermodynamics",
+        "attosecond_physics",
+        "cold_atom_physics",
+        "quantum_chromodynamics",
+        "gravitational_wave_astronomy",
+        "fusion_plasma_physics",
+        "quantum_gravity_phenomenology"
+      ]
+    },
+    "trades": {
+      "count": 16,
+      "subjects": [
+        "barbering",
+        "carpentry",
+        "commercial_driving",
+        "cosmetology",
+        "esthetician",
+        "firefighting",
+        "home_inspection",
+        "hvac",
+        "landscaping",
+        "machining",
+        "masonry",
+        "plumbing",
+        "roofing",
+        "surveying",
+        "welding",
+        "woodworking"
+      ]
+    },
+    "environmental": {
+      "count": 17,
+      "subjects": [
+        "circular_economy",
+        "climate_adaptation",
+        "climate_modeling",
+        "climate_science",
+        "energy_storage",
+        "environmental_impact_assessment",
+        "environmental_justice",
+        "environmental_policy",
+        "environmental_science",
+        "green_building",
+        "ocean_conservation",
+        "renewable_energy",
+        "solar_energy_systems",
+        "sustainability_metrics",
+        "urban_sustainability",
+        "water_treatment",
+        "wind_energy"
+      ]
+    }
+  },
+  "subjects": {
+    "abnormal_psychology": {
+      "name": "Abnormal Psychology",
+      "category": "social_sciences"
+    },
+    "abstract_algebra": {
+      "name": "Abstract Algebra",
+      "category": "mathematics"
+    },
+    "accounting": {
+      "name": "Accounting",
+      "category": "business"
+    },
+    "acting": {
+      "name": "Acting",
+      "category": "general"
+    },
+    "actuarial_mathematics": {
+      "name": "Actuarial Mathematics",
+      "category": "mathematics"
+    },
+    "addiction_science": {
+      "name": "Addiction Science",
+      "category": "general"
+    },
+    "administrative_law": {
+      "name": "Administrative Law",
+      "category": "law"
+    },
+    "adult_education": {
+      "name": "Adult Education",
+      "category": "education"
+    },
+    "advanced_cryptography": {
+      "name": "Advanced Cryptography",
+      "category": "general"
+    },
+    "advanced_negotiation": {
+      "name": "Advanced Negotiation",
+      "category": "business"
+    },
+    "adventure_tourism": {
+      "name": "Adventure Tourism",
+      "category": "business"
+    },
+    "advertising": {
+      "name": "Advertising",
+      "category": "business"
+    },
+    "aerodynamics": {
+      "name": "Aerodynamics",
+      "category": "general"
+    },
+    "aerospace_engineering": {
+      "name": "Aerospace Engineering",
+      "category": "business"
+    },
+    "aerospace_materials": {
+      "name": "Aerospace Materials",
+      "category": "business"
+    },
+    "aerospace_propulsion": {
+      "name": "Aerospace Propulsion",
+      "category": "business"
+    },
+    "aesthetics": {
+      "name": "Aesthetics",
+      "category": "general"
+    },
+    "affiliate_marketing": {
+      "name": "Affiliate Marketing",
+      "category": "business"
+    },
+    "agile_methodology": {
+      "name": "Agile Methodology",
+      "category": "general"
+    },
+    "agile_scrum": {
+      "name": "Agile Scrum",
+      "category": "general"
+    },
+    "aging_gerontology_science": {
+      "name": "Aging Gerontology Science",
+      "category": "general"
+    },
+    "agribusiness": {
+      "name": "Agribusiness",
+      "category": "business"
+    },
+    "agricultural_biotechnology": {
+      "name": "Agricultural Biotechnology",
+      "category": "computer_science"
+    },
+    "agricultural_economics": {
+      "name": "Agricultural Economics",
+      "category": "business"
+    },
+    "agricultural_engineering": {
+      "name": "Agricultural Engineering",
+      "category": "engineering"
+    },
+    "agricultural_engineering_ag": {
+      "name": "Agricultural Engineering Ag",
+      "category": "engineering"
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "category": "agriculture"
+    },
+    "agriculture_fundamentals": {
+      "name": "Agriculture Fundamentals",
+      "category": "agriculture"
+    },
+    "agroforestry": {
+      "name": "Agroforestry",
+      "category": "agriculture"
+    },
+    "agronomy": {
+      "name": "Agronomy",
+      "category": "general"
+    },
+    "ai_ethics_governance": {
+      "name": "Ai Ethics Governance",
+      "category": "social_sciences"
+    },
+    "air_force_science": {
+      "name": "Air Force Science",
+      "category": "general"
+    },
+    "air_traffic_control": {
+      "name": "Air Traffic Control",
+      "category": "general"
+    },
+    "aircraft_maintenance": {
+      "name": "Aircraft Maintenance",
+      "category": "general"
+    },
+    "aircraft_systems": {
+      "name": "Aircraft Systems",
+      "category": "general"
+    },
+    "airport_management": {
+      "name": "Airport Management",
+      "category": "business"
+    },
+    "algorithms": {
+      "name": "Algorithms",
+      "category": "computer_science"
+    },
+    "alternative_medicine": {
+      "name": "Alternative Medicine",
+      "category": "medical"
+    },
+    "american_literature": {
+      "name": "American Literature",
+      "category": "general"
+    },
+    "anatomy_physiology": {
+      "name": "Anatomy Physiology",
+      "category": "life_sciences"
+    },
+    "ancient_china_civilization": {
+      "name": "Ancient China Civilization",
+      "category": "history"
+    },
+    "ancient_egypt_civilization": {
+      "name": "Ancient Egypt Civilization",
+      "category": "history"
+    },
+    "ancient_greek": {
+      "name": "Ancient Greek",
+      "category": "history"
+    },
+    "ancient_india_civilization": {
+      "name": "Ancient India Civilization",
+      "category": "history"
+    },
+    "ancient_mesoamerica": {
+      "name": "Ancient Mesoamerica",
+      "category": "history"
+    },
+    "ancient_mesopotamia": {
+      "name": "Ancient Mesopotamia",
+      "category": "history"
+    },
+    "ancient_philosophy": {
+      "name": "Ancient Philosophy",
+      "category": "history"
+    },
+    "anesthesiology": {
+      "name": "Anesthesiology",
+      "category": "medical"
+    },
+    "angular": {
+      "name": "Angular",
+      "category": "computer_science"
+    },
+    "animal_husbandry": {
+      "name": "Animal Husbandry",
+      "category": "agriculture"
+    },
+    "animal_science": {
+      "name": "Animal Science",
+      "category": "agriculture"
+    },
+    "animation": {
+      "name": "Animation",
+      "category": "arts"
+    },
+    "anthropology": {
+      "name": "Anthropology",
+      "category": "social_sciences"
+    },
+    "antitrust_law": {
+      "name": "Antitrust Law",
+      "category": "computer_science"
+    },
+    "api_design": {
+      "name": "Api Design",
+      "category": "computer_science"
+    },
+    "apiculture": {
+      "name": "Apiculture",
+      "category": "agriculture"
+    },
+    "applied_cryptography": {
+      "name": "Applied Cryptography",
+      "category": "general"
+    },
+    "applied_mathematics": {
+      "name": "Applied Mathematics",
+      "category": "mathematics"
+    },
+    "aquaculture": {
+      "name": "Aquaculture",
+      "category": "agriculture"
+    },
+    "ar_vr_development": {
+      "name": "Ar Vr Development",
+      "category": "general"
+    },
+    "arabic": {
+      "name": "Arabic",
+      "category": "languages"
+    },
+    "archaeology": {
+      "name": "Archaeology",
+      "category": "general"
+    },
+    "architecture": {
+      "name": "Architecture",
+      "category": "general"
+    },
+    "arithmetic": {
+      "name": "Arithmetic",
+      "category": "mathematics"
+    },
+    "art_criticism": {
+      "name": "Art Criticism",
+      "category": "arts"
+    },
+    "art_fundamentals": {
+      "name": "Art Fundamentals",
+      "category": "arts"
+    },
+    "art_history": {
+      "name": "Art History",
+      "category": "history"
+    },
+    "artificial_intelligence_foundations": {
+      "name": "Artificial Intelligence Foundations",
+      "category": "computer_science"
+    },
+    "assessment_evaluation": {
+      "name": "Assessment Evaluation",
+      "category": "general"
+    },
+    "astrobiology": {
+      "name": "Astrobiology",
+      "category": "life_sciences"
+    },
+    "astrology_cultural_history": {
+      "name": "Astrology Cultural History",
+      "category": "history"
+    },
+    "astronomy": {
+      "name": "Astronomy",
+      "category": "physical_sciences"
+    },
+    "astrophysics": {
+      "name": "Astrophysics",
+      "category": "physical_sciences"
+    },
+    "athletic_training": {
+      "name": "Athletic Training",
+      "category": "general"
+    },
+    "audience_analytics": {
+      "name": "Audience Analytics",
+      "category": "general"
+    },
+    "auto_mechanics": {
+      "name": "Auto Mechanics",
+      "category": "physical_sciences"
+    },
+    "autonomous_systems": {
+      "name": "Autonomous Systems",
+      "category": "general"
+    },
+    "autonomous_vehicles_tech": {
+      "name": "Autonomous Vehicles Tech",
+      "category": "general"
+    },
+    "aviation_law": {
+      "name": "Aviation Law",
+      "category": "law"
+    },
+    "aviation_meteorology": {
+      "name": "Aviation Meteorology",
+      "category": "physical_sciences"
+    },
+    "aviation_pilot": {
+      "name": "Aviation Pilot",
+      "category": "general"
+    },
+    "aviation_safety": {
+      "name": "Aviation Safety",
+      "category": "general"
+    },
+    "avionics": {
+      "name": "Avionics",
+      "category": "general"
+    },
+    "baking_pastry": {
+      "name": "Baking Pastry",
+      "category": "general"
+    },
+    "banking": {
+      "name": "Banking",
+      "category": "business"
+    },
+    "bankruptcy_law": {
+      "name": "Bankruptcy Law",
+      "category": "law"
+    },
+    "barbering": {
+      "name": "Barbering",
+      "category": "trades"
+    },
+    "bayesian_statistics": {
+      "name": "Bayesian Statistics",
+      "category": "mathematics"
+    },
+    "behavioral_economics": {
+      "name": "Behavioral Economics",
+      "category": "business"
+    },
+    "behavioral_finance": {
+      "name": "Behavioral Finance",
+      "category": "business"
+    },
+    "behavioral_psychology": {
+      "name": "Behavioral Psychology",
+      "category": "social_sciences"
+    },
+    "big_data": {
+      "name": "Big Data",
+      "category": "general"
+    },
+    "biochemistry": {
+      "name": "Biochemistry",
+      "category": "physical_sciences"
+    },
+    "bioethics": {
+      "name": "Bioethics",
+      "category": "social_sciences"
+    },
+    "biohacking_longevity": {
+      "name": "Biohacking Longevity",
+      "category": "general"
+    },
+    "bioinformatics": {
+      "name": "Bioinformatics",
+      "category": "general"
+    },
+    "bioinformatics_genomics": {
+      "name": "Bioinformatics Genomics",
+      "category": "general"
+    },
+    "biology_general": {
+      "name": "Biology General",
+      "category": "life_sciences"
+    },
+    "biomechanics": {
+      "name": "Biomechanics",
+      "category": "physical_sciences"
+    },
+    "biomedical_engineering": {
+      "name": "Biomedical Engineering",
+      "category": "medical"
+    },
+    "biotechnology": {
+      "name": "Biotechnology",
+      "category": "computer_science"
+    },
+    "blockchain": {
+      "name": "Blockchain",
+      "category": "computer_science"
+    },
+    "botany": {
+      "name": "Botany",
+      "category": "life_sciences"
+    },
+    "braille_accessibility": {
+      "name": "Braille Accessibility",
+      "category": "general"
+    },
+    "brand_management": {
+      "name": "Brand Management",
+      "category": "business"
+    },
+    "brewing_fermentation_science": {
+      "name": "Brewing Fermentation Science",
+      "category": "general"
+    },
+    "british_literature": {
+      "name": "British Literature",
+      "category": "general"
+    },
+    "broadcasting": {
+      "name": "Broadcasting",
+      "category": "arts"
+    },
+    "business_analytics": {
+      "name": "Business Analytics",
+      "category": "business"
+    },
+    "business_ethics": {
+      "name": "Business Ethics",
+      "category": "business"
+    },
+    "business_fundamentals": {
+      "name": "Business Fundamentals",
+      "category": "business"
+    },
+    "business_law": {
+      "name": "Business Law",
+      "category": "business"
+    },
+    "business_strategy": {
+      "name": "Business Strategy",
+      "category": "business"
+    },
+    "business_writing": {
+      "name": "Business Writing",
+      "category": "business"
+    },
+    "byzantine_empire": {
+      "name": "Byzantine Empire",
+      "category": "history"
+    },
+    "cad_cam": {
+      "name": "Cad Cam",
+      "category": "general"
+    },
+    "carbon_management": {
+      "name": "Carbon Management",
+      "category": "business"
+    },
+    "cardiology": {
+      "name": "Cardiology",
+      "category": "medical"
+    },
+    "career_development": {
+      "name": "Career Development",
+      "category": "general"
+    },
+    "carpentry": {
+      "name": "Carpentry",
+      "category": "trades"
+    },
+    "cartography_gis": {
+      "name": "Cartography Gis",
+      "category": "arts"
+    },
+    "casino_management": {
+      "name": "Casino Management",
+      "category": "business"
+    },
+    "cell_biology": {
+      "name": "Cell Biology",
+      "category": "life_sciences"
+    },
+    "ceramics": {
+      "name": "Ceramics",
+      "category": "arts"
+    },
+    "chemical_engineering": {
+      "name": "Chemical Engineering",
+      "category": "engineering"
+    },
+    "chemistry_analytical": {
+      "name": "Chemistry Analytical",
+      "category": "physical_sciences"
+    },
+    "chemistry_environmental": {
+      "name": "Chemistry Environmental",
+      "category": "physical_sciences"
+    },
+    "chemistry_general": {
+      "name": "Chemistry General",
+      "category": "physical_sciences"
+    },
+    "chemistry_inorganic": {
+      "name": "Chemistry Inorganic",
+      "category": "physical_sciences"
+    },
+    "chemistry_nuclear": {
+      "name": "Chemistry Nuclear",
+      "category": "physical_sciences"
+    },
+    "chemistry_organic": {
+      "name": "Chemistry Organic",
+      "category": "physical_sciences"
+    },
+    "chemistry_physical": {
+      "name": "Chemistry Physical",
+      "category": "physical_sciences"
+    },
+    "chemistry_polymer": {
+      "name": "Chemistry Polymer",
+      "category": "physical_sciences"
+    },
+    "cinematography": {
+      "name": "Cinematography",
+      "category": "arts"
+    },
+    "circular_economy": {
+      "name": "Circular Economy",
+      "category": "environmental"
+    },
+    "civil_engineering": {
+      "name": "Civil Engineering",
+      "category": "engineering"
+    },
+    "civil_law": {
+      "name": "Civil Law",
+      "category": "law"
+    },
+    "classical_mechanics_advanced": {
+      "name": "Classical Mechanics Advanced",
+      "category": "physical_sciences"
+    },
+    "classical_studies": {
+      "name": "Classical Studies",
+      "category": "general"
+    },
+    "classroom_management": {
+      "name": "Classroom Management",
+      "category": "business"
+    },
+    "climate_adaptation": {
+      "name": "Climate Adaptation",
+      "category": "environmental"
+    },
+    "climate_engineering": {
+      "name": "Climate Engineering",
+      "category": "engineering"
+    },
+    "climate_modeling": {
+      "name": "Climate Modeling",
+      "category": "environmental"
+    },
+    "climate_science": {
+      "name": "Climate Science",
+      "category": "environmental"
+    },
+    "clinical_psychology": {
+      "name": "Clinical Psychology",
+      "category": "social_sciences"
+    },
+    "clinical_research": {
+      "name": "Clinical Research",
+      "category": "medical"
+    },
+    "cloud_computing": {
+      "name": "Cloud Computing",
+      "category": "computer_science"
+    },
+    "cloud_native_architecture": {
+      "name": "Cloud Native Architecture",
+      "category": "computer_science"
+    },
+    "cnc_programming": {
+      "name": "Cnc Programming",
+      "category": "computer_science"
+    },
+    "coaching_methodology": {
+      "name": "Coaching Methodology",
+      "category": "general"
+    },
+    "cognitive_neuroscience": {
+      "name": "Cognitive Neuroscience",
+      "category": "life_sciences"
+    },
+    "cognitive_psychology": {
+      "name": "Cognitive Psychology",
+      "category": "social_sciences"
+    },
+    "cognitive_science": {
+      "name": "Cognitive Science",
+      "category": "general"
+    },
+    "cold_chain_logistics": {
+      "name": "Cold Chain Logistics",
+      "category": "business"
+    },
+    "combinatorics": {
+      "name": "Combinatorics",
+      "category": "mathematics"
+    },
+    "commercial_driving": {
+      "name": "Commercial Driving",
+      "category": "trades"
+    },
+    "commercial_real_estate": {
+      "name": "Commercial Real Estate",
+      "category": "business"
+    },
+    "communication_skills": {
+      "name": "Communication Skills",
+      "category": "general"
+    },
+    "communication_studies": {
+      "name": "Communication Studies",
+      "category": "general"
+    },
+    "communication_theory": {
+      "name": "Communication Theory",
+      "category": "general"
+    },
+    "community_development": {
+      "name": "Community Development",
+      "category": "general"
+    },
+    "comparative_politics": {
+      "name": "Comparative Politics",
+      "category": "general"
+    },
+    "comparative_religion": {
+      "name": "Comparative Religion",
+      "category": "social_sciences"
+    },
+    "competitive_analysis": {
+      "name": "Competitive Analysis",
+      "category": "general"
+    },
+    "compiler_design": {
+      "name": "Compiler Design",
+      "category": "computer_science"
+    },
+    "complex_analysis": {
+      "name": "Complex Analysis",
+      "category": "mathematics"
+    },
+    "compliance_finance": {
+      "name": "Compliance Finance",
+      "category": "business"
+    },
+    "computational_complexity": {
+      "name": "Computational Complexity",
+      "category": "general"
+    },
+    "computational_linguistics": {
+      "name": "Computational Linguistics",
+      "category": "languages"
+    },
+    "computational_neuroscience": {
+      "name": "Computational Neuroscience",
+      "category": "life_sciences"
+    },
+    "computer_architecture": {
+      "name": "Computer Architecture",
+      "category": "computer_science"
+    },
+    "computer_fundamentals": {
+      "name": "Computer Fundamentals",
+      "category": "computer_science"
+    },
+    "computer_networks": {
+      "name": "Computer Networks",
+      "category": "computer_science"
+    },
+    "computer_vision": {
+      "name": "Computer Vision",
+      "category": "computer_science"
+    },
+    "computer_vision_ai": {
+      "name": "Computer Vision Ai",
+      "category": "computer_science"
+    },
+    "condensed_matter": {
+      "name": "Condensed Matter",
+      "category": "physical_sciences"
+    },
+    "conflict_resolution": {
+      "name": "Conflict Resolution",
+      "category": "general"
+    },
+    "conservation_biology": {
+      "name": "Conservation Biology",
+      "category": "life_sciences"
+    },
+    "constitutional_law": {
+      "name": "Constitutional Law",
+      "category": "law"
+    },
+    "construction_management_re": {
+      "name": "Construction Management Re",
+      "category": "business"
+    },
+    "consulting": {
+      "name": "Consulting",
+      "category": "business"
+    },
+    "content_marketing": {
+      "name": "Content Marketing",
+      "category": "business"
+    },
+    "content_strategy": {
+      "name": "Content Strategy",
+      "category": "business"
+    },
+    "contract_law": {
+      "name": "Contract Law",
+      "category": "law"
+    },
+    "contract_law_legal": {
+      "name": "Contract Law Legal",
+      "category": "law"
+    },
+    "control_systems": {
+      "name": "Control Systems",
+      "category": "engineering"
+    },
+    "copyright_law": {
+      "name": "Copyright Law",
+      "category": "law"
+    },
+    "corporate_communications": {
+      "name": "Corporate Communications",
+      "category": "general"
+    },
+    "corporate_finance": {
+      "name": "Corporate Finance",
+      "category": "business"
+    },
+    "corporate_governance": {
+      "name": "Corporate Governance",
+      "category": "general"
+    },
+    "corporate_law": {
+      "name": "Corporate Law",
+      "category": "law"
+    },
+    "corpus_linguistics": {
+      "name": "Corpus Linguistics",
+      "category": "languages"
+    },
+    "cosmetology": {
+      "name": "Cosmetology",
+      "category": "trades"
+    },
+    "cosmology": {
+      "name": "Cosmology",
+      "category": "physical_sciences"
+    },
+    "counterterrorism": {
+      "name": "Counterterrorism",
+      "category": "general"
+    },
+    "cpp": {
+      "name": "Cpp",
+      "category": "computer_science"
+    },
+    "creative_thinking": {
+      "name": "Creative Thinking",
+      "category": "general"
+    },
+    "creative_writing": {
+      "name": "Creative Writing",
+      "category": "languages"
+    },
+    "criminal_justice": {
+      "name": "Criminal Justice",
+      "category": "law"
+    },
+    "criminal_law": {
+      "name": "Criminal Law",
+      "category": "law"
+    },
+    "criminology": {
+      "name": "Criminology",
+      "category": "social_sciences"
+    },
+    "crisis_communications": {
+      "name": "Crisis Communications",
+      "category": "general"
+    },
+    "critical_thinking": {
+      "name": "Critical Thinking",
+      "category": "general"
+    },
+    "crop_science": {
+      "name": "Crop Science",
+      "category": "agriculture"
+    },
+    "cruise_line_management": {
+      "name": "Cruise Line Management",
+      "category": "business"
+    },
+    "cryptocurrency": {
+      "name": "Cryptocurrency",
+      "category": "general"
+    },
+    "cryptography": {
+      "name": "Cryptography",
+      "category": "general"
+    },
+    "cryptography_math": {
+      "name": "Cryptography Math",
+      "category": "mathematics"
+    },
+    "csharp": {
+      "name": "Csharp",
+      "category": "computer_science"
+    },
+    "culinary_arts": {
+      "name": "Culinary Arts",
+      "category": "arts"
+    },
+    "cultural_anthropology": {
+      "name": "Cultural Anthropology",
+      "category": "social_sciences"
+    },
+    "curriculum_design": {
+      "name": "Curriculum Design",
+      "category": "education"
+    },
+    "customs_brokerage": {
+      "name": "Customs Brokerage",
+      "category": "general"
+    },
+    "cyber_defense": {
+      "name": "Cyber Defense",
+      "category": "computer_science"
+    },
+    "cyber_law": {
+      "name": "Cyber Law",
+      "category": "computer_science"
+    },
+    "cybersecurity": {
+      "name": "Cybersecurity",
+      "category": "computer_science"
+    },
+    "dairy_science": {
+      "name": "Dairy Science",
+      "category": "agriculture"
+    },
+    "dance": {
+      "name": "Dance",
+      "category": "arts"
+    },
+    "data_engineering": {
+      "name": "Data Engineering",
+      "category": "computer_science"
+    },
+    "data_science": {
+      "name": "Data Science",
+      "category": "computer_science"
+    },
+    "data_structures": {
+      "name": "Data Structures",
+      "category": "computer_science"
+    },
+    "database_design": {
+      "name": "Database Design",
+      "category": "computer_science"
+    },
+    "death_dying_studies": {
+      "name": "Death Dying Studies",
+      "category": "general"
+    },
+    "debate": {
+      "name": "Debate",
+      "category": "general"
+    },
+    "decision_making": {
+      "name": "Decision Making",
+      "category": "general"
+    },
+    "decision_science": {
+      "name": "Decision Science",
+      "category": "general"
+    },
+    "deep_learning": {
+      "name": "Deep Learning",
+      "category": "computer_science"
+    },
+    "defi": {
+      "name": "Defi",
+      "category": "general"
+    },
+    "demand_forecasting": {
+      "name": "Demand Forecasting",
+      "category": "general"
+    },
+    "demography": {
+      "name": "Demography",
+      "category": "social_sciences"
+    },
+    "dental_hygiene": {
+      "name": "Dental Hygiene",
+      "category": "medical"
+    },
+    "dental_science": {
+      "name": "Dental Science",
+      "category": "medical"
+    },
+    "dentistry_oral_health": {
+      "name": "Dentistry Oral Health",
+      "category": "medical"
+    },
+    "dermatology": {
+      "name": "Dermatology",
+      "category": "medical"
+    },
+    "development_economics": {
+      "name": "Development Economics",
+      "category": "business"
+    },
+    "developmental_biology": {
+      "name": "Developmental Biology",
+      "category": "life_sciences"
+    },
+    "developmental_psychology": {
+      "name": "Developmental Psychology",
+      "category": "social_sciences"
+    },
+    "devops": {
+      "name": "Devops",
+      "category": "computer_science"
+    },
+    "devops_culture": {
+      "name": "Devops Culture",
+      "category": "computer_science"
+    },
+    "devops_engineering": {
+      "name": "Devops Engineering",
+      "category": "computer_science"
+    },
+    "diesel_mechanics": {
+      "name": "Diesel Mechanics",
+      "category": "physical_sciences"
+    },
+    "differential_equations": {
+      "name": "Differential Equations",
+      "category": "mathematics"
+    },
+    "digital_art": {
+      "name": "Digital Art",
+      "category": "arts"
+    },
+    "digital_forensics_advanced": {
+      "name": "Digital Forensics Advanced",
+      "category": "general"
+    },
+    "digital_marketing": {
+      "name": "Digital Marketing",
+      "category": "business"
+    },
+    "digital_media_production": {
+      "name": "Digital Media Production",
+      "category": "general"
+    },
+    "digital_twins": {
+      "name": "Digital Twins",
+      "category": "general"
+    },
+    "diplomacy": {
+      "name": "Diplomacy",
+      "category": "general"
+    },
+    "directing_theater": {
+      "name": "Directing Theater",
+      "category": "arts"
+    },
+    "disability_studies": {
+      "name": "Disability Studies",
+      "category": "general"
+    },
+    "discrete_mathematics": {
+      "name": "Discrete Mathematics",
+      "category": "mathematics"
+    },
+    "distributed_systems": {
+      "name": "Distributed Systems",
+      "category": "general"
+    },
+    "docker_kubernetes": {
+      "name": "Docker Kubernetes",
+      "category": "computer_science"
+    },
+    "documentary_filmmaking": {
+      "name": "Documentary Filmmaking",
+      "category": "arts"
+    },
+    "drawing": {
+      "name": "Drawing",
+      "category": "arts"
+    },
+    "drone_technology": {
+      "name": "Drone Technology",
+      "category": "general"
+    },
+    "dropshipping": {
+      "name": "Dropshipping",
+      "category": "business"
+    },
+    "drums": {
+      "name": "Drums",
+      "category": "general"
+    },
+    "e_commerce": {
+      "name": "E Commerce",
+      "category": "business"
+    },
+    "early_childhood_education": {
+      "name": "Early Childhood Education",
+      "category": "education"
+    },
+    "earth_science": {
+      "name": "Earth Science",
+      "category": "physical_sciences"
+    },
+    "eastern_philosophy": {
+      "name": "Eastern Philosophy",
+      "category": "social_sciences"
+    },
+    "ecology": {
+      "name": "Ecology",
+      "category": "life_sciences"
+    },
+    "ecology_advanced": {
+      "name": "Ecology Advanced",
+      "category": "life_sciences"
+    },
+    "econometrics": {
+      "name": "Econometrics",
+      "category": "general"
+    },
+    "economic_history": {
+      "name": "Economic History",
+      "category": "history"
+    },
+    "economic_history_hum": {
+      "name": "Economic History Hum",
+      "category": "history"
+    },
+    "education_policy": {
+      "name": "Education Policy",
+      "category": "education"
+    },
+    "educational_leadership": {
+      "name": "Educational Leadership",
+      "category": "business"
+    },
+    "educational_psychology": {
+      "name": "Educational Psychology",
+      "category": "social_sciences"
+    },
+    "educational_psychology_ed": {
+      "name": "Educational Psychology Ed",
+      "category": "social_sciences"
+    },
+    "educational_research": {
+      "name": "Educational Research",
+      "category": "education"
+    },
+    "educational_technology": {
+      "name": "Educational Technology",
+      "category": "education"
+    },
+    "electrical_engineering": {
+      "name": "Electrical Engineering",
+      "category": "engineering"
+    },
+    "electrical_work": {
+      "name": "Electrical Work",
+      "category": "engineering"
+    },
+    "electronics": {
+      "name": "Electronics",
+      "category": "general"
+    },
+    "elementary_education": {
+      "name": "Elementary Education",
+      "category": "education"
+    },
+    "embedded_systems": {
+      "name": "Embedded Systems",
+      "category": "engineering"
+    },
+    "emergency_medicine": {
+      "name": "Emergency Medicine",
+      "category": "medical"
+    },
+    "emotional_intelligence": {
+      "name": "Emotional Intelligence",
+      "category": "general"
+    },
+    "employment_law": {
+      "name": "Employment Law",
+      "category": "law"
+    },
+    "emt_paramedic": {
+      "name": "Emt Paramedic",
+      "category": "medical"
+    },
+    "endocrinology": {
+      "name": "Endocrinology",
+      "category": "medical"
+    },
+    "energy_storage": {
+      "name": "Energy Storage",
+      "category": "environmental"
+    },
+    "engineering_fundamentals": {
+      "name": "Engineering Fundamentals",
+      "category": "engineering"
+    },
+    "english_composition": {
+      "name": "English Composition",
+      "category": "languages"
+    },
+    "english_grammar": {
+      "name": "English Grammar",
+      "category": "languages"
+    },
+    "english_literature": {
+      "name": "English Literature",
+      "category": "languages"
+    },
+    "enterprise_ai_architecture": {
+      "name": "Enterprise Ai Architecture",
+      "category": "general"
+    },
+    "entomology": {
+      "name": "Entomology",
+      "category": "life_sciences"
+    },
+    "entrepreneurship": {
+      "name": "Entrepreneurship",
+      "category": "business"
+    },
+    "environmental_economics": {
+      "name": "Environmental Economics",
+      "category": "business"
+    },
+    "environmental_engineering": {
+      "name": "Environmental Engineering",
+      "category": "engineering"
+    },
+    "environmental_impact_assessment": {
+      "name": "Environmental Impact Assessment",
+      "category": "environmental"
+    },
+    "environmental_justice": {
+      "name": "Environmental Justice",
+      "category": "environmental"
+    },
+    "environmental_law": {
+      "name": "Environmental Law",
+      "category": "law"
+    },
+    "environmental_policy": {
+      "name": "Environmental Policy",
+      "category": "environmental"
+    },
+    "environmental_science": {
+      "name": "Environmental Science",
+      "category": "environmental"
+    },
+    "epidemiology": {
+      "name": "Epidemiology",
+      "category": "medical"
+    },
+    "epidemiology_medical": {
+      "name": "Epidemiology Medical",
+      "category": "medical"
+    },
+    "epistemology": {
+      "name": "Epistemology",
+      "category": "general"
+    },
+    "esl_teaching": {
+      "name": "Esl Teaching",
+      "category": "education"
+    },
+    "esports_competitive_gaming": {
+      "name": "Esports Competitive Gaming",
+      "category": "general"
+    },
+    "esports_management": {
+      "name": "Esports Management",
+      "category": "business"
+    },
+    "esthetician": {
+      "name": "Esthetician",
+      "category": "trades"
+    },
+    "ethics": {
+      "name": "Ethics",
+      "category": "social_sciences"
+    },
+    "ethics_moral_philosophy": {
+      "name": "Ethics Moral Philosophy",
+      "category": "social_sciences"
+    },
+    "ethnic_studies": {
+      "name": "Ethnic Studies",
+      "category": "general"
+    },
+    "ethnomusicology": {
+      "name": "Ethnomusicology",
+      "category": "arts"
+    },
+    "event_management": {
+      "name": "Event Management",
+      "category": "business"
+    },
+    "evolution": {
+      "name": "Evolution",
+      "category": "life_sciences"
+    },
+    "exercise_science": {
+      "name": "Exercise Science",
+      "category": "general"
+    },
+    "existentialism": {
+      "name": "Existentialism",
+      "category": "general"
+    },
+    "exoplanet_science": {
+      "name": "Exoplanet Science",
+      "category": "general"
+    },
+    "family_law": {
+      "name": "Family Law",
+      "category": "law"
+    },
+    "farm_management": {
+      "name": "Farm Management",
+      "category": "business"
+    },
+    "fashion_design": {
+      "name": "Fashion Design",
+      "category": "arts"
+    },
+    "film_studies": {
+      "name": "Film Studies",
+      "category": "arts"
+    },
+    "filmmaking": {
+      "name": "Filmmaking",
+      "category": "arts"
+    },
+    "financial_accounting": {
+      "name": "Financial Accounting",
+      "category": "business"
+    },
+    "financial_engineering": {
+      "name": "Financial Engineering",
+      "category": "engineering"
+    },
+    "financial_literacy": {
+      "name": "Financial Literacy",
+      "category": "education"
+    },
+    "financial_mathematics": {
+      "name": "Financial Mathematics",
+      "category": "mathematics"
+    },
+    "financial_planning": {
+      "name": "Financial Planning",
+      "category": "general"
+    },
+    "financial_regulations": {
+      "name": "Financial Regulations",
+      "category": "general"
+    },
+    "fintech": {
+      "name": "Fintech",
+      "category": "general"
+    },
+    "fintech_systems": {
+      "name": "Fintech Systems",
+      "category": "general"
+    },
+    "firefighting": {
+      "name": "Firefighting",
+      "category": "trades"
+    },
+    "fiscal_policy": {
+      "name": "Fiscal Policy",
+      "category": "general"
+    },
+    "fitness_programming": {
+      "name": "Fitness Programming",
+      "category": "computer_science"
+    },
+    "flight_mechanics": {
+      "name": "Flight Mechanics",
+      "category": "physical_sciences"
+    },
+    "flight_navigation": {
+      "name": "Flight Navigation",
+      "category": "general"
+    },
+    "folklore_mythology": {
+      "name": "Folklore Mythology",
+      "category": "general"
+    },
+    "food_beverage_management": {
+      "name": "Food Beverage Management",
+      "category": "business"
+    },
+    "food_safety": {
+      "name": "Food Safety",
+      "category": "general"
+    },
+    "food_science": {
+      "name": "Food Science",
+      "category": "general"
+    },
+    "food_technology": {
+      "name": "Food Technology",
+      "category": "general"
+    },
+    "forensic_psychology": {
+      "name": "Forensic Psychology",
+      "category": "social_sciences"
+    },
+    "forensic_science": {
+      "name": "Forensic Science",
+      "category": "general"
+    },
+    "forestry": {
+      "name": "Forestry",
+      "category": "agriculture"
+    },
+    "forex_trading": {
+      "name": "Forex Trading",
+      "category": "business"
+    },
+    "franchise_development": {
+      "name": "Franchise Development",
+      "category": "business"
+    },
+    "freight_management": {
+      "name": "Freight Management",
+      "category": "business"
+    },
+    "french": {
+      "name": "French",
+      "category": "languages"
+    },
+    "fundamental_analysis": {
+      "name": "Fundamental Analysis",
+      "category": "general"
+    },
+    "futures_trading": {
+      "name": "Futures Trading",
+      "category": "general"
+    },
+    "futurism_futures_studies": {
+      "name": "Futurism Futures Studies",
+      "category": "general"
+    },
+    "game_design": {
+      "name": "Game Design",
+      "category": "arts"
+    },
+    "game_development": {
+      "name": "Game Development",
+      "category": "arts"
+    },
+    "game_theory": {
+      "name": "Game Theory",
+      "category": "general"
+    },
+    "gastroenterology": {
+      "name": "Gastroenterology",
+      "category": "medical"
+    },
+    "gender_studies": {
+      "name": "Gender Studies",
+      "category": "social_sciences"
+    },
+    "generative_ai_systems": {
+      "name": "Generative Ai Systems",
+      "category": "computer_science"
+    },
+    "genetics": {
+      "name": "Genetics",
+      "category": "life_sciences"
+    },
+    "geography": {
+      "name": "Geography",
+      "category": "general"
+    },
+    "geology": {
+      "name": "Geology",
+      "category": "physical_sciences"
+    },
+    "geometry": {
+      "name": "Geometry",
+      "category": "mathematics"
+    },
+    "geopolitical_strategy": {
+      "name": "Geopolitical Strategy",
+      "category": "business"
+    },
+    "geopolitics": {
+      "name": "Geopolitics",
+      "category": "general"
+    },
+    "geotechnical_engineering": {
+      "name": "Geotechnical Engineering",
+      "category": "engineering"
+    },
+    "geriatrics": {
+      "name": "Geriatrics",
+      "category": "medical"
+    },
+    "german": {
+      "name": "German",
+      "category": "languages"
+    },
+    "gifted_education": {
+      "name": "Gifted Education",
+      "category": "education"
+    },
+    "gis_mapping": {
+      "name": "Gis Mapping",
+      "category": "general"
+    },
+    "global_trade_logistics": {
+      "name": "Global Trade Logistics",
+      "category": "business"
+    },
+    "go": {
+      "name": "Go",
+      "category": "general"
+    },
+    "goal_setting": {
+      "name": "Goal Setting",
+      "category": "general"
+    },
+    "graph_theory": {
+      "name": "Graph Theory",
+      "category": "general"
+    },
+    "graphic_design": {
+      "name": "Graphic Design",
+      "category": "arts"
+    },
+    "green_building": {
+      "name": "Green Building",
+      "category": "environmental"
+    },
+    "green_chemistry": {
+      "name": "Green Chemistry",
+      "category": "physical_sciences"
+    },
+    "guest_relations": {
+      "name": "Guest Relations",
+      "category": "business"
+    },
+    "guitar": {
+      "name": "Guitar",
+      "category": "general"
+    },
+    "health_economics": {
+      "name": "Health Economics",
+      "category": "business"
+    },
+    "health_informatics": {
+      "name": "Health Informatics",
+      "category": "medical"
+    },
+    "health_law": {
+      "name": "Health Law",
+      "category": "law"
+    },
+    "health_psychology": {
+      "name": "Health Psychology",
+      "category": "social_sciences"
+    },
+    "hebrew": {
+      "name": "Hebrew",
+      "category": "languages"
+    },
+    "hematology": {
+      "name": "Hematology",
+      "category": "medical"
+    },
+    "heritage_tourism": {
+      "name": "Heritage Tourism",
+      "category": "business"
+    },
+    "higher_education_admin": {
+      "name": "Higher Education Admin",
+      "category": "education"
+    },
+    "hindi": {
+      "name": "Hindi",
+      "category": "languages"
+    },
+    "history_african": {
+      "name": "History African",
+      "category": "history"
+    },
+    "history_american": {
+      "name": "History American",
+      "category": "history"
+    },
+    "history_ancient": {
+      "name": "History Ancient",
+      "category": "history"
+    },
+    "history_art": {
+      "name": "History Art",
+      "category": "history"
+    },
+    "history_asian": {
+      "name": "History Asian",
+      "category": "history"
+    },
+    "history_european": {
+      "name": "History European",
+      "category": "history"
+    },
+    "history_latin_american": {
+      "name": "History Latin American",
+      "category": "history"
+    },
+    "history_medieval": {
+      "name": "History Medieval",
+      "category": "history"
+    },
+    "history_middle_east": {
+      "name": "History Middle East",
+      "category": "history"
+    },
+    "history_modern": {
+      "name": "History Modern",
+      "category": "history"
+    },
+    "history_renaissance": {
+      "name": "History Renaissance",
+      "category": "history"
+    },
+    "history_science": {
+      "name": "History Science",
+      "category": "history"
+    },
+    "history_world": {
+      "name": "History World",
+      "category": "history"
+    },
+    "home_inspection": {
+      "name": "Home Inspection",
+      "category": "trades"
+    },
+    "horticulture": {
+      "name": "Horticulture",
+      "category": "agriculture"
+    },
+    "hospitality_law": {
+      "name": "Hospitality Law",
+      "category": "business"
+    },
+    "hospitality_marketing": {
+      "name": "Hospitality Marketing",
+      "category": "business"
+    },
+    "hotel_management": {
+      "name": "Hotel Management",
+      "category": "business"
+    },
+    "html_css": {
+      "name": "Html Css",
+      "category": "computer_science"
+    },
+    "human_anatomy": {
+      "name": "Human Anatomy",
+      "category": "life_sciences"
+    },
+    "human_computer_interaction": {
+      "name": "Human Computer Interaction",
+      "category": "computer_science"
+    },
+    "human_factors_aviation": {
+      "name": "Human Factors Aviation",
+      "category": "general"
+    },
+    "human_geography": {
+      "name": "Human Geography",
+      "category": "general"
+    },
+    "human_physiology": {
+      "name": "Human Physiology",
+      "category": "life_sciences"
+    },
+    "human_resources": {
+      "name": "Human Resources",
+      "category": "general"
+    },
+    "human_rights_law": {
+      "name": "Human Rights Law",
+      "category": "law"
+    },
+    "hvac": {
+      "name": "Hvac",
+      "category": "trades"
+    },
+    "illustration": {
+      "name": "Illustration",
+      "category": "arts"
+    },
+    "immigration_law": {
+      "name": "Immigration Law",
+      "category": "law"
+    },
+    "immunology": {
+      "name": "Immunology",
+      "category": "life_sciences"
+    },
+    "import_export": {
+      "name": "Import Export",
+      "category": "general"
+    },
+    "indigenous_studies_global": {
+      "name": "Indigenous Studies Global",
+      "category": "general"
+    },
+    "industrial_design": {
+      "name": "Industrial Design",
+      "category": "law"
+    },
+    "industrial_engineering": {
+      "name": "Industrial Engineering",
+      "category": "law"
+    },
+    "industrial_organizational_psych": {
+      "name": "Industrial Organizational Psych",
+      "category": "law"
+    },
+    "infectious_disease": {
+      "name": "Infectious Disease",
+      "category": "general"
+    },
+    "influencer_marketing": {
+      "name": "Influencer Marketing",
+      "category": "business"
+    },
+    "information_science": {
+      "name": "Information Science",
+      "category": "general"
+    },
+    "information_security": {
+      "name": "Information Security",
+      "category": "general"
+    },
+    "information_theory": {
+      "name": "Information Theory",
+      "category": "general"
+    },
+    "innovation_methods": {
+      "name": "Innovation Methods",
+      "category": "general"
+    },
+    "insurance": {
+      "name": "Insurance",
+      "category": "business"
+    },
+    "insurance_finance": {
+      "name": "Insurance Finance",
+      "category": "business"
+    },
+    "insurance_licensing": {
+      "name": "Insurance Licensing",
+      "category": "business"
+    },
+    "intellectual_property_business": {
+      "name": "Intellectual Property Business",
+      "category": "business"
+    },
+    "intellectual_property_law": {
+      "name": "Intellectual Property Law",
+      "category": "law"
+    },
+    "intelligence_analysis": {
+      "name": "Intelligence Analysis",
+      "category": "general"
+    },
+    "interior_design": {
+      "name": "Interior Design",
+      "category": "arts"
+    },
+    "internal_medicine": {
+      "name": "Internal Medicine",
+      "category": "medical"
+    },
+    "international_business": {
+      "name": "International Business",
+      "category": "business"
+    },
+    "international_economics": {
+      "name": "International Economics",
+      "category": "business"
+    },
+    "international_law": {
+      "name": "International Law",
+      "category": "law"
+    },
+    "international_relations": {
+      "name": "International Relations",
+      "category": "general"
+    },
+    "interpersonal_skills": {
+      "name": "Interpersonal Skills",
+      "category": "general"
+    },
+    "inventory_optimization": {
+      "name": "Inventory Optimization",
+      "category": "general"
+    },
+    "investment_analysis": {
+      "name": "Investment Analysis",
+      "category": "business"
+    },
+    "iot_programming": {
+      "name": "Iot Programming",
+      "category": "computer_science"
+    },
+    "irrigation_engineering": {
+      "name": "Irrigation Engineering",
+      "category": "engineering"
+    },
+    "irrigation_science": {
+      "name": "Irrigation Science",
+      "category": "agriculture"
+    },
+    "italian": {
+      "name": "Italian",
+      "category": "languages"
+    },
+    "japanese": {
+      "name": "Japanese",
+      "category": "languages"
+    },
+    "java": {
+      "name": "Java",
+      "category": "computer_science"
+    },
+    "javascript": {
+      "name": "Javascript",
+      "category": "computer_science"
+    },
+    "journalism": {
+      "name": "Journalism",
+      "category": "general"
+    },
+    "kinesiology": {
+      "name": "Kinesiology",
+      "category": "general"
+    },
+    "knowledge_management": {
+      "name": "Knowledge Management",
+      "category": "business"
+    },
+    "korean": {
+      "name": "Korean",
+      "category": "languages"
+    },
+    "kotlin": {
+      "name": "Kotlin",
+      "category": "computer_science"
+    },
+    "labor_economics": {
+      "name": "Labor Economics",
+      "category": "business"
+    },
+    "labor_law": {
+      "name": "Labor Law",
+      "category": "law"
+    },
+    "land_use_planning": {
+      "name": "Land Use Planning",
+      "category": "general"
+    },
+    "landscape_architecture": {
+      "name": "Landscape Architecture",
+      "category": "general"
+    },
+    "landscaping": {
+      "name": "Landscaping",
+      "category": "trades"
+    },
+    "large_language_models": {
+      "name": "Large Language Models",
+      "category": "computer_science"
+    },
+    "last_mile_delivery": {
+      "name": "Last Mile Delivery",
+      "category": "general"
+    },
+    "latin": {
+      "name": "Latin",
+      "category": "languages"
+    },
+    "law_enforcement": {
+      "name": "Law Enforcement",
+      "category": "law"
+    },
+    "leadership": {
+      "name": "Leadership",
+      "category": "business"
+    },
+    "lean_supply_chain": {
+      "name": "Lean Supply Chain",
+      "category": "business"
+    },
+    "legal_fundamentals": {
+      "name": "Legal Fundamentals",
+      "category": "law"
+    },
+    "legal_research": {
+      "name": "Legal Research",
+      "category": "law"
+    },
+    "legal_writing": {
+      "name": "Legal Writing",
+      "category": "law"
+    },
+    "library_science": {
+      "name": "Library Science",
+      "category": "general"
+    },
+    "linear_algebra": {
+      "name": "Linear Algebra",
+      "category": "mathematics"
+    },
+    "linguistics": {
+      "name": "Linguistics",
+      "category": "languages"
+    },
+    "linguistics_applied": {
+      "name": "Linguistics Applied",
+      "category": "languages"
+    },
+    "literacy_education": {
+      "name": "Literacy Education",
+      "category": "education"
+    },
+    "logic_philosophy": {
+      "name": "Logic Philosophy",
+      "category": "social_sciences"
+    },
+    "logistics": {
+      "name": "Logistics",
+      "category": "business"
+    },
+    "logistics_operations": {
+      "name": "Logistics Operations",
+      "category": "business"
+    },
+    "machine_learning": {
+      "name": "Machine Learning",
+      "category": "computer_science"
+    },
+    "machining": {
+      "name": "Machining",
+      "category": "trades"
+    },
+    "macroeconomics": {
+      "name": "Macroeconomics",
+      "category": "business"
+    },
+    "management": {
+      "name": "Management",
+      "category": "business"
+    },
+    "managerial_accounting": {
+      "name": "Managerial Accounting",
+      "category": "business"
+    },
+    "mandarin_chinese": {
+      "name": "Mandarin Chinese",
+      "category": "languages"
+    },
+    "manufacturing_engineering": {
+      "name": "Manufacturing Engineering",
+      "category": "engineering"
+    },
+    "marine_biology": {
+      "name": "Marine Biology",
+      "category": "life_sciences"
+    },
+    "marine_engineering": {
+      "name": "Marine Engineering",
+      "category": "engineering"
+    },
+    "marine_operations": {
+      "name": "Marine Operations",
+      "category": "business"
+    },
+    "maritime_law": {
+      "name": "Maritime Law",
+      "category": "law"
+    },
+    "marketing": {
+      "name": "Marketing",
+      "category": "business"
+    },
+    "masonry": {
+      "name": "Masonry",
+      "category": "trades"
+    },
+    "materials_engineering": {
+      "name": "Materials Engineering",
+      "category": "engineering"
+    },
+    "materials_science": {
+      "name": "Materials Science",
+      "category": "engineering"
+    },
+    "mathematical_logic": {
+      "name": "Mathematical Logic",
+      "category": "mathematics"
+    },
+    "mathematical_modeling": {
+      "name": "Mathematical Modeling",
+      "category": "mathematics"
+    },
+    "mechanical_engineering": {
+      "name": "Mechanical Engineering",
+      "category": "engineering"
+    },
+    "mechatronics": {
+      "name": "Mechatronics",
+      "category": "engineering"
+    },
+    "media_ethics": {
+      "name": "Media Ethics",
+      "category": "social_sciences"
+    },
+    "media_law": {
+      "name": "Media Law",
+      "category": "law"
+    },
+    "media_studies": {
+      "name": "Media Studies",
+      "category": "general"
+    },
+    "mediation_arbitration": {
+      "name": "Mediation Arbitration",
+      "category": "law"
+    },
+    "medical_assisting": {
+      "name": "Medical Assisting",
+      "category": "medical"
+    },
+    "medical_ethics": {
+      "name": "Medical Ethics",
+      "category": "social_sciences"
+    },
+    "medieval_studies": {
+      "name": "Medieval Studies",
+      "category": "history"
+    },
+    "memory_techniques": {
+      "name": "Memory Techniques",
+      "category": "general"
+    },
+    "mental_health": {
+      "name": "Mental Health",
+      "category": "medical"
+    },
+    "mergers_acquisitions": {
+      "name": "Mergers Acquisitions",
+      "category": "general"
+    },
+    "metaphysics": {
+      "name": "Metaphysics",
+      "category": "physical_sciences"
+    },
+    "meteorology": {
+      "name": "Meteorology",
+      "category": "physical_sciences"
+    },
+    "microbiology": {
+      "name": "Microbiology",
+      "category": "life_sciences"
+    },
+    "microeconomics": {
+      "name": "Microeconomics",
+      "category": "business"
+    },
+    "microservices": {
+      "name": "Microservices",
+      "category": "computer_science"
+    },
+    "military_history": {
+      "name": "Military History",
+      "category": "history"
+    },
+    "military_history_studies": {
+      "name": "Military History Studies",
+      "category": "history"
+    },
+    "military_law": {
+      "name": "Military Law",
+      "category": "law"
+    },
+    "military_leadership": {
+      "name": "Military Leadership",
+      "category": "business"
+    },
+    "military_logistics": {
+      "name": "Military Logistics",
+      "category": "business"
+    },
+    "military_strategy": {
+      "name": "Military Strategy",
+      "category": "business"
+    },
+    "military_tactics": {
+      "name": "Military Tactics",
+      "category": "general"
+    },
+    "mindfulness_meditation": {
+      "name": "Mindfulness Meditation",
+      "category": "general"
+    },
+    "mining_engineering": {
+      "name": "Mining Engineering",
+      "category": "engineering"
+    },
+    "mobile_development": {
+      "name": "Mobile Development",
+      "category": "computer_science"
+    },
+    "modern_philosophy": {
+      "name": "Modern Philosophy",
+      "category": "social_sciences"
+    },
+    "molecular_biology": {
+      "name": "Molecular Biology",
+      "category": "life_sciences"
+    },
+    "monetary_economics": {
+      "name": "Monetary Economics",
+      "category": "business"
+    },
+    "mortgage_lending": {
+      "name": "Mortgage Lending",
+      "category": "general"
+    },
+    "multicultural_education": {
+      "name": "Multicultural Education",
+      "category": "education"
+    },
+    "museum_studies": {
+      "name": "Museum Studies",
+      "category": "general"
+    },
+    "music_composition": {
+      "name": "Music Composition",
+      "category": "languages"
+    },
+    "music_history": {
+      "name": "Music History",
+      "category": "history"
+    },
+    "music_production": {
+      "name": "Music Production",
+      "category": "arts"
+    },
+    "music_theory": {
+      "name": "Music Theory",
+      "category": "arts"
+    },
+    "mycology": {
+      "name": "Mycology",
+      "category": "life_sciences"
+    },
+    "mythology": {
+      "name": "Mythology",
+      "category": "general"
+    },
+    "nanotechnology": {
+      "name": "Nanotechnology",
+      "category": "engineering"
+    },
+    "national_security": {
+      "name": "National Security",
+      "category": "general"
+    },
+    "natural_language_processing": {
+      "name": "Natural Language Processing",
+      "category": "computer_science"
+    },
+    "naval_science": {
+      "name": "Naval Science",
+      "category": "general"
+    },
+    "negotiation": {
+      "name": "Negotiation",
+      "category": "business"
+    },
+    "nephrology": {
+      "name": "Nephrology",
+      "category": "medical"
+    },
+    "neurolinguistic_programming": {
+      "name": "Neurolinguistic Programming",
+      "category": "computer_science"
+    },
+    "neurology": {
+      "name": "Neurology",
+      "category": "medical"
+    },
+    "neuropsychology": {
+      "name": "Neuropsychology",
+      "category": "social_sciences"
+    },
+    "neuroscience": {
+      "name": "Neuroscience",
+      "category": "life_sciences"
+    },
+    "nft_digital_assets": {
+      "name": "Nft Digital Assets",
+      "category": "general"
+    },
+    "no_code_low_code": {
+      "name": "No Code Low Code",
+      "category": "computer_science"
+    },
+    "nodejs": {
+      "name": "Nodejs",
+      "category": "computer_science"
+    },
+    "nosql": {
+      "name": "Nosql",
+      "category": "computer_science"
+    },
+    "nuclear_engineering": {
+      "name": "Nuclear Engineering",
+      "category": "engineering"
+    },
+    "nuclear_physics": {
+      "name": "Nuclear Physics",
+      "category": "physical_sciences"
+    },
+    "number_theory": {
+      "name": "Number Theory",
+      "category": "mathematics"
+    },
+    "numerical_methods": {
+      "name": "Numerical Methods",
+      "category": "mathematics"
+    },
+    "nursing": {
+      "name": "Nursing",
+      "category": "medical"
+    },
+    "nutrition_medical": {
+      "name": "Nutrition Medical",
+      "category": "medical"
+    },
+    "nutrition_science": {
+      "name": "Nutrition Science",
+      "category": "medical"
+    },
+    "nutrition_wellness": {
+      "name": "Nutrition Wellness",
+      "category": "medical"
+    },
+    "obstetrics_gynecology": {
+      "name": "Obstetrics Gynecology",
+      "category": "life_sciences"
+    },
+    "occupational_therapy": {
+      "name": "Occupational Therapy",
+      "category": "medical"
+    },
+    "ocean_conservation": {
+      "name": "Ocean Conservation",
+      "category": "environmental"
+    },
+    "ocean_engineering": {
+      "name": "Ocean Engineering",
+      "category": "engineering"
+    },
+    "oceanography": {
+      "name": "Oceanography",
+      "category": "physical_sciences"
+    },
+    "oncology": {
+      "name": "Oncology",
+      "category": "medical"
+    },
+    "online_learning_design": {
+      "name": "Online Learning Design",
+      "category": "education"
+    },
+    "operating_systems": {
+      "name": "Operating Systems",
+      "category": "computer_science"
+    },
+    "operations_management": {
+      "name": "Operations Management",
+      "category": "business"
+    },
+    "operations_research": {
+      "name": "Operations Research",
+      "category": "business"
+    },
+    "ophthalmology": {
+      "name": "Ophthalmology",
+      "category": "medical"
+    },
+    "options_trading": {
+      "name": "Options Trading",
+      "category": "general"
+    },
+    "orbital_mechanics": {
+      "name": "Orbital Mechanics",
+      "category": "physical_sciences"
+    },
+    "orchestration": {
+      "name": "Orchestration",
+      "category": "general"
+    },
+    "organic_farming": {
+      "name": "Organic Farming",
+      "category": "physical_sciences"
+    },
+    "organizational_behavior": {
+      "name": "Organizational Behavior",
+      "category": "general"
+    },
+    "ornithology": {
+      "name": "Ornithology",
+      "category": "life_sciences"
+    },
+    "orthopedics": {
+      "name": "Orthopedics",
+      "category": "medical"
+    },
+    "ottoman_empire": {
+      "name": "Ottoman Empire",
+      "category": "history"
+    },
+    "painting": {
+      "name": "Painting",
+      "category": "arts"
+    },
+    "painting_trades": {
+      "name": "Painting Trades",
+      "category": "arts"
+    },
+    "paleontology_fossils": {
+      "name": "Paleontology Fossils",
+      "category": "general"
+    },
+    "palliative_care": {
+      "name": "Palliative Care",
+      "category": "medical"
+    },
+    "parallel_computing": {
+      "name": "Parallel Computing",
+      "category": "general"
+    },
+    "parasitology": {
+      "name": "Parasitology",
+      "category": "life_sciences"
+    },
+    "parenting": {
+      "name": "Parenting",
+      "category": "general"
+    },
+    "particle_physics": {
+      "name": "Particle Physics",
+      "category": "physical_sciences"
+    },
+    "patent_law": {
+      "name": "Patent Law",
+      "category": "law"
+    },
+    "pathology": {
+      "name": "Pathology",
+      "category": "medical"
+    },
+    "peacekeeping": {
+      "name": "Peacekeeping",
+      "category": "general"
+    },
+    "pedagogy": {
+      "name": "Pedagogy",
+      "category": "education"
+    },
+    "pediatrics": {
+      "name": "Pediatrics",
+      "category": "medical"
+    },
+    "penetration_testing": {
+      "name": "Penetration Testing",
+      "category": "general"
+    },
+    "performance_analysis": {
+      "name": "Performance Analysis",
+      "category": "general"
+    },
+    "permaculture": {
+      "name": "Permaculture",
+      "category": "agriculture"
+    },
+    "personal_finance": {
+      "name": "Personal Finance",
+      "category": "business"
+    },
+    "pest_management": {
+      "name": "Pest Management",
+      "category": "business"
+    },
+    "petroleum_engineering": {
+      "name": "Petroleum Engineering",
+      "category": "engineering"
+    },
+    "pharmacology": {
+      "name": "Pharmacology",
+      "category": "medical"
+    },
+    "pharmacology_medical": {
+      "name": "Pharmacology Medical",
+      "category": "medical"
+    },
+    "pharmacy_technician": {
+      "name": "Pharmacy Technician",
+      "category": "medical"
+    },
+    "philosophy_intro": {
+      "name": "Philosophy Intro",
+      "category": "social_sciences"
+    },
+    "philosophy_mind": {
+      "name": "Philosophy Mind",
+      "category": "social_sciences"
+    },
+    "philosophy_of_language": {
+      "name": "Philosophy Of Language",
+      "category": "social_sciences"
+    },
+    "philosophy_of_mind": {
+      "name": "Philosophy Of Mind",
+      "category": "social_sciences"
+    },
+    "philosophy_of_science": {
+      "name": "Philosophy Of Science",
+      "category": "social_sciences"
+    },
+    "philosophy_science": {
+      "name": "Philosophy Science",
+      "category": "social_sciences"
+    },
+    "phlebotomy": {
+      "name": "Phlebotomy",
+      "category": "medical"
+    },
+    "phonetics_phonology": {
+      "name": "Phonetics Phonology",
+      "category": "languages"
+    },
+    "photography": {
+      "name": "Photography",
+      "category": "arts"
+    },
+    "photojournalism": {
+      "name": "Photojournalism",
+      "category": "general"
+    },
+    "php": {
+      "name": "Php",
+      "category": "computer_science"
+    },
+    "physical_anthropology": {
+      "name": "Physical Anthropology",
+      "category": "social_sciences"
+    },
+    "physical_fitness": {
+      "name": "Physical Fitness",
+      "category": "general"
+    },
+    "physical_therapy": {
+      "name": "Physical Therapy",
+      "category": "medical"
+    },
+    "physics_electromagnetism": {
+      "name": "Physics Electromagnetism",
+      "category": "physical_sciences"
+    },
+    "physics_mechanics": {
+      "name": "Physics Mechanics",
+      "category": "physical_sciences"
+    },
+    "physics_optics": {
+      "name": "Physics Optics",
+      "category": "physical_sciences"
+    },
+    "physics_thermodynamics": {
+      "name": "Physics Thermodynamics",
+      "category": "physical_sciences"
+    },
+    "physics_waves": {
+      "name": "Physics Waves",
+      "category": "physical_sciences"
+    },
+    "piano": {
+      "name": "Piano",
+      "category": "general"
+    },
+    "planetary_science": {
+      "name": "Planetary Science",
+      "category": "general"
+    },
+    "plant_pathology": {
+      "name": "Plant Pathology",
+      "category": "medical"
+    },
+    "plasma_physics": {
+      "name": "Plasma Physics",
+      "category": "physical_sciences"
+    },
+    "playwriting": {
+      "name": "Playwriting",
+      "category": "languages"
+    },
+    "plumbing": {
+      "name": "Plumbing",
+      "category": "trades"
+    },
+    "podcast_production": {
+      "name": "Podcast Production",
+      "category": "arts"
+    },
+    "podcasting": {
+      "name": "Podcasting",
+      "category": "arts"
+    },
+    "poetry_poetics": {
+      "name": "Poetry Poetics",
+      "category": "general"
+    },
+    "political_philosophy": {
+      "name": "Political Philosophy",
+      "category": "social_sciences"
+    },
+    "political_science": {
+      "name": "Political Science",
+      "category": "social_sciences"
+    },
+    "portfolio_management": {
+      "name": "Portfolio Management",
+      "category": "business"
+    },
+    "portuguese": {
+      "name": "Portuguese",
+      "category": "languages"
+    },
+    "positive_psychology": {
+      "name": "Positive Psychology",
+      "category": "social_sciences"
+    },
+    "postcolonial_theory": {
+      "name": "Postcolonial Theory",
+      "category": "general"
+    },
+    "poultry_science": {
+      "name": "Poultry Science",
+      "category": "agriculture"
+    },
+    "power_systems": {
+      "name": "Power Systems",
+      "category": "engineering"
+    },
+    "pre_algebra": {
+      "name": "Pre Algebra",
+      "category": "mathematics"
+    },
+    "precalculus": {
+      "name": "Precalculus",
+      "category": "mathematics"
+    },
+    "precision_agriculture": {
+      "name": "Precision Agriculture",
+      "category": "agriculture"
+    },
+    "predictive_analytics": {
+      "name": "Predictive Analytics",
+      "category": "general"
+    },
+    "prehistory_human_origins": {
+      "name": "Prehistory Human Origins",
+      "category": "history"
+    },
+    "printmaking": {
+      "name": "Printmaking",
+      "category": "arts"
+    },
+    "private_equity": {
+      "name": "Private Equity",
+      "category": "business"
+    },
+    "probability": {
+      "name": "Probability",
+      "category": "mathematics"
+    },
+    "problem_solving": {
+      "name": "Problem Solving",
+      "category": "general"
+    },
+    "procurement": {
+      "name": "Procurement",
+      "category": "business"
+    },
+    "productivity": {
+      "name": "Productivity",
+      "category": "general"
+    },
+    "programming_basics": {
+      "name": "Programming Basics",
+      "category": "computer_science"
+    },
+    "project_management": {
+      "name": "Project Management",
+      "category": "business"
+    },
+    "prompt_engineering": {
+      "name": "Prompt Engineering",
+      "category": "computer_science"
+    },
+    "property_law": {
+      "name": "Property Law",
+      "category": "law"
+    },
+    "property_management": {
+      "name": "Property Management",
+      "category": "business"
+    },
+    "property_valuation": {
+      "name": "Property Valuation",
+      "category": "general"
+    },
+    "psychiatry": {
+      "name": "Psychiatry",
+      "category": "medical"
+    },
+    "psycholinguistics": {
+      "name": "Psycholinguistics",
+      "category": "languages"
+    },
+    "psychology_general": {
+      "name": "Psychology General",
+      "category": "social_sciences"
+    },
+    "public_administration": {
+      "name": "Public Administration",
+      "category": "general"
+    },
+    "public_economics": {
+      "name": "Public Economics",
+      "category": "business"
+    },
+    "public_health": {
+      "name": "Public Health",
+      "category": "medical"
+    },
+    "public_policy": {
+      "name": "Public Policy",
+      "category": "general"
+    },
+    "public_relations": {
+      "name": "Public Relations",
+      "category": "general"
+    },
+    "public_speaking": {
+      "name": "Public Speaking",
+      "category": "general"
+    },
+    "pulmonology": {
+      "name": "Pulmonology",
+      "category": "medical"
+    },
+    "python": {
+      "name": "Python",
+      "category": "computer_science"
+    },
+    "quality_engineering": {
+      "name": "Quality Engineering",
+      "category": "engineering"
+    },
+    "quantum_computing": {
+      "name": "Quantum Computing",
+      "category": "physical_sciences"
+    },
+    "quantum_computing_applications": {
+      "name": "Quantum Computing Applications",
+      "category": "physical_sciences"
+    },
+    "quantum_information": {
+      "name": "Quantum Information",
+      "category": "physical_sciences"
+    },
+    "quantum_machine_learning": {
+      "name": "Quantum Machine Learning",
+      "category": "physical_sciences"
+    },
+    "quantum_mechanics": {
+      "name": "Quantum Mechanics",
+      "category": "physical_sciences"
+    },
+    "radiology": {
+      "name": "Radiology",
+      "category": "medical"
+    },
+    "radiology_technician": {
+      "name": "Radiology Technician",
+      "category": "medical"
+    },
+    "range_management": {
+      "name": "Range Management",
+      "category": "business"
+    },
+    "react": {
+      "name": "React",
+      "category": "computer_science"
+    },
+    "real_analysis": {
+      "name": "Real Analysis",
+      "category": "mathematics"
+    },
+    "real_estate": {
+      "name": "Real Estate",
+      "category": "business"
+    },
+    "real_estate_appraisal": {
+      "name": "Real Estate Appraisal",
+      "category": "business"
+    },
+    "real_estate_development": {
+      "name": "Real Estate Development",
+      "category": "business"
+    },
+    "real_estate_finance": {
+      "name": "Real Estate Finance",
+      "category": "business"
+    },
+    "real_estate_fundamentals": {
+      "name": "Real Estate Fundamentals",
+      "category": "business"
+    },
+    "real_estate_investment": {
+      "name": "Real Estate Investment",
+      "category": "business"
+    },
+    "real_estate_law": {
+      "name": "Real Estate Law",
+      "category": "business"
+    },
+    "real_estate_licensing": {
+      "name": "Real Estate Licensing",
+      "category": "business"
+    },
+    "real_estate_marketing": {
+      "name": "Real Estate Marketing",
+      "category": "business"
+    },
+    "real_estate_negotiation": {
+      "name": "Real Estate Negotiation",
+      "category": "business"
+    },
+    "recreation_management": {
+      "name": "Recreation Management",
+      "category": "business"
+    },
+    "regenerative_agriculture": {
+      "name": "Regenerative Agriculture",
+      "category": "agriculture"
+    },
+    "rehabilitation": {
+      "name": "Rehabilitation",
+      "category": "medical"
+    },
+    "reinforcement_learning": {
+      "name": "Reinforcement Learning",
+      "category": "computer_science"
+    },
+    "reit_analysis": {
+      "name": "Reit Analysis",
+      "category": "general"
+    },
+    "relationship_skills": {
+      "name": "Relationship Skills",
+      "category": "general"
+    },
+    "relativity": {
+      "name": "Relativity",
+      "category": "physical_sciences"
+    },
+    "reliability_engineering": {
+      "name": "Reliability Engineering",
+      "category": "engineering"
+    },
+    "religious_studies": {
+      "name": "Religious Studies",
+      "category": "general"
+    },
+    "renewable_energy": {
+      "name": "Renewable Energy",
+      "category": "environmental"
+    },
+    "research_methods_social": {
+      "name": "Research Methods Social",
+      "category": "social_sciences"
+    },
+    "residential_real_estate": {
+      "name": "Residential Real Estate",
+      "category": "business"
+    },
+    "resort_management": {
+      "name": "Resort Management",
+      "category": "business"
+    },
+    "restaurant_management": {
+      "name": "Restaurant Management",
+      "category": "business"
+    },
+    "retirement_planning": {
+      "name": "Retirement Planning",
+      "category": "business"
+    },
+    "revenue_management_hospitality": {
+      "name": "Revenue Management Hospitality",
+      "category": "business"
+    },
+    "revenue_operations": {
+      "name": "Revenue Operations",
+      "category": "business"
+    },
+    "reverse_logistics": {
+      "name": "Reverse Logistics",
+      "category": "business"
+    },
+    "rhetoric": {
+      "name": "Rhetoric",
+      "category": "languages"
+    },
+    "risk_management": {
+      "name": "Risk Management",
+      "category": "business"
+    },
+    "robotics_engineering": {
+      "name": "Robotics Engineering",
+      "category": "engineering"
+    },
+    "robotics_programming": {
+      "name": "Robotics Programming",
+      "category": "computer_science"
+    },
+    "rocket_science": {
+      "name": "Rocket Science",
+      "category": "general"
+    },
+    "roman_civilization": {
+      "name": "Roman Civilization",
+      "category": "history"
+    },
+    "roofing": {
+      "name": "Roofing",
+      "category": "trades"
+    },
+    "ruby": {
+      "name": "Ruby",
+      "category": "computer_science"
+    },
+    "russian": {
+      "name": "Russian",
+      "category": "languages"
+    },
+    "rust": {
+      "name": "Rust",
+      "category": "computer_science"
+    },
+    "sales": {
+      "name": "Sales",
+      "category": "business"
+    },
+    "sales_psychology": {
+      "name": "Sales Psychology",
+      "category": "business"
+    },
+    "sanskrit": {
+      "name": "Sanskrit",
+      "category": "languages"
+    },
+    "satellite_communications": {
+      "name": "Satellite Communications",
+      "category": "general"
+    },
+    "school_counseling": {
+      "name": "School Counseling",
+      "category": "general"
+    },
+    "screenwriting": {
+      "name": "Screenwriting",
+      "category": "languages"
+    },
+    "sculpture": {
+      "name": "Sculpture",
+      "category": "arts"
+    },
+    "secondary_education": {
+      "name": "Secondary Education",
+      "category": "education"
+    },
+    "securities_law": {
+      "name": "Securities Law",
+      "category": "law"
+    },
+    "seed_technology": {
+      "name": "Seed Technology",
+      "category": "agriculture"
+    },
+    "semantics_pragmatics": {
+      "name": "Semantics Pragmatics",
+      "category": "languages"
+    },
+    "seo": {
+      "name": "Seo",
+      "category": "business"
+    },
+    "set_theory": {
+      "name": "Set Theory",
+      "category": "mathematics"
+    },
+    "sign_language": {
+      "name": "Sign Language",
+      "category": "languages"
+    },
+    "sign_language_communication": {
+      "name": "Sign Language Communication",
+      "category": "languages"
+    },
+    "signal_processing": {
+      "name": "Signal Processing",
+      "category": "engineering"
+    },
+    "six_sigma": {
+      "name": "Six Sigma",
+      "category": "general"
+    },
+    "sleep_science": {
+      "name": "Sleep Science",
+      "category": "medical"
+    },
+    "social_media_marketing": {
+      "name": "Social Media Marketing",
+      "category": "business"
+    },
+    "social_media_strategy": {
+      "name": "Social Media Strategy",
+      "category": "business"
+    },
+    "social_psychology": {
+      "name": "Social Psychology",
+      "category": "social_sciences"
+    },
+    "social_theory": {
+      "name": "Social Theory",
+      "category": "social_sciences"
+    },
+    "social_work": {
+      "name": "Social Work",
+      "category": "social_sciences"
+    },
+    "sociolinguistics": {
+      "name": "Sociolinguistics",
+      "category": "languages"
+    },
+    "sociology": {
+      "name": "Sociology",
+      "category": "social_sciences"
+    },
+    "software_engineering": {
+      "name": "Software Engineering",
+      "category": "computer_science"
+    },
+    "soil_science": {
+      "name": "Soil Science",
+      "category": "agriculture"
+    },
+    "solar_energy_systems": {
+      "name": "Solar Energy Systems",
+      "category": "environmental"
+    },
+    "sound_design": {
+      "name": "Sound Design",
+      "category": "arts"
+    },
+    "spa_management": {
+      "name": "Spa Management",
+      "category": "business"
+    },
+    "space_exploration_history": {
+      "name": "Space Exploration History",
+      "category": "business"
+    },
+    "space_systems_engineering": {
+      "name": "Space Systems Engineering",
+      "category": "business"
+    },
+    "spacecraft_design": {
+      "name": "Spacecraft Design",
+      "category": "business"
+    },
+    "spanish": {
+      "name": "Spanish",
+      "category": "business"
+    },
+    "special_education": {
+      "name": "Special Education",
+      "category": "education"
+    },
+    "speech_pathology": {
+      "name": "Speech Pathology",
+      "category": "medical"
+    },
+    "speech_writing": {
+      "name": "Speech Writing",
+      "category": "languages"
+    },
+    "speed_reading": {
+      "name": "Speed Reading",
+      "category": "general"
+    },
+    "sports_analytics": {
+      "name": "Sports Analytics",
+      "category": "general"
+    },
+    "sports_journalism": {
+      "name": "Sports Journalism",
+      "category": "general"
+    },
+    "sports_law_ethics": {
+      "name": "Sports Law Ethics",
+      "category": "law"
+    },
+    "sports_management": {
+      "name": "Sports Management",
+      "category": "business"
+    },
+    "sports_marketing": {
+      "name": "Sports Marketing",
+      "category": "business"
+    },
+    "sports_medicine": {
+      "name": "Sports Medicine",
+      "category": "medical"
+    },
+    "sports_nutrition": {
+      "name": "Sports Nutrition",
+      "category": "medical"
+    },
+    "sports_psychology": {
+      "name": "Sports Psychology",
+      "category": "social_sciences"
+    },
+    "sql": {
+      "name": "Sql",
+      "category": "computer_science"
+    },
+    "stagecraft": {
+      "name": "Stagecraft",
+      "category": "arts"
+    },
+    "startup_funding": {
+      "name": "Startup Funding",
+      "category": "business"
+    },
+    "statistical_mechanics": {
+      "name": "Statistical Mechanics",
+      "category": "physical_sciences"
+    },
+    "statistics": {
+      "name": "Statistics",
+      "category": "mathematics"
+    },
+    "stem_education": {
+      "name": "Stem Education",
+      "category": "education"
+    },
+    "stock_market": {
+      "name": "Stock Market",
+      "category": "business"
+    },
+    "strategic_intelligence": {
+      "name": "Strategic Intelligence",
+      "category": "general"
+    },
+    "strategic_management": {
+      "name": "Strategic Management",
+      "category": "business"
+    },
+    "strength_conditioning": {
+      "name": "Strength Conditioning",
+      "category": "general"
+    },
+    "stress_management": {
+      "name": "Stress Management",
+      "category": "business"
+    },
+    "string_theory_physics": {
+      "name": "String Theory Physics",
+      "category": "physical_sciences"
+    },
+    "structural_engineering": {
+      "name": "Structural Engineering",
+      "category": "engineering"
+    },
+    "study_skills": {
+      "name": "Study Skills",
+      "category": "general"
+    },
+    "supply_chain": {
+      "name": "Supply Chain",
+      "category": "business"
+    },
+    "supply_chain_analytics": {
+      "name": "Supply Chain Analytics",
+      "category": "business"
+    },
+    "supply_chain_management": {
+      "name": "Supply Chain Management",
+      "category": "business"
+    },
+    "supply_chain_resilience": {
+      "name": "Supply Chain Resilience",
+      "category": "business"
+    },
+    "supply_chain_risk": {
+      "name": "Supply Chain Risk",
+      "category": "business"
+    },
+    "surgery_fundamentals": {
+      "name": "Surgery Fundamentals",
+      "category": "medical"
+    },
+    "surveying": {
+      "name": "Surveying",
+      "category": "trades"
+    },
+    "sustainability_business": {
+      "name": "Sustainability Business",
+      "category": "business"
+    },
+    "sustainability_metrics": {
+      "name": "Sustainability Metrics",
+      "category": "environmental"
+    },
+    "sustainable_agriculture": {
+      "name": "Sustainable Agriculture",
+      "category": "agriculture"
+    },
+    "sustainable_supply_chains": {
+      "name": "Sustainable Supply Chains",
+      "category": "business"
+    },
+    "sustainable_tourism": {
+      "name": "Sustainable Tourism",
+      "category": "business"
+    },
+    "swahili": {
+      "name": "Swahili",
+      "category": "languages"
+    },
+    "swift": {
+      "name": "Swift",
+      "category": "computer_science"
+    },
+    "syntax": {
+      "name": "Syntax",
+      "category": "business"
+    },
+    "synthetic_biology": {
+      "name": "Synthetic Biology",
+      "category": "life_sciences"
+    },
+    "system_design": {
+      "name": "System Design",
+      "category": "computer_science"
+    },
+    "systems_engineering": {
+      "name": "Systems Engineering",
+      "category": "engineering"
+    },
+    "systems_thinking": {
+      "name": "Systems Thinking",
+      "category": "general"
+    },
+    "talent_management": {
+      "name": "Talent Management",
+      "category": "business"
+    },
+    "tax_law": {
+      "name": "Tax Law",
+      "category": "business"
+    },
+    "tax_planning": {
+      "name": "Tax Planning",
+      "category": "business"
+    },
+    "technical_analysis": {
+      "name": "Technical Analysis",
+      "category": "general"
+    },
+    "technical_product_management": {
+      "name": "Technical Product Management",
+      "category": "business"
+    },
+    "technical_writing": {
+      "name": "Technical Writing",
+      "category": "languages"
+    },
+    "technical_writing_advanced": {
+      "name": "Technical Writing Advanced",
+      "category": "languages"
+    },
+    "telecommunications": {
+      "name": "Telecommunications",
+      "category": "engineering"
+    },
+    "telemedicine": {
+      "name": "Telemedicine",
+      "category": "medical"
+    },
+    "television_film_production": {
+      "name": "Television Film Production",
+      "category": "arts"
+    },
+    "thai": {
+      "name": "Thai",
+      "category": "languages"
+    },
+    "theater_studies": {
+      "name": "Theater Studies",
+      "category": "arts"
+    },
+    "theology": {
+      "name": "Theology",
+      "category": "social_sciences"
+    },
+    "time_management": {
+      "name": "Time Management",
+      "category": "business"
+    },
+    "tokenomics_defi": {
+      "name": "Tokenomics Defi",
+      "category": "general"
+    },
+    "topology": {
+      "name": "Topology",
+      "category": "mathematics"
+    },
+    "tort_law": {
+      "name": "Tort Law",
+      "category": "law"
+    },
+    "tourism_planning": {
+      "name": "Tourism Planning",
+      "category": "business"
+    },
+    "toxicology": {
+      "name": "Toxicology",
+      "category": "general"
+    },
+    "trade_finance": {
+      "name": "Trade Finance",
+      "category": "business"
+    },
+    "trademark_law": {
+      "name": "Trademark Law",
+      "category": "law"
+    },
+    "translation_interpretation": {
+      "name": "Translation Interpretation",
+      "category": "languages"
+    },
+    "transportation_engineering": {
+      "name": "Transportation Engineering",
+      "category": "engineering"
+    },
+    "transportation_management": {
+      "name": "Transportation Management",
+      "category": "business"
+    },
+    "travel_agency_operations": {
+      "name": "Travel Agency Operations",
+      "category": "business"
+    },
+    "trial_advocacy": {
+      "name": "Trial Advocacy",
+      "category": "law"
+    },
+    "trigonometry": {
+      "name": "Trigonometry",
+      "category": "mathematics"
+    },
+    "turkish": {
+      "name": "Turkish",
+      "category": "languages"
+    },
+    "typescript": {
+      "name": "Typescript",
+      "category": "computer_science"
+    },
+    "typography_design": {
+      "name": "Typography Design",
+      "category": "arts"
+    },
+    "ui_ux_design": {
+      "name": "Ui Ux Design",
+      "category": "arts"
+    },
+    "unmanned_aerial_systems": {
+      "name": "Unmanned Aerial Systems",
+      "category": "general"
+    },
+    "urban_planning": {
+      "name": "Urban Planning",
+      "category": "general"
+    },
+    "urban_planning_design": {
+      "name": "Urban Planning Design",
+      "category": "general"
+    },
+    "urban_studies": {
+      "name": "Urban Studies",
+      "category": "general"
+    },
+    "urban_sustainability": {
+      "name": "Urban Sustainability",
+      "category": "environmental"
+    },
+    "urology": {
+      "name": "Urology",
+      "category": "medical"
+    },
+    "vendor_management": {
+      "name": "Vendor Management",
+      "category": "business"
+    },
+    "venture_capital": {
+      "name": "Venture Capital",
+      "category": "business"
+    },
+    "version_control_git": {
+      "name": "Version Control Git",
+      "category": "computer_science"
+    },
+    "veterans_affairs": {
+      "name": "Veterans Affairs",
+      "category": "general"
+    },
+    "veterinary_science": {
+      "name": "Veterinary Science",
+      "category": "medical"
+    },
+    "veterinary_technician": {
+      "name": "Veterinary Technician",
+      "category": "medical"
+    },
+    "video_editing": {
+      "name": "Video Editing",
+      "category": "arts"
+    },
+    "vietnamese": {
+      "name": "Vietnamese",
+      "category": "languages"
+    },
+    "viking_norse_history": {
+      "name": "Viking Norse History",
+      "category": "history"
+    },
+    "virology": {
+      "name": "Virology",
+      "category": "life_sciences"
+    },
+    "viticulture": {
+      "name": "Viticulture",
+      "category": "agriculture"
+    },
+    "vlsi_design": {
+      "name": "Vlsi Design",
+      "category": "engineering"
+    },
+    "voice": {
+      "name": "Voice",
+      "category": "arts"
+    },
+    "volcanology_seismology": {
+      "name": "Volcanology Seismology",
+      "category": "general"
+    },
+    "vue": {
+      "name": "Vue",
+      "category": "computer_science"
+    },
+    "warehouse_management": {
+      "name": "Warehouse Management",
+      "category": "business"
+    },
+    "waste_management": {
+      "name": "Waste Management",
+      "category": "business"
+    },
+    "water_resources_engineering": {
+      "name": "Water Resources Engineering",
+      "category": "engineering"
+    },
+    "water_treatment": {
+      "name": "Water Treatment",
+      "category": "environmental"
+    },
+    "wealth_management": {
+      "name": "Wealth Management",
+      "category": "business"
+    },
+    "weapons_systems": {
+      "name": "Weapons Systems",
+      "category": "general"
+    },
+    "web_design": {
+      "name": "Web Design",
+      "category": "computer_science"
+    },
+    "weed_science": {
+      "name": "Weed Science",
+      "category": "agriculture"
+    },
+    "welding": {
+      "name": "Welding",
+      "category": "trades"
+    },
+    "western_philosophy": {
+      "name": "Western Philosophy",
+      "category": "social_sciences"
+    },
+    "wildlife_management": {
+      "name": "Wildlife Management",
+      "category": "business"
+    },
+    "wind_energy": {
+      "name": "Wind Energy",
+      "category": "environmental"
+    },
+    "wine_viticulture_enology": {
+      "name": "Wine Viticulture Enology",
+      "category": "agriculture"
+    },
+    "woodworking": {
+      "name": "Woodworking",
+      "category": "trades"
+    },
+    "world_literature": {
+      "name": "World Literature",
+      "category": "general"
+    },
+    "youth_sports_development": {
+      "name": "Youth Sports Development",
+      "category": "general"
+    },
+    "zoology": {
+      "name": "Zoology",
+      "category": "life_sciences"
+    },
+    "world_religions": {
+      "name": "World Religions",
+      "category": "social_sciences"
+    },
+    "buddhism": {
+      "name": "Buddhism",
+      "category": "social_sciences"
+    },
+    "islam_studies": {
+      "name": "Islam Studies",
+      "category": "social_sciences"
+    },
+    "christianity_studies": {
+      "name": "Christianity Studies",
+      "category": "social_sciences"
+    },
+    "judaism_studies": {
+      "name": "Judaism Studies",
+      "category": "social_sciences"
+    },
+    "hinduism_studies": {
+      "name": "Hinduism Studies",
+      "category": "social_sciences"
+    },
+    "stoicism": {
+      "name": "Stoicism",
+      "category": "social_sciences"
+    },
+    "taoism": {
+      "name": "Taoism",
+      "category": "social_sciences"
+    },
+    "comparative_mythology": {
+      "name": "Comparative Mythology",
+      "category": "social_sciences"
+    },
+    "compilers": {
+      "name": "Compilers",
+      "category": "computer_science"
+    },
+    "blockchain_development": {
+      "name": "Blockchain Development",
+      "category": "computer_science"
+    },
+    "computer_graphics": {
+      "name": "Computer Graphics",
+      "category": "computer_science"
+    },
+    "site_reliability_engineering": {
+      "name": "Site Reliability Engineering",
+      "category": "computer_science"
+    },
+    "mobile_app_development": {
+      "name": "Mobile App Development",
+      "category": "computer_science"
+    },
+    "corporate_strategy": {
+      "name": "Corporate Strategy",
+      "category": "business"
+    },
+    "business_intelligence": {
+      "name": "Business Intelligence",
+      "category": "business"
+    },
+    "product_management": {
+      "name": "Product Management",
+      "category": "business"
+    },
+    "supply_chain_strategy": {
+      "name": "Supply Chain Strategy",
+      "category": "business"
+    },
+    "measure_theory": {
+      "name": "Measure Theory",
+      "category": "mathematics"
+    },
+    "functional_analysis": {
+      "name": "Functional Analysis",
+      "category": "mathematics"
+    },
+    "algebraic_geometry": {
+      "name": "Algebraic Geometry",
+      "category": "mathematics"
+    },
+    "representation_theory": {
+      "name": "Representation Theory",
+      "category": "mathematics"
+    },
+    "numerical_analysis": {
+      "name": "Numerical Analysis",
+      "category": "mathematics"
+    },
+    "film_directing": {
+      "name": "Film Directing",
+      "category": "arts"
+    },
+    "art_conservation": {
+      "name": "Art Conservation",
+      "category": "arts"
+    },
+    "typography": {
+      "name": "Typography",
+      "category": "arts"
+    },
+    "geophysics": {
+      "name": "Geophysics",
+      "category": "physical_sciences"
+    },
+    "atmospheric_science": {
+      "name": "Atmospheric Science",
+      "category": "physical_sciences"
+    },
+    "materials_physics": {
+      "name": "Materials Physics",
+      "category": "physical_sciences"
+    },
+    "classics": {
+      "name": "Classics",
+      "category": "social_sciences"
+    },
+    "linguistics_historical": {
+      "name": "Linguistics Historical",
+      "category": "social_sciences"
+    },
+    "renaissance_studies": {
+      "name": "Renaissance Studies",
+      "category": "social_sciences"
+    },
+    "monetary_policy": {
+      "name": "Monetary Policy",
+      "category": "social_sciences"
+    },
+    "photonics": {
+      "name": "Photonics",
+      "category": "engineering"
+    },
+    "quantum_error_correction": {
+      "name": "Quantum Error Correction",
+      "category": "computer_science"
+    },
+    "topological_quantum_computing": {
+      "name": "Topological Quantum Computing",
+      "category": "computer_science"
+    },
+    "homomorphic_encryption": {
+      "name": "Homomorphic Encryption",
+      "category": "computer_science"
+    },
+    "zero_knowledge_proofs": {
+      "name": "Zero Knowledge Proofs",
+      "category": "computer_science"
+    },
+    "neuromorphic_computing": {
+      "name": "Neuromorphic Computing",
+      "category": "computer_science"
+    },
+    "federated_learning": {
+      "name": "Federated Learning",
+      "category": "computer_science"
+    },
+    "mechanistic_interpretability": {
+      "name": "Mechanistic Interpretability",
+      "category": "computer_science"
+    },
+    "neural_architecture_search": {
+      "name": "Neural Architecture Search",
+      "category": "computer_science"
+    },
+    "differentiable_programming": {
+      "name": "Differentiable Programming",
+      "category": "computer_science"
+    },
+    "formal_verification": {
+      "name": "Formal Verification",
+      "category": "computer_science"
+    },
+    "type_theory": {
+      "name": "Type Theory",
+      "category": "computer_science"
+    },
+    "category_theory_cs": {
+      "name": "Category Theory Cs",
+      "category": "computer_science"
+    },
+    "program_synthesis": {
+      "name": "Program Synthesis",
+      "category": "computer_science"
+    },
+    "photonic_computing": {
+      "name": "Photonic Computing",
+      "category": "computer_science"
+    },
+    "dna_data_storage": {
+      "name": "Dna Data Storage",
+      "category": "computer_science"
+    },
+    "causal_inference_ml": {
+      "name": "Causal Inference Ml",
+      "category": "computer_science"
+    },
+    "graph_neural_networks": {
+      "name": "Graph Neural Networks",
+      "category": "computer_science"
+    },
+    "diffusion_models": {
+      "name": "Diffusion Models",
+      "category": "computer_science"
+    },
+    "spiking_neural_networks": {
+      "name": "Spiking Neural Networks",
+      "category": "computer_science"
+    },
+    "quantum_field_theory": {
+      "name": "Quantum Field Theory",
+      "category": "physical_sciences"
+    },
+    "string_theory": {
+      "name": "String Theory",
+      "category": "physical_sciences"
+    },
+    "loop_quantum_gravity": {
+      "name": "Loop Quantum Gravity",
+      "category": "physical_sciences"
+    },
+    "condensed_matter_physics": {
+      "name": "Condensed Matter Physics",
+      "category": "physical_sciences"
+    },
+    "quantum_optics": {
+      "name": "Quantum Optics",
+      "category": "physical_sciences"
+    },
+    "spintronics": {
+      "name": "Spintronics",
+      "category": "physical_sciences"
+    },
+    "metamaterials": {
+      "name": "Metamaterials",
+      "category": "physical_sciences"
+    },
+    "plasmonics": {
+      "name": "Plasmonics",
+      "category": "physical_sciences"
+    },
+    "topological_insulators": {
+      "name": "Topological Insulators",
+      "category": "physical_sciences"
+    },
+    "quantum_thermodynamics": {
+      "name": "Quantum Thermodynamics",
+      "category": "physical_sciences"
+    },
+    "attosecond_physics": {
+      "name": "Attosecond Physics",
+      "category": "physical_sciences"
+    },
+    "cold_atom_physics": {
+      "name": "Cold Atom Physics",
+      "category": "physical_sciences"
+    },
+    "quantum_chromodynamics": {
+      "name": "Quantum Chromodynamics",
+      "category": "physical_sciences"
+    },
+    "gravitational_wave_astronomy": {
+      "name": "Gravitational Wave Astronomy",
+      "category": "physical_sciences"
+    },
+    "fusion_plasma_physics": {
+      "name": "Fusion Plasma Physics",
+      "category": "physical_sciences"
+    },
+    "quantum_gravity_phenomenology": {
+      "name": "Quantum Gravity Phenomenology",
+      "category": "physical_sciences"
+    },
+    "optogenetics": {
+      "name": "Optogenetics",
+      "category": "life_sciences"
+    },
+    "cryo_electron_microscopy": {
+      "name": "Cryo Electron Microscopy",
+      "category": "life_sciences"
+    },
+    "single_cell_genomics": {
+      "name": "Single Cell Genomics",
+      "category": "life_sciences"
+    },
+    "crispr_gene_editing": {
+      "name": "Crispr Gene Editing",
+      "category": "life_sciences"
+    },
+    "protein_folding_prediction": {
+      "name": "Protein Folding Prediction",
+      "category": "life_sciences"
+    },
+    "systems_biology": {
+      "name": "Systems Biology",
+      "category": "life_sciences"
+    },
+    "epigenetics_advanced": {
+      "name": "Epigenetics Advanced",
+      "category": "life_sciences"
+    },
+    "connectomics": {
+      "name": "Connectomics",
+      "category": "life_sciences"
+    },
+    "organoid_engineering": {
+      "name": "Organoid Engineering",
+      "category": "life_sciences"
+    },
+    "xenobiology": {
+      "name": "Xenobiology",
+      "category": "life_sciences"
+    },
+    "metabolomics": {
+      "name": "Metabolomics",
+      "category": "life_sciences"
+    },
+    "phylogenomics": {
+      "name": "Phylogenomics",
+      "category": "life_sciences"
+    },
+    "biophotonics": {
+      "name": "Biophotonics",
+      "category": "life_sciences"
+    },
+    "quantum_engineering": {
+      "name": "Quantum Engineering",
+      "category": "engineering"
+    },
+    "nanophotonics": {
+      "name": "Nanophotonics",
+      "category": "engineering"
+    },
+    "soft_robotics": {
+      "name": "Soft Robotics",
+      "category": "engineering"
+    },
+    "swarm_robotics": {
+      "name": "Swarm Robotics",
+      "category": "engineering"
+    },
+    "brain_computer_interfaces": {
+      "name": "Brain Computer Interfaces",
+      "category": "engineering"
+    },
+    "molecular_nanotechnology": {
+      "name": "Molecular Nanotechnology",
+      "category": "engineering"
+    },
+    "tissue_engineering": {
+      "name": "Tissue Engineering",
+      "category": "engineering"
+    },
+    "additive_manufacturing_advanced": {
+      "name": "Additive Manufacturing Advanced",
+      "category": "engineering"
+    },
+    "microfluidics": {
+      "name": "Microfluidics",
+      "category": "engineering"
+    },
+    "mems_nems": {
+      "name": "Mems Nems",
+      "category": "engineering"
+    },
+    "aerospace_propulsion_advanced": {
+      "name": "Aerospace Propulsion Advanced",
+      "category": "engineering"
+    },
+    "hypersonics": {
+      "name": "Hypersonics",
+      "category": "engineering"
+    },
+    "directed_energy_systems": {
+      "name": "Directed Energy Systems",
+      "category": "engineering"
+    },
+    "fault_tolerant_systems": {
+      "name": "Fault Tolerant Systems",
+      "category": "engineering"
+    },
+    "homotopy_type_theory": {
+      "name": "Homotopy Type Theory",
+      "category": "mathematics"
+    },
+    "langlands_program": {
+      "name": "Langlands Program",
+      "category": "mathematics"
+    },
+    "tropical_geometry": {
+      "name": "Tropical Geometry",
+      "category": "mathematics"
+    },
+    "derived_algebraic_geometry": {
+      "name": "Derived Algebraic Geometry",
+      "category": "mathematics"
+    },
+    "geometric_group_theory": {
+      "name": "Geometric Group Theory",
+      "category": "mathematics"
+    },
+    "operator_algebras": {
+      "name": "Operator Algebras",
+      "category": "mathematics"
+    },
+    "motivic_cohomology": {
+      "name": "Motivic Cohomology",
+      "category": "mathematics"
+    },
+    "higher_category_theory": {
+      "name": "Higher Category Theory",
+      "category": "mathematics"
+    },
+    "arithmetic_geometry": {
+      "name": "Arithmetic Geometry",
+      "category": "mathematics"
+    },
+    "stochastic_analysis": {
+      "name": "Stochastic Analysis",
+      "category": "mathematics"
+    },
+    "ergodic_theory": {
+      "name": "Ergodic Theory",
+      "category": "mathematics"
+    },
+    "model_theory": {
+      "name": "Model Theory",
+      "category": "mathematics"
+    },
+    "precision_oncology": {
+      "name": "Precision Oncology",
+      "category": "medical"
+    },
+    "immunotherapy_advanced": {
+      "name": "Immunotherapy Advanced",
+      "category": "medical"
+    },
+    "regenerative_medicine": {
+      "name": "Regenerative Medicine",
+      "category": "medical"
+    },
+    "nanomedicine": {
+      "name": "Nanomedicine",
+      "category": "medical"
+    },
+    "gene_therapy": {
+      "name": "Gene Therapy",
+      "category": "medical"
+    },
+    "neuroprosthetics": {
+      "name": "Neuroprosthetics",
+      "category": "medical"
+    },
+    "pharmacogenomics": {
+      "name": "Pharmacogenomics",
+      "category": "medical"
+    },
+    "radiogenomics": {
+      "name": "Radiogenomics",
+      "category": "medical"
+    }
+  }
+}

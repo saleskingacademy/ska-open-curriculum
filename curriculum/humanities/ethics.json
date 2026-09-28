@@ -1,0 +1,78 @@
+{
+  "subject_id": "ethics",
+  "subject_name": "Ethics",
+  "category": "HUMANITIES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Ethics and Moral Philosophy",
+          "content": "# Introduction to Ethics and Moral Philosophy\n\n## Learning Objectives\n1. Define ethics and distinguish it from morals and law\n2. Identify the major branches of ethics\n3. Understand the role of ethics in personal and professional life\n4. Recognize ethical dilemmas and their characteristics\n5. Apply basic ethical reasoning to real-world scenarios\n\n## What is Ethics?\n\nEthics is the philosophical study of morality \u2014 the systematic examination of right and wrong, good and bad, just and unjust. It asks fundamental questions: What should we do? What kind of person should we be? How should we treat others?\n\n### Ethics vs. Morals vs. Law\n- **Morals**: Personal beliefs about right and wrong (individual)\n- **Ethics**: Systematic study of moral principles (academic/professional)\n- **Law**: Society's formal rules enforced by government (legal)\n\nThese overlap but are not identical. Something can be legal but unethical (exploiting a loophole), or illegal but ethical (civil disobedience against unjust laws).\n\n## Branches of Ethics\n\n### 1. Meta-Ethics\nAsks what morality itself IS. What do we mean by \"good\" or \"right\"? Are moral truths objective or subjective?\n\n### 2. Normative Ethics\nEstablishes HOW we should act. The three major normative theories:\n\n**Consequentialism**: Actions are judged by their outcomes\n- Utilitarianism (John Stuart Mill): The greatest good for the greatest number\n- An action is right if it produces more benefit than harm\n\n**Deontology**: Actions are judged by rules and duties\n- Kant's Categorical Imperative: Act only according to rules you could will as universal laws\n- Some actions are inherently right or wrong regardless of consequences\n\n**Virtue Ethics**: Focus on character rather than actions\n- Aristotle: Develop virtuous character traits (courage, justice, temperance, wisdom)\n- A good person naturally makes good choices\n\n### 3. Applied Ethics\nApplies ethical theory to specific issues: medical ethics, business ethics, environmental ethics, technology ethics, etc.\n\n## Ethical Dilemmas\n\nAn **ethical dilemma** occurs when:\n- Two or more moral principles conflict\n- Every available option involves some moral cost\n- There's no clearly \"right\" answer\n\n### Classic Example: The Trolley Problem\nA runaway trolley will kill 5 people. You can pull a lever to divert it, but it will kill 1 person on the other track. Do you pull the lever?\n\n- **Utilitarian view**: Pull the lever (saves more lives)\n- **Deontological view**: Don't pull (actively causing death is wrong regardless of outcome)\n- **Virtue ethics view**: What would a virtuous person do? (considers character and context)\n\n## Ethics in Professional Life\n\nEvery profession faces ethical questions:\n- **Business**: Fair pricing, honest advertising, worker treatment\n- **Medicine**: Patient autonomy, resource allocation, end-of-life decisions\n- **Technology**: Privacy, AI bias, data ownership\n- **Law**: Defending guilty clients, confidentiality, justice vs. law\n- **Education**: Academic integrity, student privacy, equitable access\n\n## Critical Thinking in Ethics\n\n### Steps for Ethical Analysis\n1. Identify the ethical issue clearly\n2. Gather relevant facts\n3. Identify all stakeholders (who is affected?)\n4. Consider the issue from multiple ethical frameworks\n5. Evaluate the available options\n6. Make a decision and be prepared to justify it\n7. Reflect on the outcome\n\n## Practice Problems\n\n1. Is it ethical for a company to sell data about its users if the terms of service allow it?\n   **Consider**: Consequentialist, deontological, and virtue ethics perspectives\n\n2. A doctor has one dose of a life-saving medicine and two dying patients. How should they decide?\n   **Consider**: What principles should guide the allocation?\n\n3. Give an example of something that is legal but could be considered unethical.\n   **Example**: A corporation moving profits to tax havens to avoid paying taxes\n\n4. Which ethical framework focuses on outcomes: consequentialism, deontology, or virtue ethics?\n   **Answer**: Consequentialism\n\n5. Name the three branches of ethics and give one question each addresses.\n   **Answer**: Meta-ethics (What IS morality?), Normative ethics (How SHOULD we act?), Applied ethics (What should we do about specific issues?)\n\n## Key Takeaways\n- Ethics systematically studies right and wrong\n- Three main normative theories: consequentialism, deontology, virtue ethics\n- Ethical dilemmas arise when moral principles conflict\n- Every profession faces unique ethical challenges\n- Good ethical reasoning considers multiple perspectives and stakeholders",
+          "quiz": [
+            {
+              "question": "Which branch of ethics asks 'How should we act?'",
+              "options": [
+                "Meta-ethics",
+                "Normative ethics",
+                "Applied ethics",
+                "Descriptive ethics"
+              ],
+              "correct": "Normative ethics",
+              "explanation": "Normative ethics establishes rules and principles for how we should behave"
+            },
+            {
+              "question": "Utilitarianism is a type of:",
+              "options": [
+                "Deontology",
+                "Virtue ethics",
+                "Consequentialism",
+                "Meta-ethics"
+              ],
+              "correct": "Consequentialism",
+              "explanation": "Utilitarianism judges actions by their consequences \u2014 the greatest good for the greatest number"
+            },
+            {
+              "question": "What characterizes an ethical dilemma?",
+              "options": [
+                "One clear right answer",
+                "No moral cost",
+                "Conflicting moral principles",
+                "Legal issues only"
+              ],
+              "correct": "Conflicting moral principles",
+              "explanation": "Ethical dilemmas arise when two or more moral principles conflict"
+            },
+            {
+              "question": "Who is associated with virtue ethics?",
+              "options": [
+                "Kant",
+                "Mill",
+                "Aristotle",
+                "Hobbes"
+              ],
+              "correct": "Aristotle",
+              "explanation": "Aristotle developed virtue ethics focused on character traits"
+            },
+            {
+              "question": "Something can be legal but unethical. True or false?",
+              "options": [
+                "True",
+                "False",
+                "Only in some countries",
+                "Only for businesses"
+              ],
+              "correct": "True",
+              "explanation": "Law and ethics overlap but are not identical \u2014 something legal can still be unethical"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

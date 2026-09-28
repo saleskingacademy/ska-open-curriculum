@@ -1,0 +1,98 @@
+[
+  {
+    "id": "investing_L1_1",
+    "subject_id": "investing",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Investing Foundations",
+    "content": "KEY CONCEPTS: Investing is deploying capital today expecting more in the future \u2014 distinct from saving (preserving) and speculating (betting on price). Compounding is the core force: returns earning returns, which is why time in the market beats timing the market. The risk-return tradeoff: higher expected returns require accepting higher volatility/uncertainty. Asset classes: stocks (ownership), bonds (lending), real estate, cash, commodities. Inflation is the silent enemy \u2014 cash loses ~2-3% purchasing power yearly, so 'safe' cash is a guaranteed slow loss.\n\nWORKED EXAMPLE: $10,000 at 8% for 30 years becomes ~$100,000 \u2014 a 10x from compounding, with the last decade adding more than the first two combined. Starting 10 years later (20 years) yields only ~$47,000. The cost of waiting isn't linear; it's the loss of the most powerful final compounding years.\n\nPRACTICE: 1) Calculate what $5,000 grows to at 7% over 25 years. 2) Rank three asset classes by risk. 3) Explain why holding only cash loses money over time.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The core force behind long-term investing is:\", \"options\": [\"Luck\", \"Compounding (returns earning returns)\", \"Timing\", \"News\"], \"correct\": 1, \"explanation\": \"Time in the market beats timing it.\"}, {\"q\": \"Holding only cash:\", \"options\": [\"Is perfectly safe\", \"Loses purchasing power to inflation\", \"Beats stocks\", \"Has no downside\"], \"correct\": 1, \"explanation\": \"Inflation erodes ~2-3% yearly.\"}, {\"q\": \"Higher expected returns require:\", \"options\": [\"No risk\", \"Accepting higher volatility\", \"Insider info\", \"Government bonds\"], \"correct\": 1, \"explanation\": \"The risk-return tradeoff is fundamental.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L2_1",
+    "subject_id": "investing",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Stocks & Equity Markets",
+    "content": "KEY CONCEPTS: A stock is fractional ownership of a business \u2014 its long-run value tracks the company's earnings and growth. Price \u2260 value: markets swing on emotion short-term, track fundamentals long-term (Graham: 'voting machine short-term, weighing machine long-term'). Key metrics: P/E ratio (price \u00f7 earnings), dividend yield, market cap, EPS growth. Diversification reduces company-specific risk without reducing expected return \u2014 the only 'free lunch' in finance. Index funds capture the market's return at near-zero cost and beat most active managers over time.\n\nWORKED EXAMPLE: An investor picks 'hot' individual stocks and underperforms a simple S&P 500 index fund over a decade \u2014 because most stock-pickers, including professionals, fail to beat the index after fees. The boring index quietly won by capturing the whole market's growth at 0.03% cost instead of 1%+ in fees and mistakes.\n\nPRACTICE: 1) Compute a P/E ratio from price and earnings. 2) Explain why diversification is a 'free lunch.' 3) Compare index vs active investing costs over 20 years.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A stock represents:\", \"options\": [\"A loan\", \"Fractional ownership of a business\", \"A guarantee\", \"Cash\"], \"correct\": 1, \"explanation\": \"Equity is ownership.\"}, {\"q\": \"Diversification is called the 'free lunch' because it:\", \"options\": [\"Costs nothing to buy\", \"Reduces risk without reducing expected return\", \"Guarantees profit\", \"Times the market\"], \"correct\": 1, \"explanation\": \"It removes company-specific risk for free.\"}, {\"q\": \"Index funds tend to:\", \"options\": [\"Always lose\", \"Beat most active managers over time\", \"Have high fees\", \"Pick winners\"], \"correct\": 1, \"explanation\": \"Low cost + full market capture wins long-term.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L3_1",
+    "subject_id": "investing",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Bonds, Fixed Income & Interest Rates",
+    "content": "KEY CONCEPTS: A bond is a loan to a government or company that pays interest (coupon) and returns principal at maturity. Bond prices move inversely to interest rates \u2014 when rates rise, existing lower-rate bonds fall in value. Yield to maturity (YTM) is the total return if held to maturity. Credit risk (will they repay?) is rated (AAA to junk); higher risk demands higher yield. Duration measures interest-rate sensitivity. Bonds provide income and stability, dampening a portfolio's swings \u2014 the ballast to stocks' volatility.\n\nWORKED EXAMPLE: You own a bond paying 3%. Rates rise to 5%. Nobody wants your 3% bond at full price when new ones pay 5%, so its market price drops until its effective yield matches ~5%. This inverse relationship surprises new investors who assume 'safe' bonds can't lose value \u2014 they can, when rates rise.\n\nPRACTICE: 1) Explain why bond prices fall when rates rise. 2) Compare a AAA bond vs a junk bond's yield and risk. 3) Describe the role of bonds in a portfolio.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"When interest rates rise, existing bond prices:\", \"options\": [\"Rise\", \"Fall\", \"Stay flat\", \"Double\"], \"correct\": 1, \"explanation\": \"Bond prices move inversely to rates.\"}, {\"q\": \"Junk bonds pay higher yields because of:\", \"options\": [\"Lower risk\", \"Higher credit (default) risk\", \"Government backing\", \"Longer names\"], \"correct\": 1, \"explanation\": \"Higher risk demands higher yield.\"}, {\"q\": \"Bonds in a portfolio provide:\", \"options\": [\"Maximum growth\", \"Income and stability (ballast)\", \"Guaranteed riches\", \"Leverage\"], \"correct\": 1, \"explanation\": \"They dampen stock volatility.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L4_1",
+    "subject_id": "investing",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Portfolio Construction & Risk",
+    "content": "KEY CONCEPTS: Asset allocation (the mix of stocks/bonds/etc.) drives ~90% of portfolio outcomes \u2014 far more than individual picks. Modern Portfolio Theory: combining uncorrelated assets reduces risk for a given return (the efficient frontier). Rebalancing (selling winners, buying losers back to target) enforces discipline and 'buy low, sell high.' Risk tolerance depends on time horizon and temperament \u2014 young investors can hold more stocks (time to recover); near-retirement needs stability. Dollar-cost averaging (investing fixed amounts regularly) removes timing emotion.\n\nWORKED EXAMPLE: A portfolio is set 70% stocks / 30% bonds. Stocks surge to 80% of the mix. Rebalancing sells the excess stocks (locking gains) and buys bonds \u2014 mechanically selling high and buying low, the opposite of what emotion dictates. This discipline, not prediction, drives long-term results.\n\nPRACTICE: 1) Design an allocation for a 25-year-old vs a 60-year-old. 2) Explain how rebalancing enforces buy-low/sell-high. 3) Describe dollar-cost averaging's psychological benefit.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What drives ~90% of portfolio outcomes?\", \"options\": [\"Stock picking\", \"Asset allocation\", \"Market timing\", \"News\"], \"correct\": 1, \"explanation\": \"The mix matters more than individual picks.\"}, {\"q\": \"Rebalancing mechanically:\", \"options\": [\"Buys high, sells low\", \"Sells winners and buys losers (buy low, sell high)\", \"Does nothing\", \"Increases risk\"], \"correct\": 1, \"explanation\": \"It enforces disciplined buy-low/sell-high.\"}, {\"q\": \"A younger investor can generally hold:\", \"options\": [\"More bonds\", \"More stocks (time to recover)\", \"Only cash\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Long horizon allows more volatility.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L5_1",
+    "subject_id": "investing",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Valuation & Analysis",
+    "content": "KEY CONCEPTS: Fundamental analysis values a business by its cash flows \u2014 Discounted Cash Flow (DCF) sums future cash flows discounted to present value. Relative valuation compares multiples (P/E, EV/EBITDA) to peers. The margin of safety (Graham/Buffett): buy well below estimated intrinsic value to protect against error and bad luck. Moats (durable competitive advantages) justify premium valuations. Technical analysis studies price/volume patterns \u2014 useful for timing, weak for long-term value. Beware value traps (cheap for a reason) and story stocks (expensive on hope).\n\nWORKED EXAMPLE: A stock trades at $50; your DCF estimates intrinsic value at $80. The $30 gap is your margin of safety \u2014 if you're wrong by 20%, you still don't lose. Buying at intrinsic value ($80) leaves no cushion; buying at $50 means errors and surprises are absorbed. The discipline is buying with a margin, not at fair value.\n\nPRACTICE: 1) Explain the margin of safety concept. 2) Compare two companies using P/E multiples. 3) Identify what makes a business's moat durable.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Margin of safety means:\", \"options\": [\"Buying at fair value\", \"Buying well below estimated intrinsic value\", \"Buying high\", \"Using leverage\"], \"correct\": 1, \"explanation\": \"A cushion against error and bad luck.\"}, {\"q\": \"DCF values a business by:\", \"options\": [\"Its logo\", \"Discounted future cash flows\", \"Recent price\", \"Popularity\"], \"correct\": 1, \"explanation\": \"Present value of future cash flows.\"}, {\"q\": \"A moat is:\", \"options\": [\"A stock price\", \"A durable competitive advantage\", \"A type of bond\", \"A tax\"], \"correct\": 1, \"explanation\": \"It justifies premium valuation.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L6_1",
+    "subject_id": "investing",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Alternative Investments & Real Estate",
+    "content": "KEY CONCEPTS: Beyond stocks/bonds: real estate (rental income + appreciation + leverage + tax benefits), REITs (liquid real estate exposure), private equity, venture capital, commodities, and collectibles. Real estate leverage amplifies both gains and losses \u2014 a 20% down payment means a 10% price rise is a 50% return on capital (and a 10% drop is a 50% loss). Illiquidity premium: private assets may pay more for locking up capital. Diversification benefit: alternatives often move differently than public markets. Beware complexity, fees, and illiquidity risks.\n\nWORKED EXAMPLE: You buy a $200,000 property with $40,000 down (20%). It rises 10% to $220,000. Your $20,000 gain on $40,000 invested is a 50% return \u2014 leverage multiplied the 10% appreciation fivefold. But if it falls 10%, you lose 50% of your capital. Leverage is a double-edged sword that amplifies the outcome in both directions.\n\nPRACTICE: 1) Calculate the leveraged return on a real estate example. 2) Compare direct property vs a REIT. 3) Explain the illiquidity premium.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"20% down on property means a 10% price rise gives roughly:\", \"options\": [\"10% return\", \"50% return on capital\", \"5% return\", \"No return\"], \"correct\": 1, \"explanation\": \"Leverage amplifies the return ~5x.\"}, {\"q\": \"Leverage amplifies:\", \"options\": [\"Only gains\", \"Both gains and losses\", \"Nothing\", \"Only losses\"], \"correct\": 1, \"explanation\": \"It's a double-edged sword.\"}, {\"q\": \"REITs offer:\", \"options\": [\"Illiquid property only\", \"Liquid real estate exposure\", \"Guaranteed returns\", \"No diversification\"], \"correct\": 1, \"explanation\": \"Tradeable real estate exposure.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L7_1",
+    "subject_id": "investing",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Behavioral Finance & Strategy",
+    "content": "KEY CONCEPTS: The biggest obstacle to returns is the investor, not the market. Behavioral biases destroy returns: loss aversion (selling winners too early, holding losers), recency bias (chasing recent performance), overconfidence (overtrading), herding (buying tops, selling bottoms), and confirmation bias. The behavior gap: average investors earn far less than the funds they own because they buy high and sell low emotionally. Tax efficiency matters: tax-advantaged accounts, holding periods, and tax-loss harvesting materially boost after-tax returns. A written investment policy statement enforces discipline against emotion.\n\nWORKED EXAMPLE: A fund returns 10% annually over a decade, but its average investor earns 6% \u2014 because they poured money in after good years and pulled out after crashes. The 4% 'behavior gap' isn't market risk; it's self-inflicted, caused by buying high and selling low on emotion. Discipline, not intelligence, closes this gap.\n\nPRACTICE: 1) Identify a behavioral bias in your own past decisions. 2) Explain the behavior gap. 3) Write three rules for an investment policy statement.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The behavior gap is caused by:\", \"options\": [\"Market risk\", \"Buying high and selling low emotionally\", \"Fees only\", \"Taxes only\"], \"correct\": 1, \"explanation\": \"Self-inflicted, from emotional timing.\"}, {\"q\": \"The biggest obstacle to returns is usually:\", \"options\": [\"The market\", \"The investor's own behavior\", \"Inflation\", \"Interest rates\"], \"correct\": 1, \"explanation\": \"Psychology destroys more returns than markets.\"}, {\"q\": \"An investment policy statement helps by:\", \"options\": [\"Predicting markets\", \"Enforcing discipline against emotion\", \"Guaranteeing returns\", \"Eliminating risk\"], \"correct\": 1, \"explanation\": \"Written rules resist emotional decisions.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "investing_L8_1",
+    "subject_id": "investing",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Wealth Building & Capital Allocation",
+    "content": "KEY CONCEPTS: At the highest level, investing becomes lifelong capital allocation \u2014 deploying every dollar to its highest risk-adjusted use across a lifetime. Wealth is built by: high savings rate (the biggest lever early), compounding over decades, avoiding catastrophic losses (survival first \u2014 you can't compound from zero), and tax/fee minimization. The Kelly criterion guides bet sizing. Sequence-of-returns risk matters near retirement (a crash early in withdrawal is devastating). Estate and generational planning extend compounding beyond one lifetime. The King-level truth: getting rich is about a few good decisions and avoiding ruin, not constant brilliance \u2014 protect the downside and let compounding do the work.\n\nWORKED EXAMPLE: Two investors average the same 10% return, but one suffers a single -70% year from over-concentration and never fully recovers (a 70% loss needs a 233% gain to break even). The other never risks ruin, compounds steadily, and ends with far more. Avoiding catastrophic loss matters more than maximizing any single year \u2014 survival is the precondition for compounding.\n\nPRACTICE: 1) Explain why avoiding ruin beats maximizing returns. 2) Calculate the gain needed to recover a 50% loss. 3) Identify your single biggest lever (savings rate, fees, or returns) at your life stage.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Recovering from a 50% loss requires a gain of:\", \"options\": [\"50%\", \"100%\", \"25%\", \"70%\"], \"correct\": 1, \"explanation\": \"You need to double to recover a halving.\"}, {\"q\": \"Getting wealthy is mostly about:\", \"options\": [\"Constant brilliance\", \"A few good decisions and avoiding ruin\", \"Daily trading\", \"Luck alone\"], \"correct\": 1, \"explanation\": \"Survival + compounding beats heroics.\"}, {\"q\": \"The biggest lever for a young investor is usually:\", \"options\": [\"Stock picking\", \"Savings rate\", \"Market timing\", \"Leverage\"], \"correct\": 1, \"explanation\": \"How much you save dominates early on.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

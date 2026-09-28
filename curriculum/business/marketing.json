@@ -1,0 +1,78 @@
+{
+  "subject_id": "marketing",
+  "subject_name": "Marketing",
+  "category": "BUSINESS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Marketing Fundamentals and the 4 Ps",
+          "content": "# Marketing Fundamentals and the 4 Ps\n\n## Learning Objectives\n1. Define marketing and its role in business\n2. Understand the marketing mix (4 Ps)\n3. Identify target markets and customer segments\n4. Distinguish between B2B and B2C marketing\n5. Apply basic marketing strategy concepts\n\n## What is Marketing?\n\nMarketing is the process of creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society. It's NOT just advertising \u2014 it encompasses everything from product development to pricing to distribution.\n\nPeter Drucker: 'The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself.'\n\n## The Marketing Mix (4 Ps)\n\n### 1. Product\nWhat you're selling \u2014 the total offering including features, quality, design, brand, packaging, and service.\n- Core product: The fundamental benefit (transportation, not a car)\n- Actual product: The physical product (sedan, SUV, truck)\n- Augmented product: Added value (warranty, free service, financing)\n\n### 2. Price\nWhat customers pay \u2014 reflects value, costs, competition, and positioning.\n- Cost-plus pricing: Cost + markup percentage\n- Value-based pricing: What customers are willing to pay\n- Competitive pricing: Based on competitor prices\n- Penetration pricing: Low initial price to gain market share\n- Skimming: High initial price, lower over time\n\n### 3. Place (Distribution)\nHow the product reaches the customer.\n- Direct: Manufacturer \u2192 Consumer (online store, own retail)\n- Indirect: Manufacturer \u2192 Wholesaler \u2192 Retailer \u2192 Consumer\n- Channel decisions: Online, physical stores, both (omnichannel)\n\n### 4. Promotion\nHow you communicate value to customers.\n- Advertising (paid media)\n- Public relations (earned media)\n- Sales promotion (coupons, discounts)\n- Personal selling\n- Digital marketing (SEO, social media, email, content)\n\n## Target Market and Segmentation\n\nMarket segmentation divides customers into groups:\n- **Demographic**: Age, income, gender, education\n- **Geographic**: Location, climate, urban/rural\n- **Psychographic**: Lifestyle, values, personality\n- **Behavioral**: Purchase habits, brand loyalty, usage rate\n\n## Practice Problems\n1. A luxury watch brand charges $10,000 for a watch that costs $500 to make. What pricing strategy?\n   **Answer**: Value-based pricing (or prestige pricing) \u2014 price reflects perceived value, not cost\n\n2. Name the 4 Ps and give one example decision for each.\n   **Answer**: Product (add new feature), Price (offer discount), Place (sell on Amazon), Promotion (run social media campaign)\n\n## Key Takeaways\n- Marketing is about creating and delivering value, not just advertising\n- The 4 Ps (Product, Price, Place, Promotion) form the marketing mix\n- Market segmentation identifies specific customer groups to target\n- Pricing strategy must align with brand positioning and customer perception\n- Effective marketing starts with understanding the customer's needs",
+          "quiz": [
+            {
+              "question": "What is the main focus of Marketing?",
+              "options": [
+                "Study of marketing",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of marketing",
+              "explanation": "Marketing encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Marketing?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Marketing has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Marketing lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

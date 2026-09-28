@@ -1,0 +1,78 @@
+{
+  "subject_id": "microeconomics",
+  "subject_name": "Microeconomics",
+  "category": "SOCIAL_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Scarcity, Choice, and Opportunity Cost",
+          "content": "# Scarcity, Choice, and Opportunity Cost\n\n## Learning Objectives\n1. Define economics and the fundamental economic problem\n2. Explain scarcity and its implications for decision-making\n3. Calculate and apply opportunity cost\n4. Interpret and use a Production Possibilities Frontier (PPF)\n5. Distinguish between microeconomics and macroeconomics\n\n## What is Economics?\n\nEconomics is the study of how individuals, businesses, and governments allocate scarce resources among unlimited wants. It asks: How do we decide what to produce, how to produce it, and who gets it?\n\n### Microeconomics vs. Macroeconomics\n- **Microeconomics**: Studies individual actors \u2014 consumers, firms, specific markets\n- **Macroeconomics**: Studies the economy as a whole \u2014 GDP, inflation, unemployment\n\n## The Fundamental Problem: Scarcity\n\n**Scarcity** means resources are limited relative to unlimited human wants. Even the wealthiest nations face scarcity \u2014 there's never enough time, money, labor, or materials to satisfy every desire.\n\n### Types of Resources (Factors of Production)\n1. **Land**: Natural resources (oil, water, minerals, timber)\n2. **Labor**: Human effort (physical and mental work)\n3. **Capital**: Human-made tools used in production (machines, buildings, technology)\n4. **Entrepreneurship**: The ability to organize the other three factors and take risks\n\n## Opportunity Cost\n\nBecause of scarcity, every choice has a cost. **Opportunity cost** is the value of the next best alternative you give up when making a decision.\n\n### Examples\n- You spend $20 on a movie ticket \u2192 opportunity cost = the best thing you could have done with that $20 (perhaps a meal)\n- A business invests $1 million in new equipment \u2192 opportunity cost = the returns from investing that money elsewhere\n- You study for 3 hours instead of working \u2192 opportunity cost = 3 hours of wages\n\n**Key principle**: There is no such thing as a free lunch. Even 'free' things have opportunity costs (your time, attention, or alternative uses).\n\n## Production Possibilities Frontier (PPF)\n\nThe PPF is a curve showing the maximum combinations of two goods an economy can produce with its available resources.\n\n### Key Points on the PPF\n- **On the curve**: Efficient (using all resources fully)\n- **Inside the curve**: Inefficient (wasting resources or unemployed)\n- **Outside the curve**: Currently impossible (insufficient resources)\n\n### PPF and Opportunity Cost\nThe slope of the PPF represents the opportunity cost of producing one more unit of a good. As you produce more of one good, the opportunity cost typically increases (bowed-out shape) because resources aren't perfectly adaptable.\n\n### Shifting the PPF\n- **Outward shift**: Economic growth (more resources, better technology, education)\n- **Inward shift**: Resource loss (war, natural disaster, capital depreciation)\n\n## Three Fundamental Economic Questions\n\n1. **WHAT** to produce? (Which goods and services?)\n2. **HOW** to produce? (Which methods and technologies?)\n3. **FOR WHOM** to produce? (Who gets the goods?)\n\nDifferent economic systems answer these differently:\n- **Market economy**: Decisions by individuals and firms through prices\n- **Command economy**: Decisions by government central planners\n- **Mixed economy**: Combination of market and government (most real economies)\n\n## Practice Problems\n\n1. Define opportunity cost with a personal example.\n   **Answer**: Opportunity cost is the value of the best alternative forgone. Example: Choosing to attend college means the opportunity cost is 4 years of full-time salary.\n\n2. Why does the PPF typically have a bowed-out (concave) shape?\n   **Answer**: Due to the law of increasing opportunity costs \u2014 resources are specialized and not equally efficient at producing all goods.\n\n3. An economy produces only cars and computers. If at full capacity it makes 1,000 cars and 5,000 computers, and shifting to 1,200 cars means only 4,000 computers, what is the opportunity cost of 200 additional cars?\n   **Answer**: 1,000 computers (or 5 computers per car)\n\n4. Name the four factors of production and give an example of each.\n   **Answer**: Land (oil), Labor (factory workers), Capital (machinery), Entrepreneurship (startup founder)\n\n5. Is the US a market, command, or mixed economy? Why?\n   **Answer**: Mixed \u2014 primarily market-based with government regulation, taxation, and public services\n\n## Key Takeaways\n- Economics studies how scarce resources are allocated among unlimited wants\n- Scarcity forces choices; every choice has an opportunity cost\n- The PPF shows maximum production possibilities and illustrates tradeoffs\n- Opportunity cost typically increases as you produce more of one good\n- Economic systems differ in how they answer what, how, and for whom to produce",
+          "quiz": [
+            {
+              "question": "What is opportunity cost?",
+              "options": [
+                "Total cost of production",
+                "Value of the next best alternative given up",
+                "Price of a good",
+                "Government spending"
+              ],
+              "correct": "Value of the next best alternative given up",
+              "explanation": "Opportunity cost is what you sacrifice when you choose one option over another"
+            },
+            {
+              "question": "A point INSIDE the PPF represents:",
+              "options": [
+                "Maximum efficiency",
+                "Impossible output",
+                "Inefficiency or unused resources",
+                "Economic growth"
+              ],
+              "correct": "Inefficiency or unused resources",
+              "explanation": "Points inside the PPF mean the economy isn't using all available resources"
+            },
+            {
+              "question": "Which is NOT a factor of production?",
+              "options": [
+                "Land",
+                "Money",
+                "Labor",
+                "Capital"
+              ],
+              "correct": "Money",
+              "explanation": "Money is not a factor of production \u2014 it's a medium of exchange. Capital refers to tools and equipment"
+            },
+            {
+              "question": "The PPF shifts outward due to:",
+              "options": [
+                "Increased government spending",
+                "Economic growth or new technology",
+                "Higher prices",
+                "More scarcity"
+              ],
+              "correct": "Economic growth or new technology",
+              "explanation": "More resources or better technology expands production possibilities"
+            },
+            {
+              "question": "Microeconomics focuses on:",
+              "options": [
+                "GDP and inflation",
+                "Individual markets and firms",
+                "International trade",
+                "Government budgets"
+              ],
+              "correct": "Individual markets and firms",
+              "explanation": "Microeconomics studies individual economic actors, not the economy as a whole"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

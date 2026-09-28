@@ -1,0 +1,74 @@
+[
+  {
+    "subject_id": "marketing",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Marketing Foundations",
+    "content": "Marketing identifies, creates, communicates, and delivers value profitably. It's not just promotion \u2014 it's understanding needs deeply. KEY CONCEPTS: Right product, right people, right message, right time and price. WORKED EXAMPLE: A brand wins by solving a specific frustration competitors ignore. PRACTICE: 1) Define your customer's core need. 2) State your value in one sentence. 3) Name who it's NOT for.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Marketing is fundamentally about:\", \"options\": [\"Just ads\", \"Delivering value profitably\", \"Spam\", \"Logos\"], \"correct\": 1, \"explanation\": \"Identify, create, communicate, deliver value profitably.\"}, {\"q\": \"Marketing should tie to:\", \"options\": [\"Likes\", \"Revenue\", \"Impressions only\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Real marketing connects to revenue.\"}, {\"q\": \"The best marketing starts with:\", \"options\": [\"A big budget\", \"Understanding customer needs\", \"A logo\", \"Random ads\"], \"correct\": 1, \"explanation\": \"Deep need-understanding comes first.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "The 4 Ps",
+    "content": "Marketing mix: Product, Price, Place, Promotion (plus People, Process, Physical evidence for services). KEY CONCEPTS: Pricing strategies \u2014 value-based, penetration, skimming. Place = where/how customers buy. WORKED EXAMPLE: A premium product uses skimming pricing and selective distribution to signal quality. PRACTICE: 1) Define each of your 4 Ps. 2) Pick a pricing strategy. 3) Choose your channels.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The 4 Ps are Product, Price, Place, and:\", \"options\": [\"Profit\", \"Promotion\", \"People\", \"Plan\"], \"correct\": 1, \"explanation\": \"Product, Price, Place, Promotion.\"}, {\"q\": \"Premium-signaling pricing is:\", \"options\": [\"Penetration\", \"Skimming\", \"Free\", \"Loss-leader\"], \"correct\": 1, \"explanation\": \"Skimming signals quality with high price.\"}, {\"q\": \"'Place' in the 4 Ps means:\", \"options\": [\"Office location\", \"Where/how customers buy\", \"The ad\", \"The logo\"], \"correct\": 1, \"explanation\": \"Distribution channels.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Segmentation, Targeting, Positioning",
+    "content": "STP: segment the market, target the best-fit segments, position distinctly. Positioning is the key strategic decision. KEY CONCEPTS: Segment by demographic, psychographic, behavioral. Own a clear space in the mind. WORKED EXAMPLE: A brand targets 'busy parents' and positions as 'the 5-minute solution.' PRACTICE: 1) Define 3 segments. 2) Pick your target. 3) Write your positioning statement.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What does STP stand for?\", \"options\": [\"SalesTed Process\", \"Segmentation, Targeting, Positioning\", \"Strategic Test Plan\", \"Social Traffic Priority\"], \"correct\": 1, \"explanation\": \"STP = Segmentation, Targeting, Positioning.\"}, {\"q\": \"Positioning is about being...\", \"options\": [\"Cheaper\", \"Different, not just better\", \"Louder\", \"Everywhere\"], \"correct\": 1, \"explanation\": \"Own a distinct space in the customer's mind.\"}, {\"q\": \"What comes first in STP?\", \"options\": [\"Positioning\", \"Targeting\", \"Segmentation\", \"Promotion\"], \"correct\": 2, \"explanation\": \"Segment the market before targeting and positioning.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Customer Journey & Funnel",
+    "content": "Journey: Awareness, Consideration, Decision, Retention, Advocacy. Funnel: TOFU/MOFU/BOFU maps content to stage. KEY CONCEPTS: Jobs-to-be-done \u2014 customers 'hire' products for progress. Match content to journey stage. WORKED EXAMPLE: Top-funnel education content builds trust before a bottom-funnel demo offer. PRACTICE: 1) Map your customer journey. 2) Assign content to each stage. 3) Find the biggest drop-off.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which stage of the customer journey focuses on building trust through educational content?\", \"options\": [\"Awareness\", \"Consideration\", \"Decision\", \"Retention\"], \"correct\": 0, \"explanation\": \"The Awareness stage is where top-funnel educational content is used to build trust with potential customers.\"}, {\"q\": \"What does TOFU stand for in the marketing funnel, and which customer journey stage does it correspond to?\", \"options\": [\"Top of Funnel - Awareness\", \"Top of Funnel - Decision\", \"Bottom of Funnel - Retention\", \"Middle of Funnel - Consideration\"], \"correct\": 0, \"explanation\": \"TOFU stands for Top of Funnel and corresponds to the Awareness stage of the customer journey.\"}, {\"q\": \"According to the Jobs-to-be-Done concept, why do customers 'hire' products?\", \"options\": [\"To complete a task or make progress\", \"To follow trends\", \"To reduce company costs\", \"To increase product variety\"], \"correct\": 0, \"explanation\": \"Customers 'hire' products to make progress or complete specific jobs they need done, which guides how content should be matched to their journey stage.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Brand & Positioning",
+    "content": "A brand is the sum of perceptions \u2014 the promise you keep. Brand equity (awareness, associations, loyalty, quality) is a durable asset. KEY CONCEPTS: Strong brands command premiums and cut acquisition cost. Consistency builds brand. WORKED EXAMPLE: A consistent voice across every touchpoint makes a brand instantly recognizable. PRACTICE: 1) State your brand promise. 2) List your brand associations. 3) Audit consistency.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is a brand primarily described as in the lesson?\", \"options\": [\"A logo and slogan\", \"The sum of perceptions and the promise you keep\", \"A product's price point\", \"A company's marketing budget\"], \"correct\": 1, \"explanation\": \"The lesson defines a brand as the sum of perceptions \\u2014 the promise you keep.\"}, {\"q\": \"Which of the following is NOT listed as a component of brand equity?\", \"options\": [\"Awareness\", \"Associations\", \"Loyalty\", \"Market share\"], \"correct\": 3, \"explanation\": \"Brand equity components mentioned are awareness, associations, loyalty, and quality; market share is not listed.\"}, {\"q\": \"Why is consistency important in building a brand?\", \"options\": [\"It reduces production costs\", \"It makes the brand instantly recognizable and builds trust\", \"It allows frequent changes in brand messaging\", \"It increases short-term sales only\"], \"correct\": 1, \"explanation\": \"Consistency across every touchpoint builds brand recognition and trust, making the brand instantly recognizable.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Digital Marketing & Metrics",
+    "content": "Channels: SEO, SEM/PPC, content, social, email (highest ROI), influencer. Metrics: CAC, LTV, LTV:CAC (target 3:1+), ROAS, churn. KEY CONCEPTS: Marketing must tie to revenue. Vanity metrics mislead. WORKED EXAMPLE: Shifting budget to a 5:1 LTV:CAC channel scales profit. PRACTICE: 1) Calculate your CAC and LTV. 2) Find your best channel by ROI. 3) Cut a vanity metric.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Which marketing channel is noted for having the highest return on investment (ROI) according to the lesson?\", \"options\": [\"SEO\", \"Email\", \"Social Media\", \"Influencer Marketing\"], \"correct\": 1, \"explanation\": \"The lesson states that email marketing has the highest ROI among the listed channels.\"}, {\"q\": \"What is the ideal target ratio for LTV to CAC to ensure profitable marketing spend?\", \"options\": [\"1:1\", \"2:1\", \"3:1 or higher\", \"5:1 or lower\"], \"correct\": 2, \"explanation\": \"The lesson highlights that a target LTV:CAC ratio of 3:1 or higher is ideal for profitability.\"}, {\"q\": \"Why should marketers avoid focusing on vanity metrics?\", \"options\": [\"They are difficult to measure\", \"They do not directly tie to revenue\", \"They are too complex to analyze\", \"They always indicate poor performance\"], \"correct\": 1, \"explanation\": \"Vanity metrics can be misleading because they do not directly relate to revenue or business outcomes, which is emphasized as a key concept in the lesson.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Growth Engines",
+    "content": "Build inbound flywheels: attract, engage, delight \u2192 customers become promoters who fuel growth. KEY CONCEPTS: Content builds authority and organic reach. The flywheel compounds; funnels leak. WORKED EXAMPLE: A company's free tool attracts users who refer others, lowering CAC over time. PRACTICE: 1) Design a flywheel loop. 2) Identify your compounding asset. 3) Plan a referral mechanism.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is the primary advantage of building an inbound flywheel over a traditional sales funnel?\", \"options\": [\"Flywheels compound growth while funnels leak\", \"Funnels generate more immediate revenue\", \"Flywheels require higher customer acquisition costs\", \"Funnels create more customer promoters\"], \"correct\": 0, \"explanation\": \"Inbound flywheels compound growth by continuously attracting, engaging, and delighting customers who then promote the business, whereas funnels tend to leak and lose potential customers.\"}, {\"q\": \"In the context of the flywheel model, what role does content primarily play?\", \"options\": [\"It builds authority and organic reach\", \"It directly increases paid advertising effectiveness\", \"It replaces the need for customer referrals\", \"It shortens the sales cycle\"], \"correct\": 0, \"explanation\": \"Content builds authority and organic reach, which helps attract and engage customers as part of the flywheel process.\"}, {\"q\": \"Which of the following is an example of a compounding asset in a growth flywheel?\", \"options\": [\"A free tool that attracts users who refer others\", \"A one-time discount coupon\", \"A paid ad campaign with fixed budget\", \"A single email blast\"], \"correct\": 0, \"explanation\": \"A free tool that attracts users who refer others is a compounding asset because it continuously brings in new users and lowers customer acquisition cost over time.\"}]"
+  },
+  {
+    "subject_id": "marketing",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Category Design",
+    "content": "At King level you build category-defining brands. KEY CONCEPTS: Create and name the category you lead. Shape how the market perceives its own needs. Movements beat campaigns. WORKED EXAMPLE: A company coins a new category term and becomes synonymous with it, owning the space. PRACTICE: 1) Name a category you could own. 2) Define the problem only you frame. 3) Design a movement, not a campaign.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is a key action when building a King level category-defining brand?\", \"options\": [\"Compete within existing categories\", \"Create and name the category you lead\", \"Focus solely on short-term campaigns\", \"Ignore market perceptions\"], \"correct\": 1, \"explanation\": \"At King level, you create and name the category you lead, defining the space rather than competing within existing ones.\"}, {\"q\": \"According to the lesson, what is more effective than running campaigns?\", \"options\": [\"Increasing advertising budget\", \"Designing movements\", \"Lowering prices\", \"Expanding product lines\"], \"correct\": 1, \"explanation\": \"The lesson emphasizes that movements beat campaigns, meaning designing movements is more effective for category leadership.\"}, {\"q\": \"Which of the following best describes the practice recommended for King level category design?\", \"options\": [\"Name a category you could own, define a unique problem, and design a movement\", \"Copy competitors' strategies to gain market share\", \"Focus on product features and ignore customer needs\", \"Run multiple short-term advertising campaigns\"], \"correct\": 0, \"explanation\": \"The recommended practice is to name a category you could own, define a unique problem only you frame, and design a movement rather than just campaigns.\"}]"
+  }
+]

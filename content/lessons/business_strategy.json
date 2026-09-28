@@ -1,0 +1,74 @@
+[
+  {
+    "subject_id": "business_strategy",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Strategy Foundations",
+    "content": "Strategy is choosing where to play and how to win for sustainable advantage. It's about trade-offs \u2014 deciding what NOT to do. KEY CONCEPTS: Strategy answers what business you're in, who your customers are, and why you win. WORKED EXAMPLE: A budget airline wins by choosing NOT to offer frills \u2014 focus creates advantage. PRACTICE: 1) State your where-to-play. 2) State your how-to-win. 3) List what you'll deliberately NOT do.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Strategy is fundamentally about:\", \"options\": [\"Doing everything\", \"Trade-offs \\u2014 what NOT to do\", \"Copying rivals\", \"Lowest price always\"], \"correct\": 1, \"explanation\": \"Strategy means deliberate trade-offs.\"}, {\"q\": \"Sustainable advantage comes from:\", \"options\": [\"Luck\", \"Choices about where to play and how to win\", \"Ads\", \"Size alone\"], \"correct\": 1, \"explanation\": \"Where-to-play + how-to-win.\"}, {\"q\": \"A budget airline dropping frills shows:\", \"options\": [\"Weakness\", \"Focus creating advantage\", \"Poor service strategy\", \"Randomness\"], \"correct\": 1, \"explanation\": \"Deliberate focus creates advantage.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Porter's Five Forces",
+    "content": "Industry profit potential is shaped by five forces: new entrants, supplier power, buyer power, substitutes, rivalry. KEY CONCEPTS: Strong forces compress margins; weak forces enable profit. Position where forces are weakest. WORKED EXAMPLE: A patent (barrier to entry) weakens the new-entrant threat, protecting margin. PRACTICE: 1) Score each force in your industry. 2) Identify the strongest threat. 3) Plan to weaken it.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Porter's Five Forces assess:\", \"options\": [\"Employee morale\", \"Industry profit potential\", \"Ad spend\", \"Office size\"], \"correct\": 1, \"explanation\": \"They gauge industry attractiveness/profitability.\"}, {\"q\": \"A patent primarily weakens which force?\", \"options\": [\"Buyer power\", \"Threat of new entrants\", \"Substitutes\", \"Rivalry\"], \"correct\": 1, \"explanation\": \"It's a barrier to entry.\"}, {\"q\": \"Strong forces do what to margins?\", \"options\": [\"Expand them\", \"Compress them\", \"Nothing\", \"Double them\"], \"correct\": 1, \"explanation\": \"Strong forces compress profit.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Competitive Advantage",
+    "content": "Porter's generic strategies: cost leadership, differentiation, or focus. Being 'stuck in the middle' is fatal. KEY CONCEPTS: Be the cheapest OR the most distinctive, not neither. Focus dominates a niche. WORKED EXAMPLE: A premium brand charges 3x by being unmistakably different, not slightly better. PRACTICE: 1) Pick your generic strategy. 2) Prove you're not stuck in the middle. 3) Define your edge.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"According to Porter's generic strategies, which approach is NOT recommended for achieving competitive advantage?\", \"options\": [\"Cost leadership\", \"Differentiation\", \"Focus\", \"Being 'stuck in the middle'\"], \"correct\": 3, \"explanation\": \"Being 'stuck in the middle' means failing to commit to either cost leadership, differentiation, or focus, which is considered fatal for competitive advantage.\"}, {\"q\": \"What does the 'focus' strategy primarily emphasize?\", \"options\": [\"Competing on the lowest cost across the entire market\", \"Serving a specific niche with either cost leadership or differentiation\", \"Offering a product slightly better than competitors\", \"Charging premium prices without clear differentiation\"], \"correct\": 1, \"explanation\": \"The focus strategy targets a specific niche, dominating it through either cost leadership or differentiation.\"}, {\"q\": \"In the worked example, why does a premium brand charge three times more than competitors?\", \"options\": [\"Because it is slightly better than competitors\", \"Because it is unmistakably different and distinctive\", \"Because it uses a focus strategy on a niche\", \"Because it is the cheapest in the market\"], \"correct\": 1, \"explanation\": \"The premium brand charges a higher price by being unmistakably different, not just slightly better, demonstrating differentiation.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "SWOT & Positioning",
+    "content": "SWOT: internal Strengths/Weaknesses, external Opportunities/Threats. Position where strengths meet opportunity and rivals are weak. KEY CONCEPTS: Be different, not just better \u2014 own a distinct place in the customer's mind. WORKED EXAMPLE: A challenger positions as 'the simple alternative' where incumbents are complex. PRACTICE: 1) Complete a SWOT. 2) Find your distinct position. 3) Name the rival weakness you exploit.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"In a SWOT analysis, which of the following correctly pairs internal and external factors?\", \"options\": [\"Strengths and Opportunities are internal; Weaknesses and Threats are external\", \"Strengths and Weaknesses are internal; Opportunities and Threats are external\", \"Opportunities and Threats are internal; Strengths and Weaknesses are external\", \"All four factors are internal\"], \"correct\": 1, \"explanation\": \"Strengths and Weaknesses are internal factors, while Opportunities and Threats are external factors in a SWOT analysis.\"}, {\"q\": \"According to the lesson, what is the key to effective positioning?\", \"options\": [\"Being better than competitors in every way\", \"Being different and owning a distinct place in the customer's mind\", \"Matching competitors' strengths\", \"Focusing only on internal strengths\"], \"correct\": 1, \"explanation\": \"Effective positioning means being different, not just better, by owning a distinct place in the customer's mind.\"}, {\"q\": \"In the worked example, how does the challenger brand position itself against incumbents?\", \"options\": [\"As the most affordable option\", \"As the most technologically advanced\", \"As the simple alternative to complex incumbents\", \"As the premium luxury choice\"], \"correct\": 2, \"explanation\": \"The challenger positions itself as 'the simple alternative' where incumbents are complex, exploiting a rival weakness.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Value Chain & Moats",
+    "content": "Value chain maps every value-adding activity. Economic moats (Buffett) protect profit: network effects, switching costs, cost advantage, brand, scale. KEY CONCEPTS: Advantage comes from doing key activities better or cheaper. Durability matters most. WORKED EXAMPLE: A marketplace's network effect deepens its moat with every new user. PRACTICE: 1) Map your value chain. 2) Identify your moat type. 3) Plan to widen it.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What does a value chain primarily represent?\", \"options\": [\"A sequence of value-adding activities in a business\", \"A list of competitors in the market\", \"A company's financial statements\", \"A marketing strategy plan\"], \"correct\": 0, \"explanation\": \"A value chain maps every value-adding activity within a business, showing how value is created.\"}, {\"q\": \"Which of the following is NOT considered an economic moat according to Buffett?\", \"options\": [\"Network effects\", \"Switching costs\", \"Cost advantage\", \"High employee turnover\"], \"correct\": 3, \"explanation\": \"High employee turnover is not an economic moat; moats include network effects, switching costs, cost advantage, brand, and scale.\"}, {\"q\": \"Why is durability important when considering a company's moat?\", \"options\": [\"Because temporary advantages do not protect profits long-term\", \"Because durability increases marketing expenses\", \"Because durable moats reduce product quality\", \"Because durability limits customer base\"], \"correct\": 0, \"explanation\": \"Durability matters most because only lasting advantages can sustainably protect profits over time.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Blue Ocean & Growth",
+    "content": "Blue Ocean: create uncontested market space via value innovation (differentiation + low cost). Ansoff matrix guides growth. KEY CONCEPTS: Make competition irrelevant by redefining the market. Eliminate-reduce-raise-create. WORKED EXAMPLE: Cirque du Soleil dropped animals/stars (cost) and added artistry (value) \u2014 a new category. PRACTICE: 1) List industry factors to eliminate/reduce. 2) List factors to raise/create. 3) Sketch your blue ocean.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is the primary goal of the Blue Ocean strategy?\", \"options\": [\"Compete aggressively in existing markets\", \"Create uncontested market space through value innovation\", \"Focus solely on cost reduction\", \"Increase marketing spend to outperform rivals\"], \"correct\": 1, \"explanation\": \"Blue Ocean strategy aims to make competition irrelevant by creating new market space via value innovation, combining differentiation and low cost.\"}, {\"q\": \"In the Blue Ocean framework, which of the following actions is NOT part of the Eliminate-Reduce-Raise-Create grid?\", \"options\": [\"Eliminate factors the industry takes for granted\", \"Reduce factors below industry standards\", \"Raise factors above industry standards\", \"Increase advertising budget\"], \"correct\": 3, \"explanation\": \"The Eliminate-Reduce-Raise-Create grid focuses on modifying product or service factors, not on increasing advertising budgets.\"}, {\"q\": \"How did Cirque du Soleil exemplify Blue Ocean strategy?\", \"options\": [\"By competing with traditional circuses on animal acts\", \"By lowering ticket prices to attract more customers\", \"By eliminating animals and stars and adding artistic elements to create a new entertainment category\", \"By expanding into multiple geographic markets simultaneously\"], \"correct\": 2, \"explanation\": \"Cirque du Soleil created a new market space by dropping costly elements like animals and stars and adding unique artistry, thus redefining the circus experience.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Business Models & Execution",
+    "content": "Design how you create, deliver, capture value. Strategy without execution is hallucination. KEY CONCEPTS: Align structure, incentives, culture to strategy. OKRs cascade goals; Balanced Scorecard tracks performance. WORKED EXAMPLE: A subscription model turns one-time sales into recurring revenue and higher valuation. PRACTICE: 1) Map your business model. 2) Set 3 OKRs. 3) Align one incentive to strategy.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is a key reason why strategy without execution is considered ineffective?\", \"options\": [\"Because execution is optional\", \"Because execution turns strategy into reality\", \"Because strategy is more important than execution\", \"Because execution is only about finances\"], \"correct\": 1, \"explanation\": \"Execution is essential to implement strategy; without it, strategy remains just an idea or hallucination.\"}, {\"q\": \"Which tool is used to cascade goals throughout an organization according to the lesson?\", \"options\": [\"Balanced Scorecard\", \"SWOT Analysis\", \"OKRs\", \"Business Model Canvas\"], \"correct\": 2, \"explanation\": \"OKRs (Objectives and Key Results) are used to cascade and align goals across the organization.\"}, {\"q\": \"In the worked example, what is a primary benefit of adopting a subscription business model?\", \"options\": [\"It eliminates the need for marketing\", \"It turns one-time sales into recurring revenue and higher valuation\", \"It reduces product development costs\", \"It simplifies organizational structure\"], \"correct\": 1, \"explanation\": \"A subscription model converts one-time sales into recurring revenue streams, which can increase company valuation.\"}]"
+  },
+  {
+    "subject_id": "business_strategy",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Shaping Industries",
+    "content": "At King level you shape industry-level moves and create categories. KEY CONCEPTS: Set the rules others follow. Build platforms and ecosystems, not just products. Anticipate and drive disruption before it hits you. WORKED EXAMPLE: A platform company turns competitors into partners on its ecosystem, controlling the market. PRACTICE: 1) Envision your industry in 5 years. 2) Define the rule you want to set. 3) Design an ecosystem play.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"What is a key characteristic of a King level strategy in shaping industries?\", \"options\": [\"Focusing solely on improving individual products\", \"Setting industry rules that others follow\", \"Avoiding partnerships with competitors\", \"Reacting only after disruption occurs\"], \"correct\": 1, \"explanation\": \"At King level, the focus is on setting the rules others follow, shaping industry-level moves rather than just improving products.\"}, {\"q\": \"In the worked example, how does a platform company control the market?\", \"options\": [\"By eliminating all competitors\", \"By turning competitors into partners within its ecosystem\", \"By focusing only on product innovation\", \"By ignoring industry disruption\"], \"correct\": 1, \"explanation\": \"The platform company controls the market by turning competitors into partners on its ecosystem, creating a collaborative environment that it leads.\"}, {\"q\": \"Which of the following is NOT part of the recommended practice for King level strategy?\", \"options\": [\"Envision your industry in 5 years\", \"Define the rule you want to set\", \"Design an ecosystem play\", \"Focus exclusively on short-term product features\"], \"correct\": 3, \"explanation\": \"Focusing exclusively on short-term product features contradicts the King level approach, which emphasizes long-term industry shaping and ecosystem design.\"}]"
+  }
+]

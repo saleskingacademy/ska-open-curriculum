@@ -1,0 +1,98 @@
+[
+  {
+    "id": "statistics_L1_1",
+    "subject_id": "statistics",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Descriptive Statistics",
+    "content": "KEY CONCEPTS: Statistics is the science of learning from data. Descriptive statistics summarize data; inferential statistics draw conclusions about populations from samples. Measures of center: mean (average, sensitive to outliers), median (middle, robust), mode (most frequent). Measures of spread: range, variance (average squared deviation), standard deviation (typical distance from mean). Percentiles and quartiles. The shape of data: symmetric, skewed, bimodal. Visualization: histograms, box plots, scatter plots reveal patterns numbers alone hide.\n\nWORKED EXAMPLE: For data {2, 3, 3, 4, 100}, the mean is 22.4 (pulled up by the outlier 100), but the median is 3 (unaffected). This is why median income is reported instead of mean \u2014 a few billionaires distort the average. Choosing the right measure of center is the first act of honest statistics.\n\nPRACTICE: 1) Find the mean, median, and mode of {5,7,7,9,12}. 2) Explain when median beats mean. 3) Calculate the range of a dataset.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The median is preferred over the mean when data has:\", \"options\": [\"No outliers\", \"Outliers/skew\", \"Few points\", \"Only integers\"], \"correct\": 1, \"explanation\": \"Median resists outlier distortion.\"}, {\"q\": \"Standard deviation measures:\", \"options\": [\"The center\", \"Typical distance from the mean (spread)\", \"The mode\", \"The count\"], \"correct\": 1, \"explanation\": \"How spread out the data is.\"}, {\"q\": \"For {2,3,3,4,100}, the mean vs median shows:\", \"options\": [\"They're equal\", \"Mean is pulled up by the outlier\", \"Median is higher\", \"Both are 100\"], \"correct\": 1, \"explanation\": \"Mean 22.4 vs median 3.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L2_1",
+    "subject_id": "statistics",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Probability Foundations",
+    "content": "KEY CONCEPTS: Probability quantifies uncertainty from 0 (impossible) to 1 (certain). Sample space (all outcomes), events (subsets). The addition rule (P(A or B) = P(A) + P(B) \u2212 P(A and B)) and multiplication rule for independent events (P(A and B) = P(A)\u00b7P(B)). Conditional probability P(A|B) = P(A and B)/P(B). Independence vs mutual exclusivity (different concepts). Combinations and permutations count possibilities. Expected value (probability-weighted average) drives rational decisions under uncertainty.\n\nWORKED EXAMPLE: Rolling two dice, P(sum=7) = 6/36 = 1/6 (six ways: 1-6, 2-5, 3-4, 4-3, 5-2, 6-1 out of 36 outcomes). Seven is the most likely sum, which is why it's central in games of chance. Counting outcomes correctly \u2014 the sample space \u2014 is the foundation of all probability.\n\nPRACTICE: 1) Find P(drawing a heart) from a deck. 2) Compute expected value of a $10 bet with 30% win chance for $50. 3) Explain independence vs mutual exclusivity.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Probability ranges from:\", \"options\": [\"\\u22121 to 1\", \"0 to 1\", \"0 to 100\", \"1 to 10\"], \"correct\": 1, \"explanation\": \"0 impossible, 1 certain.\"}, {\"q\": \"For independent events, P(A and B) equals:\", \"options\": [\"P(A)+P(B)\", \"P(A)\\u00b7P(B)\", \"P(A)\\u2212P(B)\", \"P(A)/P(B)\"], \"correct\": 1, \"explanation\": \"Multiply for independent events.\"}, {\"q\": \"P(sum=7) with two dice is:\", \"options\": [\"1/6\", \"1/36\", \"1/12\", \"1/2\"], \"correct\": 0, \"explanation\": \"6 ways out of 36.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L3_1",
+    "subject_id": "statistics",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Distributions",
+    "content": "KEY CONCEPTS: A probability distribution describes how likely each outcome is. Discrete: binomial (n trials, success probability p \u2014 coin flips, defect rates), Poisson (rare events over time). Continuous: the normal distribution (bell curve) is central \u2014 defined by mean and standard deviation; the 68-95-99.7 rule (data within 1, 2, 3 SDs). The Central Limit Theorem: sample means are normally distributed regardless of the underlying distribution \u2014 the reason the normal curve is everywhere. Standardization (z-scores) compares across distributions. Uniform, exponential distributions model other phenomena.\n\nWORKED EXAMPLE: Human heights are normally distributed. If mean = 170cm, SD = 10cm, then ~68% of people are 160-180cm, ~95% are 150-190cm (2 SDs). A z-score of +2 (190cm) means you're taller than ~97.5% of people. The normal distribution turns 'how unusual is this?' into a precise probability \u2014 the workhorse of statistics.\n\nPRACTICE: 1) State the 68-95-99.7 rule. 2) Compute a z-score for a value 15 above a mean of 100 with SD 5. 3) Explain the Central Limit Theorem in your own words.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The 68-95-99.7 rule describes data within:\", \"options\": [\"1,2,3 standard deviations\", \"1,2,3 percent\", \"the median\", \"the range\"], \"correct\": 0, \"explanation\": \"Of the normal distribution.\"}, {\"q\": \"The Central Limit Theorem says sample means are:\", \"options\": [\"Always skewed\", \"Normally distributed regardless of source\", \"Uniform\", \"Random\"], \"correct\": 1, \"explanation\": \"Why the normal curve is everywhere.\"}, {\"q\": \"A z-score measures:\", \"options\": [\"The mean\", \"How many SDs from the mean\", \"The count\", \"Probability directly\"], \"correct\": 1, \"explanation\": \"Standardized distance.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L4_1",
+    "subject_id": "statistics",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Sampling & Estimation",
+    "content": "KEY CONCEPTS: We rarely measure whole populations, so we sample. A good sample is random and representative \u2014 bias (systematic error) is the enemy (selection bias, response bias, survivorship bias). Sample statistics estimate population parameters. The standard error measures sampling variability (shrinks with larger samples: SE = \u03c3/\u221an). Confidence intervals give a range likely to contain the true parameter (a 95% CI means: if we repeated sampling many times, 95% of such intervals would contain the truth \u2014 NOT '95% chance the truth is in this one'). Larger samples give more precise estimates.\n\nWORKED EXAMPLE: A poll of 1,000 people finds 52% support with a \u00b13% margin of error (95% CI: 49-55%). Because the interval includes 50%, the race is a statistical tie \u2014 the 52% could be sampling noise. Misreading this (declaring a 2-point 'lead') is the most common statistical error in media. The margin of error is not decoration; it defines what the data can and cannot claim.\n\nPRACTICE: 1) Explain why random sampling matters. 2) Describe what a 95% confidence interval means correctly. 3) Explain how sample size affects the margin of error.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A 95% confidence interval means:\", \"options\": [\"95% chance truth is in THIS interval\", \"If repeated, 95% of such intervals contain the truth\", \"The data is 95% correct\", \"95% of people agree\"], \"correct\": 1, \"explanation\": \"A frequency statement about the method.\"}, {\"q\": \"Standard error shrinks as sample size:\", \"options\": [\"Decreases\", \"Increases\", \"Stays same\", \"Doubles cost\"], \"correct\": 1, \"explanation\": \"SE = \\u03c3/\\u221an.\"}, {\"q\": \"A 52% poll result with \\u00b13% margin means:\", \"options\": [\"A clear lead\", \"Possibly a statistical tie (includes 50%)\", \"Certainty\", \"Nothing\"], \"correct\": 1, \"explanation\": \"The interval includes 50%.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L5_1",
+    "subject_id": "statistics",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Hypothesis Testing",
+    "content": "KEY CONCEPTS: Hypothesis testing decides whether data provides evidence for a claim. The null hypothesis (H\u2080: no effect) vs alternative (H\u2081: an effect). A p-value is the probability of seeing data this extreme IF the null were true \u2014 small p (<0.05 conventionally) suggests the null is unlikely. Critically, p-value is NOT the probability the null is true, and statistical significance \u2260 practical importance. Type I error (false positive, rejecting a true null) vs Type II (false negative). Statistical power. The replication crisis stems from p-hacking and misunderstanding these tools.\n\nWORKED EXAMPLE: A drug trial gets p = 0.03. This means: if the drug did nothing, there's a 3% chance of seeing results this strong by luck. It does NOT mean '97% chance the drug works.' With thousands of trials, some will hit p<0.05 by pure chance (why replication matters). Understanding what a p-value actually says \u2014 and doesn't \u2014 separates real evidence from statistical illusion.\n\nPRACTICE: 1) State what a p-value actually means. 2) Distinguish Type I from Type II error. 3) Explain why statistical significance isn't practical importance.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A p-value is:\", \"options\": [\"The probability the null is true\", \"Probability of data this extreme IF null were true\", \"The effect size\", \"95%\"], \"correct\": 1, \"explanation\": \"NOT the probability the hypothesis is true.\"}, {\"q\": \"Type I error is:\", \"options\": [\"False negative\", \"False positive (rejecting a true null)\", \"No error\", \"Sampling\"], \"correct\": 1, \"explanation\": \"Seeing an effect that isn't there.\"}, {\"q\": \"Statistical significance:\", \"options\": [\"Equals practical importance\", \"Does NOT equal practical importance\", \"Guarantees truth\", \"Is meaningless\"], \"correct\": 1, \"explanation\": \"Significant \\u2260 important.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L6_1",
+    "subject_id": "statistics",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Regression & Correlation",
+    "content": "KEY CONCEPTS: Correlation (r, from \u22121 to +1) measures linear association strength and direction \u2014 but correlation is NOT causation. Linear regression fits a line (y = mx + b) minimizing squared errors (least squares), predicting one variable from another. R\u00b2 measures variance explained. Multiple regression uses several predictors. Residual analysis checks assumptions. Confounding variables and spurious correlations mislead. Regression to the mean (extreme values tend toward average) fools intuition constantly. Regression is the foundation of predictive modeling and much of data science.\n\nWORKED EXAMPLE: A study finds a 0.8 correlation between coffee drinking and heart disease. Does coffee cause it? Maybe \u2014 or smokers drink more coffee (confounding: smoking causes both). Correlation of 0.8 is strong association, but establishing causation requires controlled experiments or careful confounding control. Mistaking correlation for causation is the single most consequential statistical error in science, business, and policy.\n\nPRACTICE: 1) Interpret a correlation of \u22120.9. 2) Explain what R\u00b2 measures. 3) Give an example of a confounding variable creating a spurious correlation.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Correlation ranges from:\", \"options\": [\"0 to 1\", \"\\u22121 to +1\", \"\\u2212100 to 100\", \"0 to 100\"], \"correct\": 1, \"explanation\": \"Strength and direction of linear association.\"}, {\"q\": \"Correlation:\", \"options\": [\"Proves causation\", \"Does NOT prove causation\", \"Is causation\", \"Is irrelevant\"], \"correct\": 1, \"explanation\": \"Confounders may explain it.\"}, {\"q\": \"A confounding variable:\", \"options\": [\"Is the outcome\", \"Influences both variables, creating spurious correlation\", \"Is random\", \"Doesn't exist\"], \"correct\": 1, \"explanation\": \"E.g., smoking behind coffee-heart link.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L7_1",
+    "subject_id": "statistics",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Bayesian & Advanced Methods",
+    "content": "KEY CONCEPTS: Bayesian statistics treats probability as degree of belief, updated with evidence via Bayes' theorem: posterior \u221d likelihood \u00d7 prior. This contrasts with frequentist methods (probability as long-run frequency). Bayesian thinking is natural for updating beliefs and underlies modern machine learning. Advanced methods: ANOVA (comparing multiple groups), chi-square tests (categorical data), non-parametric tests (no distribution assumptions), time series analysis, and experimental design (randomization, control, blocking). Multiple comparisons require correction (Bonferroni) \u2014 testing many hypotheses guarantees false positives.\n\nWORKED EXAMPLE: A rare disease affects 1 in 1,000. A test is 99% accurate. You test positive. Bayesian updating: prior (0.001) \u00d7 likelihood, weighed against the ~1% false-positive rate across 999 healthy people, gives a posterior of only ~9% \u2014 not 99%. Bayes' theorem formally combines the base rate (prior) with the evidence (test), producing the correct answer that pure intuition gets catastrophically wrong.\n\nPRACTICE: 1) State Bayes' theorem in words (posterior \u221d likelihood \u00d7 prior). 2) Explain the difference between Bayesian and frequentist views. 3) Explain why multiple comparisons require correction.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Bayes' theorem updates:\", \"options\": [\"The mean\", \"Prior belief into posterior using evidence\", \"The variance\", \"The sample\"], \"correct\": 1, \"explanation\": \"posterior \\u221d likelihood \\u00d7 prior.\"}, {\"q\": \"A positive test for a rare disease (99% accurate) gives a true-positive probability of about:\", \"options\": [\"99%\", \"~9% (base rate dominates)\", \"50%\", \"100%\"], \"correct\": 1, \"explanation\": \"False positives outnumber true cases.\"}, {\"q\": \"Multiple comparisons require correction because:\", \"options\": [\"It's tradition\", \"Testing many hypotheses guarantees false positives\", \"It's faster\", \"Of cost\"], \"correct\": 1, \"explanation\": \"Some will hit p<0.05 by chance.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "statistics_L8_1",
+    "subject_id": "statistics",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Statistics as the Science of Evidence",
+    "content": "KEY CONCEPTS: At the highest level, statistics is the discipline of reasoning correctly under uncertainty \u2014 the immune system against being fooled by randomness, bias, and our own pattern-seeking minds. It underlies all empirical science, evidence-based medicine, data-driven business, and machine learning. The deepest lessons: distinguish signal from noise, correlation from causation, and significance from importance; respect uncertainty rather than false precision; and recognize that data can be tortured to confess anything (p-hacking, cherry-picking, misleading visualizations). The King-level truth: statistics is less about computation than about intellectual honesty \u2014 the willingness to quantify uncertainty, follow evidence even when unwelcome, and resist the powerful human urge to see patterns in noise. In a world drowning in data and claims, statistical literacy is a fundamental defense against manipulation and self-deception.\n\nWORKED EXAMPLE: A company runs 20 A/B tests; one shows a 'significant' 5% lift (p<0.05). They roll it out \u2014 and it fails. Why? With 20 tests at the 5% threshold, one false positive is expected by pure chance. The 'winner' was noise. The statistically literate leader knew this (multiple comparisons) and demanded replication before acting. This single habit \u2014 demanding that findings replicate \u2014 separates data-driven decisions from data-fooled ones.\n\nPRACTICE: 1) Explain how running many tests produces false positives. 2) Describe three ways data can mislead. 3) Reflect on why statistics is fundamentally about intellectual honesty.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Running 20 A/B tests at p<0.05 will likely produce:\", \"options\": [\"No false positives\", \"About one false positive by chance\", \"20 real wins\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Multiple comparisons create false positives.\"}, {\"q\": \"Statistics is fundamentally about:\", \"options\": [\"Computation only\", \"Intellectual honesty under uncertainty\", \"Guessing\", \"Winning\"], \"correct\": 1, \"explanation\": \"Reasoning correctly, resisting self-deception.\"}, {\"q\": \"The defense against being fooled by a lucky result is:\", \"options\": [\"Ignoring it\", \"Demanding replication\", \"Rolling it out fast\", \"More tests at once\"], \"correct\": 1, \"explanation\": \"Replication separates signal from noise.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "subject_id": "javascript",
+  "subject_name": "JavaScript",
+  "category": "COMPUTER_SCIENCE",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "JavaScript Fundamentals: Variables, Types, and Operators",
+          "content": "# JavaScript Fundamentals: Variables, Types, and Operators\n\n## Learning Objectives\n1. Understand what JavaScript is and where it runs\n2. Declare variables using let, const, and var\n3. Work with primitive data types\n4. Use arithmetic, comparison, and logical operators\n5. Understand type coercion and strict equality\n\n## What is JavaScript?\n\nJavaScript is the programming language of the web. It runs in every browser and powers interactive websites, server applications (Node.js), mobile apps, and even desktop software.\n\nCreated by Brendan Eich in just 10 days in 1995, JavaScript has grown into one of the most widely-used programming languages in the world.\n\n## Variables\n\nVariables store data values. JavaScript has three ways to declare them:\n\n```javascript\nlet age = 25;        // Can be reassigned\nconst name = 'Alice'; // Cannot be reassigned\nvar score = 100;     // Old way (function-scoped)\n```\n\n### When to use which:\n- **const**: Default choice. Use for values that won't change.\n- **let**: When the value needs to change.\n- **var**: Avoid in modern code (function-scoped, not block-scoped).\n\n## Data Types\n\nJavaScript has 7 primitive types:\n\n| Type | Example | Description |\n|------|---------|-------------|\n| String | 'hello', \"world\" | Text |\n| Number | 42, 3.14, -7 | Integers and decimals |\n| Boolean | true, false | Logical values |\n| undefined | undefined | Variable declared but no value |\n| null | null | Intentional absence of value |\n| Symbol | Symbol('id') | Unique identifier |\n| BigInt | 9007199254740991n | Very large integers |\n\nPlus one complex type: **Object** (arrays, functions, dates, etc.)\n\n### typeof operator\n```javascript\ntypeof 42          // 'number'\ntypeof 'hello'     // 'string'\ntypeof true        // 'boolean'\ntypeof undefined   // 'undefined'\ntypeof null        // 'object' (historic bug!)\n```\n\n## Operators\n\n### Arithmetic\n```javascript\n5 + 3   // 8  (addition)\n10 - 4  // 6  (subtraction)\n3 * 7   // 21 (multiplication)\n15 / 4  // 3.75 (division)\n15 % 4  // 3  (remainder/modulo)\n2 ** 3  // 8  (exponentiation)\n```\n\n### Comparison\n```javascript\n5 == '5'    // true  (loose equality, type coercion)\n5 === '5'   // false (strict equality, no coercion)\n5 != '5'    // false\n5 !== '5'   // true\n5 > 3       // true\n5 <= 5      // true\n```\n\n**Always use === and !== to avoid unexpected type coercion bugs.**\n\n### Logical\n```javascript\ntrue && false  // false (AND: both must be true)\ntrue || false  // true  (OR: at least one true)\n!true          // false (NOT: inverts boolean)\n```\n\n## String Operations\n\n```javascript\n// Template literals (backticks)\nconst name = 'Alice';\nconst greeting = `Hello, ${name}!`; // 'Hello, Alice!'\n\n// String methods\n'HELLO'.toLowerCase()      // 'hello'\n'hello'.toUpperCase()      // 'HELLO'\n'hello world'.split(' ')   // ['hello', 'world']\n'hello'.length             // 5\n'hello'.includes('ell')    // true\n```\n\n## Practice Problems\n\n1. What is the difference between let and const?\n   **Answer**: let allows reassignment; const does not. Both are block-scoped.\n\n2. What does typeof null return, and why?\n   **Answer**: 'object' \u2014 this is a known bug from JavaScript's first implementation that was never fixed for backward compatibility.\n\n3. What is 7 + '3' in JavaScript?\n   **Answer**: '73' (string concatenation \u2014 the number is coerced to a string)\n\n4. Why should you use === instead of ==?\n   **Answer**: === checks both value AND type without coercion. == can produce unexpected results like 0 == '' being true.\n\n5. Write a template literal that says 'The sum of 5 and 3 is 8'.\n   **Answer**: `The sum of 5 and 3 is ${5 + 3}`\n\n## Key Takeaways\n- JavaScript runs in browsers and on servers (Node.js)\n- Use const by default, let when reassignment is needed, avoid var\n- JavaScript has 7 primitive types plus Object\n- Always use strict equality (===) to avoid type coercion bugs\n- Template literals (backticks) allow embedded expressions",
+          "quiz": [
+            {
+              "question": "What is the output of typeof null?",
+              "options": [
+                "'null'",
+                "'undefined'",
+                "'object'",
+                "'boolean'"
+              ],
+              "correct": "'object'",
+              "explanation": "typeof null returns 'object' due to a historic bug in JavaScript"
+            },
+            {
+              "question": "Which variable declaration cannot be reassigned?",
+              "options": [
+                "let",
+                "var",
+                "const",
+                "function"
+              ],
+              "correct": "const",
+              "explanation": "const creates a constant binding that cannot be reassigned"
+            },
+            {
+              "question": "What does 5 + '3' evaluate to?",
+              "options": [
+                "8",
+                "'53'",
+                "53",
+                "Error"
+              ],
+              "correct": "'53'",
+              "explanation": "When adding a number to a string, JavaScript coerces the number to a string and concatenates"
+            },
+            {
+              "question": "Which operator checks both value AND type?",
+              "options": [
+                "==",
+                "===",
+                "!=",
+                ">="
+              ],
+              "correct": "===",
+              "explanation": "Strict equality (===) checks both value and type without coercion"
+            },
+            {
+              "question": "What does 'hello'.includes('ell') return?",
+              "options": [
+                "true",
+                "false",
+                "'ell'",
+                "2"
+              ],
+              "correct": "true",
+              "explanation": "The includes() method returns true if the string contains the specified substring"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

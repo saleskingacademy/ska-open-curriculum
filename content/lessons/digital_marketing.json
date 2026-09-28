@@ -1,0 +1,98 @@
+[
+  {
+    "id": "digital_marketing_L1_1",
+    "subject_id": "digital_marketing",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Digital Marketing Foundations",
+    "content": "KEY CONCEPTS: Digital marketing promotes products through digital channels, with the defining advantage of measurability \u2014 every dollar can be traced to a result, unlike traditional advertising. The core channels: search (SEO/SEM), social media, email, content, display, and affiliate. The marketing funnel online: Awareness \u2192 Interest \u2192 Consideration \u2192 Conversion \u2192 Retention/Advocacy. Owned media (your site/list), earned media (shares/PR), and paid media (ads) each play a role. The fundamental shift: from interruption (pushing messages) to permission and attraction (earning attention with value).\n\nWORKED EXAMPLE: A business spends $1,000 on a billboard (traditional) and $1,000 on Google Ads. The billboard gives a vague guess at reach. The Google Ads report shows exactly: 40,000 impressions, 800 clicks, 40 conversions, $25 cost per customer. Digital's measurability turns marketing from guesswork into an optimizable machine \u2014 this is its core power.\n\nPRACTICE: 1) Map the digital funnel for a product. 2) Classify three channels as owned/earned/paid. 3) Explain why measurability changes how marketing budgets are allocated.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Digital marketing's defining advantage is:\", \"options\": [\"It's cheaper always\", \"Measurability \\u2014 every dollar traced to a result\", \"It's easier\", \"It's guaranteed\"], \"correct\": 1, \"explanation\": \"Traceability turns marketing into an optimizable machine.\"}, {\"q\": \"The shift in digital marketing is from:\", \"options\": [\"Attraction to interruption\", \"Interruption to permission and attraction\", \"Cheap to expensive\", \"Online to offline\"], \"correct\": 1, \"explanation\": \"Earning attention with value, not pushing messages.\"}, {\"q\": \"Owned media includes:\", \"options\": [\"TV ads\", \"Your website and email list\", \"Competitor sites\", \"Paid ads\"], \"correct\": 1, \"explanation\": \"Channels you control directly.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L2_1",
+    "subject_id": "digital_marketing",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "SEO & Content Marketing",
+    "content": "KEY CONCEPTS: SEO (Search Engine Optimization) earns free, high-intent traffic by ranking in search results. Three pillars: on-page (content quality, keywords, structure), technical (site speed, mobile, crawlability), and off-page (backlinks \u2014 votes of authority from other sites). Search intent matters more than keywords: match content to whether the user wants information, comparison, or purchase. Content marketing attracts and builds trust by providing genuine value \u2014 it compounds over time (a great article ranks and earns traffic for years). E-E-A-T (Experience, Expertise, Authoritativeness, Trust) guides quality.\n\nWORKED EXAMPLE: A company writes one deeply useful guide answering a common customer question. It ranks on Google, earns 2,000 visitors monthly \u2014 for free, indefinitely. Compare to a paid ad that stops the moment you stop paying. SEO content is an appreciating asset; paid ads are a rented result. The compounding nature is why content marketing beats ads on long-run ROI.\n\nPRACTICE: 1) Identify the search intent behind three queries. 2) List the three pillars of SEO. 3) Explain why content is an asset while ads are an expense.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"SEO content is best described as:\", \"options\": [\"A rented result\", \"An appreciating asset that ranks for years\", \"An expense\", \"A one-time cost\"], \"correct\": 1, \"explanation\": \"It compounds; ads stop when you stop paying.\"}, {\"q\": \"Backlinks function as:\", \"options\": [\"Spam\", \"Votes of authority from other sites\", \"Paid ads\", \"Keywords\"], \"correct\": 1, \"explanation\": \"Off-page authority signals.\"}, {\"q\": \"Search intent matters because:\", \"options\": [\"Keywords are enough\", \"Content must match what the user actually wants\", \"It doesn't\", \"Google ignores it\"], \"correct\": 1, \"explanation\": \"Match info/comparison/purchase intent.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L3_1",
+    "subject_id": "digital_marketing",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Paid Advertising (PPC & Social Ads)",
+    "content": "KEY CONCEPTS: Paid ads buy immediate, targeted traffic. Search ads (Google) capture existing demand (high intent); social ads (Meta, TikTok) create demand via interest targeting. Key metrics: CPC (cost per click), CPM (cost per thousand impressions), CTR (click-through rate), conversion rate, CPA (cost per acquisition), ROAS (return on ad spend). The auction: you bid, but quality/relevance also determines placement and cost. Targeting: demographics, interests, behaviors, lookalikes, and retargeting (re-reaching site visitors \u2014 often the highest ROI). Creative and offer usually matter more than targeting sophistication.\n\nWORKED EXAMPLE: A campaign spends $500 and generates $2,000 in sales \u2014 a 4:1 ROAS. Profitable if margins support it. But if the CPA ($25) exceeds the customer's first-order profit ($20), the campaign loses money on acquisition and only works if lifetime value justifies it. Understanding CPA vs LTV is what separates profitable ad spend from burning cash.\n\nPRACTICE: 1) Calculate ROAS from spend and revenue. 2) Explain search intent vs social interest targeting. 3) Describe why retargeting often has the best ROI.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"ROAS means:\", \"options\": [\"Rate of ad sales\", \"Return on ad spend\", \"Reach of advertising\", \"Rating of ads\"], \"correct\": 1, \"explanation\": \"Revenue generated per ad dollar.\"}, {\"q\": \"Search ads capture; social ads:\", \"options\": [\"Also capture only\", \"Create demand via interest targeting\", \"Do nothing\", \"Are free\"], \"correct\": 1, \"explanation\": \"Search = existing demand; social = created demand.\"}, {\"q\": \"Retargeting often has the best ROI because it:\", \"options\": [\"Reaches strangers\", \"Re-reaches interested past visitors\", \"Is cheapest\", \"Is random\"], \"correct\": 1, \"explanation\": \"Warm audiences convert better.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L4_1",
+    "subject_id": "digital_marketing",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Email Marketing & Automation",
+    "content": "KEY CONCEPTS: Email remains the highest-ROI channel (~$36 per $1 spent) because it's owned (no algorithm gatekeeping) and permission-based. The list is the asset \u2014 you own the relationship. Segmentation (sending relevant messages to specific groups) dramatically outperforms blasting everyone. Automation (welcome series, abandoned cart, re-engagement) works 24/7. Key metrics: open rate, click rate, conversion, unsubscribe, and deliverability (avoiding spam folders). The value exchange: people give their email for something valuable (lead magnet), then you nurture with consistent value before selling.\n\nWORKED EXAMPLE: An abandoned-cart automation emails shoppers who left items behind. It runs automatically, recovers 10-15% of otherwise-lost sales, and required building once. This single automation often generates more revenue than months of manual campaigns \u2014 because it reaches people at the exact moment of highest intent, automatically, forever.\n\nPRACTICE: 1) Design a 3-email welcome sequence. 2) Explain why segmentation beats blasting. 3) Describe an automation that runs at the moment of high intent.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Email marketing's ROI is high because it's:\", \"options\": [\"Free to send\", \"Owned and permission-based (no algorithm gatekeeping)\", \"New\", \"Automated only\"], \"correct\": 1, \"explanation\": \"You own the relationship.\"}, {\"q\": \"Segmentation means:\", \"options\": [\"Blasting everyone\", \"Sending relevant messages to specific groups\", \"Buying lists\", \"Spamming\"], \"correct\": 1, \"explanation\": \"Relevance dramatically outperforms blasting.\"}, {\"q\": \"An abandoned-cart automation works because it:\", \"options\": [\"Is manual\", \"Reaches people at peak intent, automatically\", \"Is expensive\", \"Runs once\"], \"correct\": 1, \"explanation\": \"Right message, right moment, forever.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L5_1",
+    "subject_id": "digital_marketing",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Analytics, Attribution & Optimization",
+    "content": "KEY CONCEPTS: You can't improve what you don't measure. Web analytics (traffic sources, behavior, conversions) reveals what's working. Attribution assigns credit for a conversion across touchpoints \u2014 last-click (simple, misleading), first-click, linear, or data-driven models. The customer journey is rarely linear; someone might see a social ad, read a blog, then convert via email. A/B testing optimizes systematically: change one variable, measure, keep the winner. Conversion Rate Optimization (CRO) improves the percentage who act \u2014 often cheaper than buying more traffic. Beware vanity metrics (likes) vs actionable metrics (revenue).\n\nWORKED EXAMPLE: A marketer credits all sales to the last ad clicked (last-click attribution) and cuts the 'top-of-funnel' blog that appeared to convert nothing. Sales then drop \u2014 because the blog was where customers first discovered the brand, and the last-click ad only 'closed' demand the blog created. Attribution errors cause you to kill what actually works.\n\nPRACTICE: 1) Explain last-click vs data-driven attribution. 2) Design an A/B test with one variable. 3) Distinguish a vanity metric from an actionable one.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Last-click attribution can mislead by:\", \"options\": [\"Being accurate\", \"Killing top-of-funnel efforts that created the demand\", \"Costing money\", \"Being complex\"], \"correct\": 1, \"explanation\": \"It ignores earlier touchpoints.\"}, {\"q\": \"A/B testing requires:\", \"options\": [\"Changing everything at once\", \"Changing one variable and measuring\", \"No measurement\", \"Guessing\"], \"correct\": 1, \"explanation\": \"Isolate the variable to know what worked.\"}, {\"q\": \"A vanity metric is:\", \"options\": [\"Revenue\", \"Likes (looks good, doesn't drive business)\", \"Conversions\", \"CPA\"], \"correct\": 1, \"explanation\": \"Actionable metrics tie to business outcomes.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L6_1",
+    "subject_id": "digital_marketing",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Social Media & Community",
+    "content": "KEY CONCEPTS: Social media builds audience, brand, and community \u2014 each platform has distinct culture, format, and algorithm. Organic reach has declined (platforms favor paid), so strategy shifts to engagement, shareable content, and community. The content-value exchange: entertain, educate, or inspire before promoting. Creator/influencer marketing leverages trusted voices \u2014 micro-influencers often outperform celebrities on engagement and cost. Community (owned groups, forums) creates belonging and retention that algorithms can't take away. Consistency and platform-native content beat repurposed corporate messaging.\n\nWORKED EXAMPLE: A brand posts polished ads on social and gets ignored. A competitor posts genuinely useful, native-feeling content that people actually share \u2014 building an engaged following that trusts them. When both later promote a product, the second brand's audience buys because trust was built first. On social, value earns the right to sell; ads alone get scrolled past.\n\nPRACTICE: 1) Explain why organic reach has declined and what to do about it. 2) Compare micro-influencer vs celebrity marketing. 3) Describe how community creates algorithm-proof retention.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Organic social reach has:\", \"options\": [\"Increased\", \"Declined (platforms favor paid)\", \"Stayed flat\", \"Disappeared\"], \"correct\": 1, \"explanation\": \"Strategy shifts to engagement and community.\"}, {\"q\": \"Micro-influencers often:\", \"options\": [\"Underperform always\", \"Outperform celebrities on engagement and cost\", \"Are useless\", \"Cost more\"], \"correct\": 1, \"explanation\": \"Higher trust and engagement per dollar.\"}, {\"q\": \"On social media, you earn the right to sell by:\", \"options\": [\"Posting ads only\", \"Providing value first (entertain/educate/inspire)\", \"Buying followers\", \"Spamming\"], \"correct\": 1, \"explanation\": \"Value builds the trust that enables selling.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L7_1",
+    "subject_id": "digital_marketing",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Growth Marketing & Full-Funnel Strategy",
+    "content": "KEY CONCEPTS: Growth marketing integrates all channels into a coherent system optimized for sustainable, compounding growth \u2014 not isolated campaigns. The full-funnel approach balances brand (long-term demand creation) with performance (short-term demand capture) \u2014 over-indexing on performance starves the top of funnel and eventually raises costs. Growth loops (referral, content, viral) compound where funnels leak. Unit economics govern everything: LTV must exceed CAC (target 3:1+), and CAC payback period determines how fast you can scale. Experimentation velocity (running many tests fast) is the real growth engine. Marketing-product fit: the message must match what the product actually delivers.\n\nWORKED EXAMPLE: A company pours everything into performance ads. CAC keeps rising because they've exhausted the ready-to-buy audience and neglected brand-building that creates new demand. A balanced full-funnel approach \u2014 investing in content and brand while running performance ads \u2014 lowers blended CAC over time by continuously refilling the top of funnel. Short-term-only thinking makes acquisition progressively more expensive.\n\nPRACTICE: 1) Explain the brand vs performance balance. 2) Design a growth loop for a product. 3) Calculate LTV:CAC and CAC payback for a scenario.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Over-indexing on performance marketing:\", \"options\": [\"Lowers CAC forever\", \"Eventually raises CAC by starving demand creation\", \"Has no effect\", \"Is always best\"], \"correct\": 1, \"explanation\": \"You exhaust ready buyers without refilling the funnel.\"}, {\"q\": \"Sustainable growth requires LTV:CAC of at least:\", \"options\": [\"1:1\", \"3:1 or better\", \"0.5:1\", \"No ratio matters\"], \"correct\": 1, \"explanation\": \"Value must comfortably exceed acquisition cost.\"}, {\"q\": \"The real growth engine is:\", \"options\": [\"A bigger budget\", \"Experimentation velocity (many fast tests)\", \"Luck\", \"One perfect ad\"], \"correct\": 1, \"explanation\": \"Fast systematic testing compounds learning.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "digital_marketing_L8_1",
+    "subject_id": "digital_marketing",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Marketing as a Growth System",
+    "content": "KEY CONCEPTS: At the highest level, marketing becomes a compounding growth system integrated with product, data, and strategy. Category design (defining and owning a new market) is the ultimate marketing move \u2014 the category king captures disproportionate value. First-party data and owned audiences become the durable moat as privacy changes erode third-party targeting. Marketing and product converge: the best growth comes from a product worth talking about (product-led growth), where the product itself markets. Brand becomes the long-term compounding asset \u2014 pricing power, lower CAC, and loyalty. The King-level truth: sustainable growth isn't a bigger ad budget; it's a system where product, brand, content, and community reinforce each other, so each channel makes the others more effective and growth compounds rather than requiring ever-more spend.\n\nWORKED EXAMPLE: Two companies grow to the same size. One did it by continuously increasing ad spend \u2014 growth stops the moment budget stops. The other built a brand people love, content that ranks, a referring community, and a product that markets itself \u2014 its growth compounds and its CAC falls over time. The second built a growth *system*; the first rented growth. Systems compound; rented growth evaporates.\n\nPRACTICE: 1) Define a category you could create and own. 2) Explain why first-party data is becoming the key moat. 3) Design how product, brand, content, and community could reinforce each other for one business.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Category design is powerful because:\", \"options\": [\"It's easy\", \"The category king captures disproportionate value\", \"It's cheap\", \"It avoids marketing\"], \"correct\": 1, \"explanation\": \"Defining and owning a market concentrates value.\"}, {\"q\": \"First-party data is becoming the moat because:\", \"options\": [\"It's free\", \"Privacy changes erode third-party targeting\", \"It's illegal\", \"It's small\"], \"correct\": 1, \"explanation\": \"Owned audiences survive privacy shifts.\"}, {\"q\": \"A growth system beats rented growth because it:\", \"options\": [\"Costs more\", \"Compounds \\u2014 channels reinforce each other\", \"Stops when budget stops\", \"Is slower\"], \"correct\": 1, \"explanation\": \"Systems compound; paid-only growth evaporates.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

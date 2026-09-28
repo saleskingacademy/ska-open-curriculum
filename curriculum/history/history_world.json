@@ -1,0 +1,78 @@
+{
+  "subject_id": "history_world",
+  "subject_name": "World History",
+  "category": "HISTORY_CIVILIZATION",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "The Dawn of Civilization",
+          "content": "# The Dawn of Civilization\n\n## Learning Objectives\n1. Explain the transition from hunter-gatherer to agricultural societies\n2. Identify the first major civilizations and their locations\n3. Describe the key characteristics that define a civilization\n4. Understand the significance of the Neolithic Revolution\n5. Analyze how geography shaped early civilizations\n\n## From Hunter-Gatherers to Farmers\n\nFor over 90% of human history, our ancestors were **hunter-gatherers** \u2014 small nomadic groups that followed animal herds and gathered wild plants. They had no permanent settlements, limited possessions, and lived in groups of 20-50 people.\n\nEverything changed around 10,000 BCE with the **Neolithic Revolution** (Agricultural Revolution) \u2014 the shift from hunting and gathering to farming. This is arguably the most important transformation in human history.\n\n### Why Farming?\n- Climate warming after the last Ice Age (~12,000 BCE) made conditions favorable\n- Population pressure made food sources less reliable\n- Observation of plant growth cycles led to deliberate cultivation\n- Certain regions had domesticable plants and animals\n\n### Consequences of Agriculture\n1. **Permanent settlements**: No need to follow food sources\n2. **Food surplus**: Not everyone needed to farm \u2192 specialization\n3. **Population growth**: Reliable food = more people\n4. **Social hierarchy**: Surplus created wealth differences\n5. **Technology**: Need for storage, irrigation, tools drove innovation\n6. **Writing**: Record-keeping for trade and taxes\n\n## Characteristics of Civilization\n\nHistorians identify several key features that distinguish civilizations from simpler societies:\n\n1. **Urban centers** (cities)\n2. **Organized government** and laws\n3. **Social classes** and specialization\n4. **Complex religion** with priesthood\n5. **Writing system** for record-keeping\n6. **Art and architecture**\n7. **Public infrastructure** (roads, irrigation)\n8. **Trade networks**\n\n## The First Civilizations (\"Cradles of Civilization\")\n\nAll early civilizations arose near rivers \u2014 water for farming, drinking, trade, and transportation.\n\n### 1. Mesopotamia (c. 3500 BCE) \u2014 Tigris and Euphrates Rivers\n- Modern-day Iraq\n- Sumerians invented cuneiform writing (~3200 BCE)\n- First known cities: Ur, Uruk, Babylon\n- Code of Hammurabi (c. 1754 BCE) \u2014 earliest known written laws\n- Invented the wheel, sailboat, plow, and base-60 number system (why we have 60-minute hours)\n\n### 2. Ancient Egypt (c. 3100 BCE) \u2014 Nile River\n- Annual flooding deposited fertile silt\n- United under Pharaoh Narmer/Menes\n- Built the Great Pyramids of Giza (~2560 BCE)\n- Hieroglyphic writing, papyrus\n- Advanced medicine, mathematics, and engineering\n\n### 3. Indus Valley (c. 2600 BCE) \u2014 Indus River\n- Modern-day Pakistan and northwest India\n- Cities of Mohenjo-daro and Harappa\n- Advanced urban planning: grid streets, sewage systems, standardized weights\n- Writing system remains undeciphered\n- Mysteriously declined around 1900 BCE\n\n### 4. Ancient China (c. 2070 BCE) \u2014 Yellow River (Huang He)\n- Shang Dynasty: first confirmed dynasty with oracle bones (divination)\n- Invented silk, bronze casting, chopsticks\n- Developed Chinese writing system (still in use today)\n- Philosophy: Confucianism, Taoism (later periods)\n\n## The Role of Geography\n\nGeography determined where civilizations could arise and how they developed:\n- **Rivers**: Provided water, transportation, fertile soil\n- **Mountains**: Natural defenses (Egypt protected by desert; China by mountains)\n- **Climate**: Temperate zones with seasonal rainfall favored agriculture\n- **Natural resources**: Access to metals, stone, timber shaped technology\n\n## Practice Problems\n\n1. What was the Neolithic Revolution and why was it important?\n   **Answer**: The transition from hunting/gathering to agriculture (~10,000 BCE). It enabled permanent settlements, food surplus, population growth, social hierarchy, and eventually civilization.\n\n2. Name the four \"cradles of civilization\" and their rivers.\n   **Answer**: Mesopotamia (Tigris/Euphrates), Egypt (Nile), Indus Valley (Indus), China (Yellow River)\n\n3. List 5 characteristics that define a civilization.\n   **Answer**: Urban centers, organized government, social classes, writing system, complex religion\n\n4. What was the Code of Hammurabi and why is it significant?\n   **Answer**: The earliest known written legal code (c. 1754 BCE, Babylon). It established the principle that laws should be publicly known and uniformly applied.\n\n5. Why did all early civilizations develop near rivers?\n   **Answer**: Rivers provided water for irrigation, drinking, transportation, and trade. Annual flooding deposited fertile soil for farming.\n\n## Key Takeaways\n- The Neolithic Revolution (~10,000 BCE) was the shift from hunting to farming\n- Agriculture enabled settlements, surplus, specialization, and social complexity\n- Civilizations share key traits: cities, government, writing, social hierarchy\n- The first four civilizations arose near rivers in Mesopotamia, Egypt, India, and China\n- Geography \u2014 especially rivers, climate, and natural barriers \u2014 shaped every civilization",
+          "quiz": [
+            {
+              "question": "The Neolithic Revolution refers to:",
+              "options": [
+                "Industrial Revolution",
+                "Shift from farming to cities",
+                "Shift from hunting to agriculture",
+                "Discovery of fire"
+              ],
+              "correct": "Shift from hunting to agriculture",
+              "explanation": "The Neolithic Revolution was the transition from hunter-gatherer lifestyles to settled agriculture"
+            },
+            {
+              "question": "Which civilization invented cuneiform writing?",
+              "options": [
+                "Egypt",
+                "China",
+                "Sumer (Mesopotamia)",
+                "Indus Valley"
+              ],
+              "correct": "Sumer (Mesopotamia)",
+              "explanation": "Sumerians in Mesopotamia created cuneiform around 3200 BCE"
+            },
+            {
+              "question": "Why did early civilizations develop near rivers?",
+              "options": [
+                "For military defense",
+                "For water, farming, trade",
+                "For gold mining",
+                "Rivers had cities already"
+              ],
+              "correct": "For water, farming, trade",
+              "explanation": "Rivers provided irrigation, fertile soil, drinking water, and transportation"
+            },
+            {
+              "question": "The Code of Hammurabi was:",
+              "options": [
+                "An Egyptian tomb",
+                "The first written laws",
+                "A Chinese philosophy",
+                "A trade agreement"
+              ],
+              "correct": "The first written laws",
+              "explanation": "Hammurabi's Code (~1754 BCE) was the earliest known comprehensive written legal code"
+            },
+            {
+              "question": "Which Indus Valley feature was remarkably advanced?",
+              "options": [
+                "Military weapons",
+                "Urban planning and sewage",
+                "Ocean navigation",
+                "Astronomical observatories"
+              ],
+              "correct": "Urban planning and sewage",
+              "explanation": "Indus Valley cities had grid streets, indoor plumbing, and sophisticated sewage systems"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
