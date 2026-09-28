@@ -1,0 +1,98 @@
+[
+  {
+    "id": "accounting_L1_1",
+    "subject_id": "accounting",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Accounting Foundations",
+    "content": "KEY CONCEPTS: Accounting is the language of business \u2014 it records, classifies, and reports economic activity. The Accounting Equation is inviolable: Assets = Liabilities + Equity. Every transaction affects at least two accounts (double-entry bookkeeping), keeping the equation balanced. Debits increase assets and expenses; credits increase liabilities, equity, and revenue. Accrual accounting records revenue when earned and expenses when incurred (not when cash moves); cash accounting records when cash moves. GAAP/IFRS are the rule frameworks ensuring comparability.\n\nWORKED EXAMPLE: A company buys $10,000 of equipment with cash. Assets increase by $10,000 (equipment) and decrease by $10,000 (cash) \u2014 the equation stays balanced, and net worth is unchanged. Buying an asset is not an expense; it is a conversion of one asset into another.\n\nPRACTICE: 1) Journal three transactions using debits and credits. 2) Show how each keeps A = L + E balanced. 3) Explain why accrual profit can differ from cash in the bank.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The accounting equation is:\", \"options\": [\"Revenue \\u2212 Expenses = Profit\", \"Assets = Liabilities + Equity\", \"Cash In \\u2212 Cash Out = Balance\", \"Debits = Profits\"], \"correct\": 1, \"explanation\": \"Assets = Liabilities + Equity, always.\"}, {\"q\": \"Accrual accounting records revenue when:\", \"options\": [\"Cash is received\", \"It is earned\", \"The invoice is paid\", \"The year ends\"], \"correct\": 1, \"explanation\": \"Revenue is recorded when earned, not when cash moves.\"}, {\"q\": \"Buying equipment with cash is:\", \"options\": [\"An expense\", \"A conversion of one asset to another\", \"A liability\", \"Revenue\"], \"correct\": 1, \"explanation\": \"Assets shift; net worth is unchanged.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L2_1",
+    "subject_id": "accounting",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "The Three Financial Statements",
+    "content": "KEY CONCEPTS: The Income Statement (P&L) shows performance over a period: Revenue \u2212 COGS = Gross Profit; \u2212 Operating Expenses = Operating Income (EBIT); \u2212 Interest & Taxes = Net Income. The Balance Sheet is a snapshot at a point in time: Assets = Liabilities + Equity. The Cash Flow Statement reconciles net income to actual cash across three sections: Operating, Investing, Financing. The statements interlock: net income flows to retained earnings on the balance sheet and starts the cash flow statement.\n\nWORKED EXAMPLE: A company reports $1M net income but has negative cash flow \u2014 because $1.5M was tied up in growing receivables. Profitable companies go bankrupt from cash starvation. This is why the cash flow statement exists: profit is an opinion, cash is a fact.\n\nPRACTICE: 1) Build a simple P&L from revenue and cost data. 2) Show how net income links all three statements. 3) Identify a case where profit and cash flow diverge.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The Balance Sheet shows:\", \"options\": [\"Performance over a period\", \"A snapshot at a point in time\", \"Only cash\", \"Future projections\"], \"correct\": 1, \"explanation\": \"It's a point-in-time snapshot.\"}, {\"q\": \"The three cash flow sections are:\", \"options\": [\"Operating, Investing, Financing\", \"Revenue, Cost, Profit\", \"Assets, Liabilities, Equity\", \"Past, Present, Future\"], \"correct\": 0, \"explanation\": \"Operating, Investing, Financing.\"}, {\"q\": \"A profitable company can go bankrupt because:\", \"options\": [\"Profit is impossible\", \"Profit is an opinion; cash is a fact\", \"Taxes are too high\", \"It cannot happen\"], \"correct\": 1, \"explanation\": \"Cash starvation kills profitable companies.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L3_1",
+    "subject_id": "accounting",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Recording & the Accounting Cycle",
+    "content": "KEY CONCEPTS: The cycle: transactions \u2192 journal entries \u2192 general ledger \u2192 trial balance \u2192 adjusting entries \u2192 financial statements \u2192 closing entries. Adjusting entries capture accruals (revenue earned but not billed), deferrals (cash received before earned), depreciation, and accrued expenses. The trial balance proves debits equal credits but does NOT prove correctness \u2014 a transaction posted to the wrong account still balances. Closing entries zero out temporary accounts (revenue, expenses) into retained earnings.\n\nWORKED EXAMPLE: A company receives $12,000 in December for a year of service starting January. Cash increases $12,000, but revenue is zero \u2014 the offset is Deferred Revenue, a liability. Each month, $1,000 moves from liability to revenue as it's earned. Recognizing it all in December would overstate the year's profit fourfold.\n\nPRACTICE: 1) Write adjusting entries for accrued salary and prepaid rent. 2) Build a trial balance. 3) Explain why a balanced trial balance can still be wrong.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Cash received before service is earned is recorded as:\", \"options\": [\"Revenue\", \"Deferred Revenue (a liability)\", \"An asset write-off\", \"Equity\"], \"correct\": 1, \"explanation\": \"It's a liability until earned.\"}, {\"q\": \"A balanced trial balance proves:\", \"options\": [\"The books are correct\", \"Debits equal credits, nothing more\", \"No fraud occurred\", \"Profit is accurate\"], \"correct\": 1, \"explanation\": \"Wrong-account postings still balance.\"}, {\"q\": \"Closing entries zero out:\", \"options\": [\"Assets\", \"Temporary accounts (revenue and expenses)\", \"Liabilities\", \"Equity\"], \"correct\": 1, \"explanation\": \"Revenue/expense accounts close into retained earnings.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L4_1",
+    "subject_id": "accounting",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Financial Statement Analysis",
+    "content": "KEY CONCEPTS: Ratios turn statements into insight. Liquidity: Current Ratio (Current Assets/Current Liabilities), Quick Ratio (excludes inventory). Profitability: Gross Margin, Operating Margin, Net Margin, Return on Equity (ROE = Net Income/Equity), Return on Assets. Efficiency: Inventory Turnover, Days Sales Outstanding (DSO), Asset Turnover. Leverage: Debt-to-Equity, Interest Coverage (EBIT/Interest). DuPont decomposition: ROE = Net Margin \u00d7 Asset Turnover \u00d7 Equity Multiplier \u2014 revealing whether returns come from profitability, efficiency, or leverage.\n\nWORKED EXAMPLE: Two firms both show 20% ROE. DuPont reveals Firm A earns it from 15% net margins; Firm B from 5x leverage on thin margins. Identical headline number, radically different risk. Ratios without decomposition mislead.\n\nPRACTICE: 1) Compute liquidity, profitability, and leverage ratios for a company. 2) Decompose ROE using DuPont. 3) Explain what a rising DSO signals about collections.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Current Ratio equals:\", \"options\": [\"Assets/Liabilities\", \"Current Assets/Current Liabilities\", \"Cash/Debt\", \"Equity/Assets\"], \"correct\": 1, \"explanation\": \"Current Assets \\u00f7 Current Liabilities.\"}, {\"q\": \"DuPont decomposes ROE into:\", \"options\": [\"Margin \\u00d7 Turnover \\u00d7 Leverage\", \"Revenue \\u2212 Cost\", \"Assets + Equity\", \"Debt \\u00f7 Equity\"], \"correct\": 0, \"explanation\": \"Net margin, asset turnover, and equity multiplier.\"}, {\"q\": \"Rising Days Sales Outstanding (DSO) signals:\", \"options\": [\"Faster collections\", \"Slower collections\", \"Higher profit\", \"Lower debt\"], \"correct\": 1, \"explanation\": \"Cash is taking longer to collect.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L5_1",
+    "subject_id": "accounting",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Managerial & Cost Accounting",
+    "content": "KEY CONCEPTS: Financial accounting reports outward; managerial accounting informs internal decisions. Cost behavior: fixed (rent), variable (materials), mixed. Contribution Margin = Price \u2212 Variable Cost; it funds fixed costs and profit. Break-even units = Fixed Costs / Contribution Margin per unit. Activity-Based Costing (ABC) assigns overhead by actual activity drivers, exposing which products truly lose money. Sunk costs are irrelevant to decisions; only incremental costs matter.\n\nWORKED EXAMPLE: A product sells for $50 with $30 variable cost \u2014 contribution margin $20. Fixed costs are $200,000. Break-even = 200,000/20 = 10,000 units. Below that, every sale still helps (it covers some fixed cost) as long as price exceeds variable cost \u2014 a crucial insight often missed when firms kill products that appear 'unprofitable' under full-cost allocation.\n\nPRACTICE: 1) Calculate break-even units for a product. 2) Decide whether to accept a special order priced below full cost. 3) Identify a sunk cost you'd be tempted to consider.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Contribution Margin equals:\", \"options\": [\"Price \\u2212 Fixed Cost\", \"Price \\u2212 Variable Cost\", \"Revenue \\u2212 Total Cost\", \"Profit \\u00f7 Revenue\"], \"correct\": 1, \"explanation\": \"Price minus variable cost funds fixed costs and profit.\"}, {\"q\": \"Break-even units equals:\", \"options\": [\"Fixed Costs / Contribution Margin per unit\", \"Revenue / Price\", \"Variable Cost \\u00d7 Units\", \"Profit / Margin\"], \"correct\": 0, \"explanation\": \"Fixed Costs \\u00f7 CM per unit.\"}, {\"q\": \"Sunk costs should be:\", \"options\": [\"Included in decisions\", \"Ignored in decisions\", \"Doubled\", \"Recovered first\"], \"correct\": 1, \"explanation\": \"Only incremental costs matter going forward.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L6_1",
+    "subject_id": "accounting",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Advanced Topics: Valuation, Taxes & Consolidation",
+    "content": "KEY CONCEPTS: Deferred tax arises when book and tax treatments differ (e.g., depreciation methods). Inventory methods: FIFO, LIFO, Weighted Average \u2014 each produces different profit under inflation (FIFO shows higher profit; LIFO lower and lower taxes). Depreciation methods: straight-line vs accelerated affect earnings timing, not total. Consolidation combines parent and subsidiary, eliminating intercompany transactions. Goodwill arises when purchase price exceeds fair value of net assets \u2014 and is tested annually for impairment, never amortized under current standards.\n\nWORKED EXAMPLE: Under rising prices, LIFO charges the newest (higher) costs to COGS, lowering reported profit and taxes. FIFO does the opposite. Identical physical inventory, different reported earnings \u2014 proving that accounting policy choice materially shapes the picture without any change in reality.\n\nPRACTICE: 1) Compare FIFO vs LIFO profit under inflation. 2) Explain how goodwill arises in an acquisition. 3) Identify a source of deferred tax liability.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Under inflation, LIFO produces:\", \"options\": [\"Higher reported profit\", \"Lower reported profit and lower taxes\", \"No difference\", \"Higher taxes\"], \"correct\": 1, \"explanation\": \"LIFO charges newer, higher costs to COGS.\"}, {\"q\": \"Goodwill arises when:\", \"options\": [\"A company is profitable\", \"Purchase price exceeds fair value of net assets\", \"Assets depreciate\", \"Debt is issued\"], \"correct\": 1, \"explanation\": \"It's the premium over identifiable net assets.\"}, {\"q\": \"Depreciation method choice affects:\", \"options\": [\"Total depreciation\", \"Timing of earnings, not the total\", \"Cash flow directly\", \"Nothing\"], \"correct\": 1, \"explanation\": \"It shifts timing; total is the same.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L7_1",
+    "subject_id": "accounting",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Controls, Audit & Earnings Quality",
+    "content": "KEY CONCEPTS: Internal controls prevent and detect error and fraud \u2014 segregation of duties is the core principle (whoever authorizes shouldn't also record and custody). The Fraud Triangle: pressure, opportunity, rationalization \u2014 remove any one and fraud is far less likely. Audit provides reasonable, not absolute, assurance. Earnings quality: high-quality earnings are cash-backed and repeatable; red flags include growing gap between net income and operating cash flow, aggressive revenue recognition, and repeated 'one-time' charges. Accruals are where manipulation hides.\n\nWORKED EXAMPLE: A company's net income rises 20% while operating cash flow falls. The gap is a widening receivables balance \u2014 revenue booked but not collected. This divergence is the single most reliable early warning of aggressive or fraudulent revenue recognition; it preceded most major accounting scandals.\n\nPRACTICE: 1) Design segregation of duties for a cash process. 2) Assess earnings quality using the income-to-cash-flow gap. 3) Identify three red flags in a set of statements.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The core internal control principle is:\", \"options\": [\"Hiring auditors\", \"Segregation of duties\", \"Working faster\", \"More approvals\"], \"correct\": 1, \"explanation\": \"Authorization, recording, and custody must be separated.\"}, {\"q\": \"The Fraud Triangle consists of:\", \"options\": [\"Pressure, Opportunity, Rationalization\", \"Cash, Debt, Equity\", \"Plan, Do, Review\", \"Greed, Need, Speed\"], \"correct\": 0, \"explanation\": \"Remove any one leg and fraud is far less likely.\"}, {\"q\": \"A widening gap between net income and operating cash flow suggests:\", \"options\": [\"Strong earnings\", \"Possible aggressive revenue recognition\", \"Lower taxes\", \"Higher quality earnings\"], \"correct\": 1, \"explanation\": \"It's the most reliable early warning of earnings manipulation.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "accounting_L8_1",
+    "subject_id": "accounting",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Accounting as Strategic Intelligence",
+    "content": "KEY CONCEPTS: At the highest level, accounting is not compliance \u2014 it is the instrument panel for capital allocation. The King-level operator reads statements to answer: where is value created, where destroyed, and where should the next dollar go? Economic Value Added (EVA) = NOPAT \u2212 (Capital \u00d7 Cost of Capital) \u2014 profit only counts above the cost of the capital consumed. Unit economics (contribution per customer, CAC payback, LTV) matter more than aggregate profit in growth businesses. Accounting choices signal to markets; consistency and conservatism build credibility, while aggressive policy invites discount.\n\nWORKED EXAMPLE: A division shows $2M accounting profit but consumed $30M of capital at a 12% cost \u2014 EVA = 2 \u2212 3.6 = \u2212$1.6M. It is destroying value despite looking profitable. This distinction \u2014 accounting profit vs economic profit \u2014 is why capital gets misallocated for years in companies that only read the P&L.\n\nPRACTICE: 1) Compute EVA for a business unit. 2) Build unit economics for a customer cohort. 3) Recommend where the next $1M of capital should go and defend it with numbers.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Economic Value Added (EVA) equals:\", \"options\": [\"Revenue \\u2212 Cost\", \"NOPAT \\u2212 (Capital \\u00d7 Cost of Capital)\", \"Net Income + Depreciation\", \"Assets \\u2212 Liabilities\"], \"correct\": 1, \"explanation\": \"Profit only counts above the cost of capital consumed.\"}, {\"q\": \"A unit showing accounting profit but negative EVA is:\", \"options\": [\"Creating value\", \"Destroying value\", \"Break-even\", \"Tax-efficient\"], \"correct\": 1, \"explanation\": \"It earns less than the cost of the capital it uses.\"}, {\"q\": \"In growth businesses, what matters more than aggregate profit?\", \"options\": [\"Total revenue\", \"Unit economics (LTV, CAC payback)\", \"Headcount\", \"Office size\"], \"correct\": 1, \"explanation\": \"Unit economics reveal whether growth creates or destroys value.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]
