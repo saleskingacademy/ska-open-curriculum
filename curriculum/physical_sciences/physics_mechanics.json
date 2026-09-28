@@ -1,0 +1,78 @@
+{
+  "subject_id": "physics_mechanics",
+  "subject_name": "Classical Mechanics",
+  "category": "PHYSICAL_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Motion, Speed, and Velocity",
+          "content": "# Motion, Speed, and Velocity\n\n## Learning Objectives\n1. Define and distinguish between distance and displacement\n2. Calculate speed and velocity\n3. Interpret position-time and velocity-time graphs\n4. Understand reference frames\n5. Solve problems involving uniform motion\n\n## What is Motion?\n\nMotion is the change in position of an object over time. All motion is relative \u2014 it must be measured with respect to a reference frame (a coordinate system).\n\nWhen you sit on a train, you're stationary relative to the train but moving at 60 mph relative to the ground. Both descriptions are correct in their reference frames.\n\n## Distance vs. Displacement\n\n**Distance** (scalar): Total path length traveled. Always positive.\n**Displacement** (vector): Straight-line change from start to finish. Has magnitude AND direction.\n\n### Example\nYou walk 3 km north, then 4 km east.\n- Distance = 3 + 4 = 7 km\n- Displacement = \u221a(3\u00b2 + 4\u00b2) = 5 km at 53\u00b0 east of north\n\n## Speed vs. Velocity\n\n**Speed** (scalar): Rate of distance traveled\n- Average speed = total distance / total time\n- Units: m/s, km/h, mph\n\n**Velocity** (vector): Rate of displacement change\n- Average velocity = displacement / time = \u0394x / \u0394t\n- Has magnitude AND direction\n\n### Example\nA car drives 100 km north in 2 hours, then 100 km south in 2 hours.\n- Average speed = 200 km / 4 hr = 50 km/h\n- Average velocity = 0 km / 4 hr = 0 km/h (returned to start!)\n\n## Position-Time Graphs\n\nOn a position-time (x-t) graph:\n- **Slope = velocity**\n- Straight line = constant velocity\n- Steeper slope = faster speed\n- Horizontal line = stationary (v = 0)\n- Curved line = changing velocity (acceleration)\n\n## Velocity-Time Graphs\n\nOn a velocity-time (v-t) graph:\n- **Slope = acceleration**\n- **Area under curve = displacement**\n- Horizontal line = constant velocity\n- Positive slope = speeding up\n- Negative slope = slowing down\n\n## Uniform Motion Equations\n\nFor constant velocity (no acceleration):\n- d = vt (distance = velocity \u00d7 time)\n- v = d/t (velocity = distance / time)\n- t = d/v (time = distance / velocity)\n\n### Worked Examples\n\n**Example 1**: A runner maintains 8 m/s for 12 seconds. How far?\nd = vt = 8 \u00d7 12 = **96 meters**\n\n**Example 2**: Light travels at 3 \u00d7 10\u2078 m/s. The Sun is 1.5 \u00d7 10\u00b9\u00b9 m away. How long for light to reach Earth?\nt = d/v = (1.5 \u00d7 10\u00b9\u00b9) / (3 \u00d7 10\u2078) = **500 seconds \u2248 8.3 minutes**\n\n**Example 3**: Two cars start 200 km apart driving toward each other at 60 km/h and 40 km/h. When do they meet?\nCombined speed = 100 km/h, t = 200/100 = **2 hours**\n\n## Unit Conversions\n- 1 m/s = 3.6 km/h\n- 1 km/h = 0.278 m/s\n- 1 mph \u2248 1.609 km/h\n\n## Practice Problems\n\n1. A cyclist rides 15 km in 45 minutes. What is their average speed in km/h?\n   **Answer**: 15 / 0.75 = 20 km/h\n\n2. Convert 72 km/h to m/s.\n   **Answer**: 72 / 3.6 = 20 m/s\n\n3. A ball is thrown 20 m east, bounces back 8 m west. What is the distance? Displacement?\n   **Answer**: Distance = 28 m. Displacement = 12 m east.\n\n4. Sound travels at 343 m/s. Thunder is heard 6 seconds after lightning. How far away?\n   **Answer**: d = 343 \u00d7 6 = 2,058 m \u2248 2.06 km\n\n5. A car's position is x = 5 + 3t (in meters, t in seconds). What is its velocity?\n   **Answer**: v = 3 m/s (coefficient of t is the velocity)\n\n## Key Takeaways\n- Motion is always relative to a reference frame\n- Distance is scalar (total path); displacement is vector (start to finish)\n- Speed is scalar (rate of distance); velocity is vector (rate of displacement)\n- Graph slopes reveal velocity (x-t graph) and acceleration (v-t graph)\n- For uniform motion: d = vt is the fundamental equation",
+          "quiz": [
+            {
+              "question": "Distance is a ____ quantity while displacement is a ____ quantity.",
+              "options": [
+                "vector, scalar",
+                "scalar, vector",
+                "scalar, scalar",
+                "vector, vector"
+              ],
+              "correct": "scalar, vector",
+              "explanation": "Distance has only magnitude; displacement has magnitude AND direction"
+            },
+            {
+              "question": "On a position-time graph, the slope represents:",
+              "options": [
+                "Acceleration",
+                "Distance",
+                "Velocity",
+                "Force"
+              ],
+              "correct": "Velocity",
+              "explanation": "The rate of change of position with respect to time is velocity"
+            },
+            {
+              "question": "Convert 90 km/h to m/s:",
+              "options": [
+                "25 m/s",
+                "30 m/s",
+                "9 m/s",
+                "90 m/s"
+              ],
+              "correct": "25 m/s",
+              "explanation": "90 / 3.6 = 25 m/s"
+            },
+            {
+              "question": "A car travels 60 km east then 60 km west. Average velocity?",
+              "options": [
+                "60 km/h",
+                "120 km/h",
+                "30 km/h",
+                "0 km/h"
+              ],
+              "correct": "0 km/h",
+              "explanation": "Displacement is zero (returned to start), so average velocity = 0"
+            },
+            {
+              "question": "Sound takes 4 seconds to reach you (speed = 343 m/s). Distance?",
+              "options": [
+                "1,372 m",
+                "86 m",
+                "343 m",
+                "2,744 m"
+              ],
+              "correct": "1,372 m",
+              "explanation": "d = v \u00d7 t = 343 \u00d7 4 = 1,372 m"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
