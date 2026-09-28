@@ -1,0 +1,78 @@
+{
+  "subject_id": "constitutional_law",
+  "subject_name": "Constitutional Law",
+  "category": "LAW_LEGAL",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Constitutional Law",
+          "content": "# Introduction to Constitutional Law\n\n## Learning Objectives\n1. Understand the structure and purpose of the U.S. Constitution\n2. Explain the separation of powers and checks and balances\n3. Identify the significance of the Bill of Rights\n4. Understand judicial review and its origins\n5. Apply constitutional principles to modern issues\n\n## The Constitution\n\nThe U.S. Constitution (1787) is the supreme law of the land. It establishes the framework of government, defines powers and limits, and protects individual rights.\n\n### Structure\n- **Preamble**: Statement of purpose ('We the People...')\n- **Article I**: Legislative Branch (Congress \u2014 Senate + House)\n- **Article II**: Executive Branch (President)\n- **Article III**: Judicial Branch (Supreme Court + federal courts)\n- **Articles IV-VII**: States, amendments, supremacy, ratification\n- **27 Amendments**: Bill of Rights (1-10) + 17 later amendments\n\n## Separation of Powers\n\nPower is divided among three co-equal branches:\n- **Legislative** (Congress): Makes laws\n- **Executive** (President): Enforces laws\n- **Judicial** (Courts): Interprets laws\n\n### Checks and Balances\n- Congress passes laws \u2192 President can veto \u2192 Congress can override (2/3 vote)\n- President appoints judges \u2192 Senate confirms\n- Courts can declare laws unconstitutional (judicial review)\n- Congress can impeach the President or judges\n\n## Judicial Review\n\nEstablished in **Marbury v. Madison (1803)** by Chief Justice John Marshall. The Supreme Court has the power to declare acts of Congress unconstitutional. This is arguably the most important power in American constitutional law \u2014 it makes the Constitution a living, enforceable document.\n\n## The Bill of Rights (Amendments 1-10)\n\n1. **First Amendment**: Freedom of religion, speech, press, assembly, petition\n2. **Second Amendment**: Right to bear arms\n3. **Third Amendment**: No quartering soldiers\n4. **Fourth Amendment**: No unreasonable searches and seizures\n5. **Fifth Amendment**: Due process, self-incrimination, double jeopardy\n6. **Sixth Amendment**: Right to speedy trial, counsel, jury\n7. **Seventh Amendment**: Jury trial in civil cases\n8. **Eighth Amendment**: No cruel and unusual punishment\n9. **Ninth Amendment**: Rights not listed are still retained by people\n10. **Tenth Amendment**: Powers not given to federal government belong to states\n\n## Key Later Amendments\n- 13th: Abolished slavery (1865)\n- 14th: Equal protection and due process (1868)\n- 15th: Right to vote regardless of race (1870)\n- 19th: Women's suffrage (1920)\n\n## Practice Problems\n1. Which article establishes the judicial branch?\n   **Answer**: Article III\n\n2. What case established judicial review?\n   **Answer**: Marbury v. Madison (1803)\n\n3. Which amendment protects against unreasonable searches?\n   **Answer**: The Fourth Amendment\n\n## Key Takeaways\n- The Constitution is the supreme law, establishing government structure and rights\n- Separation of powers prevents any one branch from becoming too powerful\n- Judicial review (Marbury v. Madison) allows courts to strike down unconstitutional laws\n- The Bill of Rights protects fundamental individual liberties\n- The 14th Amendment's Equal Protection Clause is central to modern civil rights law",
+          "quiz": [
+            {
+              "question": "What is the main focus of Constitutional Law?",
+              "options": [
+                "Study of constitutional law",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of constitutional law",
+              "explanation": "Constitutional Law encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Constitutional Law?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Constitutional Law has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Constitutional Law lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

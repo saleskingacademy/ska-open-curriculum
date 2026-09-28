@@ -1,0 +1,78 @@
+{
+  "subject_id": "english_composition",
+  "subject_name": "English Composition",
+  "category": "LANGUAGES_COMMUNICATION",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "The Writing Process",
+          "content": "# The Writing Process\n\n## Learning Objectives\n1. Understand the stages of the writing process\n2. Develop effective thesis statements\n3. Organize essays with clear structure\n4. Apply revision and editing strategies\n5. Avoid common writing errors\n\n## The Five Stages of Writing\n\n### 1. Prewriting\nGenerate and organize ideas BEFORE writing:\n- **Brainstorming**: List all ideas without judgment\n- **Freewriting**: Write continuously for 10-15 minutes\n- **Mind Mapping**: Visual diagram of connected ideas\n- **Outlining**: Organize ideas into a structured plan\n- **Research**: Gather evidence and sources\n\n### 2. Drafting\nWrite the first draft without worrying about perfection:\n- Focus on getting ideas down\n- Don't stop to edit\n- Follow your outline but allow flexibility\n- The goal is a complete draft, not a perfect one\n\n### 3. Revising\nImprove content, organization, and clarity:\n- Does the thesis clearly state the main argument?\n- Does each paragraph support the thesis?\n- Are ideas logically ordered?\n- Are transitions smooth between paragraphs?\n- Is evidence sufficient and relevant?\n\n### 4. Editing\nFix grammar, punctuation, and mechanics:\n- Subject-verb agreement\n- Sentence fragments and run-ons\n- Pronoun reference\n- Punctuation (commas, semicolons, apostrophes)\n- Spelling and word choice\n\n### 5. Publishing/Submitting\nPrepare the final version for the audience.\n\n## The Thesis Statement\n\nA thesis is a one-sentence summary of your essay's main argument. Every good thesis:\n- Takes a clear position (not just states a topic)\n- Is specific and focused\n- Is arguable (someone could disagree)\n- Previews the essay's structure\n\n**Weak**: Social media is popular.\n**Strong**: Social media has fundamentally damaged adolescent mental health by creating addictive feedback loops, promoting unrealistic comparisons, and reducing face-to-face social skills.\n\n## Essay Structure\n\n### Introduction\n- Hook (grab attention)\n- Context (background)\n- Thesis (your argument)\n\n### Body Paragraphs (MEAL plan)\n- **M**ain idea (topic sentence)\n- **E**vidence (facts, quotes, data)\n- **A**nalysis (explain how evidence supports your point)\n- **L**ink (connect back to thesis or transition)\n\n### Conclusion\n- Restate thesis (different words)\n- Summarize key points\n- Broader significance or call to action\n- Do NOT introduce new information\n\n## Practice Problems\n1. Write a thesis statement for an essay about climate change.\n   **Example**: Government-mandated carbon emissions caps are the most effective policy tool for combating climate change because they create immediate accountability, drive innovation in clean energy, and have proven successful in countries like Sweden and Denmark.\n\n2. Identify the error: 'The team are going to they're game.'\n   **Answer**: Two errors \u2014 'are' should be 'is' (team is singular); 'they're' should be 'their'\n\n## Key Takeaways\n- Writing is a process: prewrite \u2192 draft \u2192 revise \u2192 edit \u2192 publish\n- Strong thesis statements take a clear, arguable position\n- Every paragraph should support the thesis with evidence and analysis\n- Revision focuses on content and structure; editing focuses on grammar\n- First drafts are meant to be imperfect \u2014 revision is where writing improves",
+          "quiz": [
+            {
+              "question": "What is the main focus of English Composition?",
+              "options": [
+                "Study of english composition",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of english composition",
+              "explanation": "English Composition encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to English Composition?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "English Composition has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this English Composition lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
