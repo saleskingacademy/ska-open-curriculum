@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "computer_science_L1_1",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 1,
+    "title": "Computational thinking: Foundations",
+    "content": "This original Sales King Academy lesson develops Computational thinking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Computational thinking to the adjacent topic Data representation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computational thinking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computational thinking.",
+      "Explain one relationship between Computational thinking and Data representation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computational thinking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_2",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 2,
+    "title": "Data representation: Foundations",
+    "content": "This original Sales King Academy lesson develops Data representation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Data representation to the adjacent topic Boolean logic, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data representation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data representation.",
+      "Explain one relationship between Data representation and Boolean logic.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data representation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_3",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 3,
+    "title": "Boolean logic: Foundations",
+    "content": "This original Sales King Academy lesson develops Boolean logic as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Boolean logic to the adjacent topic Algorithms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Boolean logic; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Boolean logic.",
+      "Explain one relationship between Boolean logic and Algorithms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Boolean logic.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_4",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 4,
+    "title": "Algorithms: Foundations",
+    "content": "This original Sales King Academy lesson develops Algorithms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Algorithms to the adjacent topic Complexity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Algorithms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Algorithms.",
+      "Explain one relationship between Algorithms and Complexity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Algorithms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_5",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 5,
+    "title": "Complexity: Foundations",
+    "content": "This original Sales King Academy lesson develops Complexity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Complexity to the adjacent topic Data structures, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Complexity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Complexity.",
+      "Explain one relationship between Complexity and Data structures.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Complexity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_6",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 6,
+    "title": "Data structures: Foundations",
+    "content": "This original Sales King Academy lesson develops Data structures as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Data structures to the adjacent topic Recursion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data structures; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data structures.",
+      "Explain one relationship between Data structures and Recursion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data structures.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_7",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 7,
+    "title": "Recursion: Foundations",
+    "content": "This original Sales King Academy lesson develops Recursion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Recursion to the adjacent topic Operating systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Recursion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Recursion.",
+      "Explain one relationship between Recursion and Operating systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Recursion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_8",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 8,
+    "title": "Operating systems: Foundations",
+    "content": "This original Sales King Academy lesson develops Operating systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Operating systems to the adjacent topic Computer architecture, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Operating systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Operating systems.",
+      "Explain one relationship between Operating systems and Computer architecture.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Operating systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_9",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 9,
+    "title": "Computer architecture: Foundations",
+    "content": "This original Sales King Academy lesson develops Computer architecture as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Computer architecture to the adjacent topic Networking, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer architecture; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer architecture.",
+      "Explain one relationship between Computer architecture and Networking.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer architecture.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L1_10",
+    "subject_id": "computer_science",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 10,
+    "title": "Networking: Foundations",
+    "content": "This original Sales King Academy lesson develops Networking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Networking to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Networking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Networking.",
+      "Explain one relationship between Networking and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Networking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_1",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 1,
+    "title": "Databases: Core Framework",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Databases to the adjacent topic Programming paradigms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Programming paradigms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_2",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 2,
+    "title": "Programming paradigms: Core Framework",
+    "content": "This original Sales King Academy lesson develops Programming paradigms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Programming paradigms to the adjacent topic Object-oriented design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Programming paradigms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Programming paradigms.",
+      "Explain one relationship between Programming paradigms and Object-oriented design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Programming paradigms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_3",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 3,
+    "title": "Object-oriented design: Core Framework",
+    "content": "This original Sales King Academy lesson develops Object-oriented design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Object-oriented design to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented design.",
+      "Explain one relationship between Object-oriented design and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_4",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 4,
+    "title": "Functional programming: Core Framework",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Functional programming to the adjacent topic Distributed systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and Distributed systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_5",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 5,
+    "title": "Distributed systems: Core Framework",
+    "content": "This original Sales King Academy lesson develops Distributed systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Distributed systems to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Distributed systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Distributed systems.",
+      "Explain one relationship between Distributed systems and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Distributed systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_6",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 6,
+    "title": "Concurrency: Core Framework",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Concurrency to the adjacent topic Compilers, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Compilers.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_7",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 7,
+    "title": "Compilers: Core Framework",
+    "content": "This original Sales King Academy lesson develops Compilers as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Compilers to the adjacent topic Computer security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Compilers; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Compilers.",
+      "Explain one relationship between Compilers and Computer security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Compilers.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_8",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 8,
+    "title": "Computer security: Core Framework",
+    "content": "This original Sales King Academy lesson develops Computer security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Computer security to the adjacent topic Artificial intelligence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer security.",
+      "Explain one relationship between Computer security and Artificial intelligence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_9",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 9,
+    "title": "Artificial intelligence: Core Framework",
+    "content": "This original Sales King Academy lesson develops Artificial intelligence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Artificial intelligence to the adjacent topic Machine learning, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Artificial intelligence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Artificial intelligence.",
+      "Explain one relationship between Artificial intelligence and Machine learning.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Artificial intelligence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L2_10",
+    "subject_id": "computer_science",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 10,
+    "title": "Machine learning: Core Framework",
+    "content": "This original Sales King Academy lesson develops Machine learning as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Machine learning to the adjacent topic Information retrieval, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Machine learning; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Machine learning.",
+      "Explain one relationship between Machine learning and Information retrieval.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Machine learning.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_1",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 1,
+    "title": "Information retrieval: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Information retrieval as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Information retrieval to the adjacent topic Computer graphics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Information retrieval; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Information retrieval.",
+      "Explain one relationship between Information retrieval and Computer graphics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Information retrieval.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_2",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 2,
+    "title": "Computer graphics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Computer graphics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Computer graphics to the adjacent topic Human-computer interaction, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer graphics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer graphics.",
+      "Explain one relationship between Computer graphics and Human-computer interaction.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer graphics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_3",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 3,
+    "title": "Human-computer interaction: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Human-computer interaction as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Human-computer interaction to the adjacent topic Theory of computation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Human-computer interaction; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Human-computer interaction.",
+      "Explain one relationship between Human-computer interaction and Theory of computation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Human-computer interaction.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_4",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 4,
+    "title": "Theory of computation: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Theory of computation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Theory of computation to the adjacent topic Formal languages, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Theory of computation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Theory of computation.",
+      "Explain one relationship between Theory of computation and Formal languages.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Theory of computation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_5",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 5,
+    "title": "Formal languages: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Formal languages as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Formal languages to the adjacent topic Cryptography, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Formal languages; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Formal languages.",
+      "Explain one relationship between Formal languages and Cryptography.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Formal languages.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_6",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 6,
+    "title": "Cryptography: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Cryptography as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Cryptography to the adjacent topic Software engineering, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cryptography; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cryptography.",
+      "Explain one relationship between Cryptography and Software engineering.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cryptography.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_7",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 7,
+    "title": "Software engineering: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Software engineering as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Software engineering to the adjacent topic Systems design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Software engineering; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Software engineering.",
+      "Explain one relationship between Software engineering and Systems design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Software engineering.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_8",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 8,
+    "title": "Systems design: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Systems design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Systems design to the adjacent topic Parallel computing, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Systems design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Systems design.",
+      "Explain one relationship between Systems design and Parallel computing.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Systems design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_9",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 9,
+    "title": "Parallel computing: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Parallel computing as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Parallel computing to the adjacent topic Research methods, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Parallel computing; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Parallel computing.",
+      "Explain one relationship between Parallel computing and Research methods.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Parallel computing.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L3_10",
+    "subject_id": "computer_science",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 10,
+    "title": "Research methods: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Research methods as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Research methods to the adjacent topic Computational thinking, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Research methods; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Research methods.",
+      "Explain one relationship between Research methods and Computational thinking.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Research methods.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_1",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 1,
+    "title": "Computational thinking: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Computational thinking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Computational thinking to the adjacent topic Data representation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computational thinking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computational thinking.",
+      "Explain one relationship between Computational thinking and Data representation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computational thinking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_2",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 2,
+    "title": "Data representation: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Data representation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Data representation to the adjacent topic Boolean logic, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data representation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data representation.",
+      "Explain one relationship between Data representation and Boolean logic.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data representation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_3",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 3,
+    "title": "Boolean logic: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Boolean logic as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Boolean logic to the adjacent topic Algorithms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Boolean logic; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Boolean logic.",
+      "Explain one relationship between Boolean logic and Algorithms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Boolean logic.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_4",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 4,
+    "title": "Algorithms: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Algorithms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Algorithms to the adjacent topic Complexity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Algorithms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Algorithms.",
+      "Explain one relationship between Algorithms and Complexity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Algorithms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_5",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 5,
+    "title": "Complexity: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Complexity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Complexity to the adjacent topic Data structures, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Complexity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Complexity.",
+      "Explain one relationship between Complexity and Data structures.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Complexity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_6",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 6,
+    "title": "Data structures: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Data structures as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Data structures to the adjacent topic Recursion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data structures; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data structures.",
+      "Explain one relationship between Data structures and Recursion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data structures.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_7",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 7,
+    "title": "Recursion: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Recursion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Recursion to the adjacent topic Operating systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Recursion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Recursion.",
+      "Explain one relationship between Recursion and Operating systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Recursion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_8",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 8,
+    "title": "Operating systems: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Operating systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Operating systems to the adjacent topic Computer architecture, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Operating systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Operating systems.",
+      "Explain one relationship between Operating systems and Computer architecture.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Operating systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_9",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 9,
+    "title": "Computer architecture: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Computer architecture as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Computer architecture to the adjacent topic Networking, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer architecture; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer architecture.",
+      "Explain one relationship between Computer architecture and Networking.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer architecture.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L4_10",
+    "subject_id": "computer_science",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 10,
+    "title": "Networking: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Networking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Networking to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Networking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Networking.",
+      "Explain one relationship between Networking and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Networking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_1",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 1,
+    "title": "Databases: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Databases to the adjacent topic Programming paradigms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Programming paradigms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_2",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 2,
+    "title": "Programming paradigms: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Programming paradigms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Programming paradigms to the adjacent topic Object-oriented design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Programming paradigms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Programming paradigms.",
+      "Explain one relationship between Programming paradigms and Object-oriented design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Programming paradigms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_3",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 3,
+    "title": "Object-oriented design: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Object-oriented design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Object-oriented design to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented design.",
+      "Explain one relationship between Object-oriented design and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_4",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 4,
+    "title": "Functional programming: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Functional programming to the adjacent topic Distributed systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and Distributed systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_5",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 5,
+    "title": "Distributed systems: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Distributed systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Distributed systems to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Distributed systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Distributed systems.",
+      "Explain one relationship between Distributed systems and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Distributed systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_6",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 6,
+    "title": "Concurrency: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Concurrency to the adjacent topic Compilers, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Compilers.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_7",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 7,
+    "title": "Compilers: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Compilers as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Compilers to the adjacent topic Computer security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Compilers; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Compilers.",
+      "Explain one relationship between Compilers and Computer security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Compilers.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_8",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 8,
+    "title": "Computer security: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Computer security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Computer security to the adjacent topic Artificial intelligence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer security.",
+      "Explain one relationship between Computer security and Artificial intelligence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_9",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 9,
+    "title": "Artificial intelligence: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Artificial intelligence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Artificial intelligence to the adjacent topic Machine learning, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Artificial intelligence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Artificial intelligence.",
+      "Explain one relationship between Artificial intelligence and Machine learning.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Artificial intelligence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L5_10",
+    "subject_id": "computer_science",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 10,
+    "title": "Machine learning: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Machine learning as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Machine learning to the adjacent topic Information retrieval, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Machine learning; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Machine learning.",
+      "Explain one relationship between Machine learning and Information retrieval.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Machine learning.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_1",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 1,
+    "title": "Information retrieval: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Information retrieval as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Information retrieval to the adjacent topic Computer graphics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Information retrieval; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Information retrieval.",
+      "Explain one relationship between Information retrieval and Computer graphics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Information retrieval.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_2",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 2,
+    "title": "Computer graphics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Computer graphics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Computer graphics to the adjacent topic Human-computer interaction, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer graphics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer graphics.",
+      "Explain one relationship between Computer graphics and Human-computer interaction.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer graphics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_3",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 3,
+    "title": "Human-computer interaction: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Human-computer interaction as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Human-computer interaction to the adjacent topic Theory of computation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Human-computer interaction; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Human-computer interaction.",
+      "Explain one relationship between Human-computer interaction and Theory of computation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Human-computer interaction.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_4",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 4,
+    "title": "Theory of computation: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Theory of computation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Theory of computation to the adjacent topic Formal languages, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Theory of computation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Theory of computation.",
+      "Explain one relationship between Theory of computation and Formal languages.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Theory of computation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_5",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 5,
+    "title": "Formal languages: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Formal languages as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Formal languages to the adjacent topic Cryptography, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Formal languages; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Formal languages.",
+      "Explain one relationship between Formal languages and Cryptography.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Formal languages.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_6",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 6,
+    "title": "Cryptography: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Cryptography as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Cryptography to the adjacent topic Software engineering, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cryptography; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cryptography.",
+      "Explain one relationship between Cryptography and Software engineering.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cryptography.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_7",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 7,
+    "title": "Software engineering: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Software engineering as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Software engineering to the adjacent topic Systems design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Software engineering; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Software engineering.",
+      "Explain one relationship between Software engineering and Systems design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Software engineering.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_8",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 8,
+    "title": "Systems design: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Systems design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Systems design to the adjacent topic Parallel computing, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Systems design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Systems design.",
+      "Explain one relationship between Systems design and Parallel computing.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Systems design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_9",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 9,
+    "title": "Parallel computing: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Parallel computing as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Parallel computing to the adjacent topic Research methods, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Parallel computing; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Parallel computing.",
+      "Explain one relationship between Parallel computing and Research methods.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Parallel computing.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L6_10",
+    "subject_id": "computer_science",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 10,
+    "title": "Research methods: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Research methods as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Research methods to the adjacent topic Computational thinking, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Research methods; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Research methods.",
+      "Explain one relationship between Research methods and Computational thinking.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Research methods.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_1",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 1,
+    "title": "Computational thinking: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Computational thinking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Computational thinking to the adjacent topic Data representation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computational thinking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computational thinking.",
+      "Explain one relationship between Computational thinking and Data representation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computational thinking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_2",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 2,
+    "title": "Data representation: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Data representation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Data representation to the adjacent topic Boolean logic, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data representation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data representation.",
+      "Explain one relationship between Data representation and Boolean logic.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data representation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_3",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 3,
+    "title": "Boolean logic: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Boolean logic as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Boolean logic to the adjacent topic Algorithms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Boolean logic; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Boolean logic.",
+      "Explain one relationship between Boolean logic and Algorithms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Boolean logic.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_4",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 4,
+    "title": "Algorithms: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Algorithms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Algorithms to the adjacent topic Complexity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Algorithms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Algorithms.",
+      "Explain one relationship between Algorithms and Complexity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Algorithms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_5",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 5,
+    "title": "Complexity: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Complexity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Complexity to the adjacent topic Data structures, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Complexity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Complexity.",
+      "Explain one relationship between Complexity and Data structures.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Complexity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_6",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 6,
+    "title": "Data structures: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Data structures as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Data structures to the adjacent topic Recursion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data structures; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data structures.",
+      "Explain one relationship between Data structures and Recursion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data structures.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_7",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 7,
+    "title": "Recursion: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Recursion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Recursion to the adjacent topic Operating systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Recursion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Recursion.",
+      "Explain one relationship between Recursion and Operating systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Recursion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_8",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 8,
+    "title": "Operating systems: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Operating systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Operating systems to the adjacent topic Computer architecture, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Operating systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Operating systems.",
+      "Explain one relationship between Operating systems and Computer architecture.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Operating systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_9",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 9,
+    "title": "Computer architecture: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Computer architecture as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Computer architecture to the adjacent topic Networking, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer architecture; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer architecture.",
+      "Explain one relationship between Computer architecture and Networking.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer architecture.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L7_10",
+    "subject_id": "computer_science",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 10,
+    "title": "Networking: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Networking as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Networking to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Networking; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Networking.",
+      "Explain one relationship between Networking and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Networking.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_1",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 1,
+    "title": "Databases: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Databases to the adjacent topic Programming paradigms, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Programming paradigms.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_2",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 2,
+    "title": "Programming paradigms: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Programming paradigms as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Programming paradigms to the adjacent topic Object-oriented design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Programming paradigms; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Programming paradigms.",
+      "Explain one relationship between Programming paradigms and Object-oriented design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Programming paradigms.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_3",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 3,
+    "title": "Object-oriented design: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Object-oriented design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Object-oriented design to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented design.",
+      "Explain one relationship between Object-oriented design and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_4",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 4,
+    "title": "Functional programming: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Functional programming to the adjacent topic Distributed systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and Distributed systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_5",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 5,
+    "title": "Distributed systems: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Distributed systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Distributed systems to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Distributed systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Distributed systems.",
+      "Explain one relationship between Distributed systems and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Distributed systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_6",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 6,
+    "title": "Concurrency: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Concurrency to the adjacent topic Compilers, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Compilers.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_7",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 7,
+    "title": "Compilers: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Compilers as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Compilers to the adjacent topic Computer security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Compilers; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Compilers.",
+      "Explain one relationship between Compilers and Computer security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Compilers.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_8",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 8,
+    "title": "Computer security: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Computer security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Computer security to the adjacent topic Artificial intelligence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Computer security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Computer security.",
+      "Explain one relationship between Computer security and Artificial intelligence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Computer security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_9",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 9,
+    "title": "Artificial intelligence: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Artificial intelligence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Artificial intelligence to the adjacent topic Machine learning, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Artificial intelligence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Artificial intelligence.",
+      "Explain one relationship between Artificial intelligence and Machine learning.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Artificial intelligence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "computer_science_L8_10",
+    "subject_id": "computer_science",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 10,
+    "title": "Machine learning: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Machine learning as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Machine learning to the adjacent topic Information retrieval, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Machine learning; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Machine learning.",
+      "Explain one relationship between Machine learning and Information retrieval.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Machine learning.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  }
+]

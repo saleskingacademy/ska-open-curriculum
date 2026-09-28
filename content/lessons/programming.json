@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "programming_L1_1",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 1,
+    "title": "Variables and types: Foundations",
+    "content": "This original Sales King Academy lesson develops Variables and types as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Variables and types to the adjacent topic Control flow, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Variables and types; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Variables and types.",
+      "Explain one relationship between Variables and types and Control flow.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Variables and types.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_2",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 2,
+    "title": "Control flow: Foundations",
+    "content": "This original Sales King Academy lesson develops Control flow as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Control flow to the adjacent topic Functions, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Control flow; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Control flow.",
+      "Explain one relationship between Control flow and Functions.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Control flow.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_3",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 3,
+    "title": "Functions: Foundations",
+    "content": "This original Sales King Academy lesson develops Functions as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Functions to the adjacent topic Modules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functions; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functions.",
+      "Explain one relationship between Functions and Modules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functions.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_4",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 4,
+    "title": "Modules: Foundations",
+    "content": "This original Sales King Academy lesson develops Modules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Modules to the adjacent topic Collections, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Modules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Modules.",
+      "Explain one relationship between Modules and Collections.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Modules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_5",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 5,
+    "title": "Collections: Foundations",
+    "content": "This original Sales King Academy lesson develops Collections as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Collections to the adjacent topic Error handling, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Collections; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Collections.",
+      "Explain one relationship between Collections and Error handling.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Collections.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_6",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 6,
+    "title": "Error handling: Foundations",
+    "content": "This original Sales King Academy lesson develops Error handling as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Error handling to the adjacent topic Testing, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Error handling; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Error handling.",
+      "Explain one relationship between Error handling and Testing.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Error handling.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_7",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 7,
+    "title": "Testing: Foundations",
+    "content": "This original Sales King Academy lesson develops Testing as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Testing to the adjacent topic Debugging, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Testing; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Testing.",
+      "Explain one relationship between Testing and Debugging.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Testing.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_8",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 8,
+    "title": "Debugging: Foundations",
+    "content": "This original Sales King Academy lesson develops Debugging as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Debugging to the adjacent topic Object-oriented programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Debugging; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Debugging.",
+      "Explain one relationship between Debugging and Object-oriented programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Debugging.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_9",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 9,
+    "title": "Object-oriented programming: Foundations",
+    "content": "This original Sales King Academy lesson develops Object-oriented programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Object-oriented programming to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented programming.",
+      "Explain one relationship between Object-oriented programming and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L1_10",
+    "subject_id": "programming",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 10,
+    "title": "Functional programming: Foundations",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Functional programming to the adjacent topic APIs, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and APIs.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_1",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 1,
+    "title": "APIs: Core Framework",
+    "content": "This original Sales King Academy lesson develops APIs as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect APIs to the adjacent topic Data serialization, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving APIs; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in APIs.",
+      "Explain one relationship between APIs and Data serialization.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of APIs.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_2",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 2,
+    "title": "Data serialization: Core Framework",
+    "content": "This original Sales King Academy lesson develops Data serialization as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Data serialization to the adjacent topic Files and persistence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data serialization; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data serialization.",
+      "Explain one relationship between Data serialization and Files and persistence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data serialization.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_3",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 3,
+    "title": "Files and persistence: Core Framework",
+    "content": "This original Sales King Academy lesson develops Files and persistence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Files and persistence to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Files and persistence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Files and persistence.",
+      "Explain one relationship between Files and persistence and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Files and persistence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_4",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 4,
+    "title": "Databases: Core Framework",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Databases to the adjacent topic Web programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Web programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_5",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 5,
+    "title": "Web programming: Core Framework",
+    "content": "This original Sales King Academy lesson develops Web programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Web programming to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Web programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Web programming.",
+      "Explain one relationship between Web programming and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Web programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_6",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 6,
+    "title": "Concurrency: Core Framework",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Concurrency to the adjacent topic Asynchronous programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Asynchronous programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_7",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 7,
+    "title": "Asynchronous programming: Core Framework",
+    "content": "This original Sales King Academy lesson develops Asynchronous programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Asynchronous programming to the adjacent topic Performance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Asynchronous programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Asynchronous programming.",
+      "Explain one relationship between Asynchronous programming and Performance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Asynchronous programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_8",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 8,
+    "title": "Performance: Core Framework",
+    "content": "This original Sales King Academy lesson develops Performance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Performance to the adjacent topic Memory management, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Performance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Performance.",
+      "Explain one relationship between Performance and Memory management.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Performance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_9",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 9,
+    "title": "Memory management: Core Framework",
+    "content": "This original Sales King Academy lesson develops Memory management as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Memory management to the adjacent topic Security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Memory management; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Memory management.",
+      "Explain one relationship between Memory management and Security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Memory management.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L2_10",
+    "subject_id": "programming",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 10,
+    "title": "Security: Core Framework",
+    "content": "This original Sales King Academy lesson develops Security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Security to the adjacent topic Design patterns, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Security.",
+      "Explain one relationship between Security and Design patterns.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_1",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 1,
+    "title": "Design patterns: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Design patterns as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Design patterns to the adjacent topic Refactoring, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Design patterns; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Design patterns.",
+      "Explain one relationship between Design patterns and Refactoring.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Design patterns.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_2",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 2,
+    "title": "Refactoring: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Refactoring as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Refactoring to the adjacent topic Version control, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Refactoring; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Refactoring.",
+      "Explain one relationship between Refactoring and Version control.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Refactoring.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_3",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 3,
+    "title": "Version control: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Version control as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Version control to the adjacent topic Build systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Version control; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Version control.",
+      "Explain one relationship between Version control and Build systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Version control.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_4",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 4,
+    "title": "Build systems: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Build systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Build systems to the adjacent topic Package management, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Build systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Build systems.",
+      "Explain one relationship between Build systems and Package management.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Build systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_5",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 5,
+    "title": "Package management: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Package management as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Package management to the adjacent topic Compiler concepts, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Package management; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Package management.",
+      "Explain one relationship between Package management and Compiler concepts.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Package management.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_6",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 6,
+    "title": "Compiler concepts: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Compiler concepts as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Compiler concepts to the adjacent topic Language design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Compiler concepts; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Compiler concepts.",
+      "Explain one relationship between Compiler concepts and Language design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Compiler concepts.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_7",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 7,
+    "title": "Language design: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Language design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Language design to the adjacent topic Distributed applications, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Language design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Language design.",
+      "Explain one relationship between Language design and Distributed applications.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Language design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_8",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 8,
+    "title": "Distributed applications: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Distributed applications as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Distributed applications to the adjacent topic Production engineering, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Distributed applications; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Distributed applications.",
+      "Explain one relationship between Distributed applications and Production engineering.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Distributed applications.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_9",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 9,
+    "title": "Production engineering: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Production engineering as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Production engineering to the adjacent topic Capstone development, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Production engineering; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Production engineering.",
+      "Explain one relationship between Production engineering and Capstone development.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Production engineering.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L3_10",
+    "subject_id": "programming",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 10,
+    "title": "Capstone development: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Capstone development as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Capstone development to the adjacent topic Variables and types, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Capstone development; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Capstone development.",
+      "Explain one relationship between Capstone development and Variables and types.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Capstone development.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_1",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 1,
+    "title": "Variables and types: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Variables and types as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Variables and types to the adjacent topic Control flow, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Variables and types; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Variables and types.",
+      "Explain one relationship between Variables and types and Control flow.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Variables and types.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_2",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 2,
+    "title": "Control flow: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Control flow as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Control flow to the adjacent topic Functions, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Control flow; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Control flow.",
+      "Explain one relationship between Control flow and Functions.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Control flow.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_3",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 3,
+    "title": "Functions: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Functions as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Functions to the adjacent topic Modules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functions; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functions.",
+      "Explain one relationship between Functions and Modules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functions.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_4",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 4,
+    "title": "Modules: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Modules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Modules to the adjacent topic Collections, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Modules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Modules.",
+      "Explain one relationship between Modules and Collections.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Modules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_5",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 5,
+    "title": "Collections: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Collections as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Collections to the adjacent topic Error handling, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Collections; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Collections.",
+      "Explain one relationship between Collections and Error handling.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Collections.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_6",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 6,
+    "title": "Error handling: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Error handling as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Error handling to the adjacent topic Testing, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Error handling; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Error handling.",
+      "Explain one relationship between Error handling and Testing.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Error handling.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_7",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 7,
+    "title": "Testing: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Testing as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Testing to the adjacent topic Debugging, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Testing; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Testing.",
+      "Explain one relationship between Testing and Debugging.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Testing.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_8",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 8,
+    "title": "Debugging: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Debugging as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Debugging to the adjacent topic Object-oriented programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Debugging; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Debugging.",
+      "Explain one relationship between Debugging and Object-oriented programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Debugging.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_9",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 9,
+    "title": "Object-oriented programming: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Object-oriented programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Object-oriented programming to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented programming.",
+      "Explain one relationship between Object-oriented programming and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L4_10",
+    "subject_id": "programming",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 10,
+    "title": "Functional programming: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Functional programming to the adjacent topic APIs, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and APIs.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_1",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 1,
+    "title": "APIs: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops APIs as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect APIs to the adjacent topic Data serialization, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving APIs; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in APIs.",
+      "Explain one relationship between APIs and Data serialization.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of APIs.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_2",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 2,
+    "title": "Data serialization: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Data serialization as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Data serialization to the adjacent topic Files and persistence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data serialization; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data serialization.",
+      "Explain one relationship between Data serialization and Files and persistence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data serialization.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_3",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 3,
+    "title": "Files and persistence: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Files and persistence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Files and persistence to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Files and persistence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Files and persistence.",
+      "Explain one relationship between Files and persistence and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Files and persistence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_4",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 4,
+    "title": "Databases: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Databases to the adjacent topic Web programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Web programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_5",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 5,
+    "title": "Web programming: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Web programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Web programming to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Web programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Web programming.",
+      "Explain one relationship between Web programming and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Web programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_6",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 6,
+    "title": "Concurrency: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Concurrency to the adjacent topic Asynchronous programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Asynchronous programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_7",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 7,
+    "title": "Asynchronous programming: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Asynchronous programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Asynchronous programming to the adjacent topic Performance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Asynchronous programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Asynchronous programming.",
+      "Explain one relationship between Asynchronous programming and Performance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Asynchronous programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_8",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 8,
+    "title": "Performance: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Performance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Performance to the adjacent topic Memory management, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Performance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Performance.",
+      "Explain one relationship between Performance and Memory management.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Performance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_9",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 9,
+    "title": "Memory management: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Memory management as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Memory management to the adjacent topic Security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Memory management; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Memory management.",
+      "Explain one relationship between Memory management and Security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Memory management.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L5_10",
+    "subject_id": "programming",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 10,
+    "title": "Security: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Security to the adjacent topic Design patterns, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Security.",
+      "Explain one relationship between Security and Design patterns.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_1",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 1,
+    "title": "Design patterns: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Design patterns as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Design patterns to the adjacent topic Refactoring, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Design patterns; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Design patterns.",
+      "Explain one relationship between Design patterns and Refactoring.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Design patterns.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_2",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 2,
+    "title": "Refactoring: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Refactoring as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Refactoring to the adjacent topic Version control, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Refactoring; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Refactoring.",
+      "Explain one relationship between Refactoring and Version control.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Refactoring.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_3",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 3,
+    "title": "Version control: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Version control as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Version control to the adjacent topic Build systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Version control; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Version control.",
+      "Explain one relationship between Version control and Build systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Version control.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_4",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 4,
+    "title": "Build systems: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Build systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Build systems to the adjacent topic Package management, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Build systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Build systems.",
+      "Explain one relationship between Build systems and Package management.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Build systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_5",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 5,
+    "title": "Package management: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Package management as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Package management to the adjacent topic Compiler concepts, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Package management; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Package management.",
+      "Explain one relationship between Package management and Compiler concepts.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Package management.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_6",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 6,
+    "title": "Compiler concepts: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Compiler concepts as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Compiler concepts to the adjacent topic Language design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Compiler concepts; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Compiler concepts.",
+      "Explain one relationship between Compiler concepts and Language design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Compiler concepts.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_7",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 7,
+    "title": "Language design: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Language design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Language design to the adjacent topic Distributed applications, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Language design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Language design.",
+      "Explain one relationship between Language design and Distributed applications.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Language design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_8",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 8,
+    "title": "Distributed applications: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Distributed applications as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Distributed applications to the adjacent topic Production engineering, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Distributed applications; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Distributed applications.",
+      "Explain one relationship between Distributed applications and Production engineering.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Distributed applications.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_9",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 9,
+    "title": "Production engineering: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Production engineering as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Production engineering to the adjacent topic Capstone development, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Production engineering; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Production engineering.",
+      "Explain one relationship between Production engineering and Capstone development.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Production engineering.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L6_10",
+    "subject_id": "programming",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 10,
+    "title": "Capstone development: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Capstone development as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Capstone development to the adjacent topic Variables and types, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Capstone development; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Capstone development.",
+      "Explain one relationship between Capstone development and Variables and types.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Capstone development.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_1",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 1,
+    "title": "Variables and types: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Variables and types as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Variables and types to the adjacent topic Control flow, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Variables and types; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Variables and types.",
+      "Explain one relationship between Variables and types and Control flow.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Variables and types.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_2",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 2,
+    "title": "Control flow: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Control flow as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Control flow to the adjacent topic Functions, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Control flow; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Control flow.",
+      "Explain one relationship between Control flow and Functions.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Control flow.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_3",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 3,
+    "title": "Functions: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Functions as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Functions to the adjacent topic Modules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functions; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functions.",
+      "Explain one relationship between Functions and Modules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functions.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_4",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 4,
+    "title": "Modules: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Modules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Modules to the adjacent topic Collections, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Modules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Modules.",
+      "Explain one relationship between Modules and Collections.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Modules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_5",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 5,
+    "title": "Collections: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Collections as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Collections to the adjacent topic Error handling, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Collections; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Collections.",
+      "Explain one relationship between Collections and Error handling.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Collections.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_6",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 6,
+    "title": "Error handling: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Error handling as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Error handling to the adjacent topic Testing, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Error handling; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Error handling.",
+      "Explain one relationship between Error handling and Testing.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Error handling.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_7",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 7,
+    "title": "Testing: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Testing as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Testing to the adjacent topic Debugging, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Testing; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Testing.",
+      "Explain one relationship between Testing and Debugging.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Testing.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_8",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 8,
+    "title": "Debugging: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Debugging as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Debugging to the adjacent topic Object-oriented programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Debugging; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Debugging.",
+      "Explain one relationship between Debugging and Object-oriented programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Debugging.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_9",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 9,
+    "title": "Object-oriented programming: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Object-oriented programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Object-oriented programming to the adjacent topic Functional programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Object-oriented programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Object-oriented programming.",
+      "Explain one relationship between Object-oriented programming and Functional programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Object-oriented programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L7_10",
+    "subject_id": "programming",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 10,
+    "title": "Functional programming: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Functional programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Functional programming to the adjacent topic APIs, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Functional programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Functional programming.",
+      "Explain one relationship between Functional programming and APIs.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Functional programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_1",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 1,
+    "title": "APIs: Research Frontier",
+    "content": "This original Sales King Academy lesson develops APIs as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect APIs to the adjacent topic Data serialization, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving APIs; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in APIs.",
+      "Explain one relationship between APIs and Data serialization.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of APIs.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_2",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 2,
+    "title": "Data serialization: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Data serialization as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Data serialization to the adjacent topic Files and persistence, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Data serialization; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Data serialization.",
+      "Explain one relationship between Data serialization and Files and persistence.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Data serialization.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_3",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 3,
+    "title": "Files and persistence: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Files and persistence as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Files and persistence to the adjacent topic Databases, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Files and persistence; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Files and persistence.",
+      "Explain one relationship between Files and persistence and Databases.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Files and persistence.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_4",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 4,
+    "title": "Databases: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Databases as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Databases to the adjacent topic Web programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Databases; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Databases.",
+      "Explain one relationship between Databases and Web programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Databases.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_5",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 5,
+    "title": "Web programming: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Web programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Web programming to the adjacent topic Concurrency, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Web programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Web programming.",
+      "Explain one relationship between Web programming and Concurrency.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Web programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_6",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 6,
+    "title": "Concurrency: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Concurrency as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Concurrency to the adjacent topic Asynchronous programming, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Concurrency; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Concurrency.",
+      "Explain one relationship between Concurrency and Asynchronous programming.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Concurrency.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_7",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 7,
+    "title": "Asynchronous programming: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Asynchronous programming as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Asynchronous programming to the adjacent topic Performance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Asynchronous programming; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Asynchronous programming.",
+      "Explain one relationship between Asynchronous programming and Performance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Asynchronous programming.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_8",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 8,
+    "title": "Performance: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Performance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Performance to the adjacent topic Memory management, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Performance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Performance.",
+      "Explain one relationship between Performance and Memory management.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Performance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_9",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 9,
+    "title": "Memory management: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Memory management as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Memory management to the adjacent topic Security, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Memory management; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Memory management.",
+      "Explain one relationship between Memory management and Security.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Memory management.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "programming_L8_10",
+    "subject_id": "programming",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 10,
+    "title": "Security: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Security as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Security to the adjacent topic Design patterns, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Security; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Security.",
+      "Explain one relationship between Security and Design patterns.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Security.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  }
+]

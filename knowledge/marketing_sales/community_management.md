@@ -1,0 +1,100 @@
+---
+key: community_management
+title: "Community Management"
+program: marketing_sales
+course_level: 5
+dna16: ""
+l4_address: "S6:P1363426727"
+chain256_anchor: "0216564539112849065467272678290614097511109029061712591292351240161892451663577611956743501029060865543717732906006637098692811007064242236644870877632269442906105396162560290606096987533585920920772779485242019098270231290603822500490229061114968009261497"
+updated_at: "2026-09-08T10:18:29.064Z"
+license: CC-BY-SA-4.0
+source: Sales King Academy knowledge base (ska_knowledge)
+---
+
+# Community Management
+
+> The course assumes prior knowledge of business and marketing principles, and focuses on applied practice and independent judgement in community management.
+
+## Overview
+
+Professional discipline for the signal specialist: community management. Applied practice used to generate revenue.
+
+## Foundations
+
+Community management refers to the process of building, maintaining, and facilitating online or offline communities, which are groups of individuals connected by a shared interest, goal, or identity. A community is defined as a social unit with commonalities, such as geography, culture, or ideology, that fosters a sense of belonging and social interaction among its members. Core principles of community management include engagement, which is the act of participating in and contributing to community activities, and moderation, the process of guiding and regulating community behavior to ensure a positive and respectful environment. Key vocabulary includes community builder, an individual responsible for creating and developing a community, and community guidelines, a set of rules and expectations that outline acceptable behavior within the community. Other essential terms include social capital, referring to the networks, norms, and trust that enable cooperation and collective action within a community, and community metrics, which are quantitative measures used to assess community health, engagement, and growth.
+
+Community management refers to the process of building, engaging, and maintaining a community, which is a social unit with commonalities such as geography, interests, or identity. A community is a group of individuals who share a sense of belonging, often characterized by shared values, norms, and goals. Effective community management relies on understanding social capital, which is the network of relationships, trust, and reciprocity within a community. Practitioners must recognize the difference between a community and a crowd, where a crowd is a loose collection of individuals without a shared sense of identity or purpose. Community managers must also understand the concept of social identity theory, which posits that individuals derive a sense of self and belonging from the groups they belong to. Key vocabulary includes community engagement, which refers to the process of interacting with and involving community members; community outreach, which involves extending efforts to include marginalized or underrepresented groups; and community governance, which refers to the systems and processes that guide decision-making and behavior within a community.
+
+## Mechanisms
+
+Community management operates through a series of interconnected mechanisms that foster engagement, facilitate communication, and promote a sense of belonging among members. The process begins with the establishment of a shared platform or space, physical or virtual, where community members can interact. This platform serves as the foundation for community building, enabling the exchange of information, ideas, and resources.
+
+The causal chain unfolds as follows: 
+1. **Initialization**: A community manager or founder initiates the community by defining its purpose, scope, and rules of engagement. This foundational step sets the tone for the community's culture and values.
+2. **Member Acquisition**: Potential members are attracted to the community through various channels, such as social media, word of mouth, or targeted advertising. The community's value proposition, which outlines the benefits of membership, plays a crucial role in attracting and retaining members.
+3. **Onboarding**: New members are integrated into the community through a structured onboarding process, which may include introductory materials, welcome messages, or guided tours of the community platform. Effective onboarding is essential for reducing barriers to entry and encouraging participation.
+4. **Content Creation and Sharing**: Members create and share content, such as posts, comments, or resources, which serves as the primary driver of community engagement. The community manager facilitates content creation by providing guidelines, prompts, or incentives.
+5. **Interaction and Feedback**: Members interact with each other's content, providing feedback, support, or constructive criticism. This iterative process fosters a sense of community, as members develop relationships and learn from one another.
+6. **Moderation and Governance**: The community manager or designated moderators oversee the community, ensuring that interactions remain respectful and aligned with the community's values and rules. This mechanism helps maintain a positive and inclusive environment.
+7. **Evaluation and Improvement**: The community manager continuously evaluates the community's performance, gathering feedback from members and assessing key metrics, such as engagement rates or member satisfaction. This information informs strategic decisions, enabling the community manager to refine the community's mechanisms and optimize its overall effectiveness.
+
+Community management operates through a series of interconnected mechanisms that foster engagement, facilitate communication, and promote a sense of belonging among members. The process begins with the establishment of a shared platform or space, physical or virtual, where community members can interact. This platform serves as the foundation for community building, enabling the exchange of information, ideas, and resources. 
+The causal chain unfolds as follows: 
+1. **Initialization**: A community is initiated, often by an individual or group with a shared interest or goal.
+2. **Recruitment**: Members are recruited through various means, such as invitations, advertising, or word of mouth.
+3. **Onboarding**: New members are integrated into the community through onboarding processes, which may include introductions, orientation, and provision of community guidelines.
+4. **Content Creation**: Members create and share content, which can take many forms, including posts, comments, messages, and media.
+5. **Interaction**: Members interact with each other and with the content, fostering engagement and building relationships.
+6. **Feedback Loop**: The community receives feedback from members, which informs decision-making and guides the evolution of the community.
+7. **Norm Establishment**: Over time, community norms and expectations emerge, shaping member behavior and influencing the community's culture.
+8. **Conflict Resolution**: Mechanisms for conflict resolution are established, ensuring that disputes are addressed in a fair and constructive manner.
+9. **Evaluation and Adaptation**: The community continually evaluates its effectiveness and adapts to changing circumstances, ensuring its long-term viability and relevance. 
+Throughout these mechanisms, community managers play a crucial role, facilitating communication, managing conflict, and ensuring the community remains aligned with its purpose and goals.
+
+## Methods And Frameworks
+
+Community management employs various methods and frameworks to foster engagement, resolve conflicts, and promote a sense of belonging. The Ladder of Engagement model is used to track member participation, from lurkers to leaders, and tailor strategies to encourage progression. The Community Maturity Model assesses community development stages, from formation to maturity, helping managers identify areas for improvement. The Social Identity Model of Deindividuation Effects (SIDE) explains how community members derive a sense of identity and belonging from group membership, informing strategies to promote inclusivity. The formula for community growth, M = (N x F) / D, where M is membership, N is new members, F is feedback, and D is dropout rate, highlights the importance of feedback and retention in community development. Failure modes include neglecting to adapt strategies to changing community needs, failing to address conflicts promptly, and prioritizing growth over member engagement, leading to a shallow or toxic community environment.
+
+Community management employs various methods and frameworks to foster engagement, resolve conflicts, and promote a sense of belonging. The Ladder of Engagement model is used to encourage participation, progressing from lurkers to leaders. The Community Maturity Model assesses community development, from formation to maturity. The CONTEST framework (Context, Objectives, Needs, Technology, Environment, and Strategy) guides community strategy development. The 90-9-1 rule (90% lurkers, 9% contributors, 1% creators) informs content creation and engagement strategies. The Diffusion of Innovations theory explains how new ideas spread within communities. Failure modes include neglecting community feedback, inadequate moderation, and inconsistent communication. The Technology Acceptance Model (TAM) helps predict community adoption of new tools. Each method and framework has its strengths and limitations, and community managers must adapt them to their specific context.
+
+## Worked Examples
+
+To illustrate the application of community management principles, consider the following scenarios:
+
+1. **Calculating Community Engagement**: A community manager for a social media platform wants to calculate the engagement rate of their online community. With 10,000 followers, 500 likes, 200 comments, and 50 shares on a recent post, the engagement rate can be calculated as (500 + 200 + 50) / 10,000 = 0.75%, indicating a moderate level of engagement.
+
+2. **Resource Allocation**: A community center has a budget of $100,000 to allocate among different programs. With 40% of the community interested in sports, 30% in arts, and 30% in education, the community manager can allocate $40,000 for sports programs, $30,000 for arts programs, and $30,000 for education programs, ensuring that resources are distributed according to community interests.
+
+3. **Conflict Resolution**: In an online forum, a community manager notices a conflict between two members. By applying the principle of active listening, the manager responds to both members, acknowledging their concerns and encouraging them to express their views. The manager then facilitates a discussion, helping the members to find common ground and resolve their differences, thus maintaining a positive and respectful community atmosphere.
+
+To illustrate the principles of community management, consider the following scenarios. 
+1. A community manager for a social media platform has 10,000 members and receives 500 posts per day. If the manager can review 50 posts per hour and works 8 hours a day, what percentage of posts can be reviewed daily? 
+Given: 500 posts/day, 50 posts/hour, 8 hours/day. 
+Posts reviewed daily = 50 posts/hour * 8 hours/day = 400 posts/day. 
+Percentage of posts reviewed = (400/500) * 100 = 80%. 
+2. A community manager is tasked with increasing engagement on a forum. If the current engagement rate is 2% and the goal is to increase it to 5%, what is the required increase in engagement? 
+Given: current engagement rate = 2%, goal engagement rate = 5%. 
+Required increase = 5% - 2% = 3%. 
+To achieve this, the manager could consider strategies such as improving content relevance or increasing user incentives. 
+3. A community manager has a budget of $1,000 to spend on community events and wants to host an event with a maximum of 50 attendees. If the cost per attendee is $20, what is the maximum amount that can be spent on other event expenses? 
+Given: budget = $1,000, cost per attendee = $20, maximum attendees = 50. 
+Total cost for attendees = $20 * 50 = $1,000. 
+Since the total cost for attendees equals the budget, there is no remaining balance for other event expenses, indicating the need to either reduce attendee costs or increase the budget.
+
+## Applications
+
+Community management is applied in various domains, including online forums, social media platforms, and offline communities. In online forums, community managers moderate discussions, enforce community guidelines, and foster engagement through content creation and user interaction. For instance, Reddit's community managers oversee the platform's thousands of subcommunities, ensuring that users adhere to the site's rules and norms. In social media, community managers develop and implement strategies to build brand awareness, manage customer relationships, and handle crises. They utilize tools like Hootsuite and Sprout Social to monitor social media conversations, respond to user inquiries, and analyze engagement metrics. In offline communities, community managers work with local organizations, governments, and stakeholders to develop and implement community programs, events, and initiatives that promote social cohesion, economic development, and civic engagement. Effective community management involves understanding the community's needs, values, and norms, and developing strategies that balance individual and collective interests. By doing so, community managers can build trust, foster collaboration, and create a sense of belonging among community members.
+
+Community management is applied in various domains, including online forums, social media platforms, and offline communities. In online forums, community managers moderate discussions, enforce community guidelines, and foster engagement through content creation and user interaction. For instance, Reddit's community managers oversee the platform's subreddits, ensuring that users adhere to the site's rules and guidelines. In social media, community managers develop and implement strategies to build brand awareness, manage customer relationships, and handle customer complaints. Offline, community managers work with local organizations, governments, and stakeholders to build and maintain community programs, events, and initiatives. Effective community management involves understanding the community's needs, values, and norms, and using this knowledge to develop targeted strategies that promote engagement, inclusivity, and social cohesion. By doing so, community managers can create thriving communities that support the well-being and success of their members. Key skills for community managers include communication, problem-solving, and conflict resolution, as well as the ability to analyze community data and adjust strategies accordingly.
+
+## Common Errors
+
+Practitioners of community management often make mistakes that can hinder the growth and engagement of their communities. One common error is neglecting to set clear community guidelines and expectations, leading to confusion and potential conflict among members. Another mistake is failing to actively listen to and respond to community feedback, resulting in a sense of disregard and disengagement. Additionally, some practitioners prioritize quantity over quality, focusing on increasing membership numbers rather than fostering meaningful interactions and relationships among community members. This can lead to a shallow and unengaged community. Furthermore, not recognizing and rewarding community contributors and moderators can lead to burnout and a lack of motivation among these crucial community members. It is also wrong to assume that a one-size-fits-all approach to community management will be effective, as different communities have unique needs and require tailored strategies. Lastly, underestimating the importance of ongoing evaluation and adaptation can result in stagnation and a failure to address emerging community needs. By understanding these common errors, practitioners can take steps to avoid them and cultivate thriving, engaged communities.
+
+A common error in community management is neglecting to establish clear community guidelines and expectations, leading to confusion and potential conflict among members. Another mistake is failing to actively listen to and engage with community members, resulting in a lack of trust and sense of exclusion. Over-reliance on automation and technology, without human touch and personal interaction, can also hinder community growth and cohesion. Furthermore, not regularly assessing and adapting community management strategies to meet the evolving needs of the community can lead to stagnation and disengagement. Additionally, prioritizing short-term goals over long-term community building and ignoring the importance of community feedback and evaluation can undermine the community's overall health and resilience. Effective community management requires a nuanced understanding of these potential pitfalls and a commitment to ongoing learning and improvement.
+
+## Advanced
+
+Community management is evolving to incorporate emerging trends and technologies, such as artificial intelligence, blockchain, and the Internet of Things (IoT). Advanced community management involves leveraging these technologies to create more personalized, adaptive, and resilient communities. One key area of exploration is the use of machine learning algorithms to analyze community dynamics and predict member behavior, enabling more effective moderation and intervention strategies. Additionally, the rise of decentralized and blockchain-based communities is raising important questions about governance, ownership, and decision-making processes. Researchers are also investigating the application of community management principles to non-traditional contexts, such as online harassment and hate speech mitigation, and the development of community-based initiatives for social and environmental impact. Open questions in the field include the balance between community autonomy and platform governance, the role of community management in shaping public discourse, and the tension between community cohesion and diversity. As the field continues to evolve, it is likely that community management will become increasingly interdisciplinary, incorporating insights from sociology, psychology, computer science, and philosophy to address the complex challenges of building and sustaining online communities.
+
+Community management is evolving to incorporate emerging trends and technologies, such as artificial intelligence, blockchain, and the Internet of Things (IoT). One key area of extension is the development of community-driven governance models, which enable decentralized decision-making and community-led innovation. Researchers are exploring the application of token-based systems and decentralized autonomous organizations (DAOs) to facilitate community engagement and participation. Another area of advancement is the integration of community management with social network analysis, allowing for a deeper understanding of community structures and dynamics. Open questions in the field include the development of effective metrics for measuring community health and resilience, as well as the balance between community autonomy and platform governance. The field is also moving towards a greater emphasis on community-led research and co-creation, recognizing the importance of community involvement in shaping research agendas and outcomes. Furthermore, the increasing use of digital platforms has raised questions about the role of community management in addressing issues of online harassment, misinformation, and social inequality. As the field continues to evolve, it is likely that community management will play a critical role in shaping the future of online communities and digital societies.

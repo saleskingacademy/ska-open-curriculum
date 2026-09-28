@@ -1,0 +1,21 @@
+name: Promote main to live
+# The website reads the `live` branch. Nothing reaches paying students until
+# main is promoted here. Fast-forward only: live can never diverge from main.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Fast-forward live to main
+        run: |
+          git fetch origin live || true
+          if git show-ref --verify --quiet refs/remotes/origin/live; then
+            git merge-base --is-ancestor origin/live origin/main || { echo "live has commits not on main - refusing"; exit 1; }
+          fi
+          git push origin origin/main:refs/heads/live
+          echo "live -> $(git rev-parse --short origin/main)"
