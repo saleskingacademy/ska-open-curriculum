@@ -1,0 +1,98 @@
+[
+  {
+    "id": "critical_thinking_L1_1",
+    "subject_id": "critical_thinking",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Critical Thinking Foundations",
+    "content": "KEY CONCEPTS: Critical thinking is the disciplined process of evaluating information and reasoning to reach sound conclusions \u2014 thinking about thinking. It requires intellectual humility (you might be wrong), curiosity, and willingness to follow evidence over comfort. The core skills: clarity (what exactly is claimed?), accuracy (is it true?), relevance (does it bear on the issue?), logic (does it follow?), and fairness (are other views considered?). System 1 (fast, intuitive, error-prone) vs System 2 (slow, deliberate, effortful) thinking \u2014 critical thinking means engaging System 2 when it matters.\n\nWORKED EXAMPLE: A headline claims 'Study proves X.' The critical thinker asks: What study? How many subjects? Who funded it? Correlation or causation? Peer-reviewed? Most people accept the headline (System 1); the critical thinker interrogates it (System 2). The difference isn't intelligence \u2014 it's the habit of questioning before accepting.\n\nPRACTICE: 1) Take a claim you believe and list the evidence for and against it. 2) Identify a recent System 1 (snap) judgment you made. 3) Practice asking 'how do I know this?' about three beliefs.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Critical thinking requires:\", \"options\": [\"Certainty\", \"Intellectual humility (you might be wrong)\", \"Winning arguments\", \"Ignoring evidence\"], \"correct\": 1, \"explanation\": \"Following evidence over comfort.\"}, {\"q\": \"System 2 thinking is:\", \"options\": [\"Fast and intuitive\", \"Slow, deliberate, effortful\", \"Always wrong\", \"Automatic\"], \"correct\": 1, \"explanation\": \"Engage it when it matters.\"}, {\"q\": \"The key habit of a critical thinker is:\", \"options\": [\"Accepting headlines\", \"Asking 'how do I know this?'\", \"Trusting authority\", \"Reacting fast\"], \"correct\": 1, \"explanation\": \"Interrogate before accepting.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L2_1",
+    "subject_id": "critical_thinking",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Logic & Argument",
+    "content": "KEY CONCEPTS: An argument is a set of premises supporting a conclusion. Valid: if premises are true, conclusion must follow (structure is sound). Sound: valid AND premises are actually true. Deductive reasoning (general to specific, certain if valid) vs inductive (specific to general, probable). Identify the claim, the reasons, and the assumptions (unstated premises are where arguments hide their weaknesses). Distinguish premises from conclusions. An argument can be valid but unsound (good logic, false premises) \u2014 check both structure and truth.\n\nWORKED EXAMPLE: 'All swans are white; this is a swan; therefore it's white.' Valid structure. But the first premise is false (black swans exist), so it's unsound \u2014 a perfectly logical argument reaching a wrong conclusion because a premise was false. This is why checking premises matters as much as checking logic.\n\nPRACTICE: 1) Identify the premises and conclusion in an argument. 2) Find an unstated assumption in a claim. 3) Give an example of a valid but unsound argument.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A sound argument is:\", \"options\": [\"Just valid\", \"Valid AND has true premises\", \"Persuasive\", \"Popular\"], \"correct\": 1, \"explanation\": \"Both structure and truth must hold.\"}, {\"q\": \"A valid but unsound argument has:\", \"options\": [\"Good logic but a false premise\", \"Bad logic\", \"No conclusion\", \"True premises\"], \"correct\": 0, \"explanation\": \"Logic is fine; a premise is false.\"}, {\"q\": \"Unstated assumptions are important because:\", \"options\": [\"They don't matter\", \"That's where arguments hide weaknesses\", \"They're always true\", \"They're the conclusion\"], \"correct\": 1, \"explanation\": \"Hidden premises often fail.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L3_1",
+    "subject_id": "critical_thinking",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Cognitive Biases",
+    "content": "KEY CONCEPTS: The mind has systematic errors that distort thinking. Confirmation bias (seeking info that confirms existing beliefs) is the most pervasive. Anchoring (over-relying on the first number). Availability heuristic (judging likelihood by how easily examples come to mind \u2014 why people fear rare dramatic risks over common ones). Sunk cost fallacy (continuing because of past investment). Dunning-Kruger (the less you know, the more you overestimate your knowledge). Motivated reasoning (concluding what you want, then justifying). Awareness reduces but doesn't eliminate bias \u2014 structured processes help more than willpower.\n\nWORKED EXAMPLE: Someone researches a decision but only reads sources agreeing with their preferred choice (confirmation bias), feels 'well-informed,' and makes a poor decision confidently. Deliberately seeking the strongest opposing view \u2014 steelmanning \u2014 is the antidote. The goal isn't to eliminate bias (impossible) but to build habits that counteract it.\n\nPRACTICE: 1) Identify confirmation bias in a recent decision. 2) Steelman a view you disagree with. 3) Name a fear driven by the availability heuristic.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The most pervasive cognitive bias is:\", \"options\": [\"Anchoring\", \"Confirmation bias\", \"Recency\", \"None\"], \"correct\": 1, \"explanation\": \"Seeking info that confirms beliefs.\"}, {\"q\": \"The Dunning-Kruger effect is:\", \"options\": [\"Experts overestimate others\", \"The less you know, the more you overestimate your knowledge\", \"Everyone is accurate\", \"Bias doesn't exist\"], \"correct\": 1, \"explanation\": \"Incompetence hides itself.\"}, {\"q\": \"The antidote to confirmation bias is:\", \"options\": [\"More confidence\", \"Deliberately seeking the strongest opposing view\", \"Ignoring critics\", \"Faster decisions\"], \"correct\": 1, \"explanation\": \"Steelmanning counteracts it.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L4_1",
+    "subject_id": "critical_thinking",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Logical Fallacies",
+    "content": "KEY CONCEPTS: Fallacies are common errors in reasoning that seem persuasive but are invalid. Ad hominem (attacking the person, not the argument). Straw man (misrepresenting an argument to attack it easily). False dichotomy (presenting only two options when more exist). Slippery slope (assuming one step leads inevitably to extremes). Appeal to authority (X said it, so it's true \u2014 authority is evidence, not proof). Appeal to emotion, bandwagon (everyone believes it), and circular reasoning. Recognizing fallacies protects you from manipulation and improves your own arguments.\n\nWORKED EXAMPLE: In a debate, instead of addressing an argument, someone says 'you're only saying that because you're [group].' That's ad hominem \u2014 attacking the person dodges the actual point. The argument's validity is independent of who makes it. Spotting the fallacy lets you redirect to the real issue rather than being manipulated by the misdirection.\n\nPRACTICE: 1) Identify a fallacy in an advertisement or debate. 2) Explain why ad hominem doesn't disprove an argument. 3) Convert a false dichotomy into its real range of options.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Ad hominem is:\", \"options\": [\"Attacking the argument\", \"Attacking the person instead of the argument\", \"Using evidence\", \"Being logical\"], \"correct\": 1, \"explanation\": \"It dodges the actual point.\"}, {\"q\": \"A straw man fallacy:\", \"options\": [\"States the argument fairly\", \"Misrepresents an argument to attack it easily\", \"Uses statistics\", \"Is valid\"], \"correct\": 1, \"explanation\": \"Attacks a distorted version.\"}, {\"q\": \"A false dichotomy:\", \"options\": [\"Offers many options\", \"Presents only two options when more exist\", \"Is always true\", \"Uses data\"], \"correct\": 1, \"explanation\": \"Falsely limits the choices.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L5_1",
+    "subject_id": "critical_thinking",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Evidence & Sources",
+    "content": "KEY CONCEPTS: Not all evidence is equal. Hierarchy: systematic reviews/meta-analyses > randomized controlled trials > observational studies > expert opinion > anecdote. Correlation is not causation (the most common evidence error) \u2014 a link between two things doesn't mean one caused the other; a third factor or reverse causation may explain it. Sample size and representativeness matter. Evaluate sources: expertise, bias/funding, primary vs secondary, recency, and corroboration. Extraordinary claims require extraordinary evidence. Distinguish 'no evidence for' from 'evidence against.'\n\nWORKED EXAMPLE: 'Ice cream sales and drowning both rise together \u2014 so ice cream causes drowning.' Obviously false; the hidden variable is summer heat (causing both). This correlation-causation confusion underlies countless bad conclusions in health, business, and policy. Always ask: could a third factor explain both? Could causation run the other way?\n\nPRACTICE: 1) Rank types of evidence by strength. 2) Find a correlation and propose a hidden third factor. 3) Evaluate a source for bias and expertise.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The strongest form of evidence is:\", \"options\": [\"Anecdote\", \"Systematic reviews / meta-analyses\", \"Expert opinion\", \"A single story\"], \"correct\": 1, \"explanation\": \"It sits atop the evidence hierarchy.\"}, {\"q\": \"Correlation and causation:\", \"options\": [\"Are the same\", \"Are different \\u2014 a link doesn't prove cause\", \"Never occur together\", \"Are irrelevant\"], \"correct\": 1, \"explanation\": \"A third factor may explain both.\"}, {\"q\": \"Ice cream and drowning rising together is explained by:\", \"options\": [\"Ice cream causes drowning\", \"A hidden third factor (summer heat)\", \"Coincidence only\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Classic correlation-causation error.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L6_1",
+    "subject_id": "critical_thinking",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Decision-Making Under Uncertainty",
+    "content": "KEY CONCEPTS: Good decisions aren't judged by outcomes alone (good decisions can have bad outcomes due to luck \u2014 'resulting' is the error of judging decisions by results). Think in probabilities, not certainties. Expected value = probability \u00d7 payoff, summed across outcomes. Base rates matter (how common is this generally?) \u2014 ignoring them causes errors. Consider the full range of outcomes and their likelihoods. Pre-mortems (imagine it failed \u2014 why?) surface risks. Reversible decisions should be made fast; irreversible ones deserve deliberation. Update beliefs as evidence arrives (Bayesian thinking).\n\nWORKED EXAMPLE: Someone makes a reckless bet, wins, and concludes it was a great decision. That's 'resulting' \u2014 judging the decision by the lucky outcome rather than the process. A good decision maximizes expected value given what was knowable at the time, regardless of how the dice landed. Separating decision quality from outcome is essential for learning.\n\nPRACTICE: 1) Calculate the expected value of a simple bet. 2) Identify a time you judged a decision by its outcome, not its logic. 3) Do a pre-mortem on a current decision.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"'Resulting' is the error of:\", \"options\": [\"Thinking in probabilities\", \"Judging decisions by outcomes rather than process\", \"Using expected value\", \"Being careful\"], \"correct\": 1, \"explanation\": \"Good decisions can have bad outcomes.\"}, {\"q\": \"Expected value equals:\", \"options\": [\"Probability \\u00d7 payoff, summed\", \"Just the payoff\", \"The best case\", \"Certainty\"], \"correct\": 0, \"explanation\": \"Weight outcomes by likelihood.\"}, {\"q\": \"A pre-mortem involves:\", \"options\": [\"Celebrating success\", \"Imagining it failed and asking why\", \"Ignoring risk\", \"Deciding fast\"], \"correct\": 1, \"explanation\": \"Surfaces risks in advance.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L7_1",
+    "subject_id": "critical_thinking",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Mental Models & Systems Thinking",
+    "content": "KEY CONCEPTS: Mental models are frameworks for understanding reality \u2014 the more you have across disciplines, the better you think (latticework of models). Key models: first-principles thinking (reason from fundamentals, not analogy), inversion (solve by considering the opposite \u2014 how would this fail?), second-order thinking (and then what? consequences of consequences), opportunity cost, and margin of safety. Systems thinking sees interconnections, feedback loops, and delays \u2014 most problems are systemic, not isolated. Emergence: systems have properties their parts don't. Avoid single-cause explanations for complex phenomena.\n\nWORKED EXAMPLE: A city widens a highway to reduce traffic. Traffic gets worse (induced demand \u2014 easier driving attracts more drivers). First-order thinking ('more road = less traffic') missed the second-order effect. Systems thinking predicts that changing one part reshapes the whole. The best thinkers routinely ask 'and then what happens?' \u2014 tracing effects beyond the obvious first step.\n\nPRACTICE: 1) Apply first-principles thinking to a problem. 2) Use inversion: how would you guarantee failure at a goal? 3) Trace the second-order effects of a decision.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"First-principles thinking means:\", \"options\": [\"Reasoning by analogy\", \"Reasoning from fundamentals\", \"Following the crowd\", \"Guessing\"], \"correct\": 1, \"explanation\": \"Build up from what's fundamentally true.\"}, {\"q\": \"Second-order thinking asks:\", \"options\": [\"What's the first result?\", \"And then what? (consequences of consequences)\", \"Who agrees?\", \"What's popular?\"], \"correct\": 1, \"explanation\": \"Trace effects beyond the obvious.\"}, {\"q\": \"Widening a highway can worsen traffic due to:\", \"options\": [\"Bad drivers\", \"Induced demand (a second-order effect)\", \"Weather\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Systems thinking predicts this.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "critical_thinking_L8_1",
+    "subject_id": "critical_thinking",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Wisdom & Independent Thought",
+    "content": "KEY CONCEPTS: At the highest level, critical thinking becomes wisdom \u2014 knowing not just how to reason but when to, what matters, and the limits of your own knowledge. Intellectual honesty: following truth even when it's uncomfortable or costs you socially. Epistemic humility: holding beliefs proportional to evidence and updating readily. Independent thought: reasoning from evidence rather than tribe or authority, while remaining genuinely open. The ability to hold two opposing ideas and still function (nuance over binary). Meta-cognition: monitoring your own thinking for errors in real time. The King-level truth: the goal isn't to win arguments or feel certain \u2014 it's to see reality clearly, which requires the courage to be wrong, the humility to not know, and the discipline to think when it's easier to react.\n\nWORKED EXAMPLE: On a contested issue, most people adopt their group's position and defend it (tribal reasoning). The independent thinker evaluates the actual evidence, may reach an unpopular conclusion, holds it with appropriate uncertainty, and updates if better evidence appears \u2014 prioritizing truth over belonging. This is rare and hard because it costs social comfort, which is precisely why clear thinking is valuable: most people won't do it.\n\nPRACTICE: 1) Identify a belief you hold mainly because your group holds it. 2) Practice saying 'I don't know' or 'I changed my mind' on something. 3) Steelman the strongest case against a position you hold dear.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Epistemic humility means:\", \"options\": [\"Never having opinions\", \"Holding beliefs proportional to evidence and updating readily\", \"Being certain\", \"Ignoring evidence\"], \"correct\": 1, \"explanation\": \"Update as evidence changes.\"}, {\"q\": \"Independent thought means reasoning from:\", \"options\": [\"Your tribe\", \"Evidence rather than tribe or authority\", \"Emotion\", \"Popularity\"], \"correct\": 1, \"explanation\": \"Truth over belonging.\"}, {\"q\": \"The goal of critical thinking is to:\", \"options\": [\"Win arguments\", \"See reality clearly\", \"Feel certain\", \"Sound smart\"], \"correct\": 1, \"explanation\": \"Clarity requires courage to be wrong.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

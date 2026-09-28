@@ -1,0 +1,98 @@
+[
+  {
+    "id": "crypto_blockchain_L1_1",
+    "subject_id": "crypto_blockchain",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Crypto & Blockchain Foundations",
+    "content": "KEY CONCEPTS: A blockchain is a distributed, append-only ledger maintained by many computers (nodes) with no central authority \u2014 records are grouped into blocks, cryptographically chained so altering history is computationally infeasible. Cryptocurrency is a digital asset native to a blockchain. Key properties: decentralization (no single controller), immutability (history can't be changed), transparency (public ledger), and trustlessness (rules enforced by code, not institutions). Bitcoin (2009) introduced digital scarcity \u2014 solving the 'double-spend' problem without a bank. Public/private keys control ownership: your private key IS your money \u2014 lose it, lose everything.\n\nWORKED EXAMPLE: To send Bitcoin, you sign a transaction with your private key. The network verifies the signature and that you haven't already spent those coins, then records it permanently. No bank approves it \u2014 thousands of nodes independently agree it's valid. This 'consensus without trust' is the core innovation, replacing an institution with math and incentives.\n\nPRACTICE: 1) Explain how a blockchain makes altering history infeasible. 2) Describe why 'your keys, your coins' matters. 3) Explain the double-spend problem Bitcoin solved.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A blockchain is:\", \"options\": [\"A company database\", \"A distributed, append-only ledger with no central authority\", \"A bank\", \"A website\"], \"correct\": 1, \"explanation\": \"Decentralized, immutable, maintained by many nodes.\"}, {\"q\": \"'Your keys, your coins' means:\", \"options\": [\"Banks hold your crypto\", \"Your private key controls your funds \\u2014 lose it, lose everything\", \"Coins are physical\", \"Keys are optional\"], \"correct\": 1, \"explanation\": \"The private key IS ownership.\"}, {\"q\": \"Bitcoin's core innovation was solving:\", \"options\": [\"Slow internet\", \"The double-spend problem without a bank\", \"Email spam\", \"Password storage\"], \"correct\": 1, \"explanation\": \"Digital scarcity via consensus, no central authority.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L2_1",
+    "subject_id": "crypto_blockchain",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "How Blockchains Work: Consensus & Mining",
+    "content": "KEY CONCEPTS: Consensus mechanisms let a decentralized network agree on truth. Proof of Work (Bitcoin): miners compete to solve a hard math puzzle; the winner adds the next block and earns rewards \u2014 secure but energy-intensive. Proof of Stake (Ethereum post-2022): validators stake capital as collateral; misbehavior is punished by 'slashing' \u2014 far more energy-efficient. Hash functions link blocks and secure data. The 51% attack: controlling most mining/staking power could rewrite history \u2014 economically prohibitive on large chains. Block time and finality determine how fast transactions confirm.\n\nWORKED EXAMPLE: A miner spends real electricity to find a valid block hash. If they tried to cheat with a fraudulent block, other nodes reject it and their electricity is wasted for nothing. The system aligns incentives: honest mining is profitable, cheating is costly. Security comes from making attacks more expensive than the reward \u2014 economics, not permission.\n\nPRACTICE: 1) Compare Proof of Work vs Proof of Stake. 2) Explain why a 51% attack is economically deterred. 3) Describe how hashing links blocks.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Proof of Stake secures the network by:\", \"options\": [\"Solving math puzzles with electricity\", \"Validators staking capital as collateral\", \"Bank approval\", \"Passwords\"], \"correct\": 1, \"explanation\": \"Stake is slashed for misbehavior \\u2014 energy-efficient.\"}, {\"q\": \"A 51% attack is deterred because it's:\", \"options\": [\"Illegal only\", \"Economically prohibitive on large chains\", \"Impossible technically\", \"Fast\"], \"correct\": 1, \"explanation\": \"Attacks cost more than the reward.\"}, {\"q\": \"Proof of Work is criticized for being:\", \"options\": [\"Too fast\", \"Energy-intensive\", \"Centralized by law\", \"Free\"], \"correct\": 1, \"explanation\": \"Mining consumes significant electricity.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L3_1",
+    "subject_id": "crypto_blockchain",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Wallets, Security & Self-Custody",
+    "content": "KEY CONCEPTS: A wallet stores your private keys, not the coins (coins live on-chain). Hot wallets (connected, convenient, riskier) vs cold wallets (offline, secure, for savings). Seed phrase (12-24 words) can regenerate your entire wallet \u2014 guard it like the master key it is; anyone with it owns your funds. 'Not your keys, not your coins': funds on an exchange are controlled by the exchange, which can freeze, lose, or be hacked. Common threats: phishing, fake apps, SIM swaps, and social engineering. Security is personal responsibility \u2014 there's no fraud department to reverse a mistaken or stolen transaction.\n\nWORKED EXAMPLE: A user keeps life savings on an exchange for convenience. The exchange collapses (as several have), and the funds are gone \u2014 legally the user was an unsecured creditor, not an owner. Someone using a hardware wallet with a securely stored seed phrase kept full control throughout. The difference between custody models is the difference between owning and merely trusting.\n\nPRACTICE: 1) Explain the difference between hot and cold wallets. 2) Describe why a seed phrase must never be shared or stored online. 3) Explain 'not your keys, not your coins.'",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A seed phrase:\", \"options\": [\"Is a username\", \"Can regenerate your entire wallet \\u2014 never share it\", \"Is your email\", \"Is optional\"], \"correct\": 1, \"explanation\": \"Anyone with it owns your funds.\"}, {\"q\": \"Cold wallets are:\", \"options\": [\"Connected and convenient\", \"Offline and more secure\", \"Controlled by exchanges\", \"Free money\"], \"correct\": 1, \"explanation\": \"Offline storage for savings.\"}, {\"q\": \"Funds left on an exchange are:\", \"options\": [\"Fully yours\", \"Controlled by the exchange (can freeze/lose/be hacked)\", \"Insured always\", \"Safest\"], \"correct\": 1, \"explanation\": \"Not your keys, not your coins.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L4_1",
+    "subject_id": "crypto_blockchain",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Ethereum, Smart Contracts & DeFi",
+    "content": "KEY CONCEPTS: Ethereum extended blockchain from money to programmable contracts \u2014 smart contracts are self-executing code that runs exactly as written, enabling apps without intermediaries. 'Gas' fees pay for computation. Decentralized Finance (DeFi) rebuilds financial services (lending, trading, borrowing) as open protocols: DEXs (decentralized exchanges), lending platforms, stablecoins (crypto pegged to $1), and yield farming. Composability ('money legos') lets protocols stack. Risks are real: smart-contract bugs, exploits, impermanent loss, and unsustainable yields. Code is law \u2014 a bug can drain funds with no recourse.\n\nWORKED EXAMPLE: On a DeFi lending protocol, you deposit crypto and earn interest, or borrow against collateral \u2014 all executed by code, no bank, available 24/7 globally. But if the smart contract has a vulnerability, an attacker can drain it in seconds, and there's no fraud reversal. DeFi offers permissionless access at the cost of removing the safety nets institutions provide.\n\nPRACTICE: 1) Explain what a smart contract does. 2) Describe one DeFi service and its risk. 3) Explain what a stablecoin is and why it matters.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A smart contract is:\", \"options\": [\"A legal document\", \"Self-executing code that runs as written\", \"A lawyer\", \"A bank account\"], \"correct\": 1, \"explanation\": \"Code enabling apps without intermediaries.\"}, {\"q\": \"DeFi removes intermediaries but adds:\", \"options\": [\"Fraud protection\", \"Smart-contract and exploit risk (no recourse)\", \"Bank guarantees\", \"Insurance\"], \"correct\": 1, \"explanation\": \"Code is law \\u2014 bugs can drain funds.\"}, {\"q\": \"A stablecoin is:\", \"options\": [\"A volatile token\", \"Crypto pegged to a stable value like $1\", \"A stock\", \"A bond\"], \"correct\": 1, \"explanation\": \"Designed to hold steady value.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L5_1",
+    "subject_id": "crypto_blockchain",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Tokens, NFTs & Digital Assets",
+    "content": "KEY CONCEPTS: Tokens represent assets or utility on a blockchain. Fungible tokens (interchangeable, like currency \u2014 ERC-20 standard) vs non-fungible tokens (NFTs \u2014 unique, ERC-721, representing ownership of a specific digital or real item). Tokenomics: supply schedule, distribution, utility, and incentives determine a token's economic soundness \u2014 most tokens fail on weak tokenomics. Utility tokens (access/function) vs security tokens (investment, regulated) vs governance tokens (voting rights). NFTs enable provable digital ownership, but value depends on demand, not the technology itself. Beware: most tokens and NFTs go to zero.\n\nWORKED EXAMPLE: A project launches a token with no real utility and 90% held by insiders. Early hype pumps the price; insiders sell into the demand; the price collapses. Sound tokenomics \u2014 genuine utility, fair distribution, aligned incentives \u2014 is what separates a durable token from a pump-and-dump. The technology is neutral; the economic design determines survival.\n\nPRACTICE: 1) Distinguish fungible from non-fungible tokens. 2) List three factors of healthy tokenomics. 3) Explain why most tokens ultimately fail.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"An NFT is:\", \"options\": [\"Interchangeable like currency\", \"A unique, non-fungible token representing specific ownership\", \"A stablecoin\", \"A mining rig\"], \"correct\": 1, \"explanation\": \"Non-fungible = unique.\"}, {\"q\": \"Most tokens fail because of:\", \"options\": [\"Good tokenomics\", \"Weak tokenomics (no utility, bad distribution)\", \"Too much regulation\", \"High security\"], \"correct\": 1, \"explanation\": \"Economic design determines survival.\"}, {\"q\": \"Healthy tokenomics requires:\", \"options\": [\"Insider hoarding\", \"Genuine utility, fair distribution, aligned incentives\", \"Guaranteed returns\", \"Anonymous teams\"], \"correct\": 1, \"explanation\": \"Sound economic design.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L6_1",
+    "subject_id": "crypto_blockchain",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Trading, Markets & Risk",
+    "content": "KEY CONCEPTS: Crypto markets trade 24/7, are highly volatile, and are driven by sentiment, liquidity, and narratives as much as fundamentals. Market cycles: accumulation, run-up, euphoria/bubble, crash, capitulation \u2014 extreme greed and fear repeat. Risk management is survival: position sizing, never investing more than you can afford to lose, and avoiding leverage (which liquidates you on normal volatility). Common losses: FOMO buying tops, panic selling bottoms, leverage liquidation, scams, and rug pulls. Volatility means 50-80% drawdowns are normal even in assets that later recover \u2014 most people sell at the worst time.\n\nWORKED EXAMPLE: A trader uses 10x leverage. A normal 10% price move against them wipes out 100% of their position \u2014 liquidated \u2014 even though the asset recovers days later. Unleveraged, they'd have simply ridden it out. Leverage turns survivable volatility into permanent loss, which is why it destroys most crypto traders regardless of whether their long-term thesis was right.\n\nPRACTICE: 1) Explain the market cycle phases. 2) Describe why leverage is so dangerous in volatile markets. 3) Define a position-sizing rule that ensures survival.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"10x leverage means a 10% adverse move:\", \"options\": [\"Costs 10%\", \"Liquidates 100% of the position\", \"Is safe\", \"Doubles funds\"], \"correct\": 1, \"explanation\": \"Leverage turns volatility into total loss.\"}, {\"q\": \"Drawdowns of 50-80% in crypto are:\", \"options\": [\"Impossible\", \"Normal even in recovering assets\", \"A guarantee of failure\", \"Rare\"], \"correct\": 1, \"explanation\": \"Extreme volatility is standard.\"}, {\"q\": \"The most protective risk rule is:\", \"options\": [\"Use maximum leverage\", \"Never invest more than you can afford to lose\", \"Buy every dip with debt\", \"Follow FOMO\"], \"correct\": 1, \"explanation\": \"Survival first.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L7_1",
+    "subject_id": "crypto_blockchain",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Regulation, Scams & Due Diligence",
+    "content": "KEY CONCEPTS: The regulatory landscape is evolving and varies by country \u2014 securities laws, taxes (crypto is taxable; every trade can be a taxable event), and AML/KYC rules apply. Due diligence separates real projects from scams: examine the team (doxxed vs anonymous), the actual product/traction, tokenomics, audits, and community. Red flags: guaranteed returns, pressure to buy now, anonymous teams with big promises, unaudited contracts, and unsustainable yields. Common scams: rug pulls (developers drain funds), Ponzi schemes (paying old investors with new money), phishing, and fake giveaways. 'If it sounds too good to be true, it is' applies with full force.\n\nWORKED EXAMPLE: A project promises 'guaranteed 2% daily returns.' The math is impossible (that's 137,000% annually) \u2014 it can only pay early investors with later investors' money until it collapses (a Ponzi). Recognizing that no legitimate investment guarantees such returns is the single most protective piece of due diligence. Impossible math is the clearest scam signal.\n\nPRACTICE: 1) List five red flags of a crypto scam. 2) Explain how a rug pull works. 3) Describe the due-diligence questions to ask before investing in a token.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"'Guaranteed 2% daily returns' is:\", \"options\": [\"A great deal\", \"A Ponzi/scam (impossible math)\", \"Normal\", \"Low risk\"], \"correct\": 1, \"explanation\": \"137,000% annually is impossible \\u2014 a scam signal.\"}, {\"q\": \"A rug pull is when:\", \"options\": [\"Prices rise\", \"Developers drain the funds and disappear\", \"Regulators approve\", \"Users profit\"], \"correct\": 1, \"explanation\": \"Insiders steal deposited funds.\"}, {\"q\": \"Crypto trades are generally:\", \"options\": [\"Tax-free\", \"Taxable events in most countries\", \"Illegal\", \"Anonymous to tax authorities\"], \"correct\": 1, \"explanation\": \"Every trade can be a taxable event.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "crypto_blockchain_L8_1",
+    "subject_id": "crypto_blockchain",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Blockchain's Future & Strategic Understanding",
+    "content": "KEY CONCEPTS: At the highest level, understanding crypto means separating durable innovation from speculation and hype. Genuine use cases: borderless payments, censorship-resistant money, programmable finance, verifiable digital ownership, supply-chain transparency, and disintermediation of trusted third parties. The scalability trilemma: decentralization, security, and scalability are hard to maximize simultaneously \u2014 layer-2 solutions and new architectures address it. Institutional adoption, CBDCs (central bank digital currencies), and tokenization of real-world assets signal maturation. The King-level truth: the technology is genuinely transformative in specific domains, but ~90% of projects are speculation or scams \u2014 the skill is distinguishing the durable innovation from the noise, holding conviction through volatility, and never confusing price with value.\n\nWORKED EXAMPLE: During a mania, thousands of tokens with no product reach billion-dollar valuations, then collapse to zero \u2014 while a handful of genuinely useful protocols survive multiple cycles and keep building. The King-level investor ignores the noise, evaluates real adoption and utility, and understands that transformative technology and rampant speculation coexist. Both are real; only one endures.\n\nPRACTICE: 1) Name three genuine (non-speculative) blockchain use cases. 2) Explain the scalability trilemma. 3) Describe how to distinguish a durable project from hype.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The scalability trilemma balances:\", \"options\": [\"Speed, cost, color\", \"Decentralization, security, scalability\", \"Buy, hold, sell\", \"Past, present, future\"], \"correct\": 1, \"explanation\": \"Hard to maximize all three at once.\"}, {\"q\": \"Roughly what share of crypto projects are speculation or scams?\", \"options\": [\"10%\", \"~90%\", \"0%\", \"50%\"], \"correct\": 1, \"explanation\": \"The skill is finding the durable minority.\"}, {\"q\": \"The King-level insight is to never confuse:\", \"options\": [\"Risk with reward\", \"Price with value\", \"Coins with tokens\", \"Hot with cold wallets\"], \"correct\": 1, \"explanation\": \"Price is sentiment; value is utility and adoption.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]
