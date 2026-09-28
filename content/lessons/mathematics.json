@@ -1,0 +1,98 @@
+[
+  {
+    "id": "mathematics_L1_1",
+    "subject_id": "mathematics",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Arithmetic & Number Foundations",
+    "content": "KEY CONCEPTS: Mathematics begins with numbers and operations. Number types: natural (1,2,3...), integers (...-1,0,1...), rational (fractions), irrational (\u221a2, \u03c0 \u2014 non-repeating decimals), and real numbers. The four operations and their properties: commutative (a+b=b+a), associative, distributive (a(b+c)=ab+ac). Order of operations (PEMDAS/BODMAS). Prime numbers are the building blocks \u2014 every integer factors uniquely into primes (Fundamental Theorem of Arithmetic). Fractions, decimals, percentages are three representations of the same idea: parts of a whole.\n\nWORKED EXAMPLE: 3 + 4 \u00d7 2 = 11, not 14 \u2014 multiplication binds tighter than addition (order of operations). Getting 14 (adding first) is the single most common arithmetic error. The rules of precedence exist so every expression has exactly one correct value.\n\nPRACTICE: 1) Factor 60 into primes. 2) Convert 3/8 to a decimal and percentage. 3) Evaluate 2 + 3 \u00d7 (4 \u2212 1)\u00b2 using order of operations.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"\\u221a2 is an example of a(n):\", \"options\": [\"Integer\", \"Rational number\", \"Irrational number\", \"Natural number\"], \"correct\": 2, \"explanation\": \"Non-repeating, non-terminating decimal.\"}, {\"q\": \"3 + 4 \\u00d7 2 equals:\", \"options\": [\"14\", \"11\", \"10\", \"24\"], \"correct\": 1, \"explanation\": \"Multiplication before addition.\"}, {\"q\": \"The Fundamental Theorem of Arithmetic says every integer:\", \"options\": [\"Is prime\", \"Factors uniquely into primes\", \"Is even\", \"Is rational\"], \"correct\": 1, \"explanation\": \"Primes are the building blocks.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L2_1",
+    "subject_id": "mathematics",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Algebra",
+    "content": "KEY CONCEPTS: Algebra generalizes arithmetic using variables to represent unknowns. An equation is a balance \u2014 whatever you do to one side, do to the other. Solving linear equations isolates the variable. Exponents (repeated multiplication) and their laws (x^a \u00b7 x^b = x^(a+b)). Polynomials, factoring, and the quadratic formula (x = (\u2212b \u00b1 \u221a(b\u00b2\u22124ac))/2a) solve second-degree equations. Functions map inputs to outputs \u2014 the core object of higher math. Graphing reveals structure: linear (straight), quadratic (parabola), exponential (rapid growth).\n\nWORKED EXAMPLE: Solve 2x + 6 = 14. Subtract 6 from both sides: 2x = 8. Divide by 2: x = 4. Each step preserves the balance. Algebra's power is that this same logic solves for any unknown in any relationship, from physics to finance.\n\nPRACTICE: 1) Solve 3x \u2212 7 = 11. 2) Factor x\u00b2 + 5x + 6. 3) Use the quadratic formula on x\u00b2 \u2212 4x + 3 = 0.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"To solve 2x + 6 = 14, first:\", \"options\": [\"Multiply by 2\", \"Subtract 6 from both sides\", \"Add 6\", \"Divide by x\"], \"correct\": 1, \"explanation\": \"Isolate the variable, keeping balance.\"}, {\"q\": \"x^a \\u00b7 x^b equals:\", \"options\": [\"x^(a+b)\", \"x^(ab)\", \"x^(a\\u2212b)\", \"x^a + x^b\"], \"correct\": 0, \"explanation\": \"Exponents add when multiplying same base.\"}, {\"q\": \"The quadratic formula solves:\", \"options\": [\"Linear equations\", \"Second-degree (quadratic) equations\", \"Any equation\", \"Fractions\"], \"correct\": 1, \"explanation\": \"ax\\u00b2+bx+c=0.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L3_1",
+    "subject_id": "mathematics",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Geometry & Trigonometry",
+    "content": "KEY CONCEPTS: Geometry studies shape, size, and space. Points, lines, angles, and the axioms of Euclid. Key results: angles in a triangle sum to 180\u00b0; the Pythagorean theorem (a\u00b2 + b\u00b2 = c\u00b2 for right triangles). Area and volume formulas. Similarity and congruence. Trigonometry relates angles to side ratios: sine, cosine, tangent (SOH-CAH-TOA). The unit circle connects trig to rotation and periodicity. Coordinate geometry places shapes on axes, uniting algebra and geometry \u2014 a line becomes an equation.\n\nWORKED EXAMPLE: A right triangle has legs 3 and 4. The hypotenuse = \u221a(3\u00b2 + 4\u00b2) = \u221a25 = 5. The Pythagorean theorem \u2014 one of the oldest and most useful results in mathematics \u2014 lets you find any side of a right triangle from the other two, underpinning navigation, construction, and physics.\n\nPRACTICE: 1) Find the hypotenuse of a right triangle with legs 5 and 12. 2) Calculate the area of a circle with radius 3. 3) Find sin, cos, tan of a 3-4-5 triangle's smallest angle.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Angles in a triangle sum to:\", \"options\": [\"90\\u00b0\", \"180\\u00b0\", \"360\\u00b0\", \"270\\u00b0\"], \"correct\": 1, \"explanation\": \"Always 180 degrees.\"}, {\"q\": \"For legs 3 and 4, the hypotenuse is:\", \"options\": [\"5\", \"7\", \"6\", \"12\"], \"correct\": 0, \"explanation\": \"\\u221a(9+16)=\\u221a25=5.\"}, {\"q\": \"SOH-CAH-TOA relates:\", \"options\": [\"Areas\", \"Angles to side ratios (sin/cos/tan)\", \"Volumes\", \"Primes\"], \"correct\": 1, \"explanation\": \"Trigonometric ratios.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L4_1",
+    "subject_id": "mathematics",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Functions, Sequences & Precalculus",
+    "content": "KEY CONCEPTS: A function assigns each input exactly one output \u2014 the foundation of modeling change. Domain (valid inputs) and range (outputs). Function types: polynomial, rational, exponential (a^x \u2014 growth/decay), logarithmic (the inverse of exponential \u2014 how many times to multiply). Composition and inverse functions. Sequences (ordered lists) and series (their sums); arithmetic (constant difference) and geometric (constant ratio). Logarithms turn multiplication into addition \u2014 the key to compound growth, pH, decibels, and complexity analysis.\n\nWORKED EXAMPLE: Exponential growth: $1,000 at 5% for 10 years = 1000 \u00d7 (1.05)^10 \u2248 $1,629. The exponent drives compounding. Logarithms answer the reverse: 'how long to double?' \u2014 log(2)/log(1.05) \u2248 14 years. Exponentials and logs are inverses that describe all growth and decay in nature and finance.\n\nPRACTICE: 1) Evaluate log\u2082(8). 2) Find the 5th term of a geometric sequence starting at 3 with ratio 2. 3) Compute compound growth of $500 at 6% over 8 years.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A logarithm is the inverse of:\", \"options\": [\"Addition\", \"An exponential\", \"A polynomial\", \"A fraction\"], \"correct\": 1, \"explanation\": \"Logs undo exponentials.\"}, {\"q\": \"A geometric sequence has a constant:\", \"options\": [\"Difference\", \"Ratio\", \"Sum\", \"Prime\"], \"correct\": 1, \"explanation\": \"Each term multiplies by a fixed ratio.\"}, {\"q\": \"log\\u2082(8) equals:\", \"options\": [\"2\", \"3\", \"4\", \"8\"], \"correct\": 1, \"explanation\": \"2\\u00b3 = 8.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L5_1",
+    "subject_id": "mathematics",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Calculus",
+    "content": "KEY CONCEPTS: Calculus is the mathematics of change and accumulation. Limits formalize 'approaching' a value. The derivative measures instantaneous rate of change (slope of a curve at a point) \u2014 velocity from position, marginal cost from cost. Rules: power rule, product, quotient, chain. The integral measures accumulation (area under a curve) \u2014 distance from velocity, total from rate. The Fundamental Theorem of Calculus links them: differentiation and integration are inverse operations. Optimization (finding maxima/minima where the derivative is zero) is calculus's most practical application.\n\nWORKED EXAMPLE: For f(x) = x\u00b2, the derivative is f'(x) = 2x \u2014 at x=3, the curve's slope is 6. This means the function is changing 6 units per unit at that point. Setting a derivative to zero finds peaks and valleys, which is how businesses maximize profit and engineers minimize material \u2014 calculus turns 'find the best' into a solvable equation.\n\nPRACTICE: 1) Differentiate f(x) = 3x\u00b2. 2) Find where f(x) = x\u00b2 \u2212 6x has its minimum (set derivative = 0). 3) Explain what an integral accumulates.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"The derivative measures:\", \"options\": [\"Area\", \"Instantaneous rate of change (slope)\", \"Volume\", \"Probability\"], \"correct\": 1, \"explanation\": \"Slope of the curve at a point.\"}, {\"q\": \"The derivative of x\\u00b2 is:\", \"options\": [\"x\", \"2x\", \"x\\u00b3\", \"2\"], \"correct\": 1, \"explanation\": \"Power rule: 2x.\"}, {\"q\": \"To find a function's minimum, you:\", \"options\": [\"Integrate it\", \"Set the derivative to zero\", \"Square it\", \"Add a constant\"], \"correct\": 1, \"explanation\": \"Extremes occur where slope = 0.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L6_1",
+    "subject_id": "mathematics",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Probability & Statistics",
+    "content": "KEY CONCEPTS: Probability quantifies uncertainty (0 = impossible, 1 = certain). Independent vs dependent events; conditional probability P(A|B). Bayes' theorem updates beliefs with evidence \u2014 the foundation of rational inference and machine learning. Statistics extracts meaning from data: measures of center (mean, median, mode) and spread (variance, standard deviation). Distributions, especially the normal (bell curve) and the Central Limit Theorem (why averages are normally distributed). Correlation vs causation. Statistical inference: sampling, confidence intervals, hypothesis testing, p-values, and their frequent misinterpretation.\n\nWORKED EXAMPLE: A test is 99% accurate for a disease affecting 1 in 10,000. You test positive. Your actual chance of having it is only ~1%, not 99% \u2014 because false positives (99 per 10,000 healthy people) vastly outnumber the 1 true case. Bayes' theorem reveals this counterintuitive truth, which doctors and juries routinely get wrong. Base rates dominate.\n\nPRACTICE: 1) Find the probability of two coin flips both landing heads. 2) Calculate the mean and standard deviation of {2,4,4,6}. 3) Explain why a positive test for a rare disease may still mean low probability of illness.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Bayes' theorem is used to:\", \"options\": [\"Add numbers\", \"Update beliefs with evidence\", \"Draw shapes\", \"Factor primes\"], \"correct\": 1, \"explanation\": \"Foundation of rational inference.\"}, {\"q\": \"Testing positive for a rare disease with a 99% accurate test means:\", \"options\": [\"99% chance you have it\", \"Possibly low probability (base rates dominate)\", \"Certainty\", \"Nothing\"], \"correct\": 1, \"explanation\": \"False positives can outnumber true cases.\"}, {\"q\": \"Standard deviation measures:\", \"options\": [\"The center\", \"The spread of data\", \"The mode\", \"The count\"], \"correct\": 1, \"explanation\": \"How spread out values are.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L7_1",
+    "subject_id": "mathematics",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Advanced & Applied Mathematics",
+    "content": "KEY CONCEPTS: Higher mathematics builds powerful abstract structures. Linear algebra (vectors, matrices, transformations) underlies computer graphics, machine learning, and data science \u2014 a matrix is a function that transforms space. Differential equations model dynamic systems (populations, circuits, economies). Discrete mathematics (logic, sets, combinatorics, graph theory) is the mathematics of computing. Complex numbers (involving \u221a\u22121) unify algebra and reveal deep structure. Multivariable calculus extends change to many dimensions. Abstract algebra studies structure itself (groups, rings, fields). These tools model nearly all of science and technology.\n\nWORKED EXAMPLE: Machine learning trains a model by using linear algebra (matrix operations) and calculus (gradient descent \u2014 following the derivative downhill to minimize error) together. Every neural network is, at its core, matrices multiplied and derivatives computed billions of times. The 'AI' that seems magical is applied linear algebra and calculus at scale \u2014 the same tools taught here.\n\nPRACTICE: 1) Explain what a matrix does geometrically (transforms space). 2) Describe gradient descent in plain terms. 3) Give an example of a system modeled by a differential equation.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A matrix geometrically:\", \"options\": [\"Is just numbers\", \"Transforms space\", \"Is a prime\", \"Is a fraction\"], \"correct\": 1, \"explanation\": \"It's a transformation of vectors.\"}, {\"q\": \"Gradient descent minimizes error by:\", \"options\": [\"Guessing\", \"Following the derivative downhill\", \"Adding matrices\", \"Random search\"], \"correct\": 1, \"explanation\": \"Move opposite the gradient.\"}, {\"q\": \"Machine learning core math is:\", \"options\": [\"Only geometry\", \"Linear algebra and calculus\", \"Only arithmetic\", \"Trigonometry only\"], \"correct\": 1, \"explanation\": \"Matrices + derivatives at scale.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "mathematics_L8_1",
+    "subject_id": "mathematics",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 The Nature and Frontier of Mathematics",
+    "content": "KEY CONCEPTS: At the highest level, mathematics is revealed as the study of pattern, structure, and truth itself \u2014 the language in which the universe appears to be written. Proof is its foundation: unlike science (which gathers evidence), mathematics establishes certainty through deductive proof from axioms. G\u00f6del's incompleteness theorems show that any sufficiently powerful system contains true statements it cannot prove \u2014 a profound limit on formal knowledge. Open frontiers: the Riemann Hypothesis, P vs NP (whether hard problems are fundamentally hard \u2014 unsolved, and no clever architecture is known to beat it), and the unreasonable effectiveness of mathematics in describing reality. The King-level truth: mathematics is both invented (we choose axioms) and discovered (the consequences are not ours to decide) \u2014 and its deepest results reveal not just answers but the fundamental limits of what can be known or computed.\n\nWORKED EXAMPLE: P vs NP asks whether every problem whose solution is easy to *check* is also easy to *solve*. Despite 50 years and a $1 million prize, it's unproven \u2014 and most mathematicians believe P \u2260 NP, meaning some problems are inherently hard no matter how cleverly you approach them. This isn't a gap in our tools; it appears to be a fundamental feature of computation itself, bounding what any computer, however designed, can efficiently do.\n\nPRACTICE: 1) Explain the difference between mathematical proof and scientific evidence. 2) Describe what G\u00f6del's incompleteness theorem limits. 3) Explain in your own words why P vs NP matters for what computers can do.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Mathematics establishes certainty through:\", \"options\": [\"Evidence\", \"Deductive proof from axioms\", \"Voting\", \"Experiment\"], \"correct\": 1, \"explanation\": \"Proof, unlike scientific evidence.\"}, {\"q\": \"G\\u00f6del's incompleteness theorem shows:\", \"options\": [\"All truths are provable\", \"Powerful systems contain true but unprovable statements\", \"Math is wrong\", \"Nothing\"], \"correct\": 1, \"explanation\": \"A fundamental limit on formal systems.\"}, {\"q\": \"P vs NP is:\", \"options\": [\"Solved\", \"An unsolved problem about whether hard problems are inherently hard\", \"Trivial\", \"About geometry\"], \"correct\": 1, \"explanation\": \"Most believe P\\u2260NP; no architecture is known to beat it.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]

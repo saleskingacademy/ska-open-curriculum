@@ -1,0 +1,98 @@
+[
+  {
+    "id": "linear_algebra_L1_1",
+    "subject_id": "linear_algebra",
+    "level": 1,
+    "lesson_number": 1,
+    "title": "Vectors & Vector Spaces",
+    "content": "KEY CONCEPTS: A vector is a quantity with magnitude and direction, represented as an ordered list of numbers (components). Vector operations: addition (component-wise), scalar multiplication (scaling). The dot product (a\u00b7b = \u03a3a\u1d62b\u1d62) measures alignment and gives length (\u2016v\u2016=\u221a(v\u00b7v)) and the angle between vectors. Vectors live in vector spaces \u2014 sets closed under addition and scalar multiplication. Linear combinations build new vectors from others. This is the foundation: nearly all of data science, graphics, and ML represents data as vectors.\n\nWORKED EXAMPLE: For vectors a=(1,2) and b=(3,4), the dot product = (1)(3)+(2)(4) = 3+8 = 11. If the dot product were 0, the vectors would be perpendicular (orthogonal). The dot product quantifies how much two vectors point the same way \u2014 the basis of similarity measures in search engines and recommendation systems.\n\nPRACTICE: 1) Add (2,3) + (1,\u22121). 2) Compute the dot product of (1,0,2) and (3,1,1). 3) Find the length of the vector (3,4).",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A vector has:\", \"options\": [\"Only magnitude\", \"Magnitude and direction\", \"Only direction\", \"Neither\"], \"correct\": 1, \"explanation\": \"An ordered list with size and direction.\"}, {\"q\": \"The dot product of (1,2) and (3,4) is:\", \"options\": [\"11\", \"7\", \"10\", \"24\"], \"correct\": 0, \"explanation\": \"1\\u00b73 + 2\\u00b74 = 11.\"}, {\"q\": \"A dot product of 0 means the vectors are:\", \"options\": [\"Parallel\", \"Perpendicular (orthogonal)\", \"Equal\", \"Zero\"], \"correct\": 1, \"explanation\": \"They point at right angles.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L2_1",
+    "subject_id": "linear_algebra",
+    "level": 2,
+    "lesson_number": 1,
+    "title": "Matrices & Matrix Operations",
+    "content": "KEY CONCEPTS: A matrix is a rectangular array of numbers \u2014 it encodes a linear transformation (a function that maps vectors to vectors, preserving lines and origin). Matrix addition (component-wise) and scalar multiplication. Matrix multiplication (row-by-column dot products) composes transformations \u2014 order matters (AB \u2260 BA generally). The identity matrix I acts like 1. Matrix-vector multiplication transforms a vector. Dimensions must match for multiplication. Matrices are the fundamental computational object of the field \u2014 every neural network layer is a matrix multiplication.\n\nWORKED EXAMPLE: Multiply [[1,2],[3,4]] by vector [5,6]: row 1 = (1)(5)+(2)(6)=17; row 2 = (3)(5)+(4)(6)=39. Result: [17,39]. The matrix transformed the input vector into a new one. Stacking such transformations (matrix products) is exactly how data flows through the layers of AI models \u2014 matrices in, matrices out, billions of times.\n\nPRACTICE: 1) Multiply [[2,0],[0,3]] by [4,5]. 2) Explain why AB \u2260 BA in general. 3) What does the identity matrix do to a vector?",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A matrix encodes a:\", \"options\": [\"Single number\", \"Linear transformation\", \"Prime\", \"Fraction\"], \"correct\": 1, \"explanation\": \"It maps vectors to vectors.\"}, {\"q\": \"Matrix multiplication AB and BA are:\", \"options\": [\"Always equal\", \"Generally NOT equal\", \"Undefined\", \"The same as addition\"], \"correct\": 1, \"explanation\": \"Order matters.\"}, {\"q\": \"Every neural network layer is fundamentally a:\", \"options\": [\"Prime factorization\", \"Matrix multiplication\", \"Derivative\", \"Fraction\"], \"correct\": 1, \"explanation\": \"Matrices transform the data.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L3_1",
+    "subject_id": "linear_algebra",
+    "level": 3,
+    "lesson_number": 1,
+    "title": "Systems of Linear Equations",
+    "content": "KEY CONCEPTS: A system of linear equations can be written as Ax = b (matrix times unknown vector equals result). Gaussian elimination (row operations to reach row-echelon form) solves systems systematically. Solutions can be unique, none (inconsistent), or infinite (dependent). The augmented matrix combines A and b for elimination. Reduced row-echelon form (RREF) gives the solution directly. This connects to real problems: circuit analysis, economics, and fitting models to data all reduce to solving Ax = b.\n\nWORKED EXAMPLE: Solve x + y = 5, x \u2212 y = 1. Add the equations: 2x = 6, so x = 3. Substitute: 3 + y = 5, so y = 2. As a matrix system, Gaussian elimination automates this for hundreds of variables. Every time you fit a line to data or balance a chemical equation, you're solving Ax = b \u2014 the workhorse of applied linear algebra.\n\nPRACTICE: 1) Solve 2x + y = 7, x \u2212 y = 2. 2) Explain when a system has no solution. 3) Describe what row operations preserve.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"A linear system is written as:\", \"options\": [\"Ax = b\", \"x\\u00b2=b\", \"A+b\", \"x/A\"], \"correct\": 0, \"explanation\": \"Matrix times unknown = result.\"}, {\"q\": \"Gaussian elimination uses:\", \"options\": [\"Guessing\", \"Row operations to solve systematically\", \"Multiplication only\", \"Random search\"], \"correct\": 1, \"explanation\": \"Reduce to echelon form.\"}, {\"q\": \"A system with no solution is:\", \"options\": [\"Unique\", \"Inconsistent\", \"Infinite\", \"Trivial\"], \"correct\": 1, \"explanation\": \"The equations conflict.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L4_1",
+    "subject_id": "linear_algebra",
+    "level": 4,
+    "lesson_number": 1,
+    "title": "Determinants & Inverses",
+    "content": "KEY CONCEPTS: The determinant (det A) is a scalar that reveals key properties of a matrix: it measures how the transformation scales area/volume, and whether the matrix is invertible (det \u2260 0 means invertible). For 2\u00d72 [[a,b],[c,d]], det = ad \u2212 bc. The inverse matrix A\u207b\u00b9 undoes A's transformation (AA\u207b\u00b9 = I); it solves Ax = b via x = A\u207b\u00b9b. A determinant of zero means the transformation collapses space (loses a dimension) and cannot be reversed \u2014 the matrix is 'singular.' Determinants also appear in cross products, eigenvalues, and change of variables.\n\nWORKED EXAMPLE: For [[2,1],[3,4]], det = (2)(4)\u2212(1)(3) = 8\u22123 = 5. Since det \u2260 0, the matrix is invertible. If det were 0, the transformation would squash 2D space onto a line, destroying information irreversibly. The determinant is a single number that tells you whether a transformation can be undone \u2014 profoundly useful in solving systems and analyzing stability.\n\nPRACTICE: 1) Find the determinant of [[3,2],[1,4]]. 2) Explain what det=0 means geometrically. 3) State the condition for a matrix to be invertible.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"For [[2,1],[3,4]], the determinant is:\", \"options\": [\"5\", \"11\", \"8\", \"3\"], \"correct\": 0, \"explanation\": \"ad\\u2212bc = 8\\u22123 = 5.\"}, {\"q\": \"A matrix is invertible when det:\", \"options\": [\"=0\", \"\\u22600\", \"<0\", \">1\"], \"correct\": 1, \"explanation\": \"Nonzero determinant = invertible.\"}, {\"q\": \"det=0 means the transformation:\", \"options\": [\"Rotates\", \"Collapses space (loses a dimension)\", \"Scales up\", \"Does nothing\"], \"correct\": 1, \"explanation\": \"It's singular, non-invertible.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L5_1",
+    "subject_id": "linear_algebra",
+    "level": 5,
+    "lesson_number": 1,
+    "title": "Eigenvalues & Eigenvectors",
+    "content": "KEY CONCEPTS: An eigenvector of a matrix is a special vector whose direction is unchanged by the transformation \u2014 only its length scales, by a factor called the eigenvalue (Av = \u03bbv). Found by solving det(A \u2212 \u03bbI) = 0 (the characteristic equation). Eigenvalues reveal the 'natural axes' and scaling of a transformation. Diagonalization (A = PDP\u207b\u00b9) simplifies matrix powers and dynamics. Eigen-analysis is everywhere: Google's PageRank, principal component analysis (PCA) for dimensionality reduction, vibration modes, quantum mechanics, and the stability of dynamical systems.\n\nWORKED EXAMPLE: For a matrix that stretches x-axis by 3 and y-axis by 2, the eigenvectors are the x and y axes themselves (their directions don't rotate), with eigenvalues 3 and 2. PCA uses this: it finds the eigenvectors of a data covariance matrix to discover the directions of greatest variance, compressing high-dimensional data while preserving structure \u2014 the mathematical heart of dimensionality reduction.\n\nPRACTICE: 1) Explain what makes a vector an eigenvector. 2) State the equation Av = \u03bbv in words. 3) Name one application of eigenvalues (PCA, PageRank, etc.).",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"An eigenvector's direction under the transformation is:\", \"options\": [\"Rotated\", \"Unchanged (only scaled)\", \"Reversed always\", \"Zero\"], \"correct\": 1, \"explanation\": \"Av = \\u03bbv \\u2014 only length scales.\"}, {\"q\": \"The eigenvalue is the:\", \"options\": [\"Direction\", \"Scaling factor\", \"Determinant\", \"Angle\"], \"correct\": 1, \"explanation\": \"\\u03bb scales the eigenvector.\"}, {\"q\": \"PCA uses eigenvectors to:\", \"options\": [\"Add data\", \"Find directions of greatest variance (reduce dimensions)\", \"Delete data\", \"Sort numbers\"], \"correct\": 1, \"explanation\": \"Dimensionality reduction.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L6_1",
+    "subject_id": "linear_algebra",
+    "level": 6,
+    "lesson_number": 1,
+    "title": "Orthogonality & Projections",
+    "content": "KEY CONCEPTS: Orthogonal vectors are perpendicular (dot product = 0). Orthonormal sets (perpendicular and unit length) form ideal bases. Projection drops a vector onto a subspace \u2014 finding the closest point (the shadow). The Gram-Schmidt process builds orthonormal bases. Least squares uses projection to find the best-fit solution when Ax = b has no exact solution (overdetermined systems) \u2014 this is how linear regression works. Orthogonal matrices preserve lengths and angles (rotations/reflections). Orthogonality makes computation stable and decomposition clean.\n\nWORKED EXAMPLE: Fitting a line to scattered data points: no line passes through all of them (the system Ax=b is inconsistent). Least squares projects b onto the column space of A, finding the line minimizing the total squared distance to the points. This projection \u2014 pure linear algebra \u2014 is exactly the linear regression underlying much of statistics and machine learning. Orthogonality gives the 'best possible' answer when perfect is impossible.\n\nPRACTICE: 1) Determine if (1,2) and (2,\u22121) are orthogonal. 2) Explain what a projection finds. 3) Describe how least squares relates to fitting data.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"Orthogonal vectors have a dot product of:\", \"options\": [\"1\", \"0\", \"\\u22121\", \"infinity\"], \"correct\": 1, \"explanation\": \"Perpendicular = dot product 0.\"}, {\"q\": \"A projection finds:\", \"options\": [\"The farthest point\", \"The closest point in a subspace\", \"The determinant\", \"The inverse\"], \"correct\": 1, \"explanation\": \"The 'shadow' onto the subspace.\"}, {\"q\": \"Least squares uses projection to:\", \"options\": [\"Solve exactly\", \"Find the best-fit when no exact solution exists\", \"Delete data\", \"Rotate\"], \"correct\": 1, \"explanation\": \"It's how linear regression works.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L7_1",
+    "subject_id": "linear_algebra",
+    "level": 7,
+    "lesson_number": 1,
+    "title": "Grandmaster \u2014 Decompositions & Applications",
+    "content": "KEY CONCEPTS: Matrix decompositions factor a matrix into simpler pieces, revealing structure and enabling computation. LU decomposition (lower\u00d7upper) speeds solving systems. QR decomposition (orthogonal\u00d7upper-triangular) powers least squares and eigenvalue algorithms. The Singular Value Decomposition (SVD): A = U\u03a3V\u1d40 works for ANY matrix, revealing the fundamental geometry of a transformation \u2014 it underlies image compression, recommendation systems (Netflix), latent semantic analysis, and pseudo-inverses. These decompositions are how linear algebra is actually computed at scale in scientific computing and machine learning.\n\nWORKED EXAMPLE: SVD compresses an image by keeping only the largest singular values (the most 'important' components) and discarding small ones \u2014 reconstructing a near-identical image with a fraction of the data. The same math powers recommendation engines: decomposing a user-item matrix reveals latent factors (hidden preferences). SVD is arguably the most useful matrix decomposition in all of applied mathematics \u2014 one tool, countless applications.\n\nPRACTICE: 1) Explain what a matrix decomposition accomplishes. 2) State what makes SVD universally applicable. 3) Name two real applications of SVD (compression, recommendations, etc.).",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"SVD (A=U\\u03a3V\\u1d40) works for:\", \"options\": [\"Only square matrices\", \"ANY matrix\", \"Only 2x2\", \"Only invertible ones\"], \"correct\": 1, \"explanation\": \"Universally applicable.\"}, {\"q\": \"A matrix decomposition:\", \"options\": [\"Adds matrices\", \"Factors a matrix into simpler pieces\", \"Deletes rows\", \"Rotates\"], \"correct\": 1, \"explanation\": \"Reveals structure, enables computation.\"}, {\"q\": \"SVD powers:\", \"options\": [\"Only theory\", \"Image compression and recommendation systems\", \"Nothing practical\", \"Addition\"], \"correct\": 1, \"explanation\": \"Countless real applications.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  },
+  {
+    "id": "linear_algebra_L8_1",
+    "subject_id": "linear_algebra",
+    "level": 8,
+    "lesson_number": 1,
+    "title": "King Level \u2014 Linear Algebra as the Language of Modern Computation",
+    "content": "KEY CONCEPTS: At the highest level, linear algebra is revealed as the computational foundation of the modern world \u2014 the mathematics that makes machine learning, computer graphics, data science, quantum computing, and scientific simulation possible. Every neural network is layers of matrix multiplications and nonlinear functions; training is gradient-based optimization over these matrices. High-dimensional vector spaces represent words (embeddings), images (pixel matrices), and data (feature vectors). Abstract vector spaces generalize beyond arrows to functions, polynomials, and signals. The King-level truth: when computers 'understand' language or 'see' images, they are performing linear algebra \u2014 the deceptively simple operations of scaling, adding, and transforming vectors, executed at massive scale, are what create the appearance of intelligence. Mastering linear algebra is mastering the actual mechanism beneath the AI revolution.\n\nWORKED EXAMPLE: A large language model represents each word as a vector in a high-dimensional space (an embedding). Words with similar meanings have vectors pointing in similar directions (measurable by dot product). The model's 'reasoning' is a sequence of matrix transformations of these vectors. When it seems to understand language, it is multiplying matrices and computing dot products \u2014 the exact operations in this course, scaled to billions of parameters. Linear algebra is not a prerequisite to AI; it IS AI's substrate.\n\nPRACTICE: 1) Explain how words can be represented as vectors. 2) Describe why matrix multiplication is central to neural networks. 3) Reflect on how simple linear operations at scale produce complex behavior.",
+    "category": "MASTERY",
+    "quiz_json": "[{\"q\": \"When AI 'understands' language, it is performing:\", \"options\": [\"Magic\", \"Linear algebra (matrix operations on vectors)\", \"Random guessing\", \"Arithmetic only\"], \"correct\": 1, \"explanation\": \"Vectors scaled, added, transformed at scale.\"}, {\"q\": \"Words in an LLM are represented as:\", \"options\": [\"Pictures\", \"Vectors (embeddings)\", \"Sounds\", \"Primes\"], \"correct\": 1, \"explanation\": \"Similar meanings = similar directions.\"}, {\"q\": \"Linear algebra is best described as AI's:\", \"options\": [\"Prerequisite only\", \"Actual substrate/mechanism\", \"Competitor\", \"Opposite\"], \"correct\": 1, \"explanation\": \"It IS the mechanism beneath AI.\"}]",
+    "dna16": "0701201800000000",
+    "created_at": ""
+  }
+]
