@@ -1,0 +1,78 @@
+{
+  "subject_id": "sociology",
+  "subject_name": "Sociology",
+  "category": "SOCIAL_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Sociology",
+          "content": "# Introduction to Sociology\n\n## Learning Objectives\n1. Define sociology and its scope as a social science\n2. Identify the major theoretical perspectives\n3. Understand socialization and social institutions\n4. Distinguish between culture, society, and social structure\n5. Apply the sociological imagination to everyday life\n\n## What is Sociology?\n\nSociology is the scientific study of society, social relationships, and social institutions. It examines how human behavior is shaped by group life and how groups and institutions are shaped by individuals.\n\nC. Wright Mills coined the term **sociological imagination** \u2014 the ability to see the connection between personal troubles and broader social issues. Unemployment isn't just personal failure; it reflects economic structures, automation, globalization.\n\n## Major Theoretical Perspectives\n\n### Functionalism (Durkheim)\nSociety is a system of interconnected parts that work together to maintain stability. Each institution (family, education, religion) serves a function. Dysfunction in one part affects the whole.\n\n### Conflict Theory (Marx)\nSociety is characterized by inequality and competition for resources. The powerful (bourgeoisie) exploit the powerless (proletariat). Social change comes through conflict.\n\n### Symbolic Interactionism (Mead, Blumer)\nFocuses on everyday interactions and the meanings people attach to symbols, gestures, and language. Reality is socially constructed through shared meanings.\n\n### Feminist Theory\nExamines gender inequality and how social structures perpetuate patriarchy. Analyzes how gender intersects with race, class, and sexuality.\n\n## Culture and Society\n\n**Culture**: Shared beliefs, values, norms, and material objects of a group\n- Material culture: Physical objects (technology, buildings)\n- Non-material culture: Ideas, beliefs, values, norms\n\n**Social Institutions**: Organized patterns that meet society's needs \u2014 family, education, religion, government, economy, healthcare, media\n\n**Socialization**: The lifelong process of learning norms, values, and behaviors. Primary agents: family, peers, school, media, religion.\n\n## Social Stratification\nThe hierarchical arrangement of people in society based on wealth, power, and prestige. Every society has some form of stratification.\n\n## Practice Problems\n1. Apply the sociological imagination: Why might a college student be in debt?\n   **Answer**: Personal choice (spent too much) AND structural factors (rising tuition, stagnant wages, predatory lending, reduced state funding)\n\n2. Which perspective would analyze how schools serve to sort students into social classes?\n   **Answer**: Conflict theory \u2014 education reproduces existing inequalities\n\n3. Give an example of non-material culture.\n   **Answer**: Democracy as a value, the norm of shaking hands, belief in individual freedom\n\n## Key Takeaways\n- Sociology studies how social structures shape individual behavior and vice versa\n- Three main perspectives: functionalism, conflict theory, symbolic interactionism\n- The sociological imagination connects personal troubles to social structures\n- Culture, socialization, and institutions are central sociological concepts",
+          "quiz": [
+            {
+              "question": "What is the main focus of Sociology?",
+              "options": [
+                "Study of sociology",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of sociology",
+              "explanation": "Sociology encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Sociology?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Sociology has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Sociology lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
