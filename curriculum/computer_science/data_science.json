@@ -1,0 +1,78 @@
+{
+  "subject_id": "data_science",
+  "subject_name": "Data Science",
+  "category": "COMPUTER_SCIENCE",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Data Science",
+          "content": "# Introduction to Data Science\n\n## Learning Objectives\n1. Define data science and its interdisciplinary nature\n2. Understand the data science workflow\n3. Distinguish between structured and unstructured data\n4. Identify common tools and technologies\n5. Recognize ethical considerations in data science\n\n## What is Data Science?\n\nData science is the interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines statistics, computer science, and domain expertise.\n\n### The Data Science Venn Diagram\n- **Statistics/Math**: Probability, linear algebra, calculus\n- **Computer Science**: Programming, databases, algorithms\n- **Domain Knowledge**: Business understanding, industry expertise\n\n## The Data Science Workflow\n1. **Define the problem**: What question are we answering?\n2. **Collect data**: Gather from databases, APIs, web scraping, surveys\n3. **Clean data**: Handle missing values, outliers, inconsistencies (80% of the work!)\n4. **Explore data (EDA)**: Visualize patterns, correlations, distributions\n5. **Model**: Apply machine learning or statistical models\n6. **Evaluate**: Test model accuracy and performance\n7. **Deploy**: Put the model into production\n8. **Monitor**: Track performance and retrain as needed\n\n## Types of Data\n### Structured Data\n- Organized in rows and columns (spreadsheets, SQL databases)\n- Easy to search and analyze\n- Examples: Sales records, customer databases, financial reports\n\n### Unstructured Data\n- No predefined format\n- Harder to analyze but contains rich information\n- Examples: Emails, social media posts, images, videos, audio\n\n### Semi-structured\n- Has some organization but not rigid\n- Examples: JSON, XML, HTML, log files\n\n## Common Tools\n- **Python**: Most popular (pandas, numpy, scikit-learn, matplotlib)\n- **R**: Statistical analysis and visualization\n- **SQL**: Database querying\n- **Jupyter Notebooks**: Interactive coding environment\n- **Tableau/Power BI**: Data visualization\n- **TensorFlow/PyTorch**: Deep learning\n\n## Ethics in Data Science\n- **Privacy**: Protecting personal information\n- **Bias**: Algorithms can perpetuate or amplify existing biases\n- **Transparency**: Models should be explainable\n- **Consent**: Data collection requires informed consent\n\n## Practice Problems\n1. What percentage of a data scientist's time is typically spent cleaning data?\n   **Answer**: About 80%\n2. Is a customer review structured or unstructured data?\n   **Answer**: Unstructured (free-form text)\n3. Why is domain knowledge important in data science?\n   **Answer**: Without understanding the business context, you can't ask the right questions or interpret results correctly\n\n## Key Takeaways\n- Data science combines statistics, CS, and domain expertise\n- The workflow: define \u2192 collect \u2192 clean \u2192 explore \u2192 model \u2192 evaluate \u2192 deploy\n- Data cleaning consumes most of the time\n- Ethical considerations (bias, privacy) are essential",
+          "quiz": [
+            {
+              "question": "What is the main focus of Data Science?",
+              "options": [
+                "Study of data science",
+                "Only theory",
+                "Random topics",
+                "None"
+              ],
+              "correct": "Study of data science",
+              "explanation": "Data Science is the systematic study of its domain"
+            },
+            {
+              "question": "True or False: This subject has practical applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Never"
+              ],
+              "correct": "True",
+              "explanation": "Data Science has extensive real-world applications"
+            },
+            {
+              "question": "What level is this lesson?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 = Beginner (AP/GCSE + 10%)"
+            },
+            {
+              "question": "How many mastery levels does SKA offer?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 levels: Beginner through Grandmaster"
+            },
+            {
+              "question": "What does the quiz at the end of each lesson test?",
+              "options": [
+                "Memory only",
+                "Understanding of key concepts",
+                "Speed reading",
+                "Nothing"
+              ],
+              "correct": "Understanding of key concepts",
+              "explanation": "Quizzes test comprehension of the lesson's core concepts"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
