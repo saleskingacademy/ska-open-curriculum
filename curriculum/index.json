@@ -1,7 +1,7 @@
 {
   "institution": "Sales King Academy",
   "version": "1.0",
-  "total_subjects": 968,
+  "total_subjects": 969,
   "total_levels": 8,
   "lessons_per_level": 10,
   "total_lessons": 77440,
@@ -116,7 +116,7 @@
       ]
     },
     "business": {
-      "count": 155,
+      "count": 156,
       "subjects": [
         "accounting",
         "advanced_negotiation",
@@ -272,7 +272,8 @@
         "corporate_strategy",
         "business_intelligence",
         "product_management",
-        "supply_chain_strategy"
+        "supply_chain_strategy",
+        "ska_business_ai_autonomous_operations"
       ]
     },
     "general": {
