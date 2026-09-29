@@ -1,0 +1,35 @@
+name: Build symbols + SAT training pairs
+# Free compute (public repo). Rebuilds hierarchical Symbol256 tables and the
+# SAT-selected question/answer pairs whenever the material or the builder changes,
+# weekly, or on demand. Symbols are committed; pairs go to the `training-data` release.
+on:
+  push:
+    branches: [main]
+    paths: ["knowledge/**", "tools/sat_pairs.js", "tools/sym256.js"]
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: build-training, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Build
+        run: node tools/sat_pairs.js | tee out/stats.json
+      - name: Commit symbol tables if changed
+        run: |
+          git config user.name "ska-builder"; git config user.email "noreply@saleskingacademy.com"
+          git add symbols
+          git diff --cached --quiet || { git commit -qm "symbols: rebuild ($(date -u +%F))"; git push -q; }
+      - name: Publish pairs to the training-data release
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          gzip -9 -k out/pairs.jsonl
+          gh release view training-data >/dev/null 2>&1 || gh release create training-data --title "SAT training pairs" --notes "Rebuilt automatically by build-training.yml. CC BY-SA 4.0, derived from knowledge/."
+          gh release upload training-data out/pairs.jsonl.gz out/stats.json --clobber
