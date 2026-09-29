@@ -1,0 +1,22 @@
+# SKA Exclusive Subject: Business, AI & Autonomous Operations
+
+This is a Sales King Academy exclusive interdisciplinary subject built from the combined scope of the SKA business/AI/autonomous-operations book program. It is intentionally larger than a conventional business book: it functions as a structured academic/professional discipline with eight mastery levels, application work, assessments, and future expansion into specialized tracks.
+
+## Eight-level progression
+
+1. Foundations
+2. Business Strategy
+3. Sales and Revenue
+4. Marketing, Product, and Customer
+5. Finance, Operations, and Governance
+6. Technology, AI, and Automation
+7. Autonomous Operations
+8. Research, Design, and Mastery
+
+This corpus is original SKA instructional material. It teaches established business, technical, and academic concepts without claiming ownership of underlying facts, theories, or methods.
+
+## Scope expansion
+
+The subject is designed to absorb and extend the material planned for the SKA business/AI book projects. The books become source architecture and intellectual scope; the curriculum turns that scope into sequenced lessons, practice, assessment, projects, specialization, and research-level extensions.
+
+Current release: 80 lessons. This is the first structured release, not the final size. Future releases can expand each level into multiple units and substantially increase instructional depth.
