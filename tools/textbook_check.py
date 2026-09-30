@@ -29,6 +29,12 @@ def score_chapter(text):
     w = {"words": 40, "objectives": 10, "examples": 15, "case_studies": 10, "review_questions": 15, "key_terms": 10}
     m["score"] = round(sum(min(1.0, m[k] / CHAPTER[k]) * w[k] for k in w), 1)
     m["chapter_complete"] = all(m[k] >= CHAPTER[k] for k in CHAPTER)
+    # Sales King Academy program: every chapter must also carry an SKA Lab (done on the live
+    # platform) and an SKA Field Case (from SKA's real operations). These are what make it exclusive.
+    if re.search(r"(?m)^program: sales_king_academy", text):
+        m["ska_lab"] = 1 if re.search(r"(?im)^#{2,4} SKA Lab", t) else 0
+        m["ska_field_case"] = 1 if re.search(r"(?im)^#{2,4} SKA Field Case", t) else 0
+        m["chapter_complete"] = m["chapter_complete"] and m["ska_lab"] == 1 and m["ska_field_case"] == 1
     return m
 
 if __name__ == "__main__":

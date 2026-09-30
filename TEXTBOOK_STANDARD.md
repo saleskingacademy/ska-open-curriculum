@@ -24,7 +24,15 @@ each subject is a full chapter. Per chapter:
 | Review questions (answers in the book's answer key) | 8 |
 | Key terms | 1 block |
 
-Per book: a glossary and an answer key. Stand-alone subject standard (for reference):
+Per book: a glossary and an answer key.
+
+**Sales King Academy program (exclusive requirements).** Every chapter also has:
+- **SKA Lab**: a hands-on exercise done on the live saleskingacademy.com platform (Agent Builder,
+  Automations, CRM, vault connections, chat source badges), not a simulation.
+- **SKA Field Case**: a case from Sales King Academy's own operations, with real systems, decisions
+  and measured results. Figures only the founder holds are left as marked blanks, never invented.
+- Header `generated_by` records the writing model. Chapters written with a model whose terms restrict
+  training other models carry `train_ska_own: false` and are kept out of ska_own training data. Stand-alone subject standard (for reference):
 | Element | Minimum |
 |---|---|
 | Words | 30,000 |
