@@ -2,7 +2,9 @@
 
 Generated 2026-09-29. 1117 subjects. Passing the standard today: 0. Average score: 15.1/100.
 
-Tiers: **1** flagship and revenue subjects (written first), **2** covered by a verified open textbook (import), **3** core academic (original, later open-textbook candidates), **4** specialist and vocational.
+All subjects are written as **original SKA material equivalent to a textbook**; reference textbooks guide scope and level only (see TEXTBOOK_STANDARD.md).
+
+Tiers: **1** flagship and revenue subjects (written first), **2** core subjects with a verified reference textbook for scope, **3** core academic (original, later open-textbook candidates), **4** specialist and vocational.
 
 | Category | Tier | Subjects | Avg score | Words still needed |
 |---|---|---|---|---|
