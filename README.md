@@ -34,14 +34,17 @@ This repository is being populated from the educational portions of the private 
 
 ## Knowledge base (`knowledge/`)
 
-1,101 subjects of teaching material across 18 programs, exported from the Sales King Academy
-knowledge base on 2026-09-28. One Markdown file per subject: `knowledge/<program>/<subject>.md`.
+The knowledge corpus currently contains 1,118 indexed subject records across the public program tree. The textbook map currently evaluates 1,117 subject records; legacy curriculum identifiers remain separately tracked and are not treated as proof that every calculated lesson target is populated. One Markdown file per subject: `knowledge/<program>/<subject>.md`.
 Each file's header carries the subject's DNA-16, L4 address and Chain256 anchor, so every
 subject has a permanent address. `knowledge/index.json` lists every subject with its path,
 sections, size and SHA-256; `knowledge/paths.json` is the slim key-to-path map the website uses.
 
 Cleaning applied on export: exact duplicate paragraphs removed, and corrupted model output
 (runs of stray quote characters) dropped. Nothing else was rewritten.
+
+## Current depth
+
+The public corpus is intentionally being expanded in two dimensions: broad subject coverage and deep textbook-quality development. The repository now contains a 12-chapter textbook standard, textbook scoring, originality screening, structured lesson datasets, study packs, and the SKA-exclusive business/AI/autonomous-operations sequence. A subject count or calculated lesson target is not treated as a completed textbook or populated lesson set.
 
 ## Branches
 
