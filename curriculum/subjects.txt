@@ -966,3 +966,4 @@ xenobiology
 youth_sports_development
 zero_knowledge_proofs
 zoology
+symbolic_representation_and_conversion
