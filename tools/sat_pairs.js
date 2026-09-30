@@ -81,6 +81,7 @@ for (const d of docs) {
   S.sig = maxSig(S.sections.map(c => c.sig)); vocab.push({ id: S.id, key, title: d.fm.title, program: prog }); st.subjects++;
   // ---- SAT pairs: constraints = {subject, dimension k, polarity, >=2 of 3 key terms}; answer must be unique ----
   TITLE_W = new Set(words(d.fm.title || "")); SUBJ_TF = new Map(); sents.forEach(c => { const w = words(c.text); w.forEach((x, i) => { SUBJ_TF.set(x, (SUBJ_TF.get(x) || 0) + 1); if (w[i + 1]) SUBJ_TF.set(x + " " + w[i + 1], (SUBJ_TF.get(x + " " + w[i + 1]) || 0) + 1); }); });
+  const subjPairs = [];
   const kw = x => [...new Set(words(x).filter(w => w.length > 3 && !STOP.has(w)))].sort((a, b) => idf(b) - idf(a)).slice(0, 3);
   sents.forEach((a, ai) => {
     if (a.text.indexOf("?") >= 0) { st.question_sentences = (st.question_sentences || 0) + 1; return; }
@@ -102,8 +103,39 @@ for (const d of docs) {
     pairsOut.write(JSON.stringify({ id: sid("Q", S.id + a.P + ai + "|" + di), subject: key, S: S.id, C: a.sec.id, P: a.P, dim: pname, q, context: ctx, a: a.text,
       constraints: { subject: key, dimension: pname, key_terms: keys, min_terms: 2, unique: true, candidates: sat.length }, distractor: !!distractor }) + "\n"); st.pairs++;
     st.dims[pname] = (st.dims[pname] || 0) + 1;
+    subjPairs.push({ q: q, a: a.text, dim: pname, keys: keys });
     });
   });
+  // ---- interactive study pack: flashcards, fill-in-the-blank, matching (all from this subject's own text) ----
+  (function () {
+    const pick = (arr, n, salt) => arr.map(x => [sha(salt + JSON.stringify(x)), x]).sort((u, v) => u[0] < v[0] ? -1 : 1).slice(0, n).map(z => z[1]);
+    const byDim = {}; subjPairs.forEach(x => { (byDim[x.dim] = byDim[x.dim] || []).push(x); });
+    const cards = []; const dimsOrder = Object.keys(byDim).sort();
+    for (let r = 0; cards.length < 30 && r < 60; r++) dimsOrder.forEach(dk => { const x = byDim[dk][r]; if (x && cards.length < 30) cards.push({ q: x.q, a: x.a, dim: dk }); });
+    const concept = t => t.length > 4 && (SUBJ_TF.get(t) || 0) >= 3 && !/(ing|ed|ly|ize|ise|ate)$/.test(t);
+    const pool = [...new Set(subjPairs.flatMap(x => x.keys))].filter(concept);
+    const cloze = [];
+    for (const x of pick(subjPairs, 80, "cz")) {
+      if (cloze.length >= 20) break;
+      const k = x.keys.find(concept); if (!k) continue; const re = new RegExp("\\b" + k.replace(/[^a-z0-9]/g, "") + "\\b", "i");
+      if (!re.test(x.a)) continue;
+      const others = pool.filter(t => t !== k && t.length > 3).slice(0);
+      if (others.length < 3) continue;
+      const wrong = pick(others, 3, x.a);
+      cloze.push({ text: x.a.replace(re, "_____"), answer: k, choices: pick([k].concat(wrong), 4, "o" + x.a) });
+    }
+    const match = []; const seenT = new Set();
+    for (const c of sents) {
+      if (match.length >= 8) break;
+      const m = c.text.match(/^(?:The |A |An )?([A-Za-z][\w\s\-()]{2,40}?) (?:is|are) (?:an? |the )(.{20,160}?)[.;]/);
+      if (!m) continue; const term = m[1].trim(); if (seenT.has(term.toLowerCase()) || term.split(" ").length > 5) continue;
+      seenT.add(term.toLowerCase()); match.push({ term: term, meaning: m[2].trim() });
+    }
+    const pack = { v: 1, subject: key, title: d.fm.title, S: S.id, flashcards: cards, cloze: cloze, matching: match, license: "CC-BY-SA-4.0" };
+    fs.mkdirSync(path.join(ROOT, "study"), { recursive: true });
+    fs.writeFileSync(path.join(ROOT, "study", key + ".json"), JSON.stringify(pack));
+    st.study_cards = (st.study_cards || 0) + cards.length; st.study_cloze = (st.study_cloze || 0) + cloze.length; st.study_match = (st.study_match || 0) + match.length;
+  })();
   const outp = path.join(ROOT, "symbols", prog, key + ".json"); fs.mkdirSync(path.dirname(outp), { recursive: true });
   fs.writeFileSync(outp, JSON.stringify(S));
 }
