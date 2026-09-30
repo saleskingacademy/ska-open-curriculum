@@ -11,7 +11,20 @@ augmented with AI. SKA does not import or republish other textbooks.
 - Every topic on the subject's scope checklist is taught, with the concepts, methods and applications
   a student at that level is expected to master.
 
-## 2. Structure (checked by `tools/textbook_check.py`)
+## 2. Structure: 107 textbooks, each subject is one chapter (checked by `tools/textbook_check.py`)
+`map/textbooks.json` groups all 1,117 subjects into 107 original SKA textbooks. Customers still buy by subject;
+each subject is a full chapter. Per chapter:
+
+| Element | Minimum |
+|---|---|
+| Words | 8,000 |
+| Learning objectives | 1 block |
+| Worked examples | 2 |
+| Case study | 1 |
+| Review questions (answers in the book's answer key) | 8 |
+| Key terms | 1 block |
+
+Per book: a glossary and an answer key. Stand-alone subject standard (for reference):
 | Element | Minimum |
 |---|---|
 | Words | 30,000 |
