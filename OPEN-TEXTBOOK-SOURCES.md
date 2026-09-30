@@ -9,4 +9,4 @@ Required notice for imported material: "Original content from OpenStax, licensed
 CC BY 4.0. Access for free at openstax.org." OpenStax is a trademark of Rice
 University and does not endorse this project.
 
-This repository as a whole is licensed CC BY-SA 4.0 (see LICENSE).
+This repository is owned by Sales King Academy LLC, all rights reserved (see LICENSE). Open textbooks listed here are references for scope and level only; nothing from them is copied.

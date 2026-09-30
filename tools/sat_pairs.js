@@ -131,7 +131,7 @@ for (const d of docs) {
       if (!m) continue; const term = m[1].trim(); if (seenT.has(term.toLowerCase()) || term.split(" ").length > 5) continue;
       seenT.add(term.toLowerCase()); match.push({ term: term, meaning: m[2].trim() });
     }
-    const pack = { v: 1, subject: key, title: d.fm.title, S: S.id, flashcards: cards, cloze: cloze, matching: match, license: "CC-BY-SA-4.0" };
+    const pack = { v: 1, subject: key, title: d.fm.title, S: S.id, flashcards: cards, cloze: cloze, matching: match, license: "All-Rights-Reserved (Sales King Academy LLC)" };
     fs.mkdirSync(path.join(ROOT, "study"), { recursive: true });
     fs.writeFileSync(path.join(ROOT, "study", key + ".json"), JSON.stringify(pack));
     st.study_cards = (st.study_cards || 0) + cards.length; st.study_cloze = (st.study_cloze || 0) + cloze.length; st.study_match = (st.study_match || 0) + match.length;

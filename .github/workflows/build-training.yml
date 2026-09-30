@@ -31,5 +31,5 @@ jobs:
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
           gzip -9 -k out/pairs.jsonl
-          gh release view training-data >/dev/null 2>&1 || gh release create training-data --title "SAT training pairs" --notes "Rebuilt automatically by build-training.yml. CC BY-SA 4.0, derived from knowledge/."
+          gh release view training-data >/dev/null 2>&1 || gh release create training-data --title "SAT training pairs" --notes "Rebuilt automatically by build-training.yml. All rights reserved, Sales King Academy LLC, derived from knowledge/."
           gh release upload training-data out/pairs.jsonl.gz out/stats.json --clobber

@@ -54,7 +54,7 @@ The public corpus is intentionally being expanded in two dimensions: broad subje
 
 ## Access
 
-The text here is openly licensed (CC BY-SA 4.0) and anyone can read it on GitHub.
+The material here is owned by Sales King Academy LLC, all rights reserved (see LICENSE). It is public to read, not to copy or resell; full access is sold at saleskingacademy.com.
 The guided courses at [saleskingacademy.com](https://saleskingacademy.com) — lessons delivered and
 explained by the SKA agents, quizzes, level progression, progress tracking and certificates —
 are paid, in Beats.

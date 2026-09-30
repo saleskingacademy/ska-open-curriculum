@@ -7,7 +7,7 @@ dna16: ""
 l4_address: ""
 chain256_anchor: ""
 updated_at: "2026-09-30"
-license: CC-BY-SA-4.0
+license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy program - AI Technology & Integration (original)
 ---
 

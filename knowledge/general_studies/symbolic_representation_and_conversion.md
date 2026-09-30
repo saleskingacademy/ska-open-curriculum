@@ -5,7 +5,7 @@ program: general_studies
 course_level: 6
 dna16: ""
 l4_address: ""
-license: CC-BY-SA-4.0
+license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy curriculum analysis
 ---
 
