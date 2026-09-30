@@ -9,7 +9,7 @@ chain256_anchor: ""
 updated_at: "2026-09-30"
 chapter: "Sales King Academy, Volume 1, Chapter 1"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
-train_ska_own: false
+training_use: "specialized SKA models (business, sales, marketing education); not for general-purpose models competing with the writing model"
 license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy program - AI Technology & Integration (original)
 ---

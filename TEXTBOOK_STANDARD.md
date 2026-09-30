@@ -31,8 +31,10 @@ Per book: a glossary and an answer key.
   Automations, CRM, vault connections, chat source badges), not a simulation.
 - **SKA Field Case**: a case from Sales King Academy's own operations, with real systems, decisions
   and measured results. Figures only the founder holds are left as marked blanks, never invented.
-- Header `generated_by` records the writing model. Chapters written with a model whose terms restrict
-  training other models carry `train_ska_own: false` and are kept out of ska_own training data. Stand-alone subject standard (for reference):
+- Header `generated_by` records the writing model and `training_use` records how the text may be used
+  for training. Text written with Claude may train SKA's specialized models (business, sales and marketing
+  education and tools); under Anthropic's terms it may not train a general-purpose model that competes
+  with Anthropic's own. Stand-alone subject standard (for reference):
 | Element | Minimum |
 |---|---|
 | Words | 30,000 |
@@ -55,7 +57,8 @@ Per book: a glossary and an answer key.
 - Licences: material under non-commercial or no-derivatives licences is read for learning only.
   Nothing from any source is reproduced beyond what its licence allows.
 - AI providers: text written with an outside model follows that provider's terms. If those terms
-  restrict using outputs to train other models, that text is excluded from ska_own training data.
+  restrict using outputs to train competing models, the header's `training_use` records the limit and the
+  training pipeline follows it.
   Each chapter records which model wrote or assisted it (`generated_by` in its header).
 - Every chapter lists its references for further reading.
 
