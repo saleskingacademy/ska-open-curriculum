@@ -116,3 +116,557 @@ Practitioners often make mistakes in marketing due to misconceptions or oversimp
 At the graduate level, marketing extends into specialized areas such as neuromarketing, which applies neuroscientific principles to understand consumer behavior, and digital marketing analytics, which leverages data science and machine learning to optimize marketing strategies. Open questions in the field include the impact of artificial intelligence on marketing practices, the role of social media in shaping consumer attitudes, and the effectiveness of influencer marketing. The field is moving towards a more integrated approach, combining traditional marketing principles with emerging technologies like virtual and augmented reality, and the Internet of Things (IoT). Additionally, there is a growing emphasis on sustainability and social responsibility in marketing, with companies expected to prioritize environmental and social concerns in their marketing strategies. Graduate-level marketing education also explores the intersection of marketing with other business functions, such as finance and operations, to develop a more holistic understanding of the firm's value creation processes.
 
 At the graduate level, marketing extends into specialized areas such as marketing analytics, digital marketing, and international marketing. Marketing analytics involves the use of statistical methods and data mining techniques to analyze customer behavior and optimize marketing strategies. Digital marketing encompasses the use of digital channels such as social media, email, and search engines to reach customers. International marketing requires an understanding of cultural and economic differences across countries and the ability to adapt marketing strategies accordingly. Open questions in the field of marketing include the impact of artificial intelligence on customer behavior, the role of social responsibility in marketing, and the effectiveness of influencer marketing. The field is moving towards a greater emphasis on data-driven decision making, personalized marketing, and sustainability. Graduate-level marketing students are expected to critically evaluate marketing theories and practices, and to develop innovative solutions to complex marketing problems. They must also stay up-to-date with the latest marketing trends and technologies, such as blockchain and virtual reality, and consider their potential applications in marketing.
+
+
+## Deep Curriculum Expansion
+
+This expansion adds a 12-chapter instructional sequence and is designed to continue toward the full SKA textbook standard.
+
+## 1. Marketing as Demand Engineering
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Marketing creates, shapes, captures, and measures demand. Start with a customer problem and market definition, then choose positioning, message, offer, channel, and measurement. Separate awareness from qualified demand and demand from revenue. A large audience is not automatically a valuable market.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 2. Market Research
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Research combines qualitative and quantitative evidence. Interviews reveal language, motives, constraints, and context; behavioral and market data reveal scale and patterns. Triangulate sources and distinguish observed behavior from stated preference. Research should change a decision, not merely produce a report.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 3. Segmentation and Positioning
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Segmentation divides a market into groups that differ in needs, behavior, economics, or response. Positioning defines the frame through which a target buyer understands an offer relative to alternatives. Good segmentation is actionable: the organization can change its message, product, channel, or economics based on the distinction.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 4. Brand and Messaging
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Brand is a set of associations and expectations accumulated through repeated experiences. Messaging translates positioning into language appropriate to a specific audience and stage. Strong messaging is specific about problem, audience, mechanism, and outcome while avoiding claims that cannot be supported.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 5. Content Strategy
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Content should serve a job: educate, establish credibility, answer objections, create demand, support evaluation, or help customers succeed. Build content around audience questions and decision stages. Measure useful outcomes rather than publishing volume alone. Repurposing is efficient only when the adapted content remains relevant to its context.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 6. Digital Distribution
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Digital distribution includes search, social, email, communities, partnerships, advertising, and direct channels. Channel selection should reflect audience behavior, economics, controllability, and measurement quality. Own durable assets such as customer relationships and first-party data rather than depending entirely on rented reach.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 7. Demand Generation
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Demand generation connects audience, message, offer, channel, conversion mechanism, and follow-up. Define the desired action at each stage and measure movement between stages. A campaign should have an explicit hypothesis and a reason the audience should act now rather than merely consume content.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 8. Marketing Analytics
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Marketing analytics translates activity into decisions. Track acquisition cost, conversion rates, contribution margin, retention, cohort behavior, and incremental impact where possible. Avoid vanity metrics that look large but do not change economic outcomes. Measurement definitions must be consistent across systems.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 9. Experimentation
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Marketing experiments test specific hypotheses under controlled conditions. Define the treatment, control, primary metric, minimum detectable effect when appropriate, sample or duration constraints, and stopping rules. Statistical significance does not automatically imply business significance; consider effect size, cost, and durability.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 10. Lifecycle and Retention
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+Marketing continues after acquisition. Onboarding, education, usage prompts, renewal communication, and expansion campaigns can influence customer outcomes. Lifecycle design should respond to customer state rather than sending the same message to everyone. Retention is both a customer-value issue and an economic variable.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 11. AI-Augmented Marketing
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+AI can accelerate research, content transformation, personalization, classification, experimentation, and workflow execution. It can also amplify factual errors, bias, privacy problems, and generic messaging. Use retrieval and source controls for factual claims, human review for consequential communication, and measurement to verify that AI changes outcomes.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## 12. Marketing Strategy and Growth
+
+### Learning Objectives
+- Explain the central concepts and vocabulary.
+- Apply the framework to a concrete business situation.
+- Identify evidence, assumptions, risks, and tradeoffs.
+
+A mature marketing strategy connects market structure, customer economics, positioning, channels, product, sales, retention, and capital allocation. Growth is constrained by the weakest part of the system. Sustainable scaling requires repeatable acquisition, acceptable unit economics, operational capacity, and a feedback loop that improves the system.
+
+### Worked Example
+A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+
+### Practice
+1. Apply the framework to a business you understand.
+2. Identify three assumptions and state how each could be tested.
+3. Define one outcome metric and one guardrail metric.
+4. Identify a likely failure mode and a control.
+
+### Case Study
+A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+
+### Review Questions
+1. What is the central idea of this chapter?
+2. How does it affect a real business decision?
+3. What is a common failure mode?
+4. What evidence would demonstrate mastery?
+
+## Worked Example Bank
+
+### Worked Example 1
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 2
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 3
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 4
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 5
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 6
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 7
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 8
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 9
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 10
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 11
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 12
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 13
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 14
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 15
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 16
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 17
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 18
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 19
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 20
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 21
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 22
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 23
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+### Worked Example 24
+Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+
+## Case Study Bank
+
+## Case Study 1
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 2
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 3
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 4
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 5
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 6
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 7
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 8
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 9
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 10
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 11
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Case Study 12
+A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
+
+## Review Question Bank
+
+1. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+2. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+3. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+4. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+5. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+6. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+7. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+8. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+9. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+10. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+11. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+12. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+13. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+14. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+15. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+16. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+17. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+18. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+19. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+20. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+21. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+22. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+23. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+24. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+25. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+26. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+27. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+28. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+29. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+30. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+31. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+32. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+33. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+34. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+35. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+36. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+37. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+38. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+39. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+40. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+41. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+42. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+43. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+44. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+45. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+46. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+47. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+48. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+49. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+50. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+51. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+52. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+53. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+54. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+55. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+56. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+57. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+58. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+59. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+60. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+61. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+62. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+63. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+64. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+65. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+66. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+67. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+68. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+69. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+70. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+71. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+72. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+73. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+74. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+75. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+76. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+77. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+78. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+79. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+80. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+81. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+82. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+83. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+84. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+85. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+86. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+87. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+88. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+89. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+90. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+91. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+92. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+93. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+94. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+95. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+96. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+
+## Glossary
+
+**ICP:** A defined profile of customers for whom a solution is expected to fit and create value.
+
+**Conversion rate:** The proportion of a defined population that completes a specified transition or action.
+
+**Pipeline:** A structured set of commercial opportunities at defined stages.
+
+**Positioning:** The deliberate framing of an offer relative to a target audience and alternatives.
+
+**Retention:** Continued customer relationship or usage over a defined period.
+
+**Unit economics:** Economics measured at the level of a meaningful business unit such as a customer, transaction, or account.
