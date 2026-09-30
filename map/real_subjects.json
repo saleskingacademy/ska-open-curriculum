@@ -1,0 +1,5551 @@
+{
+"version": 1,
+"basis": "UNESCO ISCED-F 2013 broad fields; one real subject = one SKA textbook (min 120,000 words, 12+ chapters); existing topics become chapters",
+"books": [
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "AI Technology and Integration for Business",
+"id": "ai_technology_and_integration_for_business",
+"topics_as_chapters": [
+"ai_foundations_for_business",
+"ai_tools_and_platforms",
+"prompt_design_for_revenue_teams",
+"ai_data_privacy_and_governance",
+"ai_sales_workflow_integration",
+"ai_crm_integration",
+"ai_sales_agents_deployment",
+"ai_content_marketing_systems",
+"ai_marketing_automation_integration",
+"ai_personalization_and_segmentation",
+"ai_business_process_automation",
+"ai_integration_architecture",
+"ai_roi_and_change_management",
+"blockchain_fundamentals_for_business",
+"crypto_payments_integration",
+"crypto_compliance_and_risk",
+"ai_for_crypto_market_analysis"
+],
+"chapters_target": 17,
+"words_now": 22468,
+"words_target": 136000,
+"words_needed": 113532
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "AI-Powered Selling",
+"id": "ai_powered_selling",
+"topics_as_chapters": [
+"ai_agent_orchestration_sales",
+"ai_assisted_prospecting",
+"ai_call_preparation",
+"ai_ethics_in_selling",
+"ai_objection_simulation",
+"ai_pipeline_forecasting",
+"ai_proposal_generation",
+"ai_sales_research",
+"human_ai_handoff",
+"prompt_engineering_for_sales"
+],
+"chapters_target": 12,
+"words_now": 41258,
+"words_target": 120000,
+"words_needed": 78742
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Professional Selling",
+"id": "professional_selling",
+"topics_as_chapters": [
+"sales",
+"consultative_selling",
+"closing_techniques",
+"objection_handling",
+"discovery_questioning",
+"rapport_building",
+"value_articulation",
+"sales_demo_mastery",
+"sales_scripting",
+"tonality_and_voice",
+"followup_systems",
+"enterprise_b2b_selling",
+"multithreading_deals",
+"procurement_navigation",
+"deal_qualification_frameworks",
+"upsell_cross_sell",
+"referral_generation"
+],
+"chapters_target": 17,
+"words_now": 73619,
+"words_target": 136000,
+"words_needed": 62381
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Sales Prospecting and Outbound",
+"id": "sales_prospecting_and_outbound",
+"topics_as_chapters": [
+"outbound_prospecting",
+"outbound_sequencing",
+"prospecting_systems",
+"cold_calling_mastery",
+"cold_email_deliverability",
+"linkedin_prospecting",
+"list_building",
+"lead_enrichment",
+"intent_data_signals",
+"icp_definition",
+"sales_cadence_design"
+],
+"chapters_target": 12,
+"words_now": 42437,
+"words_target": 120000,
+"words_needed": 77563
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Sales Management and Revenue Operations",
+"id": "sales_management_and_revenue_operations",
+"topics_as_chapters": [
+"sdr_management",
+"pipeline_management",
+"territory_planning",
+"revenue_operations",
+"revenue_forecasting",
+"kpi_frameworks",
+"okr_goal_systems"
+],
+"chapters_target": 12,
+"words_now": 27096,
+"words_target": 120000,
+"words_needed": 92904
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Sales Psychology",
+"id": "sales_psychology",
+"topics_as_chapters": [
+"sales_psychology",
+"buyer_psychology"
+],
+"chapters_target": 12,
+"words_now": 6592,
+"words_target": 120000,
+"words_needed": 113408
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Negotiation",
+"id": "negotiation",
+"topics_as_chapters": [
+"negotiation",
+"advanced_negotiation",
+"sales_negotiation_tactics",
+"real_estate_negotiation"
+],
+"chapters_target": 12,
+"words_now": 13831,
+"words_target": 120000,
+"words_needed": 106169
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Pricing Strategy",
+"id": "pricing_strategy",
+"topics_as_chapters": [
+"pricing_psychology",
+"pricing_conversations",
+"price_elasticity_analysis",
+"packaging_and_tiers",
+"discount_strategy",
+"usage_based_pricing",
+"margin_management"
+],
+"chapters_target": 12,
+"words_now": 28522,
+"words_target": 120000,
+"words_needed": 91478
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "SaaS and Subscription Economics",
+"id": "saas_and_subscription_economics",
+"topics_as_chapters": [
+"saas_metrics",
+"subscription_economics",
+"ltv_modeling",
+"churn_reduction",
+"expansion_revenue"
+],
+"chapters_target": 12,
+"words_now": 19650,
+"words_target": 120000,
+"words_needed": 100350
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Principles of Marketing",
+"id": "principles_of_marketing",
+"topics_as_chapters": [
+"marketing",
+"product_marketing",
+"positioning_strategy",
+"brand_management",
+"brand_narrative",
+"brand_positioning_strategy"
+],
+"chapters_target": 12,
+"words_now": 28439,
+"words_target": 120000,
+"words_needed": 91561
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Digital Marketing",
+"id": "digital_marketing",
+"topics_as_chapters": [
+"digital_marketing",
+"seo",
+"social_media_marketing",
+"content_marketing",
+"affiliate_marketing",
+"influencer_marketing",
+"short_form_video_strategy",
+"creator_economy",
+"social_listening",
+"media_buying",
+"landing_page_design",
+"lead_magnet_design",
+"social_media_strategy",
+"content_strategy"
+],
+"chapters_target": 14,
+"words_now": 46634,
+"words_target": 120000,
+"words_needed": 73366
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Marketing Analytics and Growth",
+"id": "marketing_analytics_and_growth",
+"topics_as_chapters": [
+"growth_marketing",
+"marketing_analytics",
+"marketing_attribution",
+"attribution_modeling",
+"funnel_analytics",
+"ab_testing_statistics",
+"experiment_design",
+"conversion_rate_optimization",
+"checkout_optimization",
+"cart_abandonment_recovery",
+"pricing_page_design",
+"activation_metrics",
+"cohort_retention_analysis",
+"funnel_architecture",
+"audience_analytics"
+],
+"chapters_target": 15,
+"words_now": 60535,
+"words_target": 120000,
+"words_needed": 59465
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Marketing Automation and Demand Generation",
+"id": "marketing_automation_and_demand_generation",
+"topics_as_chapters": [
+"marketing_automation",
+"demand_generation",
+"lifecycle_marketing",
+"account_based_marketing",
+"campaign_planning",
+"content_calendar_systems",
+"event_marketing",
+"community_marketing",
+"community_management",
+"engagement_strategy",
+"customer_journey_mapping"
+],
+"chapters_target": 12,
+"words_now": 39413,
+"words_target": 120000,
+"words_needed": 80587
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Advertising and Copywriting",
+"id": "advertising_and_copywriting",
+"topics_as_chapters": [
+"advertising",
+"copywriting_conversion"
+],
+"chapters_target": 12,
+"words_now": 5958,
+"words_target": 120000,
+"words_needed": 114042
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Public Relations and Corporate Communications",
+"id": "public_relations_and_corporate_communications",
+"topics_as_chapters": [
+"public_relations",
+"crisis_communications",
+"corporate_communications",
+"reputation_management"
+],
+"chapters_target": 12,
+"words_now": 12514,
+"words_target": 120000,
+"words_needed": 107486
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Introduction to Business",
+"id": "introduction_to_business",
+"topics_as_chapters": [
+"business_fundamentals"
+],
+"chapters_target": 12,
+"words_now": 3881,
+"words_target": 120000,
+"words_needed": 116119
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Entrepreneurship",
+"id": "entrepreneurship",
+"topics_as_chapters": [
+"entrepreneurship",
+"startup_funding",
+"franchise_development",
+"mvp_design",
+"dropshipping"
+],
+"chapters_target": 12,
+"words_now": 17138,
+"words_target": 120000,
+"words_needed": 102862
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Management and Organizational Behavior",
+"id": "management_and_organizational_behavior",
+"topics_as_chapters": [
+"management",
+"organizational_behavior",
+"organizational_design"
+],
+"chapters_target": 12,
+"words_now": 10963,
+"words_target": 120000,
+"words_needed": 109037
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Leadership",
+"id": "leadership",
+"topics_as_chapters": [
+"leadership",
+"executive_decision_making",
+"executive_communication",
+"crisis_leadership",
+"succession_planning",
+"board_management"
+],
+"chapters_target": 12,
+"words_now": 22726,
+"words_target": 120000,
+"words_needed": 97274
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Business Strategy",
+"id": "business_strategy",
+"topics_as_chapters": [
+"business_strategy",
+"corporate_strategy",
+"strategic_management",
+"competitive_analysis",
+"competitive_intelligence",
+"market_intelligence",
+"strategic_intelligence",
+"systems_thinking",
+"consulting"
+],
+"chapters_target": 12,
+"words_now": 31532,
+"words_target": 120000,
+"words_needed": 88468
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Business Analytics and Intelligence",
+"id": "business_analytics_and_intelligence",
+"topics_as_chapters": [
+"business_analytics",
+"business_intelligence",
+"dashboard_design",
+"knowledge_management"
+],
+"chapters_target": 12,
+"words_now": 15999,
+"words_target": 120000,
+"words_needed": 104001
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Accounting",
+"id": "accounting",
+"topics_as_chapters": [
+"accounting",
+"financial_accounting",
+"managerial_accounting"
+],
+"chapters_target": 12,
+"words_now": 10457,
+"words_target": 120000,
+"words_needed": 109543
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Corporate Finance",
+"id": "corporate_finance",
+"topics_as_chapters": [
+"corporate_finance",
+"capital_allocation",
+"shareholder_value",
+"investor_relations",
+"mergers_acquisitions",
+"ma_strategy",
+"due_diligence_research",
+"private_equity",
+"venture_capital"
+],
+"chapters_target": 12,
+"words_now": 33204,
+"words_target": 120000,
+"words_needed": 86796
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Investments",
+"id": "investments",
+"topics_as_chapters": [
+"investment_analysis",
+"portfolio_management",
+"stock_market",
+"fundamental_analysis",
+"technical_analysis",
+"options_trading",
+"futures_trading",
+"forex_trading",
+"reit_analysis"
+],
+"chapters_target": 12,
+"words_now": 35128,
+"words_target": 120000,
+"words_needed": 84872
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Banking and Insurance",
+"id": "banking_and_insurance",
+"topics_as_chapters": [
+"banking",
+"insurance",
+"insurance_finance",
+"insurance_licensing",
+"mortgage_lending"
+],
+"chapters_target": 12,
+"words_now": 17602,
+"words_target": 120000,
+"words_needed": 102398
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Personal Finance",
+"id": "personal_finance",
+"topics_as_chapters": [
+"personal_finance",
+"financial_planning",
+"tax_planning",
+"wealth_management",
+"retirement_planning",
+"financial_literacy"
+],
+"chapters_target": 12,
+"words_now": 23156,
+"words_target": 120000,
+"words_needed": 96844
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Risk Management",
+"id": "risk_management",
+"topics_as_chapters": [
+"risk_management"
+],
+"chapters_target": 12,
+"words_now": 2333,
+"words_target": 120000,
+"words_needed": 117667
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Financial Technology",
+"id": "financial_technology",
+"topics_as_chapters": [
+"fintech",
+"fintech_systems"
+],
+"chapters_target": 12,
+"words_now": 7139,
+"words_target": 120000,
+"words_needed": 112861
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Cryptocurrency and Digital Assets",
+"id": "cryptocurrency_and_digital_assets",
+"topics_as_chapters": [
+"cryptocurrency",
+"defi",
+"nft_digital_assets",
+"tokenomics_defi"
+],
+"chapters_target": 12,
+"words_now": 12795,
+"words_target": 120000,
+"words_needed": 107205
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Financial Regulation and Compliance",
+"id": "financial_regulation_and_compliance",
+"topics_as_chapters": [
+"financial_regulations",
+"compliance_finance"
+],
+"chapters_target": 12,
+"words_now": 8036,
+"words_target": 120000,
+"words_needed": 111964
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Operations Management",
+"id": "operations_management",
+"topics_as_chapters": [
+"operations_management"
+],
+"chapters_target": 12,
+"words_now": 2364,
+"words_target": 120000,
+"words_needed": 117636
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Supply Chain Management",
+"id": "supply_chain_management",
+"topics_as_chapters": [
+"supply_chain",
+"supply_chain_strategy",
+"supply_chain_management",
+"procurement",
+"vendor_management",
+"demand_forecasting",
+"inventory_optimization",
+"supply_chain_analytics",
+"supply_chain_risk",
+"supply_chain_resilience",
+"lean_supply_chain",
+"sustainable_supply_chains"
+],
+"chapters_target": 12,
+"words_now": 49861,
+"words_target": 120000,
+"words_needed": 70139
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Logistics",
+"id": "logistics",
+"topics_as_chapters": [
+"logistics",
+"logistics_operations",
+"warehouse_management",
+"transportation_management",
+"freight_management",
+"last_mile_delivery",
+"cold_chain_logistics",
+"reverse_logistics",
+"global_trade_logistics",
+"customs_brokerage"
+],
+"chapters_target": 12,
+"words_now": 37243,
+"words_target": 120000,
+"words_needed": 82757
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Project Management",
+"id": "project_management",
+"topics_as_chapters": [
+"project_management",
+"agile_scrum"
+],
+"chapters_target": 12,
+"words_now": 7549,
+"words_target": 120000,
+"words_needed": 112451
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Product Management",
+"id": "product_management",
+"topics_as_chapters": [
+"product_management",
+"technical_product_management",
+"product_roadmapping",
+"product_launch_strategy",
+"user_onboarding_design"
+],
+"chapters_target": 12,
+"words_now": 19998,
+"words_target": 120000,
+"words_needed": 100002
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Human Resource Management",
+"id": "human_resource_management",
+"topics_as_chapters": [
+"human_resources",
+"talent_management"
+],
+"chapters_target": 12,
+"words_now": 6148,
+"words_target": 120000,
+"words_needed": 113852
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "International Business and Trade",
+"id": "international_business_and_trade",
+"topics_as_chapters": [
+"international_business",
+"import_export",
+"trade_finance"
+],
+"chapters_target": 12,
+"words_now": 11621,
+"words_target": 120000,
+"words_needed": 108379
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "E-Commerce",
+"id": "e_commerce",
+"topics_as_chapters": [
+"e_commerce"
+],
+"chapters_target": 12,
+"words_now": 3537,
+"words_target": 120000,
+"words_needed": 116463
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Business Law",
+"id": "business_law",
+"topics_as_chapters": [
+"business_law",
+"contract_law",
+"intellectual_property_business"
+],
+"chapters_target": 12,
+"words_now": 11351,
+"words_target": 120000,
+"words_needed": 108649
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Corporate Governance and Business Ethics",
+"id": "corporate_governance_and_business_ethics",
+"topics_as_chapters": [
+"corporate_governance",
+"business_ethics"
+],
+"chapters_target": 12,
+"words_now": 6851,
+"words_target": 120000,
+"words_needed": 113149
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Sustainable Business",
+"id": "sustainable_business",
+"topics_as_chapters": [
+"sustainability_business",
+"circular_economy",
+"carbon_management",
+"sustainability_metrics"
+],
+"chapters_target": 12,
+"words_now": 15487,
+"words_target": 120000,
+"words_needed": 104513
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Real Estate Principles",
+"id": "real_estate_principles",
+"topics_as_chapters": [
+"real_estate",
+"real_estate_licensing",
+"real_estate_fundamentals",
+"residential_real_estate",
+"commercial_real_estate",
+"real_estate_marketing"
+],
+"chapters_target": 12,
+"words_now": 22895,
+"words_target": 120000,
+"words_needed": 97105
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Real Estate Investment and Finance",
+"id": "real_estate_investment_and_finance",
+"topics_as_chapters": [
+"real_estate_investment",
+"real_estate_finance"
+],
+"chapters_target": 12,
+"words_now": 8284,
+"words_target": 120000,
+"words_needed": 111716
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Real Estate Development and Property Management",
+"id": "real_estate_development_and_property_management",
+"topics_as_chapters": [
+"real_estate_development",
+"construction_management_re",
+"property_management"
+],
+"chapters_target": 12,
+"words_now": 11841,
+"words_target": 120000,
+"words_needed": 108159
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Property Valuation and Inspection",
+"id": "property_valuation_and_inspection",
+"topics_as_chapters": [
+"property_valuation",
+"real_estate_appraisal",
+"home_inspection"
+],
+"chapters_target": 12,
+"words_now": 12767,
+"words_target": 120000,
+"words_needed": 107233
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Introduction to Law",
+"id": "introduction_to_law",
+"topics_as_chapters": [
+"legal_fundamentals",
+"legal_research",
+"legal_writing"
+],
+"chapters_target": 12,
+"words_now": 11103,
+"words_target": 120000,
+"words_needed": 108897
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Constitutional Law",
+"id": "constitutional_law",
+"topics_as_chapters": [
+"constitutional_law"
+],
+"chapters_target": 12,
+"words_now": 4342,
+"words_target": 120000,
+"words_needed": 115658
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Criminal Law and Justice",
+"id": "criminal_law_and_justice",
+"topics_as_chapters": [
+"criminal_law",
+"criminal_justice"
+],
+"chapters_target": 12,
+"words_now": 9152,
+"words_target": 120000,
+"words_needed": 110848
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Civil Law and Procedure",
+"id": "civil_law_and_procedure",
+"topics_as_chapters": [
+"civil_law",
+"trial_advocacy"
+],
+"chapters_target": 12,
+"words_now": 8445,
+"words_target": 120000,
+"words_needed": 111555
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Contract Law",
+"id": "contract_law",
+"topics_as_chapters": [
+"contract_law_legal"
+],
+"chapters_target": 12,
+"words_now": 4238,
+"words_target": 120000,
+"words_needed": 115762
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Torts",
+"id": "torts",
+"topics_as_chapters": [
+"tort_law"
+],
+"chapters_target": 12,
+"words_now": 4432,
+"words_target": 120000,
+"words_needed": 115568
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Property and Land Use Law",
+"id": "property_and_land_use_law",
+"topics_as_chapters": [
+"property_law",
+"real_estate_law",
+"land_use_planning"
+],
+"chapters_target": 12,
+"words_now": 11801,
+"words_target": 120000,
+"words_needed": 108199
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Family Law",
+"id": "family_law",
+"topics_as_chapters": [
+"family_law"
+],
+"chapters_target": 12,
+"words_now": 4703,
+"words_target": 120000,
+"words_needed": 115297
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Immigration Law",
+"id": "immigration_law",
+"topics_as_chapters": [
+"immigration_law"
+],
+"chapters_target": 12,
+"words_now": 4893,
+"words_target": 120000,
+"words_needed": 115107
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Corporate and Securities Law",
+"id": "corporate_and_securities_law",
+"topics_as_chapters": [
+"corporate_law",
+"securities_law",
+"antitrust_law",
+"bankruptcy_law"
+],
+"chapters_target": 12,
+"words_now": 17873,
+"words_target": 120000,
+"words_needed": 102127
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Tax Law",
+"id": "tax_law",
+"topics_as_chapters": [
+"tax_law"
+],
+"chapters_target": 12,
+"words_now": 3178,
+"words_target": 120000,
+"words_needed": 116822
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Intellectual Property Law",
+"id": "intellectual_property_law",
+"topics_as_chapters": [
+"intellectual_property_law",
+"patent_law",
+"trademark_law",
+"copyright_law"
+],
+"chapters_target": 12,
+"words_now": 18436,
+"words_target": 120000,
+"words_needed": 101564
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Employment and Labor Law",
+"id": "employment_and_labor_law",
+"topics_as_chapters": [
+"employment_law",
+"labor_law"
+],
+"chapters_target": 12,
+"words_now": 7495,
+"words_target": 120000,
+"words_needed": 112505
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Environmental Law",
+"id": "environmental_law",
+"topics_as_chapters": [
+"environmental_law"
+],
+"chapters_target": 12,
+"words_now": 3012,
+"words_target": 120000,
+"words_needed": 116988
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Health Law",
+"id": "health_law",
+"topics_as_chapters": [
+"health_law"
+],
+"chapters_target": 12,
+"words_now": 4513,
+"words_target": 120000,
+"words_needed": 115487
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Technology, Privacy and Media Law",
+"id": "technology_privacy_and_media_law",
+"topics_as_chapters": [
+"cyber_law",
+"data_protection_law",
+"media_law"
+],
+"chapters_target": 12,
+"words_now": 12146,
+"words_target": 120000,
+"words_needed": 107854
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "International Law and Human Rights",
+"id": "international_law_and_human_rights",
+"topics_as_chapters": [
+"international_law",
+"human_rights_law",
+"maritime_law"
+],
+"chapters_target": 12,
+"words_now": 14047,
+"words_target": 120000,
+"words_needed": 105953
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Administrative Law",
+"id": "administrative_law",
+"topics_as_chapters": [
+"administrative_law"
+],
+"chapters_target": 12,
+"words_now": 4118,
+"words_target": 120000,
+"words_needed": 115882
+},
+{
+"field_code": "04",
+"field": "Business, administration and law",
+"title": "Dispute Resolution",
+"id": "dispute_resolution",
+"topics_as_chapters": [
+"mediation_arbitration"
+],
+"chapters_target": 12,
+"words_now": 3862,
+"words_target": 120000,
+"words_needed": 116138
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Microeconomics",
+"id": "microeconomics",
+"topics_as_chapters": [
+"microeconomics"
+],
+"chapters_target": 12,
+"words_now": 3865,
+"words_target": 120000,
+"words_needed": 116135
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Macroeconomics",
+"id": "macroeconomics",
+"topics_as_chapters": [
+"macroeconomics",
+"monetary_economics",
+"fiscal_policy",
+"monetary_policy"
+],
+"chapters_target": 12,
+"words_now": 17967,
+"words_target": 120000,
+"words_needed": 102033
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Econometrics",
+"id": "econometrics",
+"topics_as_chapters": [
+"econometrics"
+],
+"chapters_target": 12,
+"words_now": 4086,
+"words_target": 120000,
+"words_needed": 115914
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Behavioral Economics and Finance",
+"id": "behavioral_economics_and_finance",
+"topics_as_chapters": [
+"behavioral_economics",
+"behavioral_finance"
+],
+"chapters_target": 12,
+"words_now": 8657,
+"words_target": 120000,
+"words_needed": 111343
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Development Economics",
+"id": "development_economics",
+"topics_as_chapters": [
+"development_economics"
+],
+"chapters_target": 12,
+"words_now": 4454,
+"words_target": 120000,
+"words_needed": 115546
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "International Economics",
+"id": "international_economics",
+"topics_as_chapters": [
+"international_economics"
+],
+"chapters_target": 12,
+"words_now": 4427,
+"words_target": 120000,
+"words_needed": 115573
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Labor Economics",
+"id": "labor_economics",
+"topics_as_chapters": [
+"labor_economics"
+],
+"chapters_target": 12,
+"words_now": 4002,
+"words_target": 120000,
+"words_needed": 115998
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Public Economics",
+"id": "public_economics",
+"topics_as_chapters": [
+"public_economics"
+],
+"chapters_target": 12,
+"words_now": 3330,
+"words_target": 120000,
+"words_needed": 116670
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Health Economics",
+"id": "health_economics",
+"topics_as_chapters": [
+"health_economics"
+],
+"chapters_target": 12,
+"words_now": 4878,
+"words_target": 120000,
+"words_needed": 115122
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Environmental Economics",
+"id": "environmental_economics",
+"topics_as_chapters": [
+"environmental_economics"
+],
+"chapters_target": 12,
+"words_now": 4688,
+"words_target": 120000,
+"words_needed": 115312
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Economic History",
+"id": "economic_history",
+"topics_as_chapters": [
+"economic_history",
+"economic_history_hum"
+],
+"chapters_target": 12,
+"words_now": 8475,
+"words_target": 120000,
+"words_needed": 111525
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Introduction to Psychology",
+"id": "introduction_to_psychology",
+"topics_as_chapters": [
+"psychology_general"
+],
+"chapters_target": 12,
+"words_now": 4357,
+"words_target": 120000,
+"words_needed": 115643
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Cognitive Psychology",
+"id": "cognitive_psychology",
+"topics_as_chapters": [
+"cognitive_psychology",
+"cognitive_science"
+],
+"chapters_target": 12,
+"words_now": 6510,
+"words_target": 120000,
+"words_needed": 113490
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Behavioral Psychology",
+"id": "behavioral_psychology",
+"topics_as_chapters": [
+"behavioral_psychology"
+],
+"chapters_target": 12,
+"words_now": 2810,
+"words_target": 120000,
+"words_needed": 117190
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Developmental Psychology",
+"id": "developmental_psychology",
+"topics_as_chapters": [
+"developmental_psychology"
+],
+"chapters_target": 12,
+"words_now": 4165,
+"words_target": 120000,
+"words_needed": 115835
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Social Psychology",
+"id": "social_psychology",
+"topics_as_chapters": [
+"social_psychology"
+],
+"chapters_target": 12,
+"words_now": 4320,
+"words_target": 120000,
+"words_needed": 115680
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Clinical and Abnormal Psychology",
+"id": "clinical_and_abnormal_psychology",
+"topics_as_chapters": [
+"clinical_psychology",
+"abnormal_psychology",
+"neuropsychology"
+],
+"chapters_target": 12,
+"words_now": 9330,
+"words_target": 120000,
+"words_needed": 110670
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Forensic Psychology",
+"id": "forensic_psychology",
+"topics_as_chapters": [
+"forensic_psychology"
+],
+"chapters_target": 12,
+"words_now": 4362,
+"words_target": 120000,
+"words_needed": 115638
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Educational Psychology",
+"id": "educational_psychology",
+"topics_as_chapters": [
+"educational_psychology",
+"educational_psychology_ed"
+],
+"chapters_target": 12,
+"words_now": 7319,
+"words_target": 120000,
+"words_needed": 112681
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Industrial-Organizational Psychology",
+"id": "industrial_organizational_psychology",
+"topics_as_chapters": [
+"industrial_organizational_psych"
+],
+"chapters_target": 12,
+"words_now": 4133,
+"words_target": 120000,
+"words_needed": 115867
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Positive and Health Psychology",
+"id": "positive_and_health_psychology",
+"topics_as_chapters": [
+"positive_psychology",
+"health_psychology"
+],
+"chapters_target": 12,
+"words_now": 8109,
+"words_target": 120000,
+"words_needed": 111891
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Sociology",
+"id": "sociology",
+"topics_as_chapters": [
+"sociology",
+"social_theory"
+],
+"chapters_target": 12,
+"words_now": 6609,
+"words_target": 120000,
+"words_needed": 113391
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Research Methods",
+"id": "research_methods",
+"topics_as_chapters": [
+"research_methods_social",
+"educational_research"
+],
+"chapters_target": 12,
+"words_now": 8535,
+"words_target": 120000,
+"words_needed": 111465
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Criminology",
+"id": "criminology",
+"topics_as_chapters": [
+"criminology"
+],
+"chapters_target": 12,
+"words_now": 4255,
+"words_target": 120000,
+"words_needed": 115745
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Demography",
+"id": "demography",
+"topics_as_chapters": [
+"demography"
+],
+"chapters_target": 12,
+"words_now": 6218,
+"words_target": 120000,
+"words_needed": 113782
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Urban Studies and Planning",
+"id": "urban_studies_and_planning",
+"topics_as_chapters": [
+"urban_studies",
+"urban_planning",
+"urban_planning_design",
+"urban_sustainability"
+],
+"chapters_target": 12,
+"words_now": 15869,
+"words_target": 120000,
+"words_needed": 104131
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Political Science",
+"id": "political_science",
+"topics_as_chapters": [
+"political_science",
+"comparative_politics"
+],
+"chapters_target": 12,
+"words_now": 6562,
+"words_target": 120000,
+"words_needed": 113438
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "International Relations",
+"id": "international_relations",
+"topics_as_chapters": [
+"international_relations",
+"diplomacy",
+"geopolitics",
+"geopolitical_strategy"
+],
+"chapters_target": 12,
+"words_now": 16117,
+"words_target": 120000,
+"words_needed": 103883
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Public Policy and Administration",
+"id": "public_policy_and_administration",
+"topics_as_chapters": [
+"public_policy",
+"public_administration"
+],
+"chapters_target": 12,
+"words_now": 8336,
+"words_target": 120000,
+"words_needed": 111664
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Geography",
+"id": "geography",
+"topics_as_chapters": [
+"geography",
+"human_geography"
+],
+"chapters_target": 12,
+"words_now": 5619,
+"words_target": 120000,
+"words_needed": 114381
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "GIS and Cartography",
+"id": "gis_and_cartography",
+"topics_as_chapters": [
+"gis_mapping",
+"cartography_gis",
+"surveying"
+],
+"chapters_target": 12,
+"words_now": 12148,
+"words_target": 120000,
+"words_needed": 107852
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Communication Studies",
+"id": "communication_studies",
+"topics_as_chapters": [
+"communication_studies",
+"communication_theory"
+],
+"chapters_target": 12,
+"words_now": 6900,
+"words_target": 120000,
+"words_needed": 113100
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Media Studies",
+"id": "media_studies",
+"topics_as_chapters": [
+"media_studies",
+"media_ethics"
+],
+"chapters_target": 12,
+"words_now": 9219,
+"words_target": 120000,
+"words_needed": 110781
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Journalism",
+"id": "journalism",
+"topics_as_chapters": [
+"journalism",
+"photojournalism",
+"sports_journalism",
+"source_verification"
+],
+"chapters_target": 12,
+"words_now": 16724,
+"words_target": 120000,
+"words_needed": 103276
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Broadcasting and Digital Media Production",
+"id": "broadcasting_and_digital_media_production",
+"topics_as_chapters": [
+"broadcasting",
+"digital_media_production"
+],
+"chapters_target": 12,
+"words_now": 6551,
+"words_target": 120000,
+"words_needed": 113449
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Library and Information Science",
+"id": "library_and_information_science",
+"topics_as_chapters": [
+"library_science",
+"information_science"
+],
+"chapters_target": 12,
+"words_now": 4571,
+"words_target": 120000,
+"words_needed": 115429
+},
+{
+"field_code": "03",
+"field": "Social sciences, journalism and information",
+"title": "Futures Studies",
+"id": "futures_studies",
+"topics_as_chapters": [
+"futurism_futures_studies"
+],
+"chapters_target": 12,
+"words_now": 2975,
+"words_target": 120000,
+"words_needed": 117025
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Introduction to Philosophy",
+"id": "introduction_to_philosophy",
+"topics_as_chapters": [
+"philosophy_intro",
+"western_philosophy"
+],
+"chapters_target": 12,
+"words_now": 9425,
+"words_target": 120000,
+"words_needed": 110575
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Ethics",
+"id": "ethics",
+"topics_as_chapters": [
+"ethics",
+"ethics_moral_philosophy"
+],
+"chapters_target": 12,
+"words_now": 8448,
+"words_target": 120000,
+"words_needed": 111552
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Metaphysics and Epistemology",
+"id": "metaphysics_and_epistemology",
+"topics_as_chapters": [
+"metaphysics",
+"epistemology"
+],
+"chapters_target": 12,
+"words_now": 6423,
+"words_target": 120000,
+"words_needed": 113577
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Logic",
+"id": "logic",
+"topics_as_chapters": [
+"logic_philosophy"
+],
+"chapters_target": 12,
+"words_now": 4093,
+"words_target": 120000,
+"words_needed": 115907
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Philosophy of Mind",
+"id": "philosophy_of_mind",
+"topics_as_chapters": [
+"philosophy_mind",
+"philosophy_of_mind"
+],
+"chapters_target": 12,
+"words_now": 9781,
+"words_target": 120000,
+"words_needed": 110219
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Philosophy of Science",
+"id": "philosophy_of_science",
+"topics_as_chapters": [
+"philosophy_science",
+"philosophy_of_science"
+],
+"chapters_target": 12,
+"words_now": 9289,
+"words_target": 120000,
+"words_needed": 110711
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Philosophy of Language",
+"id": "philosophy_of_language",
+"topics_as_chapters": [
+"philosophy_of_language"
+],
+"chapters_target": 12,
+"words_now": 4966,
+"words_target": 120000,
+"words_needed": 115034
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Political Philosophy",
+"id": "political_philosophy",
+"topics_as_chapters": [
+"political_philosophy"
+],
+"chapters_target": 12,
+"words_now": 4826,
+"words_target": 120000,
+"words_needed": 115174
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "History of Philosophy",
+"id": "history_of_philosophy",
+"topics_as_chapters": [
+"ancient_philosophy",
+"modern_philosophy",
+"existentialism",
+"eastern_philosophy",
+"stoicism"
+],
+"chapters_target": 12,
+"words_now": 20728,
+"words_target": 120000,
+"words_needed": 99272
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Aesthetics and Art Criticism",
+"id": "aesthetics_and_art_criticism",
+"topics_as_chapters": [
+"aesthetics",
+"art_criticism"
+],
+"chapters_target": 12,
+"words_now": 5589,
+"words_target": 120000,
+"words_needed": 114411
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "World History",
+"id": "world_history",
+"topics_as_chapters": [
+"history_world"
+],
+"chapters_target": 12,
+"words_now": 4691,
+"words_target": 120000,
+"words_needed": 115309
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Ancient History",
+"id": "ancient_history",
+"topics_as_chapters": [
+"history_ancient",
+"ancient_china_civilization",
+"ancient_egypt_civilization",
+"ancient_india_civilization",
+"ancient_mesoamerica",
+"ancient_mesopotamia",
+"roman_civilization",
+"prehistory_human_origins",
+"classical_studies",
+"classics"
+],
+"chapters_target": 12,
+"words_now": 42586,
+"words_target": 120000,
+"words_needed": 77414
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Medieval History",
+"id": "medieval_history",
+"topics_as_chapters": [
+"history_medieval",
+"medieval_studies",
+"byzantine_empire",
+"viking_norse_history"
+],
+"chapters_target": 12,
+"words_now": 16002,
+"words_target": 120000,
+"words_needed": 103998
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Renaissance and Early Modern History",
+"id": "renaissance_and_early_modern_history",
+"topics_as_chapters": [
+"history_renaissance",
+"renaissance_studies",
+"ottoman_empire"
+],
+"chapters_target": 12,
+"words_now": 10703,
+"words_target": 120000,
+"words_needed": 109297
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Modern History",
+"id": "modern_history",
+"topics_as_chapters": [
+"history_modern"
+],
+"chapters_target": 12,
+"words_now": 4825,
+"words_target": 120000,
+"words_needed": 115175
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "American History",
+"id": "american_history",
+"topics_as_chapters": [
+"history_american"
+],
+"chapters_target": 12,
+"words_now": 3227,
+"words_target": 120000,
+"words_needed": 116773
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "European History",
+"id": "european_history",
+"topics_as_chapters": [
+"history_european"
+],
+"chapters_target": 12,
+"words_now": 4064,
+"words_target": 120000,
+"words_needed": 115936
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Asian History",
+"id": "asian_history",
+"topics_as_chapters": [
+"history_asian"
+],
+"chapters_target": 12,
+"words_now": 2521,
+"words_target": 120000,
+"words_needed": 117479
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "African History",
+"id": "african_history",
+"topics_as_chapters": [
+"history_african"
+],
+"chapters_target": 12,
+"words_now": 5312,
+"words_target": 120000,
+"words_needed": 114688
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Latin American History",
+"id": "latin_american_history",
+"topics_as_chapters": [
+"history_latin_american"
+],
+"chapters_target": 12,
+"words_now": 4816,
+"words_target": 120000,
+"words_needed": 115184
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Middle Eastern History",
+"id": "middle_eastern_history",
+"topics_as_chapters": [
+"history_middle_east"
+],
+"chapters_target": 12,
+"words_now": 4875,
+"words_target": 120000,
+"words_needed": 115125
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Military History",
+"id": "military_history",
+"topics_as_chapters": [
+"military_history",
+"military_history_studies"
+],
+"chapters_target": 12,
+"words_now": 9422,
+"words_target": 120000,
+"words_needed": 110578
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "History of Science and Exploration",
+"id": "history_of_science_and_exploration",
+"topics_as_chapters": [
+"history_science",
+"space_exploration_history"
+],
+"chapters_target": 12,
+"words_now": 10040,
+"words_target": 120000,
+"words_needed": 109960
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Art History",
+"id": "art_history",
+"topics_as_chapters": [
+"history_art",
+"art_history"
+],
+"chapters_target": 12,
+"words_now": 7428,
+"words_target": 120000,
+"words_needed": 112572
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Archaeology",
+"id": "archaeology",
+"topics_as_chapters": [
+"archaeology"
+],
+"chapters_target": 12,
+"words_now": 4722,
+"words_target": 120000,
+"words_needed": 115278
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Anthropology",
+"id": "anthropology",
+"topics_as_chapters": [
+"anthropology",
+"cultural_anthropology",
+"physical_anthropology",
+"indigenous_studies_global"
+],
+"chapters_target": 12,
+"words_now": 17786,
+"words_target": 120000,
+"words_needed": 102214
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Religious Studies",
+"id": "religious_studies",
+"topics_as_chapters": [
+"religious_studies",
+"theology",
+"comparative_religion",
+"world_religions",
+"buddhism",
+"christianity_studies",
+"hinduism_studies",
+"islam_studies",
+"judaism_studies",
+"taoism"
+],
+"chapters_target": 12,
+"words_now": 40846,
+"words_target": 120000,
+"words_needed": 79154
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Mythology and Folklore",
+"id": "mythology_and_folklore",
+"topics_as_chapters": [
+"mythology",
+"folklore_mythology",
+"comparative_mythology",
+"astrology_cultural_history"
+],
+"chapters_target": 12,
+"words_now": 17669,
+"words_target": 120000,
+"words_needed": 102331
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Gender, Ethnic and Disability Studies",
+"id": "gender_ethnic_and_disability_studies",
+"topics_as_chapters": [
+"gender_studies",
+"ethnic_studies",
+"disability_studies",
+"postcolonial_theory"
+],
+"chapters_target": 12,
+"words_now": 15097,
+"words_target": 120000,
+"words_needed": 104903
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "English Grammar and Composition",
+"id": "english_grammar_and_composition",
+"topics_as_chapters": [
+"english_grammar",
+"english_composition"
+],
+"chapters_target": 12,
+"words_now": 8281,
+"words_target": 120000,
+"words_needed": 111719
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "English Literature",
+"id": "english_literature",
+"topics_as_chapters": [
+"english_literature",
+"british_literature"
+],
+"chapters_target": 12,
+"words_now": 9449,
+"words_target": 120000,
+"words_needed": 110551
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "American Literature",
+"id": "american_literature",
+"topics_as_chapters": [
+"american_literature"
+],
+"chapters_target": 12,
+"words_now": 4569,
+"words_target": 120000,
+"words_needed": 115431
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "World Literature and Poetry",
+"id": "world_literature_and_poetry",
+"topics_as_chapters": [
+"world_literature",
+"poetry_poetics"
+],
+"chapters_target": 12,
+"words_now": 8995,
+"words_target": 120000,
+"words_needed": 111005
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Creative Writing",
+"id": "creative_writing",
+"topics_as_chapters": [
+"creative_writing",
+"screenwriting",
+"playwriting"
+],
+"chapters_target": 12,
+"words_now": 12173,
+"words_target": 120000,
+"words_needed": 107827
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Technical and Business Writing",
+"id": "technical_and_business_writing",
+"topics_as_chapters": [
+"technical_writing",
+"business_writing",
+"technical_writing_advanced",
+"speech_writing"
+],
+"chapters_target": 12,
+"words_now": 16260,
+"words_target": 120000,
+"words_needed": 103740
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Public Speaking and Rhetoric",
+"id": "public_speaking_and_rhetoric",
+"topics_as_chapters": [
+"public_speaking",
+"rhetoric",
+"debate"
+],
+"chapters_target": 12,
+"words_now": 10549,
+"words_target": 120000,
+"words_needed": 109451
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Spanish",
+"id": "spanish",
+"topics_as_chapters": [
+"spanish"
+],
+"chapters_target": 12,
+"words_now": 2538,
+"words_target": 120000,
+"words_needed": 117462
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "French",
+"id": "french",
+"topics_as_chapters": [
+"french"
+],
+"chapters_target": 12,
+"words_now": 2568,
+"words_target": 120000,
+"words_needed": 117432
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "German",
+"id": "german",
+"topics_as_chapters": [
+"german"
+],
+"chapters_target": 12,
+"words_now": 2223,
+"words_target": 120000,
+"words_needed": 117777
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Italian",
+"id": "italian",
+"topics_as_chapters": [
+"italian"
+],
+"chapters_target": 12,
+"words_now": 3560,
+"words_target": 120000,
+"words_needed": 116440
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Portuguese",
+"id": "portuguese",
+"topics_as_chapters": [
+"portuguese"
+],
+"chapters_target": 12,
+"words_now": 4234,
+"words_target": 120000,
+"words_needed": 115766
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Mandarin Chinese",
+"id": "mandarin_chinese",
+"topics_as_chapters": [
+"mandarin_chinese"
+],
+"chapters_target": 12,
+"words_now": 2584,
+"words_target": 120000,
+"words_needed": 117416
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Japanese",
+"id": "japanese",
+"topics_as_chapters": [
+"japanese"
+],
+"chapters_target": 12,
+"words_now": 2334,
+"words_target": 120000,
+"words_needed": 117666
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Korean",
+"id": "korean",
+"topics_as_chapters": [
+"korean"
+],
+"chapters_target": 12,
+"words_now": 2341,
+"words_target": 120000,
+"words_needed": 117659
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Arabic",
+"id": "arabic",
+"topics_as_chapters": [
+"arabic"
+],
+"chapters_target": 12,
+"words_now": 3863,
+"words_target": 120000,
+"words_needed": 116137
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Hindi",
+"id": "hindi",
+"topics_as_chapters": [
+"hindi"
+],
+"chapters_target": 12,
+"words_now": 3759,
+"words_target": 120000,
+"words_needed": 116241
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Russian",
+"id": "russian",
+"topics_as_chapters": [
+"russian"
+],
+"chapters_target": 12,
+"words_now": 2162,
+"words_target": 120000,
+"words_needed": 117838
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Turkish",
+"id": "turkish",
+"topics_as_chapters": [
+"turkish"
+],
+"chapters_target": 12,
+"words_now": 2271,
+"words_target": 120000,
+"words_needed": 117729
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Vietnamese",
+"id": "vietnamese",
+"topics_as_chapters": [
+"vietnamese"
+],
+"chapters_target": 12,
+"words_now": 4062,
+"words_target": 120000,
+"words_needed": 115938
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Thai",
+"id": "thai",
+"topics_as_chapters": [
+"thai"
+],
+"chapters_target": 12,
+"words_now": 4191,
+"words_target": 120000,
+"words_needed": 115809
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Swahili",
+"id": "swahili",
+"topics_as_chapters": [
+"swahili"
+],
+"chapters_target": 12,
+"words_now": 4875,
+"words_target": 120000,
+"words_needed": 115125
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Classical Languages",
+"id": "classical_languages",
+"topics_as_chapters": [
+"latin",
+"ancient_greek",
+"hebrew",
+"sanskrit"
+],
+"chapters_target": 12,
+"words_now": 15084,
+"words_target": 120000,
+"words_needed": 104916
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Sign Language and Accessible Communication",
+"id": "sign_language_and_accessible_communication",
+"topics_as_chapters": [
+"sign_language",
+"sign_language_communication",
+"braille_accessibility"
+],
+"chapters_target": 12,
+"words_now": 14384,
+"words_target": 120000,
+"words_needed": 105616
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Linguistics",
+"id": "linguistics",
+"topics_as_chapters": [
+"linguistics",
+"linguistics_applied",
+"phonetics_phonology",
+"syntax",
+"semantics_pragmatics",
+"sociolinguistics",
+"psycholinguistics",
+"linguistics_historical",
+"corpus_linguistics",
+"computational_linguistics"
+],
+"chapters_target": 12,
+"words_now": 38518,
+"words_target": 120000,
+"words_needed": 81482
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Translation and Interpretation",
+"id": "translation_and_interpretation",
+"topics_as_chapters": [
+"translation_interpretation"
+],
+"chapters_target": 12,
+"words_now": 4396,
+"words_target": 120000,
+"words_needed": 115604
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Drawing and Illustration",
+"id": "drawing_and_illustration",
+"topics_as_chapters": [
+"art_fundamentals",
+"drawing",
+"illustration"
+],
+"chapters_target": 12,
+"words_now": 12500,
+"words_target": 120000,
+"words_needed": 107500
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Painting",
+"id": "painting",
+"topics_as_chapters": [
+"painting"
+],
+"chapters_target": 12,
+"words_now": 2271,
+"words_target": 120000,
+"words_needed": 117729
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Sculpture, Ceramics and Printmaking",
+"id": "sculpture_ceramics_and_printmaking",
+"topics_as_chapters": [
+"sculpture",
+"ceramics",
+"printmaking"
+],
+"chapters_target": 12,
+"words_now": 11202,
+"words_target": 120000,
+"words_needed": 108798
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Photography",
+"id": "photography",
+"topics_as_chapters": [
+"photography"
+],
+"chapters_target": 12,
+"words_now": 2295,
+"words_target": 120000,
+"words_needed": 117705
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Digital Art and Animation",
+"id": "digital_art_and_animation",
+"topics_as_chapters": [
+"digital_art",
+"animation"
+],
+"chapters_target": 12,
+"words_now": 8854,
+"words_target": 120000,
+"words_needed": 111146
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Graphic Design and Typography",
+"id": "graphic_design_and_typography",
+"topics_as_chapters": [
+"graphic_design",
+"typography_design",
+"typography"
+],
+"chapters_target": 12,
+"words_now": 11963,
+"words_target": 120000,
+"words_needed": 108037
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Film Studies",
+"id": "film_studies",
+"topics_as_chapters": [
+"film_studies"
+],
+"chapters_target": 12,
+"words_now": 4255,
+"words_target": 120000,
+"words_needed": 115745
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Filmmaking and Video Production",
+"id": "filmmaking_and_video_production",
+"topics_as_chapters": [
+"filmmaking",
+"film_directing",
+"cinematography",
+"video_editing",
+"documentary_filmmaking",
+"television_film_production"
+],
+"chapters_target": 12,
+"words_now": 23809,
+"words_target": 120000,
+"words_needed": 96191
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Audio Production and Podcasting",
+"id": "audio_production_and_podcasting",
+"topics_as_chapters": [
+"sound_design",
+"music_production",
+"podcasting",
+"podcast_production"
+],
+"chapters_target": 12,
+"words_now": 16368,
+"words_target": 120000,
+"words_needed": 103632
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Museum Studies and Conservation",
+"id": "museum_studies_and_conservation",
+"topics_as_chapters": [
+"museum_studies",
+"art_conservation"
+],
+"chapters_target": 12,
+"words_now": 6064,
+"words_target": 120000,
+"words_needed": 113936
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Music Theory and Composition",
+"id": "music_theory_and_composition",
+"topics_as_chapters": [
+"music_theory",
+"music_composition",
+"orchestration"
+],
+"chapters_target": 12,
+"words_now": 9764,
+"words_target": 120000,
+"words_needed": 110236
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Instrumental and Vocal Performance",
+"id": "instrumental_and_vocal_performance",
+"topics_as_chapters": [
+"piano",
+"guitar",
+"voice",
+"drums"
+],
+"chapters_target": 12,
+"words_now": 11798,
+"words_target": 120000,
+"words_needed": 108202
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Music History and Ethnomusicology",
+"id": "music_history_and_ethnomusicology",
+"topics_as_chapters": [
+"music_history",
+"ethnomusicology"
+],
+"chapters_target": 12,
+"words_now": 7034,
+"words_target": 120000,
+"words_needed": 112966
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Theater",
+"id": "theater",
+"topics_as_chapters": [
+"theater_studies",
+"acting",
+"directing_theater",
+"stagecraft"
+],
+"chapters_target": 12,
+"words_now": 15374,
+"words_target": 120000,
+"words_needed": 104626
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Dance",
+"id": "dance",
+"topics_as_chapters": [
+"dance"
+],
+"chapters_target": 12,
+"words_now": 3869,
+"words_target": 120000,
+"words_needed": 116131
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Fashion Design",
+"id": "fashion_design",
+"topics_as_chapters": [
+"fashion_design"
+],
+"chapters_target": 12,
+"words_now": 3856,
+"words_target": 120000,
+"words_needed": 116144
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Interior Design",
+"id": "interior_design",
+"topics_as_chapters": [
+"interior_design"
+],
+"chapters_target": 12,
+"words_now": 3881,
+"words_target": 120000,
+"words_needed": 116119
+},
+{
+"field_code": "02",
+"field": "Arts and humanities",
+"title": "Industrial Design",
+"id": "industrial_design",
+"topics_as_chapters": [
+"industrial_design"
+],
+"chapters_target": 12,
+"words_now": 4405,
+"words_target": 120000,
+"words_needed": 115595
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Foundations of Mathematics",
+"id": "foundations_of_mathematics",
+"topics_as_chapters": [
+"arithmetic",
+"pre_algebra"
+],
+"chapters_target": 12,
+"words_now": 8787,
+"words_target": 120000,
+"words_needed": 111213
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Algebra",
+"id": "algebra",
+"topics_as_chapters": [
+"algebra_1",
+"algebra_2"
+],
+"chapters_target": 12,
+"words_now": 9580,
+"words_target": 120000,
+"words_needed": 110420
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Geometry and Trigonometry",
+"id": "geometry_and_trigonometry",
+"topics_as_chapters": [
+"geometry",
+"trigonometry"
+],
+"chapters_target": 12,
+"words_now": 6391,
+"words_target": 120000,
+"words_needed": 113609
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Precalculus",
+"id": "precalculus",
+"topics_as_chapters": [
+"precalculus"
+],
+"chapters_target": 12,
+"words_now": 2615,
+"words_target": 120000,
+"words_needed": 117385
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Calculus",
+"id": "calculus",
+"topics_as_chapters": [
+"calculus_1",
+"calculus_2",
+"calculus_3"
+],
+"chapters_target": 12,
+"words_now": 15637,
+"words_target": 120000,
+"words_needed": 104363
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Differential Equations",
+"id": "differential_equations",
+"topics_as_chapters": [
+"differential_equations"
+],
+"chapters_target": 12,
+"words_now": 5209,
+"words_target": 120000,
+"words_needed": 114791
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Linear Algebra",
+"id": "linear_algebra",
+"topics_as_chapters": [
+"linear_algebra"
+],
+"chapters_target": 12,
+"words_now": 5546,
+"words_target": 120000,
+"words_needed": 114454
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Abstract Algebra",
+"id": "abstract_algebra",
+"topics_as_chapters": [
+"abstract_algebra",
+"representation_theory"
+],
+"chapters_target": 12,
+"words_now": 9492,
+"words_target": 120000,
+"words_needed": 110508
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Algebraic Geometry",
+"id": "algebraic_geometry",
+"topics_as_chapters": [
+"algebraic_geometry",
+"arithmetic_geometry",
+"derived_algebraic_geometry",
+"tropical_geometry",
+"motivic_cohomology"
+],
+"chapters_target": 12,
+"words_now": 24913,
+"words_target": 120000,
+"words_needed": 95087
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Number Theory",
+"id": "number_theory",
+"topics_as_chapters": [
+"number_theory",
+"langlands_program"
+],
+"chapters_target": 12,
+"words_now": 7528,
+"words_target": 120000,
+"words_needed": 112472
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Discrete Mathematics and Logic",
+"id": "discrete_mathematics_and_logic",
+"topics_as_chapters": [
+"discrete_mathematics",
+"graph_theory",
+"combinatorics",
+"set_theory",
+"mathematical_logic",
+"model_theory"
+],
+"chapters_target": 12,
+"words_now": 22391,
+"words_target": 120000,
+"words_needed": 97609
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Probability and Statistics",
+"id": "probability_and_statistics",
+"topics_as_chapters": [
+"probability",
+"statistics",
+"bayesian_statistics",
+"stochastic_analysis"
+],
+"chapters_target": 12,
+"words_now": 16683,
+"words_target": 120000,
+"words_needed": 103317
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Mathematical Analysis",
+"id": "mathematical_analysis",
+"topics_as_chapters": [
+"real_analysis",
+"complex_analysis",
+"functional_analysis",
+"measure_theory",
+"ergodic_theory",
+"operator_algebras"
+],
+"chapters_target": 12,
+"words_now": 23325,
+"words_target": 120000,
+"words_needed": 96675
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Topology",
+"id": "topology",
+"topics_as_chapters": [
+"topology",
+"geometric_group_theory",
+"higher_category_theory",
+"homotopy_type_theory"
+],
+"chapters_target": 12,
+"words_now": 12437,
+"words_target": 120000,
+"words_needed": 107563
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Numerical Analysis",
+"id": "numerical_analysis",
+"topics_as_chapters": [
+"numerical_methods",
+"numerical_analysis"
+],
+"chapters_target": 12,
+"words_now": 10183,
+"words_target": 120000,
+"words_needed": 109817
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Applied Mathematics and Operations Research",
+"id": "applied_mathematics_and_operations_research",
+"topics_as_chapters": [
+"applied_mathematics",
+"mathematical_modeling",
+"operations_research",
+"decision_science",
+"game_theory"
+],
+"chapters_target": 12,
+"words_now": 21481,
+"words_target": 120000,
+"words_needed": 98519
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Financial and Actuarial Mathematics",
+"id": "financial_and_actuarial_mathematics",
+"topics_as_chapters": [
+"financial_mathematics",
+"actuarial_mathematics",
+"financial_engineering"
+],
+"chapters_target": 12,
+"words_now": 15546,
+"words_target": 120000,
+"words_needed": 104454
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Theory of Computation and Information",
+"id": "theory_of_computation_and_information",
+"topics_as_chapters": [
+"computational_complexity",
+"information_theory",
+"cryptography_math"
+],
+"chapters_target": 12,
+"words_now": 11389,
+"words_target": 120000,
+"words_needed": 108611
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Classical Mechanics",
+"id": "classical_mechanics",
+"topics_as_chapters": [
+"physics_mechanics",
+"classical_mechanics_advanced"
+],
+"chapters_target": 12,
+"words_now": 7654,
+"words_target": 120000,
+"words_needed": 112346
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Thermodynamics and Statistical Mechanics",
+"id": "thermodynamics_and_statistical_mechanics",
+"topics_as_chapters": [
+"physics_thermodynamics",
+"statistical_mechanics",
+"quantum_thermodynamics"
+],
+"chapters_target": 12,
+"words_now": 10023,
+"words_target": 120000,
+"words_needed": 109977
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Electromagnetism",
+"id": "electromagnetism",
+"topics_as_chapters": [
+"physics_electromagnetism"
+],
+"chapters_target": 12,
+"words_now": 3154,
+"words_target": 120000,
+"words_needed": 116846
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Waves and Optics",
+"id": "waves_and_optics",
+"topics_as_chapters": [
+"physics_optics",
+"physics_waves",
+"quantum_optics",
+"plasmonics",
+"metamaterials"
+],
+"chapters_target": 12,
+"words_now": 20301,
+"words_target": 120000,
+"words_needed": 99699
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Quantum Mechanics",
+"id": "quantum_mechanics",
+"topics_as_chapters": [
+"quantum_mechanics",
+"quantum_information",
+"cold_atom_physics",
+"attosecond_physics"
+],
+"chapters_target": 12,
+"words_now": 15567,
+"words_target": 120000,
+"words_needed": 104433
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Relativity and Gravitation",
+"id": "relativity_and_gravitation",
+"topics_as_chapters": [
+"relativity",
+"gravitational_wave_astronomy",
+"quantum_gravity_phenomenology",
+"loop_quantum_gravity"
+],
+"chapters_target": 12,
+"words_now": 13224,
+"words_target": 120000,
+"words_needed": 106776
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Nuclear and Particle Physics",
+"id": "nuclear_and_particle_physics",
+"topics_as_chapters": [
+"nuclear_physics",
+"particle_physics",
+"quantum_chromodynamics",
+"quantum_field_theory",
+"string_theory",
+"string_theory_physics"
+],
+"chapters_target": 12,
+"words_now": 25536,
+"words_target": 120000,
+"words_needed": 94464
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Condensed Matter Physics",
+"id": "condensed_matter_physics",
+"topics_as_chapters": [
+"condensed_matter",
+"condensed_matter_physics",
+"spintronics",
+"topological_insulators",
+"materials_physics"
+],
+"chapters_target": 12,
+"words_now": 19600,
+"words_target": 120000,
+"words_needed": 100400
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Plasma Physics",
+"id": "plasma_physics",
+"topics_as_chapters": [
+"plasma_physics",
+"fusion_plasma_physics"
+],
+"chapters_target": 12,
+"words_now": 9740,
+"words_target": 120000,
+"words_needed": 110260
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Astronomy and Astrophysics",
+"id": "astronomy_and_astrophysics",
+"topics_as_chapters": [
+"astronomy",
+"astrophysics",
+"cosmology",
+"planetary_science",
+"exoplanet_science",
+"astrobiology"
+],
+"chapters_target": 12,
+"words_now": 24664,
+"words_target": 120000,
+"words_needed": 95336
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "General Chemistry",
+"id": "general_chemistry",
+"topics_as_chapters": [
+"chemistry_general",
+"chemistry_nuclear"
+],
+"chapters_target": 12,
+"words_now": 9279,
+"words_target": 120000,
+"words_needed": 110721
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Organic Chemistry",
+"id": "organic_chemistry",
+"topics_as_chapters": [
+"chemistry_organic",
+"chemistry_polymer"
+],
+"chapters_target": 12,
+"words_now": 8068,
+"words_target": 120000,
+"words_needed": 111932
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Inorganic Chemistry",
+"id": "inorganic_chemistry",
+"topics_as_chapters": [
+"chemistry_inorganic"
+],
+"chapters_target": 12,
+"words_now": 3600,
+"words_target": 120000,
+"words_needed": 116400
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Physical Chemistry",
+"id": "physical_chemistry",
+"topics_as_chapters": [
+"chemistry_physical"
+],
+"chapters_target": 12,
+"words_now": 4824,
+"words_target": 120000,
+"words_needed": 115176
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Analytical Chemistry",
+"id": "analytical_chemistry",
+"topics_as_chapters": [
+"chemistry_analytical"
+],
+"chapters_target": 12,
+"words_now": 4926,
+"words_target": 120000,
+"words_needed": 115074
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Biochemistry",
+"id": "biochemistry",
+"topics_as_chapters": [
+"biochemistry"
+],
+"chapters_target": 12,
+"words_now": 2178,
+"words_target": 120000,
+"words_needed": 117822
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Environmental and Green Chemistry",
+"id": "environmental_and_green_chemistry",
+"topics_as_chapters": [
+"chemistry_environmental",
+"green_chemistry"
+],
+"chapters_target": 12,
+"words_now": 8410,
+"words_target": 120000,
+"words_needed": 111590
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Materials Science and Nanotechnology",
+"id": "materials_science_and_nanotechnology",
+"topics_as_chapters": [
+"materials_science",
+"nanotechnology",
+"molecular_nanotechnology"
+],
+"chapters_target": 12,
+"words_now": 11277,
+"words_target": 120000,
+"words_needed": 108723
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Earth Science and Geology",
+"id": "earth_science_and_geology",
+"topics_as_chapters": [
+"earth_science",
+"geology",
+"volcanology_seismology",
+"geophysics",
+"paleontology_fossils"
+],
+"chapters_target": 12,
+"words_now": 19971,
+"words_target": 120000,
+"words_needed": 100029
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Atmospheric Science and Meteorology",
+"id": "atmospheric_science_and_meteorology",
+"topics_as_chapters": [
+"meteorology",
+"atmospheric_science"
+],
+"chapters_target": 12,
+"words_now": 8479,
+"words_target": 120000,
+"words_needed": 111521
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Oceanography",
+"id": "oceanography",
+"topics_as_chapters": [
+"oceanography"
+],
+"chapters_target": 12,
+"words_now": 2415,
+"words_target": 120000,
+"words_needed": 117585
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Environmental Science",
+"id": "environmental_science",
+"topics_as_chapters": [
+"environmental_science"
+],
+"chapters_target": 12,
+"words_now": 4287,
+"words_target": 120000,
+"words_needed": 115713
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Climate Science",
+"id": "climate_science",
+"topics_as_chapters": [
+"climate_science",
+"climate_modeling",
+"climate_adaptation",
+"climate_engineering"
+],
+"chapters_target": 12,
+"words_now": 18059,
+"words_target": 120000,
+"words_needed": 101941
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "General Biology",
+"id": "general_biology",
+"topics_as_chapters": [
+"biology_general"
+],
+"chapters_target": 12,
+"words_now": 4096,
+"words_target": 120000,
+"words_needed": 115904
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Cell and Molecular Biology",
+"id": "cell_and_molecular_biology",
+"topics_as_chapters": [
+"cell_biology",
+"molecular_biology",
+"metabolomics",
+"cryo_electron_microscopy",
+"protein_folding_prediction"
+],
+"chapters_target": 12,
+"words_now": 20924,
+"words_target": 120000,
+"words_needed": 99076
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Genetics",
+"id": "genetics",
+"topics_as_chapters": [
+"genetics",
+"epigenetics_advanced",
+"crispr_gene_editing"
+],
+"chapters_target": 12,
+"words_now": 9074,
+"words_target": 120000,
+"words_needed": 110926
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Bioinformatics and Genomics",
+"id": "bioinformatics_and_genomics",
+"topics_as_chapters": [
+"bioinformatics",
+"bioinformatics_genomics",
+"phylogenomics",
+"single_cell_genomics",
+"dna_data_storage"
+],
+"chapters_target": 12,
+"words_now": 18254,
+"words_target": 120000,
+"words_needed": 101746
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Evolutionary Biology",
+"id": "evolutionary_biology",
+"topics_as_chapters": [
+"evolution"
+],
+"chapters_target": 12,
+"words_now": 4782,
+"words_target": 120000,
+"words_needed": 115218
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Microbiology",
+"id": "microbiology",
+"topics_as_chapters": [
+"microbiology",
+"virology",
+"parasitology",
+"mycology"
+],
+"chapters_target": 12,
+"words_now": 15737,
+"words_target": 120000,
+"words_needed": 104263
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Immunology",
+"id": "immunology",
+"topics_as_chapters": [
+"immunology"
+],
+"chapters_target": 12,
+"words_now": 3913,
+"words_target": 120000,
+"words_needed": 116087
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Botany",
+"id": "botany",
+"topics_as_chapters": [
+"botany"
+],
+"chapters_target": 12,
+"words_now": 3368,
+"words_target": 120000,
+"words_needed": 116632
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Zoology",
+"id": "zoology",
+"topics_as_chapters": [
+"zoology",
+"entomology",
+"ornithology",
+"marine_biology"
+],
+"chapters_target": 12,
+"words_now": 15109,
+"words_target": 120000,
+"words_needed": 104891
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Neuroscience",
+"id": "neuroscience",
+"topics_as_chapters": [
+"neuroscience",
+"computational_neuroscience",
+"connectomics",
+"optogenetics",
+"cognitive_neuroscience"
+],
+"chapters_target": 12,
+"words_now": 18190,
+"words_target": 120000,
+"words_needed": 101810
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Biotechnology and Synthetic Biology",
+"id": "biotechnology_and_synthetic_biology",
+"topics_as_chapters": [
+"biotechnology",
+"synthetic_biology",
+"xenobiology",
+"organoid_engineering",
+"biophotonics"
+],
+"chapters_target": 12,
+"words_now": 16172,
+"words_target": 120000,
+"words_needed": 103828
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Developmental Biology",
+"id": "developmental_biology",
+"topics_as_chapters": [
+"developmental_biology"
+],
+"chapters_target": 12,
+"words_now": 4201,
+"words_target": 120000,
+"words_needed": 115799
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Ecology and Conservation",
+"id": "ecology_and_conservation",
+"topics_as_chapters": [
+"ecology",
+"ecology_advanced",
+"conservation_biology",
+"wildlife_management",
+"ocean_conservation"
+],
+"chapters_target": 12,
+"words_now": 18765,
+"words_target": 120000,
+"words_needed": 101235
+},
+{
+"field_code": "05",
+"field": "Natural sciences, mathematics and statistics",
+"title": "Systems Biology",
+"id": "systems_biology",
+"topics_as_chapters": [
+"systems_biology"
+],
+"chapters_target": 12,
+"words_now": 4063,
+"words_target": 120000,
+"words_needed": 115937
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Introduction to Computing and Programming",
+"id": "introduction_to_computing_and_programming",
+"topics_as_chapters": [
+"computer_fundamentals",
+"programming_basics"
+],
+"chapters_target": 12,
+"words_now": 8050,
+"words_target": 120000,
+"words_needed": 111950
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Python Programming",
+"id": "python_programming",
+"topics_as_chapters": [
+"python"
+],
+"chapters_target": 12,
+"words_now": 3979,
+"words_target": 120000,
+"words_needed": 116021
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "JavaScript, TypeScript and Node.js",
+"id": "javascript_typescript_and_node_js",
+"topics_as_chapters": [
+"javascript",
+"typescript",
+"nodejs"
+],
+"chapters_target": 12,
+"words_now": 8509,
+"words_target": 120000,
+"words_needed": 111491
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Java and Kotlin",
+"id": "java_and_kotlin",
+"topics_as_chapters": [
+"java",
+"kotlin"
+],
+"chapters_target": 12,
+"words_now": 6777,
+"words_target": 120000,
+"words_needed": 113223
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "C and C++",
+"id": "c_and_c",
+"topics_as_chapters": [
+"cpp"
+],
+"chapters_target": 12,
+"words_now": 3876,
+"words_target": 120000,
+"words_needed": 116124
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "C# and .NET",
+"id": "c_and_net",
+"topics_as_chapters": [
+"csharp"
+],
+"chapters_target": 12,
+"words_now": 2162,
+"words_target": 120000,
+"words_needed": 117838
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Rust and Go",
+"id": "rust_and_go",
+"topics_as_chapters": [
+"rust",
+"go"
+],
+"chapters_target": 12,
+"words_now": 6573,
+"words_target": 120000,
+"words_needed": 113427
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Ruby and PHP",
+"id": "ruby_and_php",
+"topics_as_chapters": [
+"ruby",
+"php"
+],
+"chapters_target": 12,
+"words_now": 5725,
+"words_target": 120000,
+"words_needed": 114275
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Mobile App Development",
+"id": "mobile_app_development",
+"topics_as_chapters": [
+"swift",
+"mobile_development",
+"mobile_app_development"
+],
+"chapters_target": 12,
+"words_now": 11067,
+"words_target": 120000,
+"words_needed": 108933
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Web Development",
+"id": "web_development",
+"topics_as_chapters": [
+"html_css",
+"react",
+"angular",
+"vue",
+"web_design"
+],
+"chapters_target": 12,
+"words_now": 21696,
+"words_target": 120000,
+"words_needed": 98304
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Data Structures and Algorithms",
+"id": "data_structures_and_algorithms",
+"topics_as_chapters": [
+"data_structures",
+"algorithms"
+],
+"chapters_target": 12,
+"words_now": 8589,
+"words_target": 120000,
+"words_needed": 111411
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Databases",
+"id": "databases",
+"topics_as_chapters": [
+"database_design",
+"sql",
+"nosql"
+],
+"chapters_target": 12,
+"words_now": 10582,
+"words_target": 120000,
+"words_needed": 109418
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Operating Systems",
+"id": "operating_systems",
+"topics_as_chapters": [
+"operating_systems"
+],
+"chapters_target": 12,
+"words_now": 3773,
+"words_target": 120000,
+"words_needed": 116227
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Computer Networks",
+"id": "computer_networks",
+"topics_as_chapters": [
+"computer_networks"
+],
+"chapters_target": 12,
+"words_now": 2115,
+"words_target": 120000,
+"words_needed": 117885
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Cybersecurity",
+"id": "cybersecurity",
+"topics_as_chapters": [
+"cybersecurity",
+"information_security",
+"penetration_testing",
+"digital_forensics_advanced",
+"cyber_defense",
+"zero_trust_architecture",
+"identity_access_management",
+"oauth_identity",
+"security_compliance_frameworks",
+"threat_intelligence_analysis",
+"incident_response"
+],
+"chapters_target": 12,
+"words_now": 43594,
+"words_target": 120000,
+"words_needed": 76406
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Cryptography",
+"id": "cryptography",
+"topics_as_chapters": [
+"cryptography",
+"applied_cryptography",
+"advanced_cryptography",
+"homomorphic_encryption",
+"zero_knowledge_proofs"
+],
+"chapters_target": 12,
+"words_now": 20679,
+"words_target": 120000,
+"words_needed": 99321
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Cloud Computing and DevOps",
+"id": "cloud_computing_and_devops",
+"topics_as_chapters": [
+"cloud_computing",
+"devops",
+"docker_kubernetes",
+"devops_engineering",
+"devops_culture",
+"site_reliability_engineering",
+"cloud_native_architecture"
+],
+"chapters_target": 12,
+"words_now": 27723,
+"words_target": 120000,
+"words_needed": 92277
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Software Architecture and System Design",
+"id": "software_architecture_and_system_design",
+"topics_as_chapters": [
+"system_design",
+"microservices",
+"api_design",
+"distributed_systems",
+"message_queues",
+"system_integration_patterns",
+"webhook_architecture"
+],
+"chapters_target": 12,
+"words_now": 27108,
+"words_target": 120000,
+"words_needed": 92892
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Software Engineering",
+"id": "software_engineering",
+"topics_as_chapters": [
+"software_engineering",
+"agile_methodology",
+"version_control_git",
+"formal_verification",
+"program_synthesis"
+],
+"chapters_target": 12,
+"words_now": 17865,
+"words_target": 120000,
+"words_needed": 102135
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Compilers and Programming Languages",
+"id": "compilers_and_programming_languages",
+"topics_as_chapters": [
+"compiler_design",
+"compilers",
+"type_theory",
+"category_theory_cs",
+"differentiable_programming"
+],
+"chapters_target": 12,
+"words_now": 21907,
+"words_target": 120000,
+"words_needed": 98093
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Computer Architecture",
+"id": "computer_architecture",
+"topics_as_chapters": [
+"computer_architecture",
+"parallel_computing",
+"neuromorphic_computing",
+"photonic_computing"
+],
+"chapters_target": 12,
+"words_now": 13086,
+"words_target": 120000,
+"words_needed": 106914
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Artificial Intelligence",
+"id": "artificial_intelligence",
+"topics_as_chapters": [
+"artificial_intelligence_foundations",
+"autonomous_systems",
+"enterprise_ai_architecture",
+"ai_ethics_governance",
+"mechanistic_interpretability"
+],
+"chapters_target": 12,
+"words_now": 19770,
+"words_target": 120000,
+"words_needed": 100230
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Machine Learning",
+"id": "machine_learning",
+"topics_as_chapters": [
+"machine_learning",
+"deep_learning",
+"reinforcement_learning",
+"graph_neural_networks",
+"federated_learning",
+"neural_architecture_search",
+"spiking_neural_networks",
+"causal_inference_ml"
+],
+"chapters_target": 12,
+"words_now": 33064,
+"words_target": 120000,
+"words_needed": 86936
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Generative AI and Large Language Models",
+"id": "generative_ai_and_large_language_models",
+"topics_as_chapters": [
+"generative_ai_systems",
+"large_language_models",
+"diffusion_models",
+"prompt_engineering",
+"natural_language_processing"
+],
+"chapters_target": 12,
+"words_now": 17979,
+"words_target": 120000,
+"words_needed": 102021
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Computer Vision",
+"id": "computer_vision",
+"topics_as_chapters": [
+"computer_vision",
+"computer_vision_ai"
+],
+"chapters_target": 12,
+"words_now": 8730,
+"words_target": 120000,
+"words_needed": 111270
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Data Science",
+"id": "data_science",
+"topics_as_chapters": [
+"data_science",
+"predictive_analytics"
+],
+"chapters_target": 12,
+"words_now": 9106,
+"words_target": 120000,
+"words_needed": 110894
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Data Engineering",
+"id": "data_engineering",
+"topics_as_chapters": [
+"data_engineering",
+"big_data",
+"data_pipeline_design"
+],
+"chapters_target": 12,
+"words_now": 10647,
+"words_target": 120000,
+"words_needed": 109353
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Blockchain and Web3 Development",
+"id": "blockchain_and_web3_development",
+"topics_as_chapters": [
+"blockchain",
+"blockchain_development",
+"web3"
+],
+"chapters_target": 12,
+"words_now": 13178,
+"words_target": 120000,
+"words_needed": 106822
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Quantum Computing",
+"id": "quantum_computing",
+"topics_as_chapters": [
+"quantum_computing",
+"quantum_computing_applications",
+"quantum_machine_learning",
+"quantum_error_correction",
+"topological_quantum_computing",
+"quantum_engineering"
+],
+"chapters_target": 12,
+"words_now": 20681,
+"words_target": 120000,
+"words_needed": 99319
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Embedded Systems and IoT",
+"id": "embedded_systems_and_iot",
+"topics_as_chapters": [
+"embedded_systems",
+"iot_programming"
+],
+"chapters_target": 12,
+"words_now": 6579,
+"words_target": 120000,
+"words_needed": 113421
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Game Development",
+"id": "game_development",
+"topics_as_chapters": [
+"game_development",
+"game_design"
+],
+"chapters_target": 12,
+"words_now": 9192,
+"words_target": 120000,
+"words_needed": 110808
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Computer Graphics and Extended Reality",
+"id": "computer_graphics_and_extended_reality",
+"topics_as_chapters": [
+"computer_graphics",
+"ar_vr_development"
+],
+"chapters_target": 12,
+"words_now": 8526,
+"words_target": 120000,
+"words_needed": 111474
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "Human-Computer Interaction and UX",
+"id": "human_computer_interaction_and_ux",
+"topics_as_chapters": [
+"human_computer_interaction",
+"ui_ux_design",
+"user_research_methods"
+],
+"chapters_target": 12,
+"words_now": 10645,
+"words_target": 120000,
+"words_needed": 109355
+},
+{
+"field_code": "06",
+"field": "Information and communication technologies",
+"title": "No-Code and Low-Code Development",
+"id": "no_code_and_low_code_development",
+"topics_as_chapters": [
+"no_code_low_code"
+],
+"chapters_target": 12,
+"words_now": 3186,
+"words_target": 120000,
+"words_needed": 116814
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Engineering Fundamentals",
+"id": "engineering_fundamentals",
+"topics_as_chapters": [
+"engineering_fundamentals"
+],
+"chapters_target": 12,
+"words_now": 4728,
+"words_target": 120000,
+"words_needed": 115272
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Mechanical Engineering",
+"id": "mechanical_engineering",
+"topics_as_chapters": [
+"mechanical_engineering"
+],
+"chapters_target": 12,
+"words_now": 4630,
+"words_target": 120000,
+"words_needed": 115370
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Electrical and Power Engineering",
+"id": "electrical_and_power_engineering",
+"topics_as_chapters": [
+"electrical_engineering",
+"power_systems"
+],
+"chapters_target": 12,
+"words_now": 8327,
+"words_target": 120000,
+"words_needed": 111673
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Electronics and Microsystems",
+"id": "electronics_and_microsystems",
+"topics_as_chapters": [
+"electronics",
+"vlsi_design",
+"mems_nems"
+],
+"chapters_target": 12,
+"words_now": 13797,
+"words_target": 120000,
+"words_needed": 106203
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Civil and Structural Engineering",
+"id": "civil_and_structural_engineering",
+"topics_as_chapters": [
+"civil_engineering",
+"structural_engineering",
+"geotechnical_engineering",
+"transportation_engineering",
+"water_resources_engineering"
+],
+"chapters_target": 12,
+"words_now": 19106,
+"words_target": 120000,
+"words_needed": 100894
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Chemical and Petroleum Engineering",
+"id": "chemical_and_petroleum_engineering",
+"topics_as_chapters": [
+"chemical_engineering",
+"petroleum_engineering"
+],
+"chapters_target": 12,
+"words_now": 7303,
+"words_target": 120000,
+"words_needed": 112697
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Aerospace Engineering",
+"id": "aerospace_engineering",
+"topics_as_chapters": [
+"aerospace_engineering",
+"aerospace_propulsion_advanced",
+"hypersonics",
+"aerodynamics",
+"flight_mechanics",
+"aerospace_propulsion",
+"aerospace_materials",
+"rocket_science",
+"spacecraft_design",
+"space_systems_engineering",
+"orbital_mechanics"
+],
+"chapters_target": 12,
+"words_now": 43141,
+"words_target": 120000,
+"words_needed": 76859
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Biomedical Engineering",
+"id": "biomedical_engineering",
+"topics_as_chapters": [
+"biomedical_engineering",
+"brain_computer_interfaces",
+"tissue_engineering",
+"microfluidics",
+"neuroprosthetics"
+],
+"chapters_target": 12,
+"words_now": 20358,
+"words_target": 120000,
+"words_needed": 99642
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Environmental Engineering",
+"id": "environmental_engineering",
+"topics_as_chapters": [
+"environmental_engineering",
+"water_treatment",
+"waste_management"
+],
+"chapters_target": 12,
+"words_now": 10498,
+"words_target": 120000,
+"words_needed": 109502
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Industrial and Systems Engineering",
+"id": "industrial_and_systems_engineering",
+"topics_as_chapters": [
+"industrial_engineering",
+"systems_engineering",
+"quality_engineering",
+"six_sigma",
+"reliability_engineering",
+"fault_tolerant_systems",
+"digital_twins"
+],
+"chapters_target": 12,
+"words_now": 26829,
+"words_target": 120000,
+"words_needed": 93171
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Nuclear Engineering",
+"id": "nuclear_engineering",
+"topics_as_chapters": [
+"nuclear_engineering"
+],
+"chapters_target": 12,
+"words_now": 4486,
+"words_target": 120000,
+"words_needed": 115514
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Mining Engineering",
+"id": "mining_engineering",
+"topics_as_chapters": [
+"mining_engineering"
+],
+"chapters_target": 12,
+"words_now": 2501,
+"words_target": 120000,
+"words_needed": 117499
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Agricultural Engineering",
+"id": "agricultural_engineering",
+"topics_as_chapters": [
+"agricultural_engineering",
+"agricultural_engineering_ag",
+"irrigation_science",
+"irrigation_engineering",
+"precision_agriculture"
+],
+"chapters_target": 12,
+"words_now": 16733,
+"words_target": 120000,
+"words_needed": 103267
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Marine and Ocean Engineering",
+"id": "marine_and_ocean_engineering",
+"topics_as_chapters": [
+"marine_engineering",
+"ocean_engineering"
+],
+"chapters_target": 12,
+"words_now": 10011,
+"words_target": 120000,
+"words_needed": 109989
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Control Systems",
+"id": "control_systems",
+"topics_as_chapters": [
+"control_systems"
+],
+"chapters_target": 12,
+"words_now": 4294,
+"words_target": 120000,
+"words_needed": 115706
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Signal Processing and Telecommunications",
+"id": "signal_processing_and_telecommunications",
+"topics_as_chapters": [
+"signal_processing",
+"telecommunications",
+"satellite_communications"
+],
+"chapters_target": 12,
+"words_now": 13022,
+"words_target": 120000,
+"words_needed": 106978
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Manufacturing Engineering",
+"id": "manufacturing_engineering",
+"topics_as_chapters": [
+"manufacturing_engineering",
+"cad_cam",
+"additive_manufacturing_advanced",
+"additive_manufacturing_3d",
+"cnc_programming",
+"machining"
+],
+"chapters_target": 12,
+"words_now": 23155,
+"words_target": 120000,
+"words_needed": 96845
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Materials Engineering",
+"id": "materials_engineering",
+"topics_as_chapters": [
+"materials_engineering"
+],
+"chapters_target": 12,
+"words_now": 4396,
+"words_target": 120000,
+"words_needed": 115604
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Photonics",
+"id": "photonics",
+"topics_as_chapters": [
+"photonics",
+"nanophotonics"
+],
+"chapters_target": 12,
+"words_now": 6649,
+"words_target": 120000,
+"words_needed": 113351
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Robotics and Autonomous Vehicles",
+"id": "robotics_and_autonomous_vehicles",
+"topics_as_chapters": [
+"robotics_programming",
+"robotics_engineering",
+"soft_robotics",
+"swarm_robotics",
+"mechatronics",
+"autonomous_vehicles_tech"
+],
+"chapters_target": 12,
+"words_now": 23323,
+"words_target": 120000,
+"words_needed": 96677
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Unmanned Aerial Systems",
+"id": "unmanned_aerial_systems",
+"topics_as_chapters": [
+"drone_technology",
+"unmanned_aerial_systems"
+],
+"chapters_target": 12,
+"words_now": 8320,
+"words_target": 120000,
+"words_needed": 111680
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Renewable Energy Systems",
+"id": "renewable_energy_systems",
+"topics_as_chapters": [
+"renewable_energy",
+"solar_energy_systems",
+"wind_energy",
+"energy_storage"
+],
+"chapters_target": 12,
+"words_now": 15440,
+"words_target": 120000,
+"words_needed": 104560
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Architecture and Green Building",
+"id": "architecture_and_green_building",
+"topics_as_chapters": [
+"architecture",
+"green_building"
+],
+"chapters_target": 12,
+"words_now": 8513,
+"words_target": 120000,
+"words_needed": 111487
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Landscape Architecture",
+"id": "landscape_architecture",
+"topics_as_chapters": [
+"landscape_architecture",
+"landscaping"
+],
+"chapters_target": 12,
+"words_now": 5720,
+"words_target": 120000,
+"words_needed": 114280
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Aircraft Systems and Maintenance",
+"id": "aircraft_systems_and_maintenance",
+"topics_as_chapters": [
+"aircraft_systems",
+"avionics",
+"aircraft_maintenance"
+],
+"chapters_target": 12,
+"words_now": 11558,
+"words_target": 120000,
+"words_needed": 108442
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Electrical Trade",
+"id": "electrical_trade",
+"topics_as_chapters": [
+"electrical_work"
+],
+"chapters_target": 12,
+"words_now": 4142,
+"words_target": 120000,
+"words_needed": 115858
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Plumbing",
+"id": "plumbing",
+"topics_as_chapters": [
+"plumbing"
+],
+"chapters_target": 12,
+"words_now": 4718,
+"words_target": 120000,
+"words_needed": 115282
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Welding",
+"id": "welding",
+"topics_as_chapters": [
+"welding"
+],
+"chapters_target": 12,
+"words_now": 4958,
+"words_target": 120000,
+"words_needed": 115042
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "HVAC",
+"id": "hvac",
+"topics_as_chapters": [
+"hvac"
+],
+"chapters_target": 12,
+"words_now": 2417,
+"words_target": 120000,
+"words_needed": 117583
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Carpentry and Woodworking",
+"id": "carpentry_and_woodworking",
+"topics_as_chapters": [
+"carpentry",
+"woodworking"
+],
+"chapters_target": 12,
+"words_now": 8096,
+"words_target": 120000,
+"words_needed": 111904
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Building Trades: Masonry, Roofing and Painting",
+"id": "building_trades_masonry_roofing_and_painting",
+"topics_as_chapters": [
+"masonry",
+"roofing",
+"painting_trades"
+],
+"chapters_target": 12,
+"words_now": 10335,
+"words_target": 120000,
+"words_needed": 109665
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Automotive and Diesel Technology",
+"id": "automotive_and_diesel_technology",
+"topics_as_chapters": [
+"auto_mechanics",
+"diesel_mechanics"
+],
+"chapters_target": 12,
+"words_now": 9737,
+"words_target": 120000,
+"words_needed": 110263
+},
+{
+"field_code": "07",
+"field": "Engineering, manufacturing and construction",
+"title": "Food Science and Technology",
+"id": "food_science_and_technology",
+"topics_as_chapters": [
+"food_science",
+"food_technology",
+"food_safety",
+"brewing_fermentation_science"
+],
+"chapters_target": 12,
+"words_now": 12970,
+"words_target": 120000,
+"words_needed": 107030
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Agricultural and Crop Science",
+"id": "agricultural_and_crop_science",
+"topics_as_chapters": [
+"agriculture",
+"agriculture_fundamentals",
+"agronomy",
+"crop_science",
+"seed_technology",
+"weed_science",
+"horticulture"
+],
+"chapters_target": 12,
+"words_now": 28372,
+"words_target": 120000,
+"words_needed": 91628
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Soil Science",
+"id": "soil_science",
+"topics_as_chapters": [
+"soil_science"
+],
+"chapters_target": 12,
+"words_now": 2586,
+"words_target": 120000,
+"words_needed": 117414
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Animal Science",
+"id": "animal_science",
+"topics_as_chapters": [
+"animal_science",
+"animal_husbandry",
+"dairy_science",
+"poultry_science",
+"apiculture"
+],
+"chapters_target": 12,
+"words_now": 15987,
+"words_target": 120000,
+"words_needed": 104013
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Aquaculture",
+"id": "aquaculture",
+"topics_as_chapters": [
+"aquaculture"
+],
+"chapters_target": 12,
+"words_now": 4723,
+"words_target": 120000,
+"words_needed": 115277
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Forestry and Rangeland Management",
+"id": "forestry_and_rangeland_management",
+"topics_as_chapters": [
+"forestry",
+"agroforestry",
+"range_management"
+],
+"chapters_target": 12,
+"words_now": 11157,
+"words_target": 120000,
+"words_needed": 108843
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Sustainable and Organic Agriculture",
+"id": "sustainable_and_organic_agriculture",
+"topics_as_chapters": [
+"organic_farming",
+"sustainable_agriculture",
+"permaculture",
+"regenerative_agriculture"
+],
+"chapters_target": 12,
+"words_now": 16522,
+"words_target": 120000,
+"words_needed": 103478
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Plant Protection and Agricultural Biotechnology",
+"id": "plant_protection_and_agricultural_biotechnology",
+"topics_as_chapters": [
+"agricultural_biotechnology",
+"plant_pathology",
+"pest_management"
+],
+"chapters_target": 12,
+"words_now": 13209,
+"words_target": 120000,
+"words_needed": 106791
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Viticulture and Enology",
+"id": "viticulture_and_enology",
+"topics_as_chapters": [
+"viticulture",
+"wine_viticulture_enology"
+],
+"chapters_target": 12,
+"words_now": 8317,
+"words_target": 120000,
+"words_needed": 111683
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Agricultural Economics and Agribusiness",
+"id": "agricultural_economics_and_agribusiness",
+"topics_as_chapters": [
+"agricultural_economics",
+"agribusiness",
+"farm_management"
+],
+"chapters_target": 12,
+"words_now": 12764,
+"words_target": 120000,
+"words_needed": 107236
+},
+{
+"field_code": "08",
+"field": "Agriculture, forestry, fisheries and veterinary",
+"title": "Veterinary Science",
+"id": "veterinary_science",
+"topics_as_chapters": [
+"veterinary_science",
+"veterinary_technician"
+],
+"chapters_target": 12,
+"words_now": 7919,
+"words_target": 120000,
+"words_needed": 112081
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Anatomy and Physiology",
+"id": "anatomy_and_physiology",
+"topics_as_chapters": [
+"anatomy_physiology",
+"human_anatomy",
+"human_physiology"
+],
+"chapters_target": 12,
+"words_now": 10986,
+"words_target": 120000,
+"words_needed": 109014
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Pathology",
+"id": "pathology",
+"topics_as_chapters": [
+"pathology"
+],
+"chapters_target": 12,
+"words_now": 4131,
+"words_target": 120000,
+"words_needed": 115869
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Internal Medicine",
+"id": "internal_medicine",
+"topics_as_chapters": [
+"internal_medicine",
+"cardiology",
+"endocrinology",
+"gastroenterology",
+"pulmonology",
+"nephrology",
+"hematology",
+"infectious_disease"
+],
+"chapters_target": 12,
+"words_now": 30053,
+"words_target": 120000,
+"words_needed": 89947
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Surgery",
+"id": "surgery",
+"topics_as_chapters": [
+"surgery_fundamentals",
+"orthopedics",
+"urology",
+"anesthesiology"
+],
+"chapters_target": 12,
+"words_now": 14575,
+"words_target": 120000,
+"words_needed": 105425
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Pediatrics",
+"id": "pediatrics",
+"topics_as_chapters": [
+"pediatrics"
+],
+"chapters_target": 12,
+"words_now": 3330,
+"words_target": 120000,
+"words_needed": 116670
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Obstetrics and Gynecology",
+"id": "obstetrics_and_gynecology",
+"topics_as_chapters": [
+"obstetrics_gynecology"
+],
+"chapters_target": 12,
+"words_now": 3858,
+"words_target": 120000,
+"words_needed": 116142
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Psychiatry and Mental Health",
+"id": "psychiatry_and_mental_health",
+"topics_as_chapters": [
+"psychiatry",
+"mental_health",
+"addiction_science"
+],
+"chapters_target": 12,
+"words_now": 13131,
+"words_target": 120000,
+"words_needed": 106869
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Radiology and Medical Imaging",
+"id": "radiology_and_medical_imaging",
+"topics_as_chapters": [
+"radiology",
+"radiogenomics",
+"radiology_technician"
+],
+"chapters_target": 12,
+"words_now": 11714,
+"words_target": 120000,
+"words_needed": 108286
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Emergency Medicine",
+"id": "emergency_medicine",
+"topics_as_chapters": [
+"emergency_medicine",
+"emt_paramedic"
+],
+"chapters_target": 12,
+"words_now": 4418,
+"words_target": 120000,
+"words_needed": 115582
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Neurology",
+"id": "neurology",
+"topics_as_chapters": [
+"neurology"
+],
+"chapters_target": 12,
+"words_now": 3988,
+"words_target": 120000,
+"words_needed": 116012
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Oncology",
+"id": "oncology",
+"topics_as_chapters": [
+"oncology",
+"precision_oncology",
+"immunotherapy_advanced"
+],
+"chapters_target": 12,
+"words_now": 11074,
+"words_target": 120000,
+"words_needed": 108926
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Dermatology",
+"id": "dermatology",
+"topics_as_chapters": [
+"dermatology"
+],
+"chapters_target": 12,
+"words_now": 3820,
+"words_target": 120000,
+"words_needed": 116180
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Ophthalmology",
+"id": "ophthalmology",
+"topics_as_chapters": [
+"ophthalmology"
+],
+"chapters_target": 12,
+"words_now": 2717,
+"words_target": 120000,
+"words_needed": 117283
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Nursing and Clinical Support",
+"id": "nursing_and_clinical_support",
+"topics_as_chapters": [
+"nursing",
+"medical_assisting",
+"phlebotomy"
+],
+"chapters_target": 12,
+"words_now": 12475,
+"words_target": 120000,
+"words_needed": 107525
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Public Health and Epidemiology",
+"id": "public_health_and_epidemiology",
+"topics_as_chapters": [
+"public_health",
+"epidemiology",
+"epidemiology_medical"
+],
+"chapters_target": 12,
+"words_now": 11748,
+"words_target": 120000,
+"words_needed": 108252
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Pharmacology and Toxicology",
+"id": "pharmacology_and_toxicology",
+"topics_as_chapters": [
+"pharmacology",
+"pharmacology_medical",
+"toxicology",
+"pharmacogenomics",
+"pharmacy_technician"
+],
+"chapters_target": 12,
+"words_now": 17731,
+"words_target": 120000,
+"words_needed": 102269
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Bioethics and Medical Ethics",
+"id": "bioethics_and_medical_ethics",
+"topics_as_chapters": [
+"medical_ethics",
+"bioethics"
+],
+"chapters_target": 12,
+"words_now": 6435,
+"words_target": 120000,
+"words_needed": 113565
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Clinical Research",
+"id": "clinical_research",
+"topics_as_chapters": [
+"clinical_research"
+],
+"chapters_target": 12,
+"words_now": 4243,
+"words_target": 120000,
+"words_needed": 115757
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Health Informatics and Telemedicine",
+"id": "health_informatics_and_telemedicine",
+"topics_as_chapters": [
+"telemedicine",
+"health_informatics"
+],
+"chapters_target": 12,
+"words_now": 8194,
+"words_target": 120000,
+"words_needed": 111806
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Sports Medicine and Athletic Training",
+"id": "sports_medicine_and_athletic_training",
+"topics_as_chapters": [
+"sports_medicine",
+"athletic_training"
+],
+"chapters_target": 12,
+"words_now": 8707,
+"words_target": 120000,
+"words_needed": 111293
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Rehabilitation Therapies",
+"id": "rehabilitation_therapies",
+"topics_as_chapters": [
+"rehabilitation",
+"occupational_therapy",
+"physical_therapy",
+"speech_pathology"
+],
+"chapters_target": 12,
+"words_now": 16182,
+"words_target": 120000,
+"words_needed": 103818
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Dentistry and Oral Health",
+"id": "dentistry_and_oral_health",
+"topics_as_chapters": [
+"dental_science",
+"dentistry_oral_health",
+"dental_hygiene"
+],
+"chapters_target": 12,
+"words_now": 12361,
+"words_target": 120000,
+"words_needed": 107639
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Complementary and Alternative Medicine",
+"id": "complementary_and_alternative_medicine",
+"topics_as_chapters": [
+"alternative_medicine"
+],
+"chapters_target": 12,
+"words_now": 4046,
+"words_target": 120000,
+"words_needed": 115954
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Geriatrics, Aging and Palliative Care",
+"id": "geriatrics_aging_and_palliative_care",
+"topics_as_chapters": [
+"geriatrics",
+"aging_gerontology_science",
+"palliative_care",
+"death_dying_studies",
+"biohacking_longevity"
+],
+"chapters_target": 12,
+"words_now": 19624,
+"words_target": 120000,
+"words_needed": 100376
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Regenerative Medicine and Gene Therapy",
+"id": "regenerative_medicine_and_gene_therapy",
+"topics_as_chapters": [
+"regenerative_medicine",
+"gene_therapy",
+"nanomedicine"
+],
+"chapters_target": 12,
+"words_now": 7979,
+"words_target": 120000,
+"words_needed": 112021
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Nutrition Science",
+"id": "nutrition_science",
+"topics_as_chapters": [
+"nutrition_science",
+"nutrition_medical",
+"sports_nutrition",
+"nutrition_wellness"
+],
+"chapters_target": 12,
+"words_now": 14400,
+"words_target": 120000,
+"words_needed": 105600
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Exercise Science and Kinesiology",
+"id": "exercise_science_and_kinesiology",
+"topics_as_chapters": [
+"exercise_science",
+"kinesiology",
+"biomechanics",
+"strength_conditioning"
+],
+"chapters_target": 12,
+"words_now": 12323,
+"words_target": 120000,
+"words_needed": 107677
+},
+{
+"field_code": "09",
+"field": "Health and welfare",
+"title": "Social Work and Community Development",
+"id": "social_work_and_community_development",
+"topics_as_chapters": [
+"social_work",
+"community_development"
+],
+"chapters_target": 12,
+"words_now": 8208,
+"words_target": 120000,
+"words_needed": 111792
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Pedagogy and Instructional Design",
+"id": "pedagogy_and_instructional_design",
+"topics_as_chapters": [
+"pedagogy",
+"curriculum_design",
+"online_learning_design",
+"educational_technology"
+],
+"chapters_target": 12,
+"words_now": 15041,
+"words_target": 120000,
+"words_needed": 104959
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Teaching in Schools",
+"id": "teaching_in_schools",
+"topics_as_chapters": [
+"classroom_management",
+"elementary_education",
+"secondary_education",
+"stem_education",
+"multicultural_education",
+"literacy_education"
+],
+"chapters_target": 12,
+"words_now": 23756,
+"words_target": 120000,
+"words_needed": 96244
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Early Childhood Education",
+"id": "early_childhood_education",
+"topics_as_chapters": [
+"early_childhood_education"
+],
+"chapters_target": 12,
+"words_now": 4420,
+"words_target": 120000,
+"words_needed": 115580
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Assessment and Evaluation",
+"id": "assessment_and_evaluation",
+"topics_as_chapters": [
+"assessment_evaluation"
+],
+"chapters_target": 12,
+"words_now": 3954,
+"words_target": 120000,
+"words_needed": 116046
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Special and Gifted Education",
+"id": "special_and_gifted_education",
+"topics_as_chapters": [
+"special_education",
+"gifted_education"
+],
+"chapters_target": 12,
+"words_now": 7479,
+"words_target": 120000,
+"words_needed": 112521
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Higher and Adult Education",
+"id": "higher_and_adult_education",
+"topics_as_chapters": [
+"higher_education_admin",
+"adult_education"
+],
+"chapters_target": 12,
+"words_now": 7965,
+"words_target": 120000,
+"words_needed": 112035
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Educational Leadership and Policy",
+"id": "educational_leadership_and_policy",
+"topics_as_chapters": [
+"educational_leadership",
+"education_policy",
+"school_counseling"
+],
+"chapters_target": 12,
+"words_now": 9180,
+"words_target": 120000,
+"words_needed": 110820
+},
+{
+"field_code": "01",
+"field": "Education",
+"title": "Teaching English as a Second Language",
+"id": "teaching_english_as_a_second_language",
+"topics_as_chapters": [
+"esl_teaching"
+],
+"chapters_target": 12,
+"words_now": 4823,
+"words_target": 120000,
+"words_needed": 115177
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Hospitality Management",
+"id": "hospitality_management",
+"topics_as_chapters": [
+"hotel_management",
+"resort_management",
+"guest_relations",
+"hospitality_marketing",
+"revenue_management_hospitality",
+"hospitality_law",
+"casino_management",
+"cruise_line_management",
+"spa_management"
+],
+"chapters_target": 12,
+"words_now": 31235,
+"words_target": 120000,
+"words_needed": 88765
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Restaurant Management",
+"id": "restaurant_management",
+"topics_as_chapters": [
+"restaurant_management",
+"food_beverage_management"
+],
+"chapters_target": 12,
+"words_now": 8701,
+"words_target": 120000,
+"words_needed": 111299
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Tourism Management",
+"id": "tourism_management",
+"topics_as_chapters": [
+"tourism_planning",
+"travel_agency_operations",
+"sustainable_tourism",
+"heritage_tourism",
+"adventure_tourism"
+],
+"chapters_target": 12,
+"words_now": 18155,
+"words_target": 120000,
+"words_needed": 101845
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Event Management",
+"id": "event_management",
+"topics_as_chapters": [
+"event_management"
+],
+"chapters_target": 12,
+"words_now": 4776,
+"words_target": 120000,
+"words_needed": 115224
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Culinary Arts",
+"id": "culinary_arts",
+"topics_as_chapters": [
+"culinary_arts",
+"baking_pastry"
+],
+"chapters_target": 12,
+"words_now": 6631,
+"words_target": 120000,
+"words_needed": 113369
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Cosmetology and Barbering",
+"id": "cosmetology_and_barbering",
+"topics_as_chapters": [
+"cosmetology",
+"barbering",
+"esthetician"
+],
+"chapters_target": 12,
+"words_now": 11294,
+"words_target": 120000,
+"words_needed": 108706
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Sports Management",
+"id": "sports_management",
+"topics_as_chapters": [
+"sports_management",
+"recreation_management",
+"sports_marketing",
+"sports_law_ethics",
+"esports_management",
+"youth_sports_development",
+"esports_competitive_gaming"
+],
+"chapters_target": 12,
+"words_now": 25702,
+"words_target": 120000,
+"words_needed": 94298
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Sports Science and Analytics",
+"id": "sports_science_and_analytics",
+"topics_as_chapters": [
+"sports_analytics",
+"performance_analysis",
+"sports_psychology",
+"coaching_methodology"
+],
+"chapters_target": 12,
+"words_now": 16173,
+"words_target": 120000,
+"words_needed": 103827
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Physical Fitness",
+"id": "physical_fitness",
+"topics_as_chapters": [
+"physical_fitness",
+"fitness_programming"
+],
+"chapters_target": 12,
+"words_now": 6101,
+"words_target": 120000,
+"words_needed": 113899
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Aviation Operations and Pilot Training",
+"id": "aviation_operations_and_pilot_training",
+"topics_as_chapters": [
+"aviation_pilot",
+"flight_navigation",
+"aviation_meteorology",
+"air_traffic_control",
+"human_factors_aviation",
+"aviation_safety"
+],
+"chapters_target": 12,
+"words_now": 26438,
+"words_target": 120000,
+"words_needed": 93562
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Aviation Management",
+"id": "aviation_management",
+"topics_as_chapters": [
+"aviation_law",
+"airport_management"
+],
+"chapters_target": 12,
+"words_now": 7791,
+"words_target": 120000,
+"words_needed": 112209
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Commercial Driving",
+"id": "commercial_driving",
+"topics_as_chapters": [
+"commercial_driving"
+],
+"chapters_target": 12,
+"words_now": 4719,
+"words_target": 120000,
+"words_needed": 115281
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Maritime Operations",
+"id": "maritime_operations",
+"topics_as_chapters": [
+"marine_operations",
+"naval_science"
+],
+"chapters_target": 12,
+"words_now": 8626,
+"words_target": 120000,
+"words_needed": 111374
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Firefighting",
+"id": "firefighting",
+"topics_as_chapters": [
+"firefighting"
+],
+"chapters_target": 12,
+"words_now": 3778,
+"words_target": 120000,
+"words_needed": 116222
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Law Enforcement",
+"id": "law_enforcement",
+"topics_as_chapters": [
+"law_enforcement"
+],
+"chapters_target": 12,
+"words_now": 3505,
+"words_target": 120000,
+"words_needed": 116495
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Forensic Science",
+"id": "forensic_science",
+"topics_as_chapters": [
+"forensic_science"
+],
+"chapters_target": 12,
+"words_now": 3748,
+"words_target": 120000,
+"words_needed": 116252
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Military Strategy and Leadership",
+"id": "military_strategy_and_leadership",
+"topics_as_chapters": [
+"military_strategy",
+"military_tactics",
+"military_leadership"
+],
+"chapters_target": 12,
+"words_now": 14197,
+"words_target": 120000,
+"words_needed": 105803
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "National Security and Intelligence",
+"id": "national_security_and_intelligence",
+"topics_as_chapters": [
+"national_security",
+"intelligence_analysis",
+"counterterrorism"
+],
+"chapters_target": 12,
+"words_now": 7856,
+"words_target": 120000,
+"words_needed": 112144
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Military Science",
+"id": "military_science",
+"topics_as_chapters": [
+"military_logistics",
+"air_force_science",
+"military_law",
+"veterans_affairs",
+"peacekeeping",
+"weapons_systems",
+"directed_energy_systems"
+],
+"chapters_target": 12,
+"words_now": 26604,
+"words_target": 120000,
+"words_needed": 93396
+},
+{
+"field_code": "10",
+"field": "Services",
+"title": "Environmental Policy and Management",
+"id": "environmental_policy_and_management",
+"topics_as_chapters": [
+"environmental_policy",
+"environmental_justice",
+"environmental_impact_assessment"
+],
+"chapters_target": 12,
+"words_now": 13051,
+"words_target": 120000,
+"words_needed": 106949
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Critical Thinking and Problem Solving",
+"id": "critical_thinking_and_problem_solving",
+"topics_as_chapters": [
+"critical_thinking",
+"problem_solving",
+"decision_making",
+"creative_thinking",
+"innovation_methods"
+],
+"chapters_target": 12,
+"words_now": 17399,
+"words_target": 120000,
+"words_needed": 102601
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Emotional Intelligence and Relationships",
+"id": "emotional_intelligence_and_relationships",
+"topics_as_chapters": [
+"emotional_intelligence",
+"interpersonal_skills",
+"relationship_skills",
+"conflict_resolution",
+"parenting"
+],
+"chapters_target": 12,
+"words_now": 17611,
+"words_target": 120000,
+"words_needed": 102389
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Productivity and Time Management",
+"id": "productivity_and_time_management",
+"topics_as_chapters": [
+"time_management",
+"productivity",
+"goal_setting"
+],
+"chapters_target": 12,
+"words_now": 9780,
+"words_target": 120000,
+"words_needed": 110220
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Mindfulness, Stress and Sleep",
+"id": "mindfulness_stress_and_sleep",
+"topics_as_chapters": [
+"mindfulness_meditation",
+"stress_management",
+"sleep_science"
+],
+"chapters_target": 12,
+"words_now": 10655,
+"words_target": 120000,
+"words_needed": 109345
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Communication Skills",
+"id": "communication_skills",
+"topics_as_chapters": [
+"communication_skills",
+"neurolinguistic_programming"
+],
+"chapters_target": 12,
+"words_now": 8228,
+"words_target": 120000,
+"words_needed": 111772
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Career Development",
+"id": "career_development",
+"topics_as_chapters": [
+"career_development"
+],
+"chapters_target": 12,
+"words_now": 3930,
+"words_target": 120000,
+"words_needed": 116070
+},
+{
+"field_code": "00",
+"field": "Generic programmes and qualifications",
+"title": "Study Skills and Learning",
+"id": "study_skills_and_learning",
+"topics_as_chapters": [
+"study_skills",
+"speed_reading",
+"memory_techniques"
+],
+"chapters_target": 12,
+"words_now": 9562,
+"words_target": 120000,
+"words_needed": 110438
+}
+]
+}
