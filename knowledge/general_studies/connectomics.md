@@ -6,7 +6,7 @@ course_level: 6
 dna16: ""
 l4_address: "S6:P1928584529"
 chain256_anchor: "1076963061027709087159987266592515650373575959251786871730968914126559188755394811522452361259251163894771305925020121482775110709304045418888660792634705055925098958298880592502902908689254970230437133027603101580702798592512293922033759250958609836395784"
-updated_at: "2026-09-07T07:38:59.252Z"
+updated_at: "2026-10-01T20:00:00.000Z"
 license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy knowledge base (ska_knowledge)
 ---
@@ -74,11 +74,9 @@ In connectomics, several methods and frameworks are employed to analyze and unde
 ## Worked Examples
 
 To illustrate the application of connectomics in life sciences, consider the following examples. 
-1. **Network Analysis of Neuronal Connections**: In a study of the Caenorhabditis elegans nervous system, researchers mapped 302 neurons and their 7,000 synapses. If each neuron has an average of 23.5 synapses, what proportion of possible connections are actually formed, assuming each neuron could connect to every other neuron? 
-Given: 302 neurons, 7,000 synapses, and each neuron could potentially connect to 301 others. 
-Calculation: Total possible connections = 302 * 301 / 2 = 45,551. 
-Proportion of actual connections = 7,000 / 45,551 ≈ 0.153 or 15.3%. 
-This example demonstrates how connectomics can quantify the complexity and efficiency of neural networks.
+1. **Neural Network Analysis**: Given a neural network with 1000 neurons and 5000 synapses, calculate the connection density. Connection density is defined as the number of synapses divided by the number of neurons squared. Using this formula, connection density = 5000 / (1000^2) = 0.005. This value indicates the proportion of possible connections that are actually present in the network.
+2. **Brain Region Connectivity**: Suppose we have a dataset of functional magnetic resonance imaging (fMRI) scans from 20 individuals, each with 100 brain regions. We want to determine the average connectivity between the prefrontal cortex and the basal ganglia. By analyzing the fMRI data, we find that the average correlation coefficient between these two regions is 0.7. This suggests a strong functional connection between the prefrontal cortex and the basal ganglia.
+3. **Protein-Protein Interaction Network**: In a protein-protein interaction network, we have 500 proteins and 2000 interactions. To identify highly connected proteins (hubs), we calculate the degree centrality for each protein. Degree centrality is defined as the number of interactions divided by the total number of possible interactions. For example, if protein A has 50 interactions, its degree centrality would be 50 / 499 = 0.1. By ranking proteins by their degree centrality, we can identify potential hubs that play critical roles in the network.
 
 2. **Brain Region Connectivity**: Suppose a functional magnetic resonance imaging (fMRI) study of the human brain identifies 10 distinct regions with an average of 5 connections per region. If the brain has approximately 180 billion neurons, what fraction of neurons are involved in these connections, assuming 1,000 neurons per connection? 
 Given: 10 regions, 5 connections per region, 180 billion neurons, 1,000 neurons per connection. 
@@ -94,14 +92,7 @@ Total connections in Species B = 200 * 5 = 1,000.
 Despite differences in neuron numbers and connection densities, both species have the same total number of connections, suggesting similar levels of brain network complexity. 
 This example highlights the importance of considering multiple factors when comparing brain connectivity across species.
 
-To illustrate the application of connectomics in life sciences, consider the following examples. 
-1. **Neural Network Analysis**: Given a neural network with 1000 neurons and 5000 synapses, calculate the connection density. Connection density is defined as the number of synapses divided by the number of neurons squared. Using this formula, connection density = 5000 / (1000^2) = 0.005. This value indicates the proportion of possible connections that are actually present in the network.
-2. **Brain Region Connectivity**: Suppose we have a dataset of functional magnetic resonance imaging (fMRI) scans from 20 individuals, each with 100 brain regions. We want to determine the average connectivity between the prefrontal cortex and the basal ganglia. By analyzing the fMRI data, we find that the average correlation coefficient between these two regions is 0.7. This suggests a strong functional connection between the prefrontal cortex and the basal ganglia.
-3. **Protein-Protein Interaction Network**: In a protein-protein interaction network, we have 500 proteins and 2000 interactions. To identify highly connected proteins (hubs), we calculate the degree centrality for each protein. Degree centrality is defined as the number of interactions divided by the total number of possible interactions. For example, if protein A has 50 interactions, its degree centrality would be 50 / 499 = 0.1. By ranking proteins by their degree centrality, we can identify potential hubs that play critical roles in the network.
-
 ## Applications
-
-In life sciences, connectomics has numerous applications in understanding the neural basis of behavior, cognition, and disease. One key application is in the study of neurological and psychiatric disorders, such as Alzheimer's disease, Parkinson's disease, and schizophrenia. By mapping the connections between neurons, researchers can identify alterations in brain connectivity that may contribute to these conditions. Connectomics also informs the development of neuroprosthetic devices and brain-machine interfaces, which rely on accurate mapping of neural circuits to restore or augment cognitive and motor functions. Furthermore, connectomic analysis of brain development can provide insights into the mechanisms underlying neuroplasticity and learning. In addition, connectomics has implications for the field of neuropharmacology, as it can help identify novel targets for therapeutic intervention and predict potential side effects of drugs. The application of connectomics in these areas relies on the integration of data from various techniques, including diffusion tensor imaging, functional magnetic resonance imaging, and electron microscopy, to reconstruct and analyze neural circuits at multiple scales.
 
 In life sciences, connectomics has numerous applications in understanding the neural basis of behavior, cognition, and disease. One key application is in the study of neurological and psychiatric disorders, such as Alzheimer's disease, Parkinson's disease, and schizophrenia. By mapping the connections between neurons, researchers can identify alterations in brain connectivity that may contribute to these conditions. Connectomics also informs the development of brain-machine interfaces, which aim to restore motor function in individuals with paralysis or other motor disorders. Furthermore, connectomic analyses can help identify potential therapeutic targets for treating neurological disorders, such as identifying specific neural circuits that are disrupted in disease states. Additionally, connectomics has implications for understanding the neural basis of cognition, including attention, perception, and memory, allowing researchers to better understand how brain networks give rise to complex behaviors. The application of connectomics in these areas relies on the integration of data from various techniques, including diffusion tensor imaging, functional magnetic resonance imaging, and electrophysiology, to construct detailed maps of brain connectivity.
 

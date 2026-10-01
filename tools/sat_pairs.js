@@ -66,6 +66,9 @@ const pairsOut = fs.createWriteStream(path.join(ROOT, "out/pairs.jsonl"));
 const vocab = []; const st = { subjects: 0, sections: 0, paragraphs: 0, sentences: 0, pairs: 0, ambiguous: 0, no_dim: 0, distractor: 0, what_thinned: 0, dims: {} };
 for (const d of docs) {
   const key = d.fm.key, prog = d.fm.program || "general", anchor = [d.fm.dna16, d.fm.l4_address, d.fm.chain256_anchor, key].join("|");
+  // Claude-drafted chapters are taught but never used as ska_own training data
+  // (Anthropic terms: outputs may not train a competing model).
+  const trainOK = !/ai_drafted/.test(d.fm.provenance || "");
   const S = { id: sid("S", anchor), key, title: d.fm.title, program: prog, path: d.file, sections: [] };
   const sents = []; // flat for SAT search
   d.secs.forEach((sec, si) => {
@@ -100,6 +103,7 @@ for (const d of docs) {
     let ctx = a.para.split(/\s+/).slice(0, 160).join(" ");
     const pool = sents.filter(c => c.P !== a.P); let distractor = null;
     if (pool.length && (parseInt(sha(a.text + di).slice(0, 2), 16) % 10) < 3) { distractor = pool[parseInt(sha(a.text + di).slice(2, 8), 16) % pool.length]; ctx = distractor.para.split(/\s+/).slice(0, 80).join(" ") + "\n\n" + ctx; st.distractor++; }
+    if (!trainOK) { st.excluded_ai_drafted = (st.excluded_ai_drafted || 0) + 1; return; }
     pairsOut.write(JSON.stringify({ id: sid("Q", S.id + a.P + ai + "|" + di), subject: key, S: S.id, C: a.sec.id, P: a.P, dim: pname, q, context: ctx, a: a.text,
       constraints: { subject: key, dimension: pname, key_terms: keys, min_terms: 2, unique: true, candidates: sat.length }, distractor: !!distractor }) + "\n"); st.pairs++;
     st.dims[pname] = (st.dims[pname] || 0) + 1;

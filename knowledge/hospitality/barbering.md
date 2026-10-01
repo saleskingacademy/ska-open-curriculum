@@ -6,7 +6,7 @@ course_level: 2
 dna16: "0701201868744381"
 l4_address: "S6:P1510637254"
 chain256_anchor: "0432559543636179129768276882100502106899104910051272400259500971085324946161606110688766564310051019852005851005110793097916511414098258551685461193830685981005150281720861100503109192357546010238326305311164083307653064100501053782465210050896105256573221"
-updated_at: "2026-09-07T02:53:10.058Z"
+updated_at: "2026-10-01T20:00:00.000Z"
 license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy knowledge base (ska_knowledge)
 ---
@@ -112,15 +112,9 @@ To solve this, the total parts of the solution are 1 (disinfectant) + 5 (water) 
 2. A client requests a fade haircut with the length on top being 2 inches and the length at the bottom of the fade being 0.25 inches. If the barber uses a #2 guard for the bottom of the fade, which is 0.25 inches, what guard size should they use for the top to achieve a consistent fade? 
 This problem involves understanding the relationship between guard sizes and hair lengths. Typically, guard sizes are as follows: #0 = 0 inches, #1 = 0.125 inches, #2 = 0.25 inches, and so on, increasing by 0.125 inches for each guard size. For a 2-inch length on top, the barber would need to use a guard size that corresponds to this length, which would be a #8 guard (since #8 = 1 inch and using a #8 with a clipper over comb technique can achieve lengths up to 2 inches). 
 3. A barber shop has 5 barbers and operates 8 hours a day. Each barber can serve 4 clients per hour. If the shop operates 6 days a week, how many clients can the shop serve in a week? 
-To find the total number of clients the shop can serve in a week, first calculate the number of clients served per day: 5 barbers * 4 clients/hour * 8 hours = 160 clients/day. Then, multiply this by the number of days the shop operates in a week: 160 clients/day * 6 days/week = 960 clients/week.
-
-To illustrate key concepts in barbering, consider the following problems. 
-1. A barber needs to mix a 1:5 ratio of bleach to developer for a hair lightening treatment. If the developer comes in 12ml bottles, how much bleach is required? 
-To find the amount of bleach, multiply the developer volume by the ratio: 12ml * (1/5) = 12ml * 0.2 = 2.4ml of bleach.
-2. A client requests a fade haircut with a #2 guard on the sides and back. If the clipper has 8 guard sizes and the #2 guard leaves 6mm of hair, what length of hair will be left on the client's head? 
-Given the guard size and type of cut, the length of hair left is determined by the guard size: 6mm for a #2 guard.
-3. A barber shop has 5 barbers working 8-hour shifts, with each barber capable of serving 4 clients per hour. How many clients can the shop serve in a day? 
-First, calculate the number of clients each barber can serve in a shift: 4 clients/hour * 8 hours = 32 clients. Then, multiply this by the number of barbers: 32 clients/barber * 5 barbers = 160 clients per day.
+To find the total number of clients the shop can serve in a week, first calculate the number of clients served per day: 5 barbers * 4 clients/hour * 8 hours = 160 clients/day. Then, multiply this by the number of days the shop operates in a week: 160 clients/day * 6 days/week = 960 clients/week. A barber needs to mix a 1:5 ratio of bleach to developer for a hair lightening treatment. If the developer comes in 12ml bottles, how much bleach is required? To find the amount of bleach, multiply the developer volume by the ratio: 12ml * (1/5) = 12ml * 0.2 = 2.4ml of bleach.
+2. A client requests a fade haircut with a #2 guard on the sides and back. If the clipper has 8 guard sizes and the #2 guard leaves 6mm of hair, what length of hair will be left on the client's head? Given the guard size and type of cut, the length of hair left is determined by the guard size: 6mm for a #2 guard.
+3. A barber shop has 5 barbers working 8-hour shifts, with each barber capable of serving 4 clients per hour. First, calculate the number of clients each barber can serve in a shift: 4 clients/hour * 8 hours = 32 clients. Then, multiply this by the number of barbers: 32 clients/barber * 5 barbers = 160 clients per day.
 
 ## Applications
 

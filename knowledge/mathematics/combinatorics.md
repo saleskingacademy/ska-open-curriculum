@@ -6,7 +6,7 @@ course_level: 3
 dna16: "0701201826664014"
 l4_address: "S6:P964516131"
 chain256_anchor: "0011280231940205102339280415071708187631574707170341545972356129167226079631759608783846335607171441077576550717174861350899352706214212539763820322252866030717006692942637071712987425769806510133930742848911170175018540071704524447516407171694481663718288"
-updated_at: "2026-08-26T05:52:07.173Z"
+updated_at: "2026-10-01T20:00:00.000Z"
 license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy knowledge base (ska_knowledge)
 ---
@@ -94,13 +94,9 @@ These mechanisms, among others, form the foundation of combinatorics, enabling m
 
 Combinatorics employs various methods and frameworks to solve problems. The Multiplication Principle is used to count the number of outcomes in a sequence of events, where each event has multiple possible outcomes. It states that if one event can occur in m ways and a second event can occur in n ways, then the events together can occur in m*n ways. This principle is useful when counting the number of possible outcomes in a situation with multiple independent events. However, it fails if the events are not independent, as it does not account for dependencies between events.
 
-The Addition Principle is used to count the number of elements in the union of multiple sets. It states that the number of elements in the union of two sets is the sum of the number of elements in each set, minus the number of elements in their intersection. This principle is useful when counting the number of elements in a set that satisfies at least one of multiple conditions. However, it fails if the sets have a complex intersection structure, as it can be difficult to calculate the size of the intersection.
-
 The Inclusion-Exclusion Principle is a generalization of the Addition Principle that can handle multiple sets and complex intersection structures. It states that the number of elements in the union of multiple sets is the sum of the number of elements in each set, minus the sum of the number of elements in each pair of sets, plus the sum of the number of elements in each triple of sets, and so on. This principle is useful when counting the number of elements in a set that satisfies at least one of multiple conditions, and the sets have a complex intersection structure. However, it can be computationally expensive to calculate the size of all the intersections.
 
 The Pigeonhole Principle is used to prove the existence of a certain configuration or pattern. It states that if n items are put into m containers, with n > m, then at least one container must contain more than one item. This principle is useful when proving the existence of a certain configuration or pattern, and the number of items is larger than the number of containers. However, it fails to provide information about the specific configuration or pattern that exists.
-
-The Recurrence Relations are used to define a sequence of numbers recursively. They are useful when the sequence has a recursive structure, and the value of each term depends on the previous terms. However, they can be difficult to solve, and may require advanced techniques such as characteristic equations or generating functions.
 
 The Generating Functions are used to solve recurrence relations and count the number of objects of a certain type. They are useful when the sequence has a recursive structure, and the value of each term depends on the previous terms. However, they can be difficult to apply, and may require advanced techniques such as partial fractions or binomial expansions.
 

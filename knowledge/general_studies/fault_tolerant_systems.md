@@ -6,7 +6,7 @@ course_level: 2
 dna16: ""
 l4_address: "S6:P1274188341"
 chain256_anchor: "1370786738906949045608804983228913076213201422890549556161971520117637278621929009326119792022891063292237692289131138234407110708607980374586420274892756332289142712116842228911964021045486321232860930293516139638020454228917020947215922891044849220239823"
-updated_at: "2026-09-08T03:17:22.893Z"
+updated_at: "2026-10-01T20:00:00.000Z"
 license: All-Rights-Reserved (Sales King Academy LLC)
 source: Sales King Academy knowledge base (ska_knowledge)
 ---
@@ -31,15 +31,6 @@ A **fault** is a defect in the system that may cause it to fail, while an **erro
 ## Mechanisms
 
 In fault tolerant systems, mechanisms are implemented to detect, diagnose, and recover from faults, ensuring continuous operation. The process involves a causal chain of events: 
-1. **Error Detection**: Sensors or monitoring systems identify anomalies or errors in the system, triggering an alert.
-2. **Fault Diagnosis**: Diagnostic algorithms analyze the error data to determine the type and location of the fault, allowing the system to take corrective action.
-3. **Fault Isolation**: The system isolates the faulty component or module to prevent further damage or propagation of the error.
-4. **Redundancy Activation**: Backup components or systems are activated to replace or compensate for the faulty ones, maintaining system functionality.
-5. **Reconfiguration**: The system reconfigures itself to accommodate the changes, ensuring minimal disruption to operation.
-6. **Recovery**: The system recovers from the fault, restoring normal operation, and the faulty component is repaired or replaced.
-These mechanisms work together to provide fault tolerance, enabling systems to operate reliably and maintain performance even in the presence of faults or failures.
-
-In fault tolerant systems, mechanisms are implemented to detect, diagnose, and recover from faults, ensuring continuous operation. The process involves a causal chain of events: 
 1. **Error Detection**: Sensors or monitoring systems identify anomalies or errors in the system's behavior, triggering an alert.
 2. **Fault Diagnosis**: Diagnostic algorithms analyze the error data to determine the root cause of the fault, identifying the faulty component or system.
 3. **Fault Isolation**: The system isolates the faulty component to prevent it from affecting other parts of the system, maintaining overall functionality.
@@ -54,19 +45,9 @@ In fault tolerant systems, several methods and frameworks are employed to ensure
 The Reliability Block Diagram (RBD) method models the system as a series of blocks, representing components and their relationships, to calculate overall system reliability. RBD is useful for simple systems, but can become complex and difficult to analyze for large systems. 
 The Markov model is a mathematical framework used to analyze system behavior and predict reliability, by representing the system as a set of states and transitions between them. It is particularly useful for analyzing systems with multiple failure modes and repair strategies. However, Markov models can be computationally intensive and require significant data to accurately model the system. 
 The Failure Mode and Effects Analysis (FMEA) method identifies potential failure modes and their effects on the system, by assigning a risk priority number (RPN) to each failure mode. FMEA is widely used in various industries, but can be subjective and dependent on the expertise of the analyst. 
-These methods and frameworks can be used individually or in combination to design and analyze fault tolerant systems, and their selection depends on the specific application, system complexity, and required level of reliability.
-
-In fault tolerant systems, several methods and frameworks are employed to ensure reliability and availability. The Fault Tree Analysis (FTA) method is used to identify potential failures and their effects on the system, by creating a tree-like diagram of fault events. It is particularly useful for complex systems with multiple failure modes. The Failure Mode and Effects Analysis (FMEA) method is used to identify and evaluate potential failures, by assigning a risk priority number (RPN) to each failure mode. It is commonly used in the design phase to prioritize reliability improvements. The Reliability Block Diagram (RBD) method is used to model system reliability, by representing components and their relationships as blocks. It is useful for calculating system reliability and identifying critical components. The Markov model is used to analyze system behavior and predict reliability, by representing system states and transitions as a Markov chain. It is particularly useful for systems with multiple states and complex failure modes. Each of these methods has its own failure mode, such as incorrect assumptions or incomplete data, which can lead to inaccurate results. Therefore, it is essential to carefully select the appropriate method and framework for the specific system and application, and to validate the results through testing and analysis.
+These methods and frameworks can be used individually or in combination to design and analyze fault tolerant systems, and their selection depends on the specific application, system complexity, and required level of reliability. It is commonly used in the design phase to prioritize reliability improvements. It is useful for calculating system reliability and identifying critical components. Each of these methods has its own failure mode, such as incorrect assumptions or incomplete data, which can lead to inaccurate results. Therefore, it is essential to carefully select the appropriate method and framework for the specific system and application, and to validate the results through testing and analysis.
 
 ## Worked Examples
-
-To illustrate the principles of fault tolerant systems, consider the following examples. 
-1. A triple modular redundant (TMR) system has three identical modules, each with a failure rate of 0.005 failures per hour. The system fails only if at least two modules fail. Calculate the system failure rate. 
-Using the binomial probability formula, the probability of exactly two modules failing is 3C2 * (0.005)^2 * (0.995) = 0.000074. The probability of all three modules failing is (0.005)^3 = 0.000000125. The system failure rate is the sum of these probabilities, which is approximately 0.000074. 
-2. A fault tolerant system consists of two parallel components, each with a reliability of 0.9. Calculate the system reliability. 
-The system reliability is 1 - (probability of both components failing) = 1 - (0.1 * 0.1) = 0.99. 
-3. A system has a mean time to failure (MTTF) of 1000 hours and a mean time to repair (MTTR) of 10 hours. Calculate the system availability. 
-The system availability is MTTF / (MTTF + MTTR) = 1000 / (1000 + 10) = 0.99, or 99%.
 
 To illustrate the principles of fault tolerant systems, consider the following examples. 
 1. A triple modular redundant (TMR) system has three identical modules, each with a failure rate of 0.005 failures per hour. The system output is considered valid if at least two modules produce the same output. Calculate the system failure rate. 
