@@ -1,0 +1,901 @@
+{
+ "title": "Sales King Academy Complete Book",
+ "status": "specification; manuscript not yet written beyond SKA Vol 1 Ch 1-2",
+ "parts": [
+  {
+   "part": 1,
+   "title": "Business Foundations",
+   "subjects": [
+    {
+     "id": "introduction_to_business",
+     "title": "Introduction to Business",
+     "edu16": "0401500000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 2,
+   "title": "Entrepreneurship & Business Models",
+   "subjects": [
+    {
+     "id": "entrepreneurship",
+     "title": "Entrepreneurship",
+     "edu16": "0401600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 3,
+   "title": "Economics & Monetary Systems",
+   "subjects": [
+    {
+     "id": "saas_and_subscription_economics",
+     "title": "SaaS and Subscription Economics",
+     "edu16": "0400800000000001"
+    },
+    {
+     "id": "banking_and_insurance",
+     "title": "Banking and Insurance",
+     "edu16": "0402400000000001"
+    },
+    {
+     "id": "microeconomics",
+     "title": "Microeconomics",
+     "edu16": "0306400000000001"
+    },
+    {
+     "id": "macroeconomics",
+     "title": "Macroeconomics",
+     "edu16": "0306500000000001"
+    },
+    {
+     "id": "econometrics",
+     "title": "Econometrics",
+     "edu16": "0306600000000001"
+    },
+    {
+     "id": "behavioral_economics_and_finance",
+     "title": "Behavioral Economics and Finance",
+     "edu16": "0306700000000001"
+    },
+    {
+     "id": "development_economics",
+     "title": "Development Economics",
+     "edu16": "0306800000000001"
+    },
+    {
+     "id": "international_economics",
+     "title": "International Economics",
+     "edu16": "0306900000000001"
+    },
+    {
+     "id": "labor_economics",
+     "title": "Labor Economics",
+     "edu16": "0307000000000001"
+    },
+    {
+     "id": "public_economics",
+     "title": "Public Economics",
+     "edu16": "0307100000000001"
+    },
+    {
+     "id": "health_economics",
+     "title": "Health Economics",
+     "edu16": "0307200000000001"
+    },
+    {
+     "id": "environmental_economics",
+     "title": "Environmental Economics",
+     "edu16": "0307300000000001"
+    },
+    {
+     "id": "economic_history",
+     "title": "Economic History",
+     "edu16": "0307400000000001"
+    },
+    {
+     "id": "agricultural_economics_and_agribusiness",
+     "title": "Agricultural Economics and Agribusiness",
+     "edu16": "0830400000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 4,
+   "title": "Accounting & Financial Management",
+   "subjects": [
+    {
+     "id": "accounting",
+     "title": "Accounting",
+     "edu16": "0402100000000001"
+    },
+    {
+     "id": "corporate_finance",
+     "title": "Corporate Finance",
+     "edu16": "0402200000000001"
+    },
+    {
+     "id": "personal_finance",
+     "title": "Personal Finance",
+     "edu16": "0402500000000001"
+    },
+    {
+     "id": "financial_technology",
+     "title": "Financial Technology",
+     "edu16": "0402700000000001"
+    },
+    {
+     "id": "financial_regulation_and_compliance",
+     "title": "Financial Regulation and Compliance",
+     "edu16": "0402900000000001"
+    },
+    {
+     "id": "real_estate_investment_and_finance",
+     "title": "Real Estate Investment and Finance",
+     "edu16": "0404200000000001"
+    },
+    {
+     "id": "tax_law",
+     "title": "Tax Law",
+     "edu16": "0405500000000001"
+    },
+    {
+     "id": "behavioral_economics_and_finance",
+     "title": "Behavioral Economics and Finance",
+     "edu16": "0306700000000001"
+    },
+    {
+     "id": "financial_and_actuarial_mathematics",
+     "title": "Financial and Actuarial Mathematics",
+     "edu16": "0519000000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 5,
+   "title": "Sales",
+   "subjects": [
+    {
+     "id": "ai_powered_selling",
+     "title": "AI-Powered Selling",
+     "edu16": "0400100000000001"
+    },
+    {
+     "id": "professional_selling",
+     "title": "Professional Selling",
+     "edu16": "0400200000000001"
+    },
+    {
+     "id": "sales_prospecting_and_outbound",
+     "title": "Sales Prospecting and Outbound",
+     "edu16": "0400300000000001"
+    },
+    {
+     "id": "sales_management_and_revenue_operations",
+     "title": "Sales Management and Revenue Operations",
+     "edu16": "0400400000000001"
+    },
+    {
+     "id": "sales_psychology",
+     "title": "Sales Psychology",
+     "edu16": "0400500000000001"
+    },
+    {
+     "id": "negotiation",
+     "title": "Negotiation",
+     "edu16": "0400600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 6,
+   "title": "Marketing & Customer Acquisition",
+   "subjects": [
+    {
+     "id": "principles_of_marketing",
+     "title": "Principles of Marketing",
+     "edu16": "0400900000000001"
+    },
+    {
+     "id": "digital_marketing",
+     "title": "Digital Marketing",
+     "edu16": "0401000000000001"
+    },
+    {
+     "id": "marketing_analytics_and_growth",
+     "title": "Marketing Analytics and Growth",
+     "edu16": "0401100000000001"
+    },
+    {
+     "id": "marketing_automation_and_demand_generation",
+     "title": "Marketing Automation and Demand Generation",
+     "edu16": "0401200000000001"
+    },
+    {
+     "id": "advertising_and_copywriting",
+     "title": "Advertising and Copywriting",
+     "edu16": "0401300000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 7,
+   "title": "Operations & Management",
+   "subjects": [
+    {
+     "id": "sales_management_and_revenue_operations",
+     "title": "Sales Management and Revenue Operations",
+     "edu16": "0400400000000001"
+    },
+    {
+     "id": "management_and_organizational_behavior",
+     "title": "Management and Organizational Behavior",
+     "edu16": "0401700000000001"
+    },
+    {
+     "id": "leadership",
+     "title": "Leadership",
+     "edu16": "0401800000000001"
+    },
+    {
+     "id": "risk_management",
+     "title": "Risk Management",
+     "edu16": "0402600000000001"
+    },
+    {
+     "id": "operations_management",
+     "title": "Operations Management",
+     "edu16": "0403000000000001"
+    },
+    {
+     "id": "supply_chain_management",
+     "title": "Supply Chain Management",
+     "edu16": "0403100000000001"
+    },
+    {
+     "id": "project_management",
+     "title": "Project Management",
+     "edu16": "0403300000000001"
+    },
+    {
+     "id": "product_management",
+     "title": "Product Management",
+     "edu16": "0403400000000001"
+    },
+    {
+     "id": "human_resource_management",
+     "title": "Human Resource Management",
+     "edu16": "0403500000000001"
+    },
+    {
+     "id": "real_estate_development_and_property_management",
+     "title": "Real Estate Development and Property Management",
+     "edu16": "0404300000000001"
+    },
+    {
+     "id": "applied_mathematics_and_operations_research",
+     "title": "Applied Mathematics and Operations Research",
+     "edu16": "0518900000000001"
+    },
+    {
+     "id": "forestry_and_rangeland_management",
+     "title": "Forestry and Rangeland Management",
+     "edu16": "0830000000000001"
+    },
+    {
+     "id": "educational_leadership_and_policy",
+     "title": "Educational Leadership and Policy",
+     "edu16": "0134000000000001"
+    },
+    {
+     "id": "hospitality_management",
+     "title": "Hospitality Management",
+     "edu16": "1034200000000001"
+    },
+    {
+     "id": "restaurant_management",
+     "title": "Restaurant Management",
+     "edu16": "1034300000000001"
+    },
+    {
+     "id": "tourism_management",
+     "title": "Tourism Management",
+     "edu16": "1034400000000001"
+    },
+    {
+     "id": "event_management",
+     "title": "Event Management",
+     "edu16": "1034500000000001"
+    },
+    {
+     "id": "sports_management",
+     "title": "Sports Management",
+     "edu16": "1034800000000001"
+    },
+    {
+     "id": "aviation_operations_and_pilot_training",
+     "title": "Aviation Operations and Pilot Training",
+     "edu16": "1035100000000001"
+    },
+    {
+     "id": "aviation_management",
+     "title": "Aviation Management",
+     "edu16": "1035200000000001"
+    },
+    {
+     "id": "maritime_operations",
+     "title": "Maritime Operations",
+     "edu16": "1035400000000001"
+    },
+    {
+     "id": "environmental_policy_and_management",
+     "title": "Environmental Policy and Management",
+     "edu16": "1036100000000001"
+    },
+    {
+     "id": "productivity_and_time_management",
+     "title": "Productivity and Time Management",
+     "edu16": "0036400000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 8,
+   "title": "Technology Foundations",
+   "subjects": [
+    {
+     "id": "computer_networks",
+     "title": "Computer Networks",
+     "edu16": "0624200000000001"
+    },
+    {
+     "id": "computer_architecture",
+     "title": "Computer Architecture",
+     "edu16": "0624900000000001"
+    },
+    {
+     "id": "computer_vision",
+     "title": "Computer Vision",
+     "edu16": "0625300000000001"
+    },
+    {
+     "id": "computer_graphics_and_extended_reality",
+     "title": "Computer Graphics and Extended Reality",
+     "edu16": "0626000000000001"
+    },
+    {
+     "id": "human_computer_interaction_and_ux",
+     "title": "Human-Computer Interaction and UX",
+     "edu16": "0626100000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 9,
+   "title": "Software & Programming",
+   "subjects": [
+    {
+     "id": "introduction_to_computing_and_programming",
+     "title": "Introduction to Computing and Programming",
+     "edu16": "0622900000000001"
+    },
+    {
+     "id": "python_programming",
+     "title": "Python Programming",
+     "edu16": "0623000000000001"
+    },
+    {
+     "id": "javascript_typescript_and_node_js",
+     "title": "JavaScript, TypeScript and Node.js",
+     "edu16": "0623100000000001"
+    },
+    {
+     "id": "software_architecture_and_system_design",
+     "title": "Software Architecture and System Design",
+     "edu16": "0624600000000001"
+    },
+    {
+     "id": "software_engineering",
+     "title": "Software Engineering",
+     "edu16": "0624700000000001"
+    },
+    {
+     "id": "compilers_and_programming_languages",
+     "title": "Compilers and Programming Languages",
+     "edu16": "0624800000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 10,
+   "title": "APIs, Web & Cloud Infrastructure",
+   "subjects": [
+    {
+     "id": "web_development",
+     "title": "Web Development",
+     "edu16": "0623800000000001"
+    },
+    {
+     "id": "computer_networks",
+     "title": "Computer Networks",
+     "edu16": "0624200000000001"
+    },
+    {
+     "id": "cloud_computing_and_devops",
+     "title": "Cloud Computing and DevOps",
+     "edu16": "0624500000000001"
+    },
+    {
+     "id": "blockchain_and_web3_development",
+     "title": "Blockchain and Web3 Development",
+     "edu16": "0625600000000001"
+    },
+    {
+     "id": "rehabilitation_therapies",
+     "title": "Rehabilitation Therapies",
+     "edu16": "0932600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 11,
+   "title": "Data & Databases",
+   "subjects": [
+    {
+     "id": "marketing_analytics_and_growth",
+     "title": "Marketing Analytics and Growth",
+     "edu16": "0401100000000001"
+    },
+    {
+     "id": "business_analytics_and_intelligence",
+     "title": "Business Analytics and Intelligence",
+     "edu16": "0402000000000001"
+    },
+    {
+     "id": "probability_and_statistics",
+     "title": "Probability and Statistics",
+     "edu16": "0518500000000001"
+    },
+    {
+     "id": "thermodynamics_and_statistical_mechanics",
+     "title": "Thermodynamics and Statistical Mechanics",
+     "edu16": "0519300000000001"
+    },
+    {
+     "id": "data_structures_and_algorithms",
+     "title": "Data Structures and Algorithms",
+     "edu16": "0623900000000001"
+    },
+    {
+     "id": "databases",
+     "title": "Databases",
+     "edu16": "0624000000000001"
+    },
+    {
+     "id": "data_science",
+     "title": "Data Science",
+     "edu16": "0625400000000001"
+    },
+    {
+     "id": "data_engineering",
+     "title": "Data Engineering",
+     "edu16": "0625500000000001"
+    },
+    {
+     "id": "sports_science_and_analytics",
+     "title": "Sports Science and Analytics",
+     "edu16": "1034900000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 12,
+   "title": "Cybersecurity",
+   "subjects": [
+    {
+     "id": "cybersecurity",
+     "title": "Cybersecurity",
+     "edu16": "0624300000000001"
+    },
+    {
+     "id": "cryptography",
+     "title": "Cryptography",
+     "edu16": "0624400000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 13,
+   "title": "Artificial Intelligence",
+   "subjects": [
+    {
+     "id": "ai_technology_and_integration_for_business",
+     "title": "AI Technology and Integration for Business",
+     "edu16": "0400000000000001"
+    },
+    {
+     "id": "ai_powered_selling",
+     "title": "AI-Powered Selling",
+     "edu16": "0400100000000001"
+    },
+    {
+     "id": "artificial_intelligence",
+     "title": "Artificial Intelligence",
+     "edu16": "0625000000000001"
+    },
+    {
+     "id": "generative_ai_and_large_language_models",
+     "title": "Generative AI and Large Language Models",
+     "edu16": "0625200000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 14,
+   "title": "Generative AI & LLMs",
+   "subjects": [
+    {
+     "id": "generative_ai_and_large_language_models",
+     "title": "Generative AI and Large Language Models",
+     "edu16": "0625200000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 15,
+   "title": "Machine Learning & Multimodal AI",
+   "subjects": [
+    {
+     "id": "machine_learning",
+     "title": "Machine Learning",
+     "edu16": "0625100000000001"
+    },
+    {
+     "id": "computer_vision",
+     "title": "Computer Vision",
+     "edu16": "0625300000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 16,
+   "title": "AI Agents & Tool Use",
+   "subjects": [],
+   "chapters": [
+    {
+     "key": "ai_agent_orchestration_sales",
+     "edu16": "0400100100000002"
+    },
+    {
+     "key": "ai_sales_agents_deployment",
+     "edu16": "0400000700000002"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 17,
+   "title": "Automation & Workflow Engineering",
+   "subjects": [
+    {
+     "id": "marketing_automation_and_demand_generation",
+     "title": "Marketing Automation and Demand Generation",
+     "edu16": "0401200000000001"
+    }
+   ],
+   "chapters": [
+    {
+     "key": "ai_business_process_automation",
+     "edu16": "0400001100000002"
+    },
+    {
+     "key": "ai_marketing_automation_integration",
+     "edu16": "0400000900000002"
+    },
+    {
+     "key": "ai_sales_workflow_integration",
+     "edu16": "0400000500000002"
+    },
+    {
+     "key": "marketing_automation",
+     "edu16": "0401200100000002"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 18,
+   "title": "AI-Integrated Business",
+   "subjects": [
+    {
+     "id": "ai_technology_and_integration_for_business",
+     "title": "AI Technology and Integration for Business",
+     "edu16": "0400000000000001"
+    },
+    {
+     "id": "ai_powered_selling",
+     "title": "AI-Powered Selling",
+     "edu16": "0400100000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 19,
+   "title": "Multi-Agent Systems",
+   "subjects": [],
+   "chapters": [
+    {
+     "key": "ai_agent_orchestration_sales",
+     "edu16": "0400100100000002"
+    },
+    {
+     "key": "orchestration",
+     "edu16": "0216600300000002"
+    },
+    {
+     "key": "swarm_robotics",
+     "edu16": "0728200400000002"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 20,
+   "title": "Deterministic Computing & Temporal Architectures",
+   "subjects": [
+    {
+     "id": "logic",
+     "title": "Logic",
+     "edu16": "0210400000000001"
+    },
+    {
+     "id": "discrete_mathematics_and_logic",
+     "title": "Discrete Mathematics and Logic",
+     "edu16": "0518400000000001"
+    },
+    {
+     "id": "theory_of_computation_and_information",
+     "title": "Theory of Computation and Information",
+     "edu16": "0519100000000001"
+    },
+    {
+     "id": "data_structures_and_algorithms",
+     "title": "Data Structures and Algorithms",
+     "edu16": "0623900000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 21,
+   "title": "Blockchain, Cryptography & Digital Assets",
+   "subjects": [
+    {
+     "id": "cryptocurrency_and_digital_assets",
+     "title": "Cryptocurrency and Digital Assets",
+     "edu16": "0402800000000001"
+    },
+    {
+     "id": "cryptography",
+     "title": "Cryptography",
+     "edu16": "0624400000000001"
+    },
+    {
+     "id": "blockchain_and_web3_development",
+     "title": "Blockchain and Web3 Development",
+     "edu16": "0625600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 22,
+   "title": "AI Governance, Risk & Security",
+   "subjects": [
+    {
+     "id": "risk_management",
+     "title": "Risk Management",
+     "edu16": "0402600000000001"
+    },
+    {
+     "id": "financial_regulation_and_compliance",
+     "title": "Financial Regulation and Compliance",
+     "edu16": "0402900000000001"
+    },
+    {
+     "id": "business_law",
+     "title": "Business Law",
+     "edu16": "0403800000000001"
+    },
+    {
+     "id": "corporate_governance_and_business_ethics",
+     "title": "Corporate Governance and Business Ethics",
+     "edu16": "0403900000000001"
+    },
+    {
+     "id": "introduction_to_law",
+     "title": "Introduction to Law",
+     "edu16": "0404500000000001"
+    },
+    {
+     "id": "constitutional_law",
+     "title": "Constitutional Law",
+     "edu16": "0404600000000001"
+    },
+    {
+     "id": "criminal_law_and_justice",
+     "title": "Criminal Law and Justice",
+     "edu16": "0404700000000001"
+    },
+    {
+     "id": "civil_law_and_procedure",
+     "title": "Civil Law and Procedure",
+     "edu16": "0404800000000001"
+    },
+    {
+     "id": "contract_law",
+     "title": "Contract Law",
+     "edu16": "0404900000000001"
+    },
+    {
+     "id": "property_and_land_use_law",
+     "title": "Property and Land Use Law",
+     "edu16": "0405100000000001"
+    },
+    {
+     "id": "family_law",
+     "title": "Family Law",
+     "edu16": "0405200000000001"
+    },
+    {
+     "id": "immigration_law",
+     "title": "Immigration Law",
+     "edu16": "0405300000000001"
+    },
+    {
+     "id": "corporate_and_securities_law",
+     "title": "Corporate and Securities Law",
+     "edu16": "0405400000000001"
+    },
+    {
+     "id": "tax_law",
+     "title": "Tax Law",
+     "edu16": "0405500000000001"
+    },
+    {
+     "id": "intellectual_property_law",
+     "title": "Intellectual Property Law",
+     "edu16": "0405600000000001"
+    },
+    {
+     "id": "employment_and_labor_law",
+     "title": "Employment and Labor Law",
+     "edu16": "0405700000000001"
+    },
+    {
+     "id": "environmental_law",
+     "title": "Environmental Law",
+     "edu16": "0405800000000001"
+    },
+    {
+     "id": "health_law",
+     "title": "Health Law",
+     "edu16": "0405900000000001"
+    },
+    {
+     "id": "technology_privacy_and_media_law",
+     "title": "Technology, Privacy and Media Law",
+     "edu16": "0406000000000001"
+    },
+    {
+     "id": "international_law_and_human_rights",
+     "title": "International Law and Human Rights",
+     "edu16": "0406100000000001"
+    },
+    {
+     "id": "administrative_law",
+     "title": "Administrative Law",
+     "edu16": "0406200000000001"
+    },
+    {
+     "id": "ethics",
+     "title": "Ethics",
+     "edu16": "0210200000000001"
+    },
+    {
+     "id": "bioethics_and_medical_ethics",
+     "title": "Bioethics and Medical Ethics",
+     "edu16": "0932200000000001"
+    },
+    {
+     "id": "law_enforcement",
+     "title": "Law Enforcement",
+     "edu16": "1035600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 23,
+   "title": "Autonomous Operations",
+   "subjects": [
+    {
+     "id": "applied_mathematics_and_operations_research",
+     "title": "Applied Mathematics and Operations Research",
+     "edu16": "0518900000000001"
+    },
+    {
+     "id": "robotics_and_autonomous_vehicles",
+     "title": "Robotics and Autonomous Vehicles",
+     "edu16": "0728200000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 24,
+   "title": "Advanced Architecture & Systems Engineering",
+   "subjects": [
+    {
+     "id": "software_architecture_and_system_design",
+     "title": "Software Architecture and System Design",
+     "edu16": "0624600000000001"
+    },
+    {
+     "id": "computer_architecture",
+     "title": "Computer Architecture",
+     "edu16": "0624900000000001"
+    },
+    {
+     "id": "industrial_and_systems_engineering",
+     "title": "Industrial and Systems Engineering",
+     "edu16": "0727200000000001"
+    },
+    {
+     "id": "architecture_and_green_building",
+     "title": "Architecture and Green Building",
+     "edu16": "0728500000000001"
+    },
+    {
+     "id": "landscape_architecture",
+     "title": "Landscape Architecture",
+     "edu16": "0728600000000001"
+    }
+   ],
+   "gap": false
+  },
+  {
+   "part": 25,
+   "title": "Capstone: Building an AI-Integrated Autonomous Enterprise",
+   "subjects": [
+    {
+     "id": "pricing_strategy",
+     "title": "Pricing Strategy",
+     "edu16": "0400700000000001"
+    },
+    {
+     "id": "business_strategy",
+     "title": "Business Strategy",
+     "edu16": "0401900000000001"
+    }
+   ],
+   "gap": false
+  }
+ ]
+}
