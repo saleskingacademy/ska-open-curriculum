@@ -5,10 +5,12 @@ a Symbol256 state and a Chain256 attachment. Design: EDU16.md.
   EDU-16  FF SSS CCC L XXX PPP T  (16 digits, positional, append-only, never reused)
           FF field (ISCED-F broad)  SSS subject  CCC chapter  L level (0 = core, 1-8 ladder)
           XXX section  PPP paragraph  T unit type (1 subject, 2 chapter, 3 section, 4 paragraph)
-  T16     SSSS + 12-digit pico = the unit's address in SPENT memory (seconds after genesis that were
-          never used). Same slot seconds as worker SPENT_MEMORY.SLOT_MAP: subject S1, chapter S3
-          (LESSON), section/paragraph S6 (KNOWLEDGE). Pico = SSS CCC XXX PPP, positional: no hashing,
-          no collisions.
+  T16     the unit's address in SPENT memory: a real past instant after genesis that was never used,
+          in the platform's canonical T16 format (worker CHAIN_ADDR.t16: MMDDYYYYHHMMSSCC, UTC,
+          centisecond = the memory layer's resolution). Education starts at 0702201800000000 (one day
+          after genesis, clear of the genesis-day agent/mode anchors and the S0-S16 spent seconds).
+          offset_cs = ((((L*1000 + SSS)*100 + CCC)*100 + XXX)*100 + PPP): positional, no hashing,
+          no collisions. Core (L0) spans ~116 days of 2018; all 8 levels end before Aug 2021.
   EDU-32  EDU-16 + T16 (the Chain32 pairing: stable anchor + its place in time).
   Chain256 attachment, context "education". Stable lanes stored (1,4,5,8,9,12,13,16):
           L1 genesis  L4 education anchor  L5 subject EDU-16  L8 subject T16
@@ -28,7 +30,9 @@ REG = os.path.join(ROOT, "map/edu16_registry.json")
 OUT = os.path.join(ROOT, "edu16")
 GENESIS16 = "0701201800000000"
 EDU_ANCHOR16 = "0701201800000094"   # genesis band: agents 01-26, modes 91-93, education 94
-SLOT = {1: 1, 2: 3, 3: 6, 4: 6}     # unit type -> spent second (worker SPENT_MEMORY.SLOT_MAP)
+import datetime
+EDU_REGION_MS = int(datetime.datetime(2018, 7, 2, tzinfo=datetime.timezone.utc).timestamp() * 1000)
+CAP = {"chapters": 99, "sections": 99, "paragraphs": 99}   # two-digit radix in the instant mapping
 TYPE = {1: "subject", 2: "chapter", 3: "section", 4: "paragraph"}
 
 def d16(s):
@@ -37,11 +41,20 @@ def d16(s):
 def edu16(ff, sss, ccc=0, lvl=0, xxx=0, ppp=0, t=1):
     return f"{int(ff):02d}{sss:03d}{ccc:03d}{lvl:1d}{xxx:03d}{ppp:03d}{t:1d}"
 
+def offset_cs(e):
+    sss, ccc, lvl, xxx, ppp = int(e[2:5]), int(e[5:8]), int(e[8]), int(e[9:12]), int(e[12:15])
+    return (((lvl * 1000 + sss) * 100 + ccc) * 100 + xxx) * 100 + ppp
+
+def t16_ms(ms):
+    d = datetime.datetime.fromtimestamp(ms / 1000, tz=datetime.timezone.utc)
+    return f"{d.month:02d}{d.day:02d}{d.year:04d}{d.hour:02d}{d.minute:02d}{d.second:02d}{d.microsecond // 10000:02d}"
+
 def t16(e):
-    t = int(e[15]); return f"{SLOT[t]:04d}" + e[2:8] + e[9:15]
+    return t16_ms(EDU_REGION_MS + offset_cs(e) * 10)
 
 def spent(e):
-    t = t16(e); return f"S{int(t[:4])}:P{int(t[4:])}"
+    ms = EDU_REGION_MS + offset_cs(e) * 10
+    return datetime.datetime.fromtimestamp(ms / 1000, tz=datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.") + f"{(ms % 1000) // 10:02d}Z"
 
 def lanes(subj_e, unit_e, sym16, int16):
     return [GENESIS16, EDU_ANCHOR16, subj_e, t16(subj_e), unit_e, t16(unit_e), sym16, int16]
@@ -61,7 +74,7 @@ def alloc(table, key, parent_prefix, reg):
     if key in reg[table]: return reg[table][key]
     used = [v for k, v in reg[table].items() if k.rsplit("/", 1)[0] == parent_prefix] if parent_prefix else list(reg[table].values())
     n = (max(used) + 1) if used else (0 if table == "subjects" else 1)
-    if n > 999: raise SystemExit(f"EDU-16 overflow in {table} under {parent_prefix}")
+    if n > CAP.get(table, 999): raise SystemExit(f"EDU-16 overflow in {table} under {parent_prefix} (cap {CAP.get(table, 999)})")
     reg[table][key] = n; return n
 
 def build():
@@ -148,6 +161,8 @@ def symbol_routing(pairs):
             "resolved_by_symbol": len(depth), "same_symbol_state_resolved_by_address": same,
             "by_pairs": dict(sorted(dist.items()))}
 
+NOW_MS = int(datetime.datetime.now(datetime.timezone.utc).timestamp() * 1000)
+
 def verify():
     bad, n, ids, spents = [], 0, [], set()
     def chk(u, se):
@@ -160,6 +175,7 @@ def verify():
         if u["edu16"][2:5] != se[2:5]: bad.append((u["edu16"], "subject prefix"))
         if L[6] != u["sym16"] or L[7] != u["int16"]: bad.append((u["edu16"], "L13/L16"))
         if u["spent"] in spents: bad.append((u["edu16"], "spent address reused"))
+        if not (EDU_REGION_MS <= EDU_REGION_MS + offset_cs(u["edu16"]) * 10 < NOW_MS): bad.append((u["edu16"], "spent address not in the past"))
         spents.add(u["spent"]); ids.append((u["sym16"], u["edu16"]))
     for f in sorted(glob.glob(os.path.join(OUT, "*.json"))):
         s = json.load(open(f)); se = s["edu16"]; chk(s, se)
