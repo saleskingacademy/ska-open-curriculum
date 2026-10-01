@@ -5,7 +5,7 @@ name: Build symbols + SAT training pairs
 on:
   push:
     branches: [main]
-    paths: ["knowledge/**", "tools/sat_pairs.js", "tools/sym256.js"]
+    paths: ["knowledge/**", "tools/sat_pairs.js", "tools/sym256.js", "tools/edu16.py", "map/real_subjects.json"]
   schedule:
     - cron: "17 6 * * 1"
   workflow_dispatch:
@@ -22,10 +22,12 @@ jobs:
         with: { node-version: 20 }
       - name: Build
         run: mkdir -p out && node tools/sat_pairs.js | tee out/stats.json && python3 tools/depth.py
+      - name: Education-16 + spent memory + Chain256 attachment (fails on a broken chain)
+        run: python3 tools/edu16.py
       - name: Commit symbol tables if changed
         run: |
           git config user.name "ska-builder"; git config user.email "noreply@saleskingacademy.com"
-          git add symbols study knowledge/depth.json
+          git add symbols study knowledge/depth.json edu16 map/edu16_registry.json map/edu16_chapters.json map/edu16_stats.json
           git diff --cached --quiet || { git commit -qm "symbols: rebuild ($(date -u +%F))"; git push -q; }
       - name: Publish pairs to the training-data release
         env: { GH_TOKEN: "${{ github.token }}" }

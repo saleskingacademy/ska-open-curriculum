@@ -1,0 +1,29 @@
+{
+ "units": 40249,
+ "broken": 0,
+ "routing": {
+  "address_only": {
+   "units": 40249,
+   "avg_pairs": 7.905,
+   "max_pairs": 8,
+   "by_pairs": {
+    "4": 369,
+    "6": 1143,
+    "7": 70,
+    "8": 38667
+   }
+  },
+  "symbol_then_address": {
+   "units": 40249,
+   "avg_symbol_pairs": 3.361,
+   "resolved_by_symbol": 37433,
+   "same_symbol_state_resolved_by_address": 2816,
+   "by_pairs": {
+    "2": 879,
+    "3": 35227,
+    "4": 1319,
+    "5": 8
+   }
+  }
+ }
+}

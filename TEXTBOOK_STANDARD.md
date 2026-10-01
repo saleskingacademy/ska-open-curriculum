@@ -63,3 +63,44 @@ Per book: a glossary and an answer key.
 - Every chapter lists its references for further reading.
 
 A subject is complete only when it passes sections 2 and 3 and its scope checklist is fully covered.
+
+## 5. Levels: L1-L8 anchored to real education levels (UNESCO ISCED 2011)
+
+SKA keeps its eight level names, but each one now means a real, checkable academic level.
+A subject is complete only when every level meets the bar below.
+
+| SKA level | Name | Equivalent | What the material must contain |
+|---|---|---|---|
+| L1 | Beginner | Secondary school (ISCED 2-3) | Plain-language definitions, everyday examples, no prerequisites |
+| L2 | Foundations | First-year university (ISCED 6, year 1) | Core vocabulary, standard models, worked examples, the intro-course canon |
+| L3 | Intermediate | Bachelor's year 2 | Methods applied to problems, case studies, graded problem sets |
+| L4 | Advanced | Bachelor's years 3-4 (upper division) | Full theory with derivations or formal arguments, capstone-style problems |
+| L5 | Expert | Master's (ISCED 7) | Graduate texts' depth, competing frameworks compared, professional practice |
+| L6 | Master | Advanced master's / professional licensure | Judgement under uncertainty, standards and regulation, supervised-practice cases |
+| L7 | Specialist | Doctoral (ISCED 8) | Qualifying-exam depth; primary literature read directly; research methods; every claim cited |
+| L8 | Grandmaster | **Postdoctoral / research frontier** | The current state of the field: open problems, active debates, newest results, how to run original research. Rebuilt on a schedule, not written once |
+
+### 5.1 Rules that make L7 and L8 trustworthy
+- **Every factual claim at L7-L8 cites a real work** with a DOI or arXiv id, in the form
+  `[R#] Authors (year). "Title". doi:... | arXiv:...`
+- `tools/cite_check.py` verifies every reference against Crossref and arXiv and fails the chapter on
+  an unresolvable id or a title that does not match. No invented sources can ship.
+- L8 carries a **"current as of" date** and is regenerated from newly published literature every
+  90 days. A frontier chapter older than that is marked stale on the site.
+- L8 distinguishes three things explicitly: **established** (replicated, in textbooks),
+  **contested** (active debate, both sides cited), **open** (unsolved, stated as a problem).
+- AI-written L7-L8 material is labelled as AI-authored and source-grounded. It does not claim peer
+  review it has not had. Subjects where errors cause harm (medicine, law, engineering safety,
+  finance) carry a notice that the material supports study and does not replace a licensed professional.
+
+### 5.2 What "beyond a textbook" means (the AI augmentation layer)
+A printed textbook is fixed. Each SKA subject adds, at every level:
+1. **Tutor grounded in the chapter**: the SKA agent answers from this subject's material and its
+   cited sources, and says so when a question goes past them.
+2. **Unlimited practice**: new problems generated per level, each with a checked answer.
+3. **Mastery tracking**: spaced review of what a learner got wrong, with level progression gated by results.
+4. **Living frontier**: L8 is refreshed from new papers, so the top of every subject stays current.
+5. **Cross-subject links**: the Symbol256 map connects each chapter to related chapters in other subjects.
+
+These are claims about features, not about the knowledge itself. Content quality is measured by the
+checks in sections 2-5, not asserted.

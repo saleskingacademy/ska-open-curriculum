@@ -1,0 +1,27 @@
+name: Research frontier (L8) refresh
+on:
+  schedule:
+    - cron: "0 7 1 * *"   # 07:00 UTC on the 1st of each month
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Build literature maps (OpenAlex)
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          FRONTIER_WORKERS: ${{ secrets.OPENALEX_API_KEY != '' && '4' || '1' }}
+        run: python3 -u tools/frontier.py
+      - name: Commit
+        run: |
+          git config user.name "ska-builder"
+          git config user.email "noreply@saleskingacademy.com"
+          git add frontier FRONTIER.md
+          git diff --cached --quiet || git commit -m "frontier: monthly refresh $(date -u +%F)"
+          git push
