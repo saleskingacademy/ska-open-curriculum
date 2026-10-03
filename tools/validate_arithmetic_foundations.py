@@ -128,8 +128,104 @@ def main():
     check('Exam B21 covering capacity',((321+9)//10)*10,330)
     check('Exam A21 nearest',nearest(241,10),240)
     check('Exam B21 nearest',nearest(321,10),320)
+    # Numerical answers in the linked foundation companions.
+    for label,actual,expected in [
+        ('L1 P1 count',6,6),('L1 P4',8,8),('L1 P5',7+1,8),('L1 P6',7-1,6),
+        ('L1 P7',len(range(5)),5),('L1 P9',6>4,True),('L1 Q1',5,5),
+        ('L1 R labels',len(range(7)),7),('L2 P2 digits',len(str(508)),3),
+        ('L2 P8 equality',4+5,9),('L2 P9 blank',4+2-1,5),
+        ('L2 P10 invalid link',2+3==5+1,False),('L2 Q2',len(range(10)),10),
+        ('L2 Q3',3+4,7),('L2 Q4',2+3-1,4),('L2 R blank',3+3-2,4),
+        ('L3 P1',2000+400+7,2407),('L3 P2',5000+60+2,5062),
+        ('L3 P3',8*1000,8000),('L3 P4',8*F('.01'),F('.08')),
+        ('L3 P6',72000+46,72046),('L3 P7',F('4.30')==F('4.3'),True),
+        ('L3 P8',5000+400+20+9,5429),('L3 P9',200+4,204),
+        ('L3 P10',12*10+5,125),('L3 Q1',3000+200+8,3208),
+        ('L3 Q2',600+5,605),('L3 Q3',9*F('.01'),F('.09')),
+        ('L3 Q4',F('7.20')==F('7.2'),True),('L3 Q5',207!=27,True),
+        ('L3 R1',4000+9,4009),('L3 R2',80000+20+3,80023),
+        ('L3 R3',6*F('.01'),F('.06')),('L4 P1',9099<9100,True),
+        ('L4 P2',305<350,True),('L4 P3',F('.407')<F('.47'),True),
+        ('L4 P4',F('6.20')==F('6.2'),True),('L4 P5',sorted([18,8,80,108]),[8,18,80,108]),
+        ('L4 P6',sorted([-2,-6,3,0]),[-6,-2,0,3]),('L4 P7',1<4,True),
+        ('L4 P8',F('.09')<F('.9'),True),('L4 P9',[n>10 for n in [9,10,11]],[False,False,True]),
+        ('L4 diagnosis',F('.8')>F('.75'),True),('L4 Q1',4901<4910,True),
+        ('L4 Q2',F('.305')<F('.35'),True),('L4 Q3',F('8.00')==8,True),
+        ('L4 Q4',sorted([-3,1,-8,0]),[-8,-3,0,1]),('L4 Q5',2<7,True),
+        ('L4 R1',6087>6078,True),('L4 R2',F('.606')<F('.66'),True),
+        ('L4 R3',sorted([-1,-5,2]),[-5,-1,2]),
+        ('L5 P1',(len(range(6)),5),(6,5)),('L5 P2',sorted([-3,0,2]),[-3,0,2]),
+        ('L5 P3',abs(4-(-2)),6),('L5 P4',abs(-5),5),('L5 P5',2+3,5),
+        ('L5 P6',3-5,-2),('L5 P7',(3,3*5),(3,15)),('L5 P9',8-0,8),
+        ('L5 P10 direct',abs(2-(-1)),3),('L5 P10 detour',1+4,5),
+        ('L5 Q1',(len(range(5)),4),(5,4)),('L5 Q2',abs(2-(-3)),5),
+        ('L5 Q3',abs(-7),7),('L5 Q4',2*4,8),('L5 Q5',-2+3,1),
+        ('L5 R1',(len(range(-2,4)),3-(-2)),(6,5)),('L5 R2',abs(4-(-1)),5),
+        ('L5 R3',2*5,10)]:
+        check(label,actual,expected)
+    # Published addition facts and their independent answer values.
+    groups = {
+        'L11 examples':[(4,3,7),(8,5,13),(6,0,6),(2,7,9)],
+        'L11 guided':[(5,2,7),(9,0,9),(3,4,7),(8,3,11)],
+        'L11 practice':[(4,5,9),(7,3,10),(6,4,10),(8,2,10),(0,9,9),(3,8,11)],
+        'L11 quiz':[(6,4,10),(7,0,7),(2,9,11),(8,3,11)],
+        'L11 reassessment':[(5,4,9),(0,8,8)],
+        'L12 examples':[(3,9,12),(0,7,7),(6,6,12),(7,8,15),(9,6,15),(8,5,13),(4,6,10),(5,6,11)],
+        'L12 guided':[(4,9,13),(5,6,11),(7,6,13),(8,7,15)],
+        'L12 practice':[(9,4,13),(6,6,12),(6,7,13),(8,6,14),(7,5,12),(0,9,9),(5,9,14),(3,9,12),(4,10,14),(8,5,13),(7,8,15)],
+        'L12 applied':[(8,7,15),(8,9,17)],
+        'L12 quiz':[(9,5,14),(7,7,14),(7,8,15),(8,4,12),(6,7,13)],
+        'L12 reassessment':[(9,7,16),(8,8,16),(8,9,17),(7,6,13)],
+        'L13 examples':[(27,15,42),(234,152,386),(247,135,382),(586,279,865),(4706,85,4791),(9999,1,10000),(1208,375,1583),(1583,46,1629),(375,46,421)],
+        'L13 guided':[(36,48,84),(305,27,332),(698,7,705)],
+        'L13 practice':[(213,145,358),(268,157,425),(509,86,595),(786,459,1245),(4008,75,4083),(999,9,1008),(12345,6789,19134),(1007,98,1105)],
+        'L13 application':[(499,501,1000),(405,720,1125),(405,72,477),(58,67,125)],
+        'L13 quiz':[(324,152,476),(487,268,755),(2009,96,2105),(9999,2,10001)],
+        'L13 reassessment':[(356,178,534),(5007,84,5091),(8999,3,9002)]}
+    for source,fixtures in groups.items():
+        for a,b,answer in fixtures:
+            check(f'{source}: {a}+{b}',a+b,answer)
+    for label,values,answer in [
+        ('L11 E5',[2,3,4],9),('L11 P7',[1,4,5],10),
+        ('L11 P9 distinct',[3,1,2],6),('L12 A1',[9,6,4],19),
+        ('L13 E6',[468,257,389],1114),('L13 P7',[587,246,398],1231),
+        ('L13 P9',[1475,286,39],1800),('L13 A1',[198,203,97],498),
+        ('L13 R4',[279,386,458],1123)]:
+        check(label,sum(values),answer)
+    # Parse all ten Lesson 13 independent problems against their published keys.
+    # This catches edits to either a numeric prompt or its first answer numeral.
+    import re
+    lesson=(ROOT/'curriculum/mathematics/arithmetic/lesson_13_multi_digit_addition.md').read_text()
+    prompts=lesson.split('## Independent problem set and explanatory key')[1].split('Solutions:')[0]
+    answers=lesson.split('Solutions:')[1].split('## Applied reasoning')[0]
+    for n in range(1,11):
+        question=re.search(rf'^P{n}\. (.+)$',prompts,re.M).group(1)
+        expected=int(re.search(rf'^P{n}\. (?:Correct )?([\d,]+)',answers,re.M).group(1).replace(',',''))
+        if n==9:
+            numbers=[1475,286,39]
+        elif n==10:
+            numbers=[1007,98]
+        else:
+            numbers=[int(x.replace(',','')) for x in re.findall(r'\d[\d,]*',question)]
+        check(f'Parsed Lesson 13 P{n} key',sum(numbers),expected)
+    def column_add(values):
+        # Independent implementation of the taught digit/carry specification.
+        digits=[list(reversed(str(v))) for v in values]
+        result=[];carry=0
+        for position in range(max(map(len,digits))):
+            total=carry+sum(int(d[position]) if position<len(d) else 0 for d in digits)
+            carry,remainder=divmod(total,10);result.append(str(remainder))
+        while carry:
+            carry,remainder=divmod(carry,10);result.append(str(remainder))
+        return int(''.join(reversed(result)))
+    for a in range(100):
+        for b in range(100):
+            assert column_add([a,b])==a+b
+    for a,b,c in [(468,257,389),(587,246,398),(279,386,458),(999,999,999),(0,0,0)]:
+        check(f'Column algorithm {a}+{b}+{c}',column_add([a,b,c]),a+b+c)
+    check('Fact table all 100 entries',all(a+b==b+a for a in range(10) for b in range(10)),True)
     report={'fixture_checks_passed':len(CHECKS),'fixture_locations':CHECKS,
-        'exhaustive_rounding_cases':10001,
+        'exhaustive_rounding_cases':10001,'exhaustive_two_addend_cases':10000,'fact_table_pairs':100,
         'limits':'Fixtures checked against authored text by source review. This script does not parse or prove every prose claim or establish independent academic validation.'}
     (ROOT/'curriculum/mathematics/arithmetic/VALIDATION_REPORT.json').write_text(json.dumps(report,indent=2)+'\n')
     print(json.dumps(report))

@@ -1,7 +1,7 @@
 # Lesson 10: Foundation mastery
 
 Canonical ID: AR-L01-10. Discipline: established mathematics. Subject: Arithmetic.
-Prerequisites: the instructional drafts for Lessons 1–5 and full packages for Lessons 6–9, together with correction of their prerequisite errors. This integrated lesson does not make incomplete earlier lesson packages complete.
+Prerequisites: the original explanations and linked structured companions for Lessons 1–5 and full packages for Lessons 6–9, together with correction of their prerequisite errors. This integrated lesson does not replace individual lesson mastery evidence.
 Next: Lesson 11, Meaning of addition, in [the sequence](../arithmetic_zero_to_advanced.md), after foundation evidence meets the thresholds.
 Education-16 and Symbol256: deferred pending source and assessment validation.
 

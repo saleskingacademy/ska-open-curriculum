@@ -1,6 +1,6 @@
 # Level 1 foundation examination: Forms A and B
 
-Scope: Arithmetic Lessons 1–10. This is a module and cumulative foundation assessment, not the comprehensive course final. Teaching in Lessons 1–5 remains draft-depth, so issuing this examination does not certify the module's instructional completeness.
+Scope: Arithmetic Lessons 1–10. This is a module and cumulative foundation assessment, not the comprehensive course final. Lessons 1–5 use preserved original explanations together with their structured companions. Issuing this examination does not by itself certify the module's instructional completeness or independent academic validation.
 
 ## Administration, blueprint, and scoring
 
