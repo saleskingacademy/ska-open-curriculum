@@ -1,7 +1,9 @@
 # Sales King Academy — Arithmetic: Zero-to-Advanced Complete Curriculum
 
 Version: 1.0 curriculum map
-Status: complete instructional sequence; lesson-text expansion remains continuous
+Status: SEQUENCED — 80 lessons planned; full lesson-text and assessment expansion remains incomplete
+
+See [instructional expansion and validation gaps](arithmetic/README.md) and the [mathematics completion manifest](MATHEMATICS_COMPLETION_MANIFEST.json) for actual populated coverage.
 
 ## Purpose
 This curriculum assumes no prior arithmetic knowledge and builds toward advanced computational and AI-augmented arithmetic. It is original SKA instructional organization and wording. Mathematical facts, notation and standard methods remain common mathematical knowledge.
