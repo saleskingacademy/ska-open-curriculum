@@ -68,6 +68,66 @@ def main():
         assert result/F('.1') == int(result/F('.1'))
         assert nearest(result,'.1') == result
     check('nearest exhaustive nonnegative hundredths',10001,10001)
+    for label,actual,expected in [
+        ('L9 E2 domain', [n for n in range(14) if n<=12], list(range(13))),
+        ('L9 E4',abs(3-(-2)),5),('L9 E5 false link',3+4 == 7+2,False),
+        ('L9 G2',[n for n in range(7) if 2<=n<5],[2,3,4]),
+        ('L9 P3',min(n for n in range(20) if n>7),8),
+        ('L9 P4',[n for n in range(10) if 3<=n<7],[3,4,5,6]),
+        ('L9 P5',1 > -4,True),('L9 P7 false link',5+1 == 6+3,False),
+        ('L9 P10 inclusive',list(range(10,16)),[10,11,12,13,14,15]),
+        ('L9 P10 strict',list(range(11,15)),[11,12,13,14]),
+        ('L9 Q2',[n for n in range(7) if 1<n<=4],[2,3,4]),
+        ('L9 R2',[n for n in range(8) if 2<n<6],[3,4,5]),
+        ('L10 E1',6*10+4,64),('L10 E2',2-(-3),5),
+        ('L10 E4 compare',F('4.096')>F('4.09'),True),
+        ('L10 E5 boundary',[n>=30 for n in [29,30,31]],[False,True,True]),
+        ('L10 G1',700+8,708),('L10 G2',abs(-6-(-1)),5),
+        ('L10 P1 marks/gaps',(len(range(9)),8-0),(9,8)),
+        ('L10 P2',60000+200+4,60204),('L10 P3',F('.507')<F('.57'),True),
+        ('L10 P4',sorted([5,-3,0,-8,2]),[-8,-3,0,2,5]),
+        ('L10 P5',abs(3-(-4)),7),('L10 P7',min(c for c in [100,150,200] if c>=151),200),
+        ('L10 P8',[n for n in range(10) if 4<n<=8],[5,6,7,8]),
+        ('L10 AI audit',(len(range(-3,4)),3-(-3)),(7,6)),
+        ('L10 Q1',(len(range(-2,3)),2-(-2)),(5,4)),
+        ('L10 Q2',6*1000,6000),('L10 Q3',-2 > -7,True),
+        ('L10 R1',(len(range(-4,2)),1-(-4)),(6,5)),
+        ('L10 R2',5*10000,50000),('L10 R4',[n for n in range(7) if 2<=n<5],[2,3,4]),
+        ('Exam A1',8,8),('Exam A3',12,12),('Exam A4',len(range(10)),10),
+        ('Exam A6',40000+500+7,40507),('Exam A7',8*1000,8000),
+        ('Exam A8',F('3.40')==F('3.4') and F('3.04')!=F('3.4'),True),
+        ('Exam A9',45901<45910,True),('Exam A10',F('.507')<F('.57'),True),
+        ('Exam A11',sorted([-2,4,-7,0,3]),[-7,-2,0,3,4]),
+        ('Exam A12',abs(-6),6),('Exam A13',abs(4-(-3)),7),
+        ('Exam A14',4*20,80),('Exam A15',(7*10+1,7*10+9),(71,79)),
+        ('Exam A16',(80>=79,75>=79),(True,False)),('Exam A17',(abs(50-47),50>47),(3,True)),
+        ('Exam A23',[n for n in range(8) if 2<=n<5],[2,3,4]),
+        ('Exam A24',(3+4,7+2),(7,9)),
+        ('Exam B1',10,10),('Exam B3',17,17),('Exam B4',len(range(13)),13),
+        ('Exam B6',70000+300+6,70306),('Exam B7',6*1000,6000),
+        ('Exam B8',F('2.50')==F('2.5') and F('2.05')!=F('2.5'),True),
+        ('Exam B9',62809<62890,True),('Exam B10',F('.406')<F('.46'),True),
+        ('Exam B11',sorted([-5,1,-9,0,6]),[-9,-5,0,1,6]),
+        ('Exam B12',abs(-8),8),('Exam B13',abs(5-(-4)),9),
+        ('Exam B14',3*30,90),('Exam B15',(6*10+1,6*10+9),(61,69)),
+        ('Exam B16',(70>=69,65>=69),(True,False)),('Exam B17',(abs(60-64),60<64),(4,True)),
+        ('Exam B23',[n for n in range(9) if 3<n<=6],[4,5,6]),
+        ('Exam B24',(2+5,7+1),(7,8))]:
+        check(label,actual,expected)
+    for label,value,unit,expected in [
+        ('L10 E1 rounding',64,10,60),('L10 E4 rounding','4.096','.01','4.10'),
+        ('L10 G3',95,10,100),('L10 G3 counterexample',91,10,90),
+        ('L10 P6 tens',1995,10,2000),('L10 P6 hundreds',1995,100,2000),
+        ('L10 Q4','8.995','.01',9),('L10 R3','7.995','.01',8),
+        ('Exam A18 tens',3476,10,3480),('Exam A18 hundreds',3476,100,3500),
+        ('Exam A19',650,100,700),('Exam A20','9.96','.1',10),
+        ('Exam B18 tens',5683,10,5680),('Exam B18 hundreds',5683,100,5700),
+        ('Exam B19',750,100,800),('Exam B20','8.97','.1',9)]:
+        check(label,nearest(value,unit),F(str(expected)))
+    check('Exam A21 covering capacity',((241+9)//10)*10,250)
+    check('Exam B21 covering capacity',((321+9)//10)*10,330)
+    check('Exam A21 nearest',nearest(241,10),240)
+    check('Exam B21 nearest',nearest(321,10),320)
     report={'fixture_checks_passed':len(CHECKS),'fixture_locations':CHECKS,
         'exhaustive_rounding_cases':10001,
         'limits':'Fixtures checked against authored text by source review. This script does not parse or prove every prose claim or establish independent academic validation.'}
