@@ -2,6 +2,9 @@
 
 Generated from the current public catalogue and the SKA Zero-to-Frontier Curriculum Standard.
 
+## Current policy
+The numeric word targets below describe the historical catalogue audit. They are superseded as completion requirements by [the coverage-based policy](COVERAGE_BASED_COMPLETION_POLICY.md); preserve them as historical measurements, not active word-count gates.
+
 ## Baseline
 The catalogue contains 369 real subjects. The existing catalogue defines a nominal full-textbook target of at least 120,000 words and 12+ chapters per real subject. Current catalogue total is 4,290,895 words with 40,021,105 words listed as still needed under that legacy quantitative target.
 

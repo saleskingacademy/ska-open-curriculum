@@ -73,7 +73,7 @@ To achieve genuine advanced coverage, the mathematics programme should explicitl
 - research methods, mathematical writing and reproducibility.
 
 ## Scale
-The programme is expected to reach millions of words across mathematics when fully populated. Volume is not a completion criterion by itself. Each subject should normally exceed the existing 120,000-word textbook floor when the subject genuinely requires that depth, and major fields may require substantially more. Repetition, filler and mechanically inflated prose do not count toward coverage.
+The programme is expected to reach millions of words across mathematics when fully populated. Volume is not a completion criterion by itself. There is no fixed word floor per subject. Length follows the declared competency ceiling, instructional needs and assessment evidence; major fields may require multiple volumes. See [the coverage-based policy](../../standards/COVERAGE_BASED_COMPLETION_POLICY.md). Repetition, filler and mechanically inflated prose do not count toward coverage.
 
 ## Dependency spine
 Numeracy -> Arithmetic -> Pre-Algebra -> Algebra I -> Geometry -> Algebra II -> Trigonometry -> Precalculus -> Calculus I -> Calculus II -> Multivariable Calculus.

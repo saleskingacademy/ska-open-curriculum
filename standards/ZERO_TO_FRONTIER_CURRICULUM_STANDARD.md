@@ -76,3 +76,5 @@ Public educational material teaches transferable knowledge and methods. Tenant i
 
 ## Completion rule
 A subject can be marked COMPLETE only when its declared lesson count is actually populated, prerequisite coverage is closed, assessments pass semantic-quality checks, solutions are verified, taxonomy is canonical, and the beginner-to-frontier dependency path contains no unresolved instructional gaps.
+
+Length follows scope and demonstrated competencies; no universal word minimum applies. See [the coverage-based completion policy](COVERAGE_BASED_COMPLETION_POLICY.md).

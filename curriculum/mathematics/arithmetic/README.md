@@ -1,6 +1,6 @@
 # Arithmetic instructional expansion
 
-The canonical sequence is [the 80-lesson map](../arithmetic_zero_to_advanced.md). This directory expands it without replacing useful existing material. Course status: **SEQUENCED**, not COMPLETE. The word floor is approximately 120,000 substantive instructional words; volume alone cannot pass completion gates.
+The canonical sequence is [the 80-lesson map](../arithmetic_zero_to_advanced.md). This directory expands it without replacing useful existing material. Course status: **SEQUENCED**, not COMPLETE. Length follows instructional coverage and demonstrated mastery; the former 120,000-word minimum is superseded by [the coverage-based policy](../../../standards/COVERAGE_BASED_COMPLETION_POLICY.md).
 
 ## Reading order
 

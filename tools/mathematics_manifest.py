@@ -88,11 +88,12 @@ def main():
         ai_augmented_coverage='Constructed incorrect claims audited independently in new lessons; advanced modules pending.',
         validation_status='Source-reviewed; exact checks in validation report; no independent academic review.',
         full_lesson_population_percent=round(100*len(lessons)/80,2),
-        word_floor=120000,word_floor_percent=round(100*sum(prose_words(p) for p in [legacy]+lessons+exams)/120000,2),
+        word_floor=None,word_floor_percent=None,
+        length_policy='Coverage and competency driven; no mandatory word minimum.',
         completion_percent=None,
-        completion_percent_note='No defensible single completion percentage across heterogeneous course gates; report lesson population and word-floor progress separately.')
+        completion_percent_note='No defensible single completion percentage across heterogeneous course gates; report declared lesson population and open completion gates separately.')
     report=dict(schema_version=1,inventory_date_utc='2026-10-03',
-        governing_specs=['standards/ZERO_TO_FRONTIER_CURRICULUM_STANDARD.md',
+        governing_specs=['standards/COVERAGE_BASED_COMPLETION_POLICY.md','standards/ZERO_TO_FRONTIER_CURRICULUM_STANDARD.md',
           'standards/CURRICULUM_COMPLETION_AUDIT.md','standards/ACADEMIC_EQUIVALENCE_AND_ASSESSMENT_STANDARD.md',
           'curriculum/mathematics/MATHEMATICS_COMPLETION_MASTER_PLAN.md'],
         states=['SKELETON','SEQUENCED','INSTRUCTIONALLY POPULATED','ASSESSED','VALIDATED','COMPLETE'],

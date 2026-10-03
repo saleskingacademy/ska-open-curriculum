@@ -82,4 +82,4 @@ Health: foundational science, cases, evidence appraisal, ethics and scope-aware 
 Instructional prose, examples, exercises, case studies, explanations, diagrams/specifications, assessment items and SKA curriculum organization should be newly authored. Established facts, equations, methods, terminology and ideas are taught accurately without pretending those underlying facts are proprietary. Third-party expression is not copied into the corpus unless its license and provenance explicitly permit the intended use.
 
 ## Completion gate
-COMPLETE requires content coverage + outcome coverage + assessment coverage + verified solutions/rubrics + prerequisite closure + taxonomy validation + capstone + final examination. Word count is a floor/coverage signal, never the sole completion criterion.
+COMPLETE requires content coverage + outcome coverage + assessment coverage + verified solutions/rubrics + prerequisite closure + taxonomy validation + capstone + final examination. Word count is a descriptive inventory/coverage signal, not a mandatory minimum or completion criterion. See [the coverage-based completion policy](COVERAGE_BASED_COMPLETION_POLICY.md).
