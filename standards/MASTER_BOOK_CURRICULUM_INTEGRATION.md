@@ -63,3 +63,46 @@ Do not invent one completion percentage when the programme scope is undefined. A
 
 ## Next integration target
 Continue the master book with Chapter 4 while auditing entrepreneurship and business fundamentals. Book writing and curriculum deployment remain dual outputs: manuscript prose is transformed into curriculum only where it adds a missing competency or materially improves progression.
+
+
+## 2026-10-04 quality re-audit — mandatory correction
+
+A quantitative and structural audit of the recent 80-lesson expansions found that lesson-count completion materially exceeds instructional-depth completion. The expanded subjects are therefore classified as SEQUENCED / PARTIALLY INSTRUCTIONALLY POPULATED, not COMPLETE and not yet academic-equivalent course packages.
+
+Audited subjects: entrepreneurship, marketing, accounting, cybersecurity, corporate finance, sales, sales psychology, AI foundations, cloud computing, crypto/blockchain, data science, economics, operations management, statistics.
+
+Observed range across these subjects:
+- 80 lesson records per subject;
+- roughly 20,551–30,997 instructional-content words per subject in the lesson JSON;
+- roughly 257–387 words per lesson on average;
+- typically three formative quiz items per lesson;
+- repeated scaffolding language in many newly expanded lessons.
+
+These records provide useful sequence, outcomes, vocabulary context, practice prompts, failure-mode prompts, AI/tool prompts, and formative questions, but they do NOT by themselves satisfy the canonical Zero-to-Frontier or Academic-Equivalent standards.
+
+### Required upgrade before VALIDATED or COMPLETE
+Each lesson must be converted from scaffold to subject-specific textbook-quality instruction with, where applicable:
+1. explicit prerequisites and dependency IDs;
+2. subject-specific vocabulary/notation;
+3. first-principles explanation;
+4. mechanisms, derivations, formulas, algorithms, or causal reasoning;
+5. multiple fully worked examples rather than generic example prompts;
+6. guided practice;
+7. substantial independent problem set / cases / exercises;
+8. verified explanatory solutions or scoring criteria;
+9. misconceptions, edge cases, counterexamples and failure diagnosis;
+10. real-world and cross-disciplinary applications;
+11. computational/tool-assisted work;
+12. AI-augmented work with independent verification;
+13. summary/retrieval cues;
+14. stronger formative assessment with plausible distractors and reasoning;
+15. mastery threshold and explicit remediation;
+16. next-unit dependency links.
+
+Each course additionally requires module examinations, assessment blueprints, cumulative checkpoints, comprehensive final examination, alternate reassessment forms, capstone/project/lab/case as appropriate, rubrics, accessibility/alternative demonstration considerations, and provenance for changing factual material.
+
+### Deployment policy correction
+Future turns optimize verified instructional depth per deployment, not raw lesson count. Do not expand another 8-record subject to 80 thin records merely to increase catalogue counts. First deepen the highest-priority dependency courses into genuine course packages, beginning with foundational mathematics/statistics/critical thinking and the master-book path through business, sales, finance, computing and AI.
+
+### Recognition boundary
+The target is instructional rigor capable of external academic review. Repository language must say academic-equivalent only after the internal evidence gates pass, and must never claim accreditation or institutional recognition before an authorized external body grants it.
