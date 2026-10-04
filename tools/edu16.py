@@ -103,9 +103,10 @@ def build():
                 xe = edu16(ff, sss, ccc, 0, xxx, 0, 3)
                 p_out, p_sigs, p_ints = [], [], []
                 for p in sec["paragraphs"]:
-                    ppp = alloc("paragraphs", skey + "/" + p["id"], skey, reg)
+                    content_id = d16(p["id"] + "|" + p["sig"] + "|" + str(p.get("words")))
+                    ppp = alloc("paragraphs", skey + "/" + p["id"] + "@" + content_id, skey, reg)
                     pe = edu16(ff, sss, ccc, 0, xxx, ppp, 4)
-                    s16, i16 = d16(p["sig"]), d16(p["id"] + "|" + p["sig"] + "|" + str(p.get("words")))
+                    s16, i16 = d16(p["sig"]), content_id
                     p_out.append({"edu16": pe, "t16": t16(pe), "spent": spent(pe), "pid": p["id"], "words": p.get("words"),
                                   "sym16": s16, "int16": i16, "s128": "".join(lanes(se, pe, s16, i16))})
                     p_sigs.append(p["sig"]); p_ints.append(i16); units.append(pe)
