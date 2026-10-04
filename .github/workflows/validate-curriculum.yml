@@ -5,17 +5,31 @@ on:
     paths:
       - 'content/**'
       - 'curriculum/**'
+      - 'knowledge/**'
+      - 'tools/**'
+      - 'map/**'
       - '.github/workflows/validate-curriculum.yml'
   pull_request:
     paths:
       - 'content/**'
       - 'curriculum/**'
+      - 'knowledge/**'
+      - 'tools/**'
+      - 'map/**'
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Compile Python tooling
+        run: python3 -m compileall -q tools
+      - name: Check JavaScript syntax
+        run: node --check tools/sym256.js && node --check tools/sat_pairs.js
+      - name: Curriculum integrity lint
+        run: python3 tools/curriculum_integrity_lint.py
+      - name: Verify Education-16 attachments
+        run: python3 tools/edu16.py --verify
       - name: Validate JSON lesson datasets
         run: |
           node - <<'JS'
