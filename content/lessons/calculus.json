@@ -1,98 +1,83 @@
 [
-  {
-    "id": "calculus_L1_1",
-    "subject_id": "calculus",
-    "level": 1,
-    "lesson_number": 1,
-    "title": "Limits & Continuity",
-    "content": "KEY CONCEPTS: The limit is the foundation of calculus \u2014 the value a function approaches as the input approaches a point, even if undefined there. Formal definition: lim(x\u2192a) f(x) = L. One-sided limits (from left/right). A function is continuous at a point if the limit equals the function's value (no jumps, holes, or asymptotes). Techniques: direct substitution, factoring to cancel, rationalizing, and L'H\u00f4pital's rule for indeterminate forms (0/0, \u221e/\u221e). Limits at infinity describe end behavior. The limit formalizes 'approaching' rigorously, making instantaneous rates definable.\n\nWORKED EXAMPLE: lim(x\u21922) (x\u00b2\u22124)/(x\u22122). Direct substitution gives 0/0 (indeterminate). Factor: (x\u22122)(x+2)/(x\u22122) = x+2. Now substitute: 2+2 = 4. The hole at x=2 is 'removable' \u2014 the limit exists (4) even though the function is undefined there. This is the essence of limits: what the function approaches, not what it equals.\n\nPRACTICE: 1) Evaluate lim(x\u21923)(x\u00b2\u22129)/(x\u22123). 2) Determine if f(x)=1/x is continuous at x=0. 3) Find lim(x\u2192\u221e) (3x\u00b2+1)/(x\u00b2+5).",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"A limit describes:\", \"options\": [\"The exact value\", \"The value a function approaches\", \"The derivative\", \"The area\"], \"correct\": 1, \"explanation\": \"What f(x) approaches as x approaches a point.\"}, {\"q\": \"lim(x\\u21922)(x\\u00b2\\u22124)/(x\\u22122) equals:\", \"options\": [\"0\", \"4\", \"2\", \"undefined\"], \"correct\": 1, \"explanation\": \"Factor and cancel: x+2 \\u2192 4.\"}, {\"q\": \"A function is continuous at a point if:\", \"options\": [\"It's a polynomial\", \"The limit equals the function's value there\", \"It has a hole\", \"It's linear\"], \"correct\": 1, \"explanation\": \"No jumps, holes, or asymptotes.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L2_1",
-    "subject_id": "calculus",
-    "level": 2,
-    "lesson_number": 1,
-    "title": "Derivatives & Differentiation Rules",
-    "content": "KEY CONCEPTS: The derivative f'(x) is the instantaneous rate of change \u2014 the slope of the tangent line, defined as the limit of the difference quotient. Rules: power rule (d/dx x\u207f = nx\u207f\u207b\u00b9), constant, sum, product rule (fg)' = f'g + fg', quotient rule, and the chain rule for composite functions (the most important: d/dx f(g(x)) = f'(g(x))\u00b7g'(x)). Derivatives of trig, exponential (e\u02e3 is its own derivative), and logarithmic functions. Higher-order derivatives (acceleration is the second derivative of position). Implicit differentiation for curves not solved for y.\n\nWORKED EXAMPLE: Differentiate f(x) = (3x\u00b2 + 1)\u2075 using the chain rule. Outer: 5(...)\u2074; inner derivative: 6x. So f'(x) = 5(3x\u00b2+1)\u2074 \u00b7 6x = 30x(3x\u00b2+1)\u2074. The chain rule handles the composition \u2014 differentiate the outside, multiply by the derivative of the inside. It's the workhorse of all real-world differentiation.\n\nPRACTICE: 1) Differentiate f(x) = x\u00b3 + 4x\u00b2 \u2212 7. 2) Use the product rule on f(x) = x\u00b2\u00b7e\u02e3. 3) Apply the chain rule to f(x) = sin(2x\u00b3).",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"The derivative of x\\u207f is:\", \"options\": [\"nx\\u207f\\u207b\\u00b9\", \"x\\u207f\\u207a\\u00b9\", \"nx\\u207f\", \"x\\u207f/n\"], \"correct\": 0, \"explanation\": \"Power rule.\"}, {\"q\": \"The chain rule differentiates:\", \"options\": [\"Sums\", \"Composite functions f(g(x))\", \"Constants\", \"Primes\"], \"correct\": 1, \"explanation\": \"f'(g(x))\\u00b7g'(x).\"}, {\"q\": \"e\\u02e3 is special because its derivative is:\", \"options\": [\"0\", \"e\\u02e3 (itself)\", \"1\", \"xe\\u02e3\"], \"correct\": 1, \"explanation\": \"It's its own derivative.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L3_1",
-    "subject_id": "calculus",
-    "level": 3,
-    "lesson_number": 1,
-    "title": "Applications of Derivatives",
-    "content": "KEY CONCEPTS: Derivatives solve real problems. Optimization: maxima/minima occur at critical points (f'=0 or undefined); the second derivative test classifies them (f''>0 = minimum, f''<0 = maximum). Related rates: differentiate a relationship with respect to time to link changing quantities. Curve sketching: increasing/decreasing (sign of f'), concavity (sign of f''), inflection points. Linear approximation uses the tangent line to estimate. The Mean Value Theorem guarantees a point where instantaneous rate equals average rate. Newton's method finds roots via derivatives.\n\nWORKED EXAMPLE: Maximize the area of a rectangle with perimeter 20. Area A = x(10\u2212x) = 10x \u2212 x\u00b2. Set A' = 10 \u2212 2x = 0, so x = 5. Since A'' = \u22122 < 0, it's a maximum. The optimal rectangle is 5\u00d75 (a square), area 25. Calculus turns 'find the best' into solving f'=0 \u2014 the single most valuable applied skill in optimization.\n\nPRACTICE: 1) Find the maximum of f(x) = 6x \u2212 x\u00b2. 2) A balloon's radius grows at 2 cm/s; find how fast volume grows at r=5 (related rates). 3) Identify where f(x)=x\u00b3\u22123x is increasing.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Maxima/minima occur where:\", \"options\": [\"f=0\", \"f'=0 (critical points)\", \"f''=1\", \"x=0\"], \"correct\": 1, \"explanation\": \"The slope is zero at extremes.\"}, {\"q\": \"If f''>0 at a critical point, it's a:\", \"options\": [\"Maximum\", \"Minimum\", \"Inflection\", \"Root\"], \"correct\": 1, \"explanation\": \"Concave up = minimum.\"}, {\"q\": \"A rectangle with perimeter 20 has max area when it's:\", \"options\": [\"Long and thin\", \"A 5\\u00d75 square\", \"Any shape\", \"10\\u00d70\"], \"correct\": 1, \"explanation\": \"Optimization gives x=5.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L4_1",
-    "subject_id": "calculus",
-    "level": 4,
-    "lesson_number": 1,
-    "title": "Integration & the Fundamental Theorem",
-    "content": "KEY CONCEPTS: The integral reverses differentiation \u2014 the antiderivative. The definite integral \u222b\u2090\u1d47 f(x)dx is the signed area under the curve, defined as the limit of Riemann sums. The Fundamental Theorem of Calculus (the crown jewel): differentiation and integration are inverse operations, and \u222b\u2090\u1d47 f(x)dx = F(b) \u2212 F(a) where F is any antiderivative. This connects the two branches and makes areas computable. Basic antiderivatives (reverse the power rule: add 1 to exponent, divide). The '+C' constant of integration for indefinite integrals.\n\nWORKED EXAMPLE: \u222b\u2080\u00b2 x\u00b2 dx. Antiderivative of x\u00b2 is x\u00b3/3. Evaluate: (2\u00b3/3) \u2212 (0\u00b3/3) = 8/3 \u2212 0 = 8/3 \u2248 2.67. This is the exact area under y=x\u00b2 from 0 to 2. The Fundamental Theorem lets us compute this exactly instead of summing infinitely many rectangles \u2014 the leap that makes calculus practical.\n\nPRACTICE: 1) Find \u222b (3x\u00b2 + 2x) dx. 2) Evaluate \u222b\u2081\u00b3 x dx. 3) Explain why the '+C' appears in indefinite integrals.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"The Fundamental Theorem of Calculus links:\", \"options\": [\"Addition and multiplication\", \"Differentiation and integration (inverses)\", \"Limits and primes\", \"Sine and cosine\"], \"correct\": 1, \"explanation\": \"They are inverse operations.\"}, {\"q\": \"\\u222b\\u2080\\u00b2 x\\u00b2 dx equals:\", \"options\": [\"8/3\", \"4\", \"2\", \"8\"], \"correct\": 0, \"explanation\": \"x\\u00b3/3 evaluated 0 to 2 = 8/3.\"}, {\"q\": \"The definite integral represents:\", \"options\": [\"Slope\", \"Signed area under the curve\", \"A limit only\", \"The derivative\"], \"correct\": 1, \"explanation\": \"Accumulated area.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L5_1",
-    "subject_id": "calculus",
-    "level": 5,
-    "lesson_number": 1,
-    "title": "Integration Techniques (Calc II)",
-    "content": "KEY CONCEPTS: Beyond basic antiderivatives, techniques handle complex integrals. u-substitution reverses the chain rule (substitute to simplify). Integration by parts reverses the product rule: \u222bu dv = uv \u2212 \u222bv du (choose u by LIATE: Log, Inverse-trig, Algebraic, Trig, Exponential). Trigonometric integrals and substitution. Partial fractions decompose rational functions. Improper integrals handle infinite bounds or discontinuities via limits. These techniques integrate the functions that arise in physics, probability, and engineering.\n\nWORKED EXAMPLE: \u222b x\u00b7e\u02e3 dx by parts. Let u = x (du = dx), dv = e\u02e3dx (v = e\u02e3). Then \u222bx e\u02e3 dx = xe\u02e3 \u2212 \u222be\u02e3 dx = xe\u02e3 \u2212 e\u02e3 + C = e\u02e3(x\u22121) + C. Integration by parts strategically trades a hard integral for an easier one \u2014 essential whenever a product of different function types must be integrated.\n\nPRACTICE: 1) Use u-substitution on \u222b 2x(x\u00b2+1)\u00b3 dx. 2) Integrate \u222b x\u00b7cos(x) dx by parts. 3) Explain the LIATE rule for choosing u.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"u-substitution reverses the:\", \"options\": [\"Product rule\", \"Chain rule\", \"Quotient rule\", \"Power rule\"], \"correct\": 1, \"explanation\": \"It undoes composition.\"}, {\"q\": \"Integration by parts formula is:\", \"options\": [\"\\u222bu dv = uv \\u2212 \\u222bv du\", \"\\u222bu dv = uv\", \"u+v\", \"uv'\"], \"correct\": 0, \"explanation\": \"Reverses the product rule.\"}, {\"q\": \"LIATE helps choose:\", \"options\": [\"The answer\", \"Which function to set as u\", \"The bounds\", \"The constant\"], \"correct\": 1, \"explanation\": \"Order for selecting u in parts.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L6_1",
-    "subject_id": "calculus",
-    "level": 6,
-    "lesson_number": 1,
-    "title": "Series & Sequences (Calc II)",
-    "content": "KEY CONCEPTS: An infinite series sums infinitely many terms. Convergence (sums to a finite value) vs divergence. Tests: geometric series (converges if |r|<1), p-series, ratio test, comparison test, integral test, alternating series test. Power series represent functions as infinite polynomials. Taylor and Maclaurin series approximate any smooth function near a point using its derivatives \u2014 the basis for how calculators compute sin, e\u02e3, etc. Radius of convergence. Series turn transcendental functions into computable polynomials.\n\nWORKED EXAMPLE: The geometric series 1 + 1/2 + 1/4 + 1/8 + ... has ratio r = 1/2 < 1, so it converges to a/(1\u2212r) = 1/(1\u22121/2) = 2. Adding infinitely many terms yields a finite sum \u2014 a result that surprised the ancient Greeks (Zeno's paradox) and is now rigorously understood. Taylor series extend this to represent e\u02e3, sin(x), and more as infinite sums.\n\nPRACTICE: 1) Find the sum of 3 + 1 + 1/3 + 1/9 + ... 2) Determine if \u03a3 1/n\u00b2 converges (p-series). 3) Explain what a Taylor series approximates.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"A geometric series converges when:\", \"options\": [\"|r|<1\", \"r>1\", \"r=1\", \"always\"], \"correct\": 0, \"explanation\": \"Ratio magnitude below 1.\"}, {\"q\": \"1 + 1/2 + 1/4 + ... converges to:\", \"options\": [\"1\", \"2\", \"infinity\", \"1/2\"], \"correct\": 1, \"explanation\": \"a/(1\\u2212r) = 1/(1\\u22121/2) = 2.\"}, {\"q\": \"A Taylor series approximates a function using its:\", \"options\": [\"Integrals\", \"Derivatives at a point\", \"Roots\", \"Factors\"], \"correct\": 1, \"explanation\": \"Infinite polynomial from derivatives.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L7_1",
-    "subject_id": "calculus",
-    "level": 7,
-    "lesson_number": 1,
-    "title": "Grandmaster \u2014 Multivariable Calculus (Calc III)",
-    "content": "KEY CONCEPTS: Multivariable calculus extends to functions of several variables \u2014 the mathematics of 3D space and beyond. Partial derivatives (\u2202f/\u2202x) measure change in one variable holding others fixed. The gradient \u2207f points in the direction of steepest increase (the foundation of gradient descent in machine learning). Multiple integrals (double, triple) compute volume, mass, and probability over regions. Vector calculus: divergence, curl, line and surface integrals, and the great theorems (Green's, Stokes', Divergence) that generalize the Fundamental Theorem to higher dimensions. This is the language of physics and engineering.\n\nWORKED EXAMPLE: For f(x,y) = x\u00b2y + y\u00b3, the partial derivatives are \u2202f/\u2202x = 2xy (treat y as constant) and \u2202f/\u2202y = x\u00b2 + 3y\u00b2. The gradient \u2207f = (2xy, x\u00b2+3y\u00b2) points toward steepest ascent. In machine learning, the negative gradient shows which way to adjust parameters to reduce error \u2014 every neural network trains by computing gradients exactly like this, in millions of dimensions.\n\nPRACTICE: 1) Find both partial derivatives of f(x,y) = 3x\u00b2y. 2) Explain what the gradient represents. 3) Describe what a double integral computes.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"A partial derivative \\u2202f/\\u2202x treats other variables as:\", \"options\": [\"Zero\", \"Constant\", \"Variables\", \"Infinite\"], \"correct\": 1, \"explanation\": \"Hold others fixed.\"}, {\"q\": \"The gradient \\u2207f points toward:\", \"options\": [\"The minimum\", \"Steepest increase\", \"The origin\", \"Zero\"], \"correct\": 1, \"explanation\": \"Direction of steepest ascent.\"}, {\"q\": \"Machine learning trains by following the:\", \"options\": [\"Positive gradient\", \"Negative gradient (to reduce error)\", \"Integral\", \"Limit\"], \"correct\": 1, \"explanation\": \"Gradient descent.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "calculus_L8_1",
-    "subject_id": "calculus",
-    "level": 8,
-    "lesson_number": 1,
-    "title": "King Level \u2014 The Depth and Reach of Calculus",
-    "content": "KEY CONCEPTS: At the highest level, calculus is revealed as the mathematics of continuous change that underlies nearly all of science. Differential equations (relating functions to their derivatives) model everything dynamic: population growth, heat flow, quantum mechanics, circuits, and economies. The calculus of variations finds functions that optimize integrals (the path of least action in physics). Real analysis provides the rigorous foundation (epsilon-delta proofs) beneath the techniques. Calculus connects to every field: it IS how we describe motion, growth, accumulation, and optimization. The King-level truth: Newton and Leibniz's invention wasn't just a technique \u2014 it was a new way of seeing reality as continuously changing and precisely describable, which unlocked the modern scientific and technological world.\n\nWORKED EXAMPLE: Population growth follows dP/dt = kP (rate of change proportional to current size) \u2014 a differential equation whose solution is exponential: P = P\u2080e\u1d4f\u1d57. The same equation, with different signs and constants, models radioactive decay, compound interest, and cooling. One calculus relationship describes phenomena across biology, finance, and physics \u2014 demonstrating the 'unreasonable effectiveness' of calculus in capturing how the world changes.\n\nPRACTICE: 1) Explain what a differential equation relates. 2) Solve dP/dt = kP conceptually (what kind of function?). 3) Give three different phenomena modeled by exponential change.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"A differential equation relates a function to its:\", \"options\": [\"Roots\", \"Derivatives\", \"Factors\", \"Graph only\"], \"correct\": 1, \"explanation\": \"Models dynamic systems.\"}, {\"q\": \"dP/dt = kP has solution:\", \"options\": [\"Linear\", \"Exponential (P\\u2080e\\u1d4f\\u1d57)\", \"Quadratic\", \"Constant\"], \"correct\": 1, \"explanation\": \"Proportional growth is exponential.\"}, {\"q\": \"Calculus fundamentally describes:\", \"options\": [\"Static shapes\", \"Continuous change\", \"Only integers\", \"Only finance\"], \"correct\": 1, \"explanation\": \"Motion, growth, accumulation, optimization.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  }
+ {
+  "id": "calculus_L1_1",
+  "subject_id": "calculus",
+  "level": 1,
+  "lesson_number": 1,
+  "title": "Limits & Continuity",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: The limit is the foundation of calculus — the value a function approaches as the input approaches a point, even if undefined there. Formal definition: lim(x→a) f(x) = L. One-sided limits (from left/right). A function is continuous at a point if the limit equals the function's value (no jumps, holes, or asymptotes). Techniques: direct substitution, factoring to cancel, rationalizing, and L'Hôpital's rule for indeterminate forms (0/0, ∞/∞). Limits at infinity describe end behavior. The limit formalizes 'approaching' rigorously, making instantaneous rates definable.\n\nWORKED EXAMPLE: lim(x→2) (x²−4)/(x−2). Direct substitution gives 0/0 (indeterminate). Factor: (x−2)(x+2)/(x−2) = x+2. Now substitute: 2+2 = 4. The hole at x=2 is 'removable' — the limit exists (4) even though the function is undefined there. This is the essence of limits: what the function approaches, not what it equals.\n\nPRACTICE: 1) Evaluate lim(x→3)(x²−9)/(x−3). 2) Determine if f(x)=1/x is continuous at x=0. 3) Find lim(x→∞) (3x²+1)/(x²+5)."
+ },
+ {
+  "id": "calculus_L1_2",
+  "subject_id": "calculus",
+  "level": 1,
+  "lesson_number": 2,
+  "title": "Calculus — Level 1 (Foundations): Lesson 2",
+  "category": "GITHUB_BUILT",
+  "content": "# Lesson 1.2: The Limit Concept and the Difference Quotient\n\n### Learning Objective\nBy the end of this lesson, you will be able to:\n1. Distinguish between the value of a function at a point, $f(c)$, and its limit as the input approaches that point, $\\lim_{x \\to c} f(x)$.\n2. Compute algebraic limits involving the indeterminate form $\\frac{0}{0}$ using factoring and rationalization.\n3. Formulate the difference quotient for an arbitrary function and compute its limit as the increment approaches zero.\n\n---\n\n### 1. Theoretical Foundation\n\n#### 1.1 The Limit Concept\nIn classical algebra, evaluating a function $f(x)$ at $x = c$ yields an exact output $f(c)$, provided $c$ lies within the function’s domain. Calculus, however, investigates local behavior *near* $c$ rather than behavior *at* $c$. \n\nWe write:\n$$\\lim_{x \\to c} f(x) = L$$\n\nThis statement asserts that as the independent variable $x$ becomes arbitrarily close to $c$ (with $x \\neq c$), the dependent variable $f(x)$ becomes arbitrarily close to the real number $L$. \n\nFor a two-sided limit to exist, the function must approach the same value from both directions:\n$$\\lim_{x \\to c} f(x) = L \\iff \\lim_{x \\to c^-} f(x) = L \\quad \\text{and} \\quad \\lim_{x \\to c^+} f(x) = L$$\n\nIf the left-hand limit and right-hand limit disagree, or if the values grow without bound, the limit does not exist (DNE).\n\n#### 1.2 The Indeterminate Form $\\frac{0}{0}$\nDirect substitution into a rational expression $\\frac{P(x)}{Q(x)}$ often yields $\\frac{0}{0}$. This is not a number; it is an **indeterminate form**. It indicates that the numerator and denominator share a common factor $(x - c)$ that vanishes at $x = c$. \n\nBecause a limit evaluates inputs where $x \\neq c$, we can algebraically eliminate this common factor without altering the limit:\n$$\\text{If } g(x) = h(x) \\text{ for all } x \\neq c, \\text{ then } \\lim_{x \\to c} g(x) = \\lim_{x \\to c} h(x)$$\n\n#### 1.3 The Difference Quotient: From Secant to Tangent\nLet $f$ be a continuous function. The average rate of change of $f$ over an interval $[x, x+h]$ corresponds geometrically to the slope of the **secant line** passing through $(x, f(x))$ and $(x+h, f(x+h))$:\n\n$$\\text{Average Rate of Change} = \\frac{\\Delta y}{\\Delta x} = \\frac{f(x+h) - f(x)}{h}$$\n\nThis ratio is the **difference quotient**. \n\nTo determine the *instantaneous* rate of change at $x$, we take the limit as the interval width $h$ shrinks to zero:\n\n$$\\text{Instantaneous Rate of Change} = \\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$$\n\nDirect substitution of $h = 0$ always produces the indeterminate form $\\frac{0}{0}$. Resolving this limit analytically is the foundational operation of differential calculus.\n\n---\n\n### 2. Concrete Worked Examples\n\n#### Example 1: Resolving $\\frac{0}{0}$ via Algebraic Factoring\nEvaluate the limit:\n$$\\lim_{x \\to 3} \\frac{x^2 - x - 6}{x^2 - 9}$$\n\n**Solution:**\n1. Direct substitution yields $\\frac{3^2 - 3 - 6}{3^2 - 9} = \\frac{0}{0}$ (indeterminate).\n2. Factor both polynomials:\n   $$\\lim_{x \\to 3} \\frac{(x - 3)(x + 2)}{(x - 3)(x + 3)}$$\n3. Because $x \\to 3$ implies $x \\neq 3$, divide out the common factor $(x - 3)$:\n   $$\\lim_{x \\to 3} \\frac{x + 2}{x + 3}$$\n4. Apply direct substitution to the simplified expression:\n   $$\\frac{3 + 2}{3 + 3} = \\frac{5}{6}$$\n\n---\n\n#### Example 2: The Difference Quotient for a Non-Linear Function\nFor $f(x) = 2x^2 - 5x$, compute the instantaneous rate of change expression $\\lim_{h \\to 0} \\frac{f(x+h) - f(x)}{h}$.\n\n**Solution:**\n1. Expand $f(x+h)$:\n   $$f(x+h) = 2(x+h)^2 - 5(x+h) = 2(x^2 + 2xh + h^2) - 5x - 5h = 2x^2"
+ },
+ {
+  "id": "calculus_L2_1",
+  "subject_id": "calculus",
+  "level": 2,
+  "lesson_number": 1,
+  "title": "Derivatives & Differentiation Rules",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: The derivative f'(x) is the instantaneous rate of change — the slope of the tangent line, defined as the limit of the difference quotient. Rules: power rule (d/dx xⁿ = nxⁿ⁻¹), constant, sum, product rule (fg)' = f'g + fg', quotient rule, and the chain rule for composite functions (the most important: d/dx f(g(x)) = f'(g(x))·g'(x)). Derivatives of trig, exponential (eˣ is its own derivative), and logarithmic functions. Higher-order derivatives (acceleration is the second derivative of position). Implicit differentiation for curves not solved for y.\n\nWORKED EXAMPLE: Differentiate f(x) = (3x² + 1)⁵ using the chain rule. Outer: 5(...)⁴; inner derivative: 6x. So f'(x) = 5(3x²+1)⁴ · 6x = 30x(3x²+1)⁴. The chain rule handles the composition — differentiate the outside, multiply by the derivative of the inside. It's the workhorse of all real-world differentiation.\n\nPRACTICE: 1) Differentiate f(x) = x³ + 4x² − 7. 2) Use the product rule on f(x) = x²·eˣ. 3) Apply the chain rule to f(x) = sin(2x³)."
+ },
+ {
+  "id": "calculus_L3_1",
+  "subject_id": "calculus",
+  "level": 3,
+  "lesson_number": 1,
+  "title": "Applications of Derivatives",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Derivatives solve real problems. Optimization: maxima/minima occur at critical points (f'=0 or undefined); the second derivative test classifies them (f''>0 = minimum, f''<0 = maximum). Related rates: differentiate a relationship with respect to time to link changing quantities. Curve sketching: increasing/decreasing (sign of f'), concavity (sign of f''), inflection points. Linear approximation uses the tangent line to estimate. The Mean Value Theorem guarantees a point where instantaneous rate equals average rate. Newton's method finds roots via derivatives.\n\nWORKED EXAMPLE: Maximize the area of a rectangle with perimeter 20. Area A = x(10−x) = 10x − x². Set A' = 10 − 2x = 0, so x = 5. Since A'' = −2 < 0, it's a maximum. The optimal rectangle is 5×5 (a square), area 25. Calculus turns 'find the best' into solving f'=0 — the single most valuable applied skill in optimization.\n\nPRACTICE: 1) Find the maximum of f(x) = 6x − x². 2) A balloon's radius grows at 2 cm/s; find how fast volume grows at r=5 (related rates). 3) Identify where f(x)=x³−3x is increasing."
+ },
+ {
+  "id": "calculus_L4_1",
+  "subject_id": "calculus",
+  "level": 4,
+  "lesson_number": 1,
+  "title": "Integration & the Fundamental Theorem",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: The integral reverses differentiation — the antiderivative. The definite integral ∫ₐᵇ f(x)dx is the signed area under the curve, defined as the limit of Riemann sums. The Fundamental Theorem of Calculus (the crown jewel): differentiation and integration are inverse operations, and ∫ₐᵇ f(x)dx = F(b) − F(a) where F is any antiderivative. This connects the two branches and makes areas computable. Basic antiderivatives (reverse the power rule: add 1 to exponent, divide). The '+C' constant of integration for indefinite integrals.\n\nWORKED EXAMPLE: ∫₀² x² dx. Antiderivative of x² is x³/3. Evaluate: (2³/3) − (0³/3) = 8/3 − 0 = 8/3 ≈ 2.67. This is the exact area under y=x² from 0 to 2. The Fundamental Theorem lets us compute this exactly instead of summing infinitely many rectangles — the leap that makes calculus practical.\n\nPRACTICE: 1) Find ∫ (3x² + 2x) dx. 2) Evaluate ∫₁³ x dx. 3) Explain why the '+C' appears in indefinite integrals."
+ },
+ {
+  "id": "calculus_L5_1",
+  "subject_id": "calculus",
+  "level": 5,
+  "lesson_number": 1,
+  "title": "Integration Techniques (Calc II)",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Beyond basic antiderivatives, techniques handle complex integrals. u-substitution reverses the chain rule (substitute to simplify). Integration by parts reverses the product rule: ∫u dv = uv − ∫v du (choose u by LIATE: Log, Inverse-trig, Algebraic, Trig, Exponential). Trigonometric integrals and substitution. Partial fractions decompose rational functions. Improper integrals handle infinite bounds or discontinuities via limits. These techniques integrate the functions that arise in physics, probability, and engineering.\n\nWORKED EXAMPLE: ∫ x·eˣ dx by parts. Let u = x (du = dx), dv = eˣdx (v = eˣ). Then ∫x eˣ dx = xeˣ − ∫eˣ dx = xeˣ − eˣ + C = eˣ(x−1) + C. Integration by parts strategically trades a hard integral for an easier one — essential whenever a product of different function types must be integrated.\n\nPRACTICE: 1) Use u-substitution on ∫ 2x(x²+1)³ dx. 2) Integrate ∫ x·cos(x) dx by parts. 3) Explain the LIATE rule for choosing u."
+ },
+ {
+  "id": "calculus_L6_1",
+  "subject_id": "calculus",
+  "level": 6,
+  "lesson_number": 1,
+  "title": "Series & Sequences (Calc II)",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: An infinite series sums infinitely many terms. Convergence (sums to a finite value) vs divergence. Tests: geometric series (converges if |r|<1), p-series, ratio test, comparison test, integral test, alternating series test. Power series represent functions as infinite polynomials. Taylor and Maclaurin series approximate any smooth function near a point using its derivatives — the basis for how calculators compute sin, eˣ, etc. Radius of convergence. Series turn transcendental functions into computable polynomials.\n\nWORKED EXAMPLE: The geometric series 1 + 1/2 + 1/4 + 1/8 + ... has ratio r = 1/2 < 1, so it converges to a/(1−r) = 1/(1−1/2) = 2. Adding infinitely many terms yields a finite sum — a result that surprised the ancient Greeks (Zeno's paradox) and is now rigorously understood. Taylor series extend this to represent eˣ, sin(x), and more as infinite sums.\n\nPRACTICE: 1) Find the sum of 3 + 1 + 1/3 + 1/9 + ... 2) Determine if Σ 1/n² converges (p-series). 3) Explain what a Taylor series approximates."
+ },
+ {
+  "id": "calculus_L7_1",
+  "subject_id": "calculus",
+  "level": 7,
+  "lesson_number": 1,
+  "title": "Grandmaster — Multivariable Calculus (Calc III)",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Multivariable calculus extends to functions of several variables — the mathematics of 3D space and beyond. Partial derivatives (∂f/∂x) measure change in one variable holding others fixed. The gradient ∇f points in the direction of steepest increase (the foundation of gradient descent in machine learning). Multiple integrals (double, triple) compute volume, mass, and probability over regions. Vector calculus: divergence, curl, line and surface integrals, and the great theorems (Green's, Stokes', Divergence) that generalize the Fundamental Theorem to higher dimensions. This is the language of physics and engineering.\n\nWORKED EXAMPLE: For f(x,y) = x²y + y³, the partial derivatives are ∂f/∂x = 2xy (treat y as constant) and ∂f/∂y = x² + 3y². The gradient ∇f = (2xy, x²+3y²) points toward steepest ascent. In machine learning, the negative gradient shows which way to adjust parameters to reduce error — every neural network trains by computing gradients exactly like this, in millions of dimensions.\n\nPRACTICE: 1) Find both partial derivatives of f(x,y) = 3x²y. 2) Explain what the gradient represents. 3) Describe what a double integral computes."
+ },
+ {
+  "id": "calculus_L8_1",
+  "subject_id": "calculus",
+  "level": 8,
+  "lesson_number": 1,
+  "title": "King Level — The Depth and Reach of Calculus",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: At the highest level, calculus is revealed as the mathematics of continuous change that underlies nearly all of science. Differential equations (relating functions to their derivatives) model everything dynamic: population growth, heat flow, quantum mechanics, circuits, and economies. The calculus of variations finds functions that optimize integrals (the path of least action in physics). Real analysis provides the rigorous foundation (epsilon-delta proofs) beneath the techniques. Calculus connects to every field: it IS how we describe motion, growth, accumulation, and optimization. The King-level truth: Newton and Leibniz's invention wasn't just a technique — it was a new way of seeing reality as continuously changing and precisely describable, which unlocked the modern scientific and technological world.\n\nWORKED EXAMPLE: Population growth follows dP/dt = kP (rate of change proportional to current size) — a differential equation whose solution is exponential: P = P₀eᵏᵗ. The same equation, with different signs and constants, models radioactive decay, compound interest, and cooling. One calculus relationship describes phenomena across biology, finance, and physics — demonstrating the 'unreasonable effectiveness' of calculus in capturing how the world changes.\n\nPRACTICE: 1) Explain what a differential equation relates. 2) Solve dP/dt = kP conceptually (what kind of function?). 3) Give three different phenomena modeled by exponential change."
+ }
 ]

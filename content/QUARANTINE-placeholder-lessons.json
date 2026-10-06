@@ -1,0 +1,6354 @@
+{
+ "note": "Lessons held back from publication. Each opens with a generic template sentence instead of real instructional content, so it is a placeholder rather than a lesson. Listed by id so they can be regenerated or retired in production.",
+ "count": 792,
+ "subjects_affected": [
+  "biology",
+  "chemistry",
+  "computer_science",
+  "history",
+  "literature",
+  "philosophy",
+  "physics",
+  "programming",
+  "psychology",
+  "sociology"
+ ],
+ "lessons": [
+  {
+   "id": "biology_L1_1",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Scientific method in biology: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_2",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Cell structure: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_3",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Membranes and transport: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_4",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Biomolecules: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_5",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Enzymes: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_6",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Cellular respiration: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_7",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Photosynthesis: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_8",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "DNA structure: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_9",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "DNA replication: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L1_10",
+   "subject_id": "biology",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Gene expression: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_1",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Mitosis: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_2",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Meiosis: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_3",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Inheritance: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_4",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Mutations: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_5",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Evolution: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_6",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Natural selection: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_7",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Population genetics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_8",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Microbiology: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_9",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Viruses: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L2_10",
+   "subject_id": "biology",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Immune systems: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_1",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Plant physiology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_2",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Animal physiology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_3",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Ecology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_4",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Energy flow: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_5",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Biogeochemical cycles: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_6",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Population ecology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_7",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Communities: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_8",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Ecosystems: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_9",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Conservation biology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L3_10",
+   "subject_id": "biology",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Experimental design: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_1",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Scientific method in biology: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_2",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Cell structure: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_3",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Membranes and transport: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_4",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Biomolecules: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_5",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Enzymes: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_6",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Cellular respiration: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_7",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Photosynthesis: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_8",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "DNA structure: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_9",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "DNA replication: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L4_10",
+   "subject_id": "biology",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Gene expression: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_1",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Mitosis: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_2",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Meiosis: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_3",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Inheritance: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_4",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Mutations: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_5",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Evolution: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_6",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Natural selection: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_7",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Population genetics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_8",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Microbiology: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_9",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Viruses: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L5_10",
+   "subject_id": "biology",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Immune systems: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_1",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Plant physiology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_2",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Animal physiology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_3",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Ecology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_4",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Energy flow: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_5",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Biogeochemical cycles: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_6",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Population ecology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_7",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Communities: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_8",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Ecosystems: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_9",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Conservation biology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L6_10",
+   "subject_id": "biology",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Experimental design: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_1",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Scientific method in biology: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_2",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Cell structure: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_3",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Membranes and transport: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_4",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Biomolecules: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_5",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Enzymes: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_6",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Cellular respiration: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_7",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Photosynthesis: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_8",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "DNA structure: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_9",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "DNA replication: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L7_10",
+   "subject_id": "biology",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Gene expression: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_1",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Mitosis: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_2",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Meiosis: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_3",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Inheritance: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_4",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Mutations: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_5",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Evolution: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_6",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Natural selection: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_7",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Population genetics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_8",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Microbiology: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_9",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Viruses: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "biology_L8_10",
+   "subject_id": "biology",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Immune systems: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_1",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Measurement and units: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_2",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Atomic structure: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_3",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Periodic trends: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_4",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Chemical bonding: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_5",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Lewis structures: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_6",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Molecular geometry: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_7",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Stoichiometry: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_8",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Chemical equations: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_9",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Gas laws: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L1_10",
+   "subject_id": "chemistry",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Thermochemistry: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_1",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Reaction rates: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_2",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Chemical equilibrium: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_3",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Acids and bases: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_4",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Buffers: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_5",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Solubility: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_6",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Redox reactions: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_7",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Electrochemistry: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_8",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Organic functional groups: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_9",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Hydrocarbons: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L2_10",
+   "subject_id": "chemistry",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Stereochemistry: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_1",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Spectroscopy: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_2",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Kinetics models: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_3",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Quantum chemistry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_4",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Statistical thermodynamics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_5",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Coordination chemistry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_6",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Biochemistry foundations: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_7",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Polymer chemistry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_8",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Analytical chemistry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_9",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Environmental chemistry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L3_10",
+   "subject_id": "chemistry",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Research methods: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_1",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Measurement and units: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_2",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Atomic structure: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_3",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Periodic trends: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_4",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Chemical bonding: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_5",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Lewis structures: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_6",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Molecular geometry: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_7",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Stoichiometry: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_8",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Chemical equations: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_9",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Gas laws: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L4_10",
+   "subject_id": "chemistry",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Thermochemistry: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_1",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Reaction rates: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_2",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Chemical equilibrium: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_3",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Acids and bases: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_4",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Buffers: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_5",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Solubility: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_6",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Redox reactions: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_7",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Electrochemistry: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_8",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Organic functional groups: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_9",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Hydrocarbons: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L5_10",
+   "subject_id": "chemistry",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Stereochemistry: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_1",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Spectroscopy: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_2",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Kinetics models: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_3",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Quantum chemistry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_4",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Statistical thermodynamics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_5",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Coordination chemistry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_6",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Biochemistry foundations: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_7",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Polymer chemistry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_8",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Analytical chemistry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_9",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Environmental chemistry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L6_10",
+   "subject_id": "chemistry",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Research methods: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_1",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Measurement and units: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_2",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Atomic structure: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_3",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Periodic trends: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_4",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Chemical bonding: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_5",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Lewis structures: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_6",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Molecular geometry: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_7",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Stoichiometry: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_8",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Chemical equations: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_9",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Gas laws: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L7_10",
+   "subject_id": "chemistry",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Thermochemistry: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_1",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Reaction rates: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_2",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Chemical equilibrium: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_3",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Acids and bases: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_4",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Buffers: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_5",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Solubility: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_6",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Redox reactions: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_7",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Electrochemistry: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_8",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Organic functional groups: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_9",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Hydrocarbons: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "chemistry_L8_10",
+   "subject_id": "chemistry",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Stereochemistry: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_1",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Computational thinking: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_2",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Data representation: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_3",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Boolean logic: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_4",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Algorithms: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_5",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Complexity: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_6",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Data structures: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_7",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Recursion: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_8",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Operating systems: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_9",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Computer architecture: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L1_10",
+   "subject_id": "computer_science",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Networking: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_1",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Databases: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_2",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Programming paradigms: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_3",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Object-oriented design: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_4",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Functional programming: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_5",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Distributed systems: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_6",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Concurrency: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_7",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Compilers: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_8",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Computer security: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_9",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Artificial intelligence: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L2_10",
+   "subject_id": "computer_science",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Machine learning: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_1",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Information retrieval: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_2",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Computer graphics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_3",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Human-computer interaction: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_4",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Theory of computation: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_5",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Formal languages: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_6",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Cryptography: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_7",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Software engineering: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_8",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Systems design: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_9",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Parallel computing: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L3_10",
+   "subject_id": "computer_science",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Research methods: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_1",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Computational thinking: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_2",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Data representation: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_3",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Boolean logic: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_4",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Algorithms: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_5",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Complexity: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_6",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Data structures: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_7",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Recursion: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_8",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Operating systems: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_9",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Computer architecture: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L4_10",
+   "subject_id": "computer_science",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Networking: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_1",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Databases: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_2",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Programming paradigms: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_3",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Object-oriented design: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_4",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Functional programming: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_5",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Distributed systems: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_6",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Concurrency: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_7",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Compilers: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_8",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Computer security: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_9",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Artificial intelligence: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L5_10",
+   "subject_id": "computer_science",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Machine learning: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_1",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Information retrieval: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_2",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Computer graphics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_3",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Human-computer interaction: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_4",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Theory of computation: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_5",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Formal languages: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_6",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Cryptography: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_7",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Software engineering: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_8",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Systems design: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_9",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Parallel computing: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L6_10",
+   "subject_id": "computer_science",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Research methods: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_1",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Computational thinking: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_2",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Data representation: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_3",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Boolean logic: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_4",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Algorithms: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_5",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Complexity: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_6",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Data structures: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_7",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Recursion: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_8",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Operating systems: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_9",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Computer architecture: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L7_10",
+   "subject_id": "computer_science",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Networking: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_1",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Databases: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_2",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Programming paradigms: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_3",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Object-oriented design: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_4",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Functional programming: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_5",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Distributed systems: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_6",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Concurrency: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_7",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Compilers: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_8",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Computer security: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_9",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Artificial intelligence: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "computer_science_L8_10",
+   "subject_id": "computer_science",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Machine learning: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_1",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "What historians do: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_2",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Primary sources: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_3",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Secondary sources: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_4",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Chronology: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_5",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Causation: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_6",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Evidence and interpretation: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_7",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Ancient civilizations: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_8",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Classical societies: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_9",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Medieval worlds: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L1_10",
+   "subject_id": "history",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Early modern states: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_1",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Reformation and political change: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_2",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Scientific revolution: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_3",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Enlightenment: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_4",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Industrialization: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_5",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Nationalism: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_6",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Imperialism: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_7",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "World War I: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_8",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Interwar period: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_9",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "World War II: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L2_10",
+   "subject_id": "history",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Cold War: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_1",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Decolonization: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_2",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Globalization: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_3",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Economic history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_4",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Social history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_5",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Intellectual history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_6",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Environmental history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_7",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "History of technology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_8",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Public history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_9",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Comparative history: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L3_10",
+   "subject_id": "history",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Independent historical research: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_1",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "What historians do: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_2",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Primary sources: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_3",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Secondary sources: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_4",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Chronology: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_5",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Causation: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_6",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Evidence and interpretation: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_7",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Ancient civilizations: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_8",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Classical societies: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_9",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Medieval worlds: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L4_10",
+   "subject_id": "history",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Early modern states: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_1",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Reformation and political change: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_2",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Scientific revolution: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_3",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Enlightenment: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_4",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Industrialization: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_5",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Nationalism: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_6",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Imperialism: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_7",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "World War I: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_8",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Interwar period: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_9",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "World War II: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L5_10",
+   "subject_id": "history",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Cold War: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_1",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Decolonization: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_2",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Globalization: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_3",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Economic history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_4",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Social history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_5",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Intellectual history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_6",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Environmental history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_7",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "History of technology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_8",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Public history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_9",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Comparative history: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L6_10",
+   "subject_id": "history",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Independent historical research: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_1",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "What historians do: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_2",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Primary sources: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_3",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Secondary sources: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_4",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Chronology: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_5",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Causation: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_6",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Evidence and interpretation: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_7",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Ancient civilizations: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_8",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Classical societies: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_9",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Medieval worlds: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L7_10",
+   "subject_id": "history",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Early modern states: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_1",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Reformation and political change: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_2",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Scientific revolution: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_3",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Enlightenment: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_4",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Industrialization: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_5",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Nationalism: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_6",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Imperialism: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_7",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "World War I: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_8",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Interwar period: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_9",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "World War II: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "history_L8_10",
+   "subject_id": "history",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Cold War: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_1",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Reading literature: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_2",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Close reading: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_3",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Narrative structure: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_4",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Characterization: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_5",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Setting: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_6",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Point of view: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_7",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Voice and style: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_8",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Imagery: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_9",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Symbolism: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L1_10",
+   "subject_id": "literature",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Metaphor: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_1",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Poetry forms: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_2",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Drama: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_3",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Short fiction: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_4",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "The novel: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_5",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Genre: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_6",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Literary movements: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_7",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Comparative literature: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_8",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Literary criticism: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_9",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Narratology: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L2_10",
+   "subject_id": "literature",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Rhetoric: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_1",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "World literature: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_2",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Postcolonial literature: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_3",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Gender and literature: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_4",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Literature and society: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_5",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Digital humanities: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_6",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Textual analysis: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_7",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Research methods: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_8",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Scholarly argument: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_9",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Primary and secondary sources: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L3_10",
+   "subject_id": "literature",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Independent literary research: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_1",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Reading literature: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_2",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Close reading: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_3",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Narrative structure: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_4",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Characterization: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_5",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Setting: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_6",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Point of view: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_7",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Voice and style: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_8",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Imagery: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_9",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Symbolism: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L4_10",
+   "subject_id": "literature",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Metaphor: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_1",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Poetry forms: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_2",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Drama: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_3",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Short fiction: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_4",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "The novel: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_5",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Genre: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_6",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Literary movements: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_7",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Comparative literature: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_8",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Literary criticism: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_9",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Narratology: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L5_10",
+   "subject_id": "literature",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Rhetoric: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_1",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "World literature: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_2",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Postcolonial literature: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_3",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Gender and literature: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_4",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Literature and society: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_5",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Digital humanities: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_6",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Textual analysis: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_7",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Research methods: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_8",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Scholarly argument: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_9",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Primary and secondary sources: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L6_10",
+   "subject_id": "literature",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Independent literary research: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_1",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Reading literature: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_2",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Close reading: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_3",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Narrative structure: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_4",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Characterization: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_5",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Setting: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_6",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Point of view: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_7",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Voice and style: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_8",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Imagery: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_9",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Symbolism: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L7_10",
+   "subject_id": "literature",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Metaphor: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_1",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Poetry forms: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_2",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Drama: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_3",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Short fiction: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_4",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "The novel: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_5",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Genre: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_6",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Literary movements: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_7",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Comparative literature: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_8",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Literary criticism: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_9",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Narratology: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "literature_L8_10",
+   "subject_id": "literature",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Rhetoric: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_1",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "What philosophy does: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_2",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Arguments and validity: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_3",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Deductive reasoning: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_4",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Inductive reasoning: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_5",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Epistemology: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_6",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Skepticism: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_7",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Metaphysics: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_8",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Mind and consciousness: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_9",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Personal identity: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L1_10",
+   "subject_id": "philosophy",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Free will: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_1",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Ethics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_2",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Consequentialism: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_3",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Deontology: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_4",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Virtue ethics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_5",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Political philosophy: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_6",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Justice: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_7",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Philosophy of science: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_8",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Philosophy of language: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_9",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Logic: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L2_10",
+   "subject_id": "philosophy",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Aesthetics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_1",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Ancient philosophy: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_2",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Medieval philosophy: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_3",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Early modern philosophy: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_4",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Modern philosophy: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_5",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Philosophy of mathematics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_6",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Philosophy of technology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_7",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Philosophy of AI: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_8",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Applied ethics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_9",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Comparative traditions: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L3_10",
+   "subject_id": "philosophy",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Independent philosophical inquiry: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_1",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "What philosophy does: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_2",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Arguments and validity: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_3",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Deductive reasoning: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_4",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Inductive reasoning: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_5",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Epistemology: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_6",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Skepticism: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_7",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Metaphysics: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_8",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Mind and consciousness: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_9",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Personal identity: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L4_10",
+   "subject_id": "philosophy",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Free will: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_1",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Ethics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_2",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Consequentialism: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_3",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Deontology: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_4",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Virtue ethics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_5",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Political philosophy: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_6",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Justice: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_7",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Philosophy of science: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_8",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Philosophy of language: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_9",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Logic: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L5_10",
+   "subject_id": "philosophy",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Aesthetics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_1",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Ancient philosophy: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_2",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Medieval philosophy: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_3",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Early modern philosophy: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_4",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Modern philosophy: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_5",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Philosophy of mathematics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_6",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Philosophy of technology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_7",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Philosophy of AI: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_8",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Applied ethics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_9",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Comparative traditions: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L6_10",
+   "subject_id": "philosophy",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Independent philosophical inquiry: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_1",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "What philosophy does: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_2",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Arguments and validity: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_3",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Deductive reasoning: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_4",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Inductive reasoning: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_5",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Epistemology: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_6",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Skepticism: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_7",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Metaphysics: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_8",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Mind and consciousness: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_9",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Personal identity: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L7_10",
+   "subject_id": "philosophy",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Free will: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_1",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Ethics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_2",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Consequentialism: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_3",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Deontology: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_4",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Virtue ethics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_5",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Political philosophy: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_6",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Justice: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_7",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Philosophy of science: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_8",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Philosophy of language: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_9",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Logic: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "philosophy_L8_10",
+   "subject_id": "philosophy",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Aesthetics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_1",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Units and vectors: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_2",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Kinematics: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_3",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Newton's laws: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_4",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Work and energy: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_5",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Momentum: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_6",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Rotational motion: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_7",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Gravitation: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_8",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Oscillations: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_9",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Waves: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L1_10",
+   "subject_id": "physics",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Fluid mechanics: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_1",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Temperature: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_2",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Thermodynamics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_3",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Electric charge: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_4",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Electric fields: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_5",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Electric potential: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_6",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Circuits: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_7",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Magnetism: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_8",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Electromagnetic induction: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_9",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Optics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L2_10",
+   "subject_id": "physics",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Special relativity: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_1",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Quantum foundations: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_2",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Wave mechanics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_3",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Statistical physics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_4",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Lagrangian mechanics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_5",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Hamiltonian mechanics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_6",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Electromagnetism: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_7",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Solid-state physics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_8",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Nuclear physics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_9",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Particle physics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L3_10",
+   "subject_id": "physics",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Experimental methods: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_1",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Units and vectors: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_2",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Kinematics: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_3",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Newton's laws: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_4",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Work and energy: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_5",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Momentum: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_6",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Rotational motion: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_7",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Gravitation: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_8",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Oscillations: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_9",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Waves: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L4_10",
+   "subject_id": "physics",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Fluid mechanics: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_1",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Temperature: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_2",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Thermodynamics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_3",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Electric charge: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_4",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Electric fields: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_5",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Electric potential: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_6",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Circuits: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_7",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Magnetism: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_8",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Electromagnetic induction: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_9",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Optics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L5_10",
+   "subject_id": "physics",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Special relativity: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_1",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Quantum foundations: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_2",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Wave mechanics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_3",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Statistical physics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_4",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Lagrangian mechanics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_5",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Hamiltonian mechanics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_6",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Electromagnetism: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_7",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Solid-state physics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_8",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Nuclear physics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_9",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Particle physics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L6_10",
+   "subject_id": "physics",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Experimental methods: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_1",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Units and vectors: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_2",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Kinematics: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_3",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Newton's laws: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_4",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Work and energy: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_5",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Momentum: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_6",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Rotational motion: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_7",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Gravitation: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_8",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Oscillations: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_9",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Waves: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L7_10",
+   "subject_id": "physics",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Fluid mechanics: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_1",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Temperature: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_2",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Thermodynamics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_3",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Electric charge: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_4",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Electric fields: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_5",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Electric potential: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_6",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Circuits: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_7",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Magnetism: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_8",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Electromagnetic induction: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_9",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Optics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "physics_L8_10",
+   "subject_id": "physics",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Special relativity: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_1",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Variables and types: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_2",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Control flow: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_3",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Functions: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_4",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Modules: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_5",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Collections: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_6",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Error handling: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_7",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Testing: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_8",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Debugging: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_9",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Object-oriented programming: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L1_10",
+   "subject_id": "programming",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Functional programming: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_1",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "APIs: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_2",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Data serialization: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_3",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Files and persistence: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_4",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Databases: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_5",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Web programming: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_6",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Concurrency: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_7",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Asynchronous programming: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_8",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Performance: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_9",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Memory management: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L2_10",
+   "subject_id": "programming",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Security: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_1",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Design patterns: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_2",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Refactoring: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_3",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Version control: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_4",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Build systems: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_5",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Package management: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_6",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Compiler concepts: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_7",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Language design: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_8",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Distributed applications: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_9",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Production engineering: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L3_10",
+   "subject_id": "programming",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Capstone development: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_1",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "Variables and types: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_2",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Control flow: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_3",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Functions: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_4",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Modules: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_5",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Collections: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_6",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Error handling: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_7",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Testing: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_8",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Debugging: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_9",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Object-oriented programming: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L4_10",
+   "subject_id": "programming",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Functional programming: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_1",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "APIs: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_2",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Data serialization: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_3",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Files and persistence: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_4",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Databases: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_5",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Web programming: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_6",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Concurrency: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_7",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Asynchronous programming: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_8",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Performance: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_9",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Memory management: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L5_10",
+   "subject_id": "programming",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Security: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_1",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Design patterns: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_2",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Refactoring: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_3",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Version control: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_4",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Build systems: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_5",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Package management: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_6",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Compiler concepts: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_7",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Language design: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_8",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Distributed applications: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_9",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Production engineering: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L6_10",
+   "subject_id": "programming",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Capstone development: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_1",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "Variables and types: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_2",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Control flow: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_3",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Functions: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_4",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Modules: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_5",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Collections: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_6",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Error handling: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_7",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Testing: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_8",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Debugging: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_9",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Object-oriented programming: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L7_10",
+   "subject_id": "programming",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Functional programming: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_1",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "APIs: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_2",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Data serialization: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_3",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Files and persistence: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_4",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Databases: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_5",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Web programming: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_6",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Concurrency: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_7",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Asynchronous programming: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_8",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Performance: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_9",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Memory management: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "programming_L8_10",
+   "subject_id": "programming",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Security: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_3",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Neurons and signaling: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_5",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Sensation: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_6",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Perception: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_7",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Learning: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_8",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Memory: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_9",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Language: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L1_10",
+   "subject_id": "psychology",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Thinking: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_5",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Social influence: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_6",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Groups: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_7",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Mental health: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_8",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Clinical assessment: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_9",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Cognitive behavioral models: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L2_10",
+   "subject_id": "psychology",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Psychological measurement: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_2",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Experimental design: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_3",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Behavioral neuroscience: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_4",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Cognitive science: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_5",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Developmental research: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_6",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Social cognition: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_7",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Industrial psychology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_8",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Health psychology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_9",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Cross-cultural psychology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L3_10",
+   "subject_id": "psychology",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Research ethics: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_1",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "What psychology studies: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_2",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Research methods: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_3",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Neurons and signaling: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_4",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Brain systems: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_5",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Sensation: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_6",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Perception: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_7",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Learning: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_8",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Memory: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_9",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Language: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L4_10",
+   "subject_id": "psychology",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Thinking: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_1",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Emotion: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_2",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Motivation: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_3",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Development: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_4",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Personality: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_5",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Social influence: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_6",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Groups: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_7",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Mental health: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_8",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Clinical assessment: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_9",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Cognitive behavioral models: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L5_10",
+   "subject_id": "psychology",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Psychological measurement: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_1",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Statistics in psychology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_2",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Experimental design: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_3",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Behavioral neuroscience: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_4",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Cognitive science: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_5",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Developmental research: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_6",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Social cognition: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_7",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Industrial psychology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_8",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Health psychology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_9",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Cross-cultural psychology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L6_10",
+   "subject_id": "psychology",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Research ethics: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_1",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "What psychology studies: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_2",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Research methods: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_3",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Neurons and signaling: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_4",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Brain systems: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_5",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Sensation: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_6",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Perception: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_7",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Learning: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_8",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Memory: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_9",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Language: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L7_10",
+   "subject_id": "psychology",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Thinking: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_1",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Emotion: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_2",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Motivation: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_3",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Development: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_4",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Personality: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_5",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Social influence: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_6",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Groups: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_7",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Mental health: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_8",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Clinical assessment: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_9",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Cognitive behavioral models: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "psychology_L8_10",
+   "subject_id": "psychology",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Psychological measurement: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_1",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "What sociology studies: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_2",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "Social research: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_3",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "Culture: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_4",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "Socialization: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_5",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "Identity: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_6",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "Groups: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_7",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "Organizations: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_8",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "Institutions: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_9",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "Family: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L1_10",
+   "subject_id": "sociology",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "Education: Foundations",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_1",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Work: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_2",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "Economy: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_3",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "Politics: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_4",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "Religion: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_5",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "Media: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_6",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "Stratification: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_7",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "Class: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_8",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "Race and ethnicity: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_9",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "Gender: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L2_10",
+   "subject_id": "sociology",
+   "level": 2,
+   "lesson_number": 10,
+   "title": "Population: Core Framework",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_1",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 1,
+   "title": "Urban sociology: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_2",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 2,
+   "title": "Globalization: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_3",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 3,
+   "title": "Migration: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_4",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 4,
+   "title": "Deviance: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_5",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 5,
+   "title": "Crime: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_6",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 6,
+   "title": "Health: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_7",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 7,
+   "title": "Social movements: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_8",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 8,
+   "title": "Networks: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_9",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 9,
+   "title": "Social change: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L3_10",
+   "subject_id": "sociology",
+   "level": 3,
+   "lesson_number": 10,
+   "title": "Research design: Applied Reasoning",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_1",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 1,
+   "title": "What sociology studies: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_2",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 2,
+   "title": "Social research: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_3",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 3,
+   "title": "Culture: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_4",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 4,
+   "title": "Socialization: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_5",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 5,
+   "title": "Identity: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_6",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 6,
+   "title": "Groups: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_7",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 7,
+   "title": "Organizations: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_8",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 8,
+   "title": "Institutions: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_9",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 9,
+   "title": "Family: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L4_10",
+   "subject_id": "sociology",
+   "level": 4,
+   "lesson_number": 10,
+   "title": "Education: Advanced Analysis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_1",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 1,
+   "title": "Work: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_2",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 2,
+   "title": "Economy: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_3",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 3,
+   "title": "Politics: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_4",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 4,
+   "title": "Religion: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_5",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 5,
+   "title": "Media: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_6",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 6,
+   "title": "Stratification: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_7",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 7,
+   "title": "Class: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_8",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 8,
+   "title": "Race and ethnicity: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_9",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 9,
+   "title": "Gender: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L5_10",
+   "subject_id": "sociology",
+   "level": 5,
+   "lesson_number": 10,
+   "title": "Population: Honors Synthesis",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_1",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 1,
+   "title": "Urban sociology: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_2",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 2,
+   "title": "Globalization: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_3",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 3,
+   "title": "Migration: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_4",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 4,
+   "title": "Deviance: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_5",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 5,
+   "title": "Crime: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_6",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 6,
+   "title": "Health: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_7",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 7,
+   "title": "Social movements: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_8",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 8,
+   "title": "Networks: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_9",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 9,
+   "title": "Social change: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L6_10",
+   "subject_id": "sociology",
+   "level": 6,
+   "lesson_number": 10,
+   "title": "Research design: Graduate Methods",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_1",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 1,
+   "title": "What sociology studies: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_2",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 2,
+   "title": "Social research: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_3",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 3,
+   "title": "Culture: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_4",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 4,
+   "title": "Socialization: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_5",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 5,
+   "title": "Identity: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_6",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 6,
+   "title": "Groups: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_7",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 7,
+   "title": "Organizations: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_8",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 8,
+   "title": "Institutions: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_9",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 9,
+   "title": "Family: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L7_10",
+   "subject_id": "sociology",
+   "level": 7,
+   "lesson_number": 10,
+   "title": "Education: Doctoral Inquiry",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_1",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 1,
+   "title": "Work: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_2",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 2,
+   "title": "Economy: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_3",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 3,
+   "title": "Politics: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_4",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 4,
+   "title": "Religion: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_5",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 5,
+   "title": "Media: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_6",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 6,
+   "title": "Stratification: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_7",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 7,
+   "title": "Class: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_8",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 8,
+   "title": "Race and ethnicity: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_9",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 9,
+   "title": "Gender: Research Frontier",
+   "reason": "template_placeholder"
+  },
+  {
+   "id": "sociology_L8_10",
+   "subject_id": "sociology",
+   "level": 8,
+   "lesson_number": 10,
+   "title": "Population: Research Frontier",
+   "reason": "template_placeholder"
+  }
+ ]
+}

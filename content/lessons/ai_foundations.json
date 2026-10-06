@@ -1,74 +1,83 @@
 [
-  {
-    "subject_id": "ai_foundations",
-    "level": 1,
-    "lesson_number": 1,
-    "title": "What Is AI",
-    "content": "Artificial Intelligence is the science of building systems that perform tasks requiring human-like intelligence: perception, reasoning, learning, decision-making. KEY CONCEPTS: Narrow AI (task-specific, today's reality) vs General AI (human-level, not yet achieved). Symbolic AI (rules/logic) vs Machine Learning (learning from data). WORKED EXAMPLE: A spam filter learning from examples is narrow ML AI. PRACTICE: 1) List 3 AI systems you use daily. 2) Classify each as narrow/general. 3) Identify rules-based vs learned.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What distinguishes Narrow AI from General AI?\", \"options\": [\"Narrow AI performs specific tasks; General AI can perform any human-level task\", \"Narrow AI is based on rules; General AI learns from data\", \"Narrow AI is theoretical; General AI is widely used today\", \"Narrow AI can learn; General AI cannot\"], \"correct\": 0, \"explanation\": \"Narrow AI is designed for specific tasks and is the current reality, while General AI would perform any human-level task but has not yet been achieved.\"}, {\"q\": \"Which of the following best describes Symbolic AI?\", \"options\": [\"AI that learns patterns from data\", \"AI that uses predefined rules and logic\", \"AI that mimics human emotions\", \"AI that filters spam emails automatically\"], \"correct\": 1, \"explanation\": \"Symbolic AI relies on rules and logic explicitly programmed, unlike machine learning which learns from data.\"}, {\"q\": \"A spam filter that improves by analyzing examples of spam emails is an example of:\", \"options\": [\"General AI\", \"Narrow AI using Symbolic AI\", \"Narrow AI using Machine Learning\", \"General AI using Machine Learning\"], \"correct\": 2, \"explanation\": \"A spam filter learning from examples is a narrow AI system using machine learning techniques.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 2,
-    "lesson_number": 1,
-    "title": "History & Paradigms",
-    "content": "AI evolved through waves: symbolic/expert systems (1950s-80s), machine learning (1990s-2010s), deep learning (2010s+), foundation models/LLMs (2020s). KEY CONCEPTS: AI winters (funding collapses when hype outran results). The shift from hand-coded rules to learned patterns. WORKED EXAMPLE: Chess (rules-based Deep Blue 1997) vs Go (learned AlphaGo 2016) shows the paradigm shift. PRACTICE: 1) Map the 4 waves. 2) Explain why deep learning succeeded where rules failed.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Which AI paradigm is characterized by hand-coded rules and expert systems primarily used between the 1950s and 1980s?\", \"options\": [\"Symbolic/Expert Systems\", \"Machine Learning\", \"Deep Learning\", \"Foundation Models/LLMs\"], \"correct\": 0, \"explanation\": \"The symbolic/expert systems wave relied on hand-coded rules and dominated AI development from the 1950s to the 1980s.\"}, {\"q\": \"What major factor caused the AI winters, periods of reduced funding and interest in AI research?\", \"options\": [\"Hype exceeding actual results\", \"Lack of computing power\", \"Overreliance on deep learning\", \"Success of foundation models\"], \"correct\": 0, \"explanation\": \"AI winters occurred because the hype around AI capabilities outpaced the actual results, leading to funding collapses.\"}, {\"q\": \"Why did deep learning succeed in tasks like Go where rule-based systems like Deep Blue struggled?\", \"options\": [\"Deep learning learns patterns from data rather than relying on hand-coded rules\", \"Deep learning uses more computing power\", \"Deep learning was developed earlier\", \"Deep learning requires less data\"], \"correct\": 0, \"explanation\": \"Deep learning succeeded because it learns patterns from large datasets, enabling it to handle complex tasks like Go that are difficult to encode with explicit rules.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 3,
-    "lesson_number": 1,
-    "title": "How Machines Learn",
-    "content": "Three learning types: supervised (labeled data), unsupervised (find structure), reinforcement (learn by reward). KEY CONCEPTS: Training data, features, models, inference. Generalization \u2014 performing on unseen data. Overfitting vs underfitting. WORKED EXAMPLE: Teaching a model cats vs dogs from labeled photos (supervised). PRACTICE: 1) Pick a problem for each learning type. 2) Define features for a house-price model. 3) Explain overfitting.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Which type of machine learning uses labeled data to teach the model?\", \"options\": [\"Supervised learning\", \"Unsupervised learning\", \"Reinforcement learning\", \"All of the above\"], \"correct\": 0, \"explanation\": \"Supervised learning specifically uses labeled data to train models by providing input-output pairs.\"}, {\"q\": \"What is the main difference between overfitting and underfitting in machine learning models?\", \"options\": [\"Overfitting means the model performs well on training data but poorly on new data; underfitting means the model performs poorly on both.\", \"Overfitting means the model performs poorly on training data; underfitting means it performs well on all data.\", \"Overfitting means the model ignores training data; underfitting means it memorizes training data.\", \"Overfitting and underfitting both mean the model performs well on unseen data.\"], \"correct\": 0, \"explanation\": \"Overfitting occurs when a model learns training data too well and fails to generalize; underfitting means the model is too simple and fails to capture patterns even in training data.\"}, {\"q\": \"In the example of teaching a model to distinguish cats from dogs using labeled photos, which key concept is being demonstrated?\", \"options\": [\"Supervised learning with labeled training data\", \"Unsupervised learning by finding structure\", \"Reinforcement learning through rewards\", \"Generalization without training data\"], \"correct\": 0, \"explanation\": \"The example involves supervised learning where the model is trained on labeled photos (cats vs dogs) to learn to classify new images.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 4,
-    "lesson_number": 1,
-    "title": "Neural Networks",
-    "content": "Neural networks are layers of interconnected nodes that learn patterns via weighted connections. KEY CONCEPTS: Neurons, weights, activation functions, forward propagation, backpropagation (learning by error correction), gradient descent. Deep = many layers. WORKED EXAMPLE: An image classifier's early layers detect edges, deeper layers detect objects. PRACTICE: 1) Diagram a 3-layer network. 2) Explain backpropagation simply. 3) Define an activation function's role.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What is the primary purpose of weights in a neural network?\", \"options\": [\"To connect neurons randomly\", \"To adjust the strength of connections between neurons\", \"To activate neurons directly\", \"To store input data\"], \"correct\": 1, \"explanation\": \"Weights determine how strongly one neuron influences another, allowing the network to learn patterns by adjusting these values.\"}, {\"q\": \"Which process involves adjusting the weights of a neural network based on the error of its output?\", \"options\": [\"Forward propagation\", \"Activation function\", \"Backpropagation\", \"Gradient initialization\"], \"correct\": 2, \"explanation\": \"Backpropagation is the method of learning by propagating the error backward and updating weights to minimize that error.\"}, {\"q\": \"What role does an activation function play in a neural network?\", \"options\": [\"It initializes the weights\", \"It determines whether a neuron should be activated based on its input\", \"It propagates the input forward through the network\", \"It calculates the error during learning\"], \"correct\": 1, \"explanation\": \"Activation functions decide if a neuron fires by transforming the input signal, introducing non-linearity essential for learning complex patterns.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 5,
-    "lesson_number": 1,
-    "title": "Modern AI \u2014 LLMs & Transformers",
-    "content": "Large Language Models use the transformer architecture (attention mechanism) to process and generate language. KEY CONCEPTS: Tokens, embeddings, attention ('which words matter to which'), pre-training + fine-tuning, emergent abilities at scale. WORKED EXAMPLE: An LLM predicts the next token, and at scale this yields reasoning-like behavior. PRACTICE: 1) Explain attention in plain words. 2) Define a token. 3) Describe pre-training vs fine-tuning.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What is the primary role of the attention mechanism in transformer-based Large Language Models?\", \"options\": [\"It determines which words in a sentence are most relevant to each other\", \"It converts words into numerical vectors called embeddings\", \"It generates the final output tokens directly\", \"It fine-tunes the model after pre-training\"], \"correct\": 0, \"explanation\": \"Attention helps the model focus on important words related to each other when processing language.\"}, {\"q\": \"In the context of Large Language Models, what is a 'token'?\", \"options\": [\"A single character like a letter or punctuation mark\", \"A numerical vector representing a word\", \"A unit of text, such as a word or subword, used as input to the model\", \"The final predicted output of the model\"], \"correct\": 2, \"explanation\": \"A token is a unit of text\\u2014often a word or subword\\u2014that the model processes.\"}, {\"q\": \"What is the main difference between pre-training and fine-tuning in Large Language Models?\", \"options\": [\"Pre-training involves training on a large dataset to learn general language patterns; fine-tuning adapts the model to a specific task\", \"Fine-tuning is done before pre-training\", \"Pre-training uses labeled data; fine-tuning uses unlabeled data\", \"Both are the same process but with different names\"], \"correct\": 0, \"explanation\": \"Pre-training teaches the model general language understanding, while fine-tuning customizes it for specific tasks.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 6,
-    "lesson_number": 1,
-    "title": "AI Systems & Deployment",
-    "content": "Real AI systems combine models with data pipelines, APIs, monitoring, and guardrails. KEY CONCEPTS: MLOps (deploying/maintaining models), inference cost, latency, model drift, RAG (retrieval-augmented generation grounds LLMs in real data). WORKED EXAMPLE: A support bot uses RAG to answer from company docs, avoiding hallucination. PRACTICE: 1) Design an AI system's components. 2) Explain model drift. 3) Describe how RAG reduces hallucination.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What is the primary purpose of Retrieval-Augmented Generation (RAG) in AI systems?\", \"options\": [\"To reduce inference cost by simplifying models\", \"To ground language models in real data and reduce hallucination\", \"To monitor model drift over time\", \"To increase latency for better accuracy\"], \"correct\": 1, \"explanation\": \"RAG integrates external data retrieval with generation to ground responses in real data, thereby reducing hallucination.\"}, {\"q\": \"Which of the following best describes 'model drift'?\", \"options\": [\"A sudden failure in the AI system's hardware\", \"The gradual degradation of model performance due to changes in data over time\", \"An increase in inference cost during deployment\", \"The process of deploying models using MLOps\"], \"correct\": 1, \"explanation\": \"Model drift refers to the decline in model accuracy as the data distribution changes over time, requiring monitoring and retraining.\"}, {\"q\": \"In the context of AI systems, what does MLOps primarily focus on?\", \"options\": [\"Designing user interfaces for AI applications\", \"Deploying and maintaining machine learning models in production\", \"Reducing latency in data pipelines\", \"Creating new AI models from scratch\"], \"correct\": 1, \"explanation\": \"MLOps involves the deployment, monitoring, and maintenance of machine learning models to ensure reliable production performance.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 7,
-    "lesson_number": 1,
-    "title": "Grandmaster \u2014 AI Strategy & Ethics",
-    "content": "Deploying AI responsibly requires understanding bias, alignment, safety, and business fit. KEY CONCEPTS: Training-data bias, alignment (AI doing what we intend), interpretability, the build-vs-buy decision, ROI of AI. WORKED EXAMPLE: An AI hiring tool amplifying historical bias must be audited and corrected. PRACTICE: 1) Identify a bias risk in an AI use case. 2) Define alignment. 3) Build an AI ROI case.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What does 'alignment' in AI strategy primarily refer to?\", \"options\": [\"Ensuring AI systems perform faster\", \"Making sure AI behaves according to human intentions\", \"Reducing the cost of AI deployment\", \"Increasing the amount of training data\"], \"correct\": 1, \"explanation\": \"Alignment means the AI system does what we intend it to do, aligning its behavior with human goals.\"}, {\"q\": \"Why is auditing an AI hiring tool important when it amplifies historical bias?\", \"options\": [\"To improve the speed of hiring processes\", \"To ensure the AI system is profitable\", \"To identify and correct bias to deploy AI responsibly\", \"To reduce the size of the training dataset\"], \"correct\": 2, \"explanation\": \"Auditing helps identify and correct biases in AI systems, ensuring responsible deployment and fairness.\"}, {\"q\": \"Which factor is NOT typically considered when deciding whether to build or buy an AI solution?\", \"options\": [\"Interpretability of the AI model\", \"Return on Investment (ROI)\", \"Historical training-data bias\", \"The AI system's color scheme\"], \"correct\": 3, \"explanation\": \"The AI system's color scheme is irrelevant to the build-vs-buy decision, which focuses on factors like interpretability, ROI, and bias.\"}]"
-  },
-  {
-    "subject_id": "ai_foundations",
-    "level": 8,
-    "lesson_number": 1,
-    "title": "King Level \u2014 Shaping the AI Frontier",
-    "content": "At King level you understand AI deeply enough to architect novel systems and anticipate the frontier. KEY CONCEPTS: Multi-agent systems, autonomous agents, the compute-data-algorithm triad, where AI is heading (reasoning, agency, multimodality). Build AI-native products, not AI-bolted-on. WORKED EXAMPLE: An AI-native company designs its entire workflow around autonomous agents. PRACTICE: 1) Envision an AI-native version of a business. 2) Design a multi-agent system. 3) Predict the next AI capability leap.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"What is a key characteristic of an AI-native product according to the King level lesson?\", \"options\": [\"It integrates AI as an add-on feature to existing systems\", \"It is designed from the ground up around AI capabilities\", \"It uses AI only for data analysis\", \"It relies solely on human decision-making\"], \"correct\": 1, \"explanation\": \"An AI-native product is built entirely around AI capabilities rather than adding AI features onto existing systems.\"}, {\"q\": \"Which of the following best describes the compute-data-algorithm triad in AI?\", \"options\": [\"The three main types of autonomous agents\", \"The foundational components that drive AI performance\", \"The stages of AI product deployment\", \"The categories of AI-native businesses\"], \"correct\": 1, \"explanation\": \"The compute-data-algorithm triad refers to the three foundational components that together determine AI system effectiveness.\"}, {\"q\": \"According to the lesson, what is an anticipated direction for the future of AI?\", \"options\": [\"Focusing exclusively on single-task automation\", \"Developing reasoning, agency, and multimodality capabilities\", \"Reducing AI to simple rule-based systems\", \"Eliminating autonomous agents from workflows\"], \"correct\": 1, \"explanation\": \"The lesson highlights reasoning, agency, and multimodality as key areas where AI is heading next.\"}]"
-  }
+ {
+  "id": "ai_foundations_L1_1",
+  "subject_id": "ai_foundations",
+  "level": 1,
+  "lesson_number": 1,
+  "title": "What Is AI",
+  "category": "MASTERY",
+  "content": "Artificial Intelligence is the science of building systems that perform tasks requiring human-like intelligence: perception, reasoning, learning, decision-making. KEY CONCEPTS: Narrow AI (task-specific, today's reality) vs General AI (human-level, not yet achieved). Symbolic AI (rules/logic) vs Machine Learning (learning from data). WORKED EXAMPLE: A spam filter learning from examples is narrow ML AI. PRACTICE: 1) List 3 AI systems you use daily. 2) Classify each as narrow/general. 3) Identify rules-based vs learned."
+ },
+ {
+  "id": "ai_foundations_L1_2",
+  "subject_id": "ai_foundations",
+  "level": 1,
+  "lesson_number": 2,
+  "title": "Ai foundations — Level 1 (Foundations): Lesson 2",
+  "category": "GITHUB_BUILT",
+  "content": "# Lesson 2: The Core Paradigms of Machine Learning\n\n## 1. Learning Objective\nBy the end of this lesson, you will be able to:\n* Formulate machine learning problems within a formal mathematical framework.\n* Differentiate between Supervised Learning, Unsupervised Learning, and Reinforcement Learning based on their data representations, objective functions, and feedback mechanisms.\n* Categorize real-world problems into the appropriate learning paradigm and specify their input-output spaces.\n\n---\n\n## 2. Theoretical Foundations\n\nTraditional computation relies on deductive programming: a human writes explicit deterministic rules $f$ that map inputs $X$ to outputs $Y$ ($f(X) \\to Y$). Machine Learning (ML) inverts this process inductively: an algorithm examines data to approximate an unknown underlying function $f^*: \\mathcal{X} \\to \\mathcal{Y}$. \n\nThe mechanism of this approximation defines the three primary paradigms of machine learning.\n\n```\n                  ┌──────────────────────────────┐\n                  │ Machine Learning Paradigms   │\n                  └──────────────┬───────────────┘\n         ┌───────────────────────┼───────────────────────┐\n         ▼                       ▼                       ▼\n┌──────────────────┐   ┌──────────────────┐   ┌──────────────────┐\n│ Supervised       │   │ Unsupervised     │   │ Reinforcement    │\n│ Learning         │   │ Learning         │   │ Learning         │\n├──────────────────┤   ├──────────────────┤   ├──────────────────┤\n│ Labeled Data     │   │ Unlabeled Data   │   │ State-Action-    │\n│ {(xᵢ, yᵢ)}       │   │ {xᵢ}             │   │ Reward Loop      │\n│                  │   │                  │   │                  │\n│ Goal: Learn      │   │ Goal: Discover   │   │ Goal: Maximize   │\n│ mapping f: X → Y │   │ latent structure │   │ cumulative       │\n│                  │   │ or distribution  │   │ return Gₜ        │\n└──────────────────┘   └──────────────────┘   └──────────────────┘\n```\n\n---\n\n### Paradigm 1: Supervised Learning\nIn supervised learning, the learner receives a dataset of input-output pairs:\n\n$$\\mathcal{D} = \\{(x_1, y_1), (x_2, y_2), \\dots, (x_N, y_N)\\}$$\n\nwhere each $x_i \\in \\mathcal{X} \\subseteq \\mathbb{R}^d$ is a $d$-dimensional feature vector, and each $y_i \\in \\mathcal{Y}$ is a supervisory ground-truth label. \n\nThe objective is to search a hypothesis space $\\mathcal{H}$ for a parameterized function $f_\\theta(x)$ that minimizes an empirical risk (loss) function $\\mathcal{L}$:\n\n$$\\min_{\\theta} \\frac{1}{N} \\sum_{i=1}^{N} \\mathcal{L}(f_\\theta(x_i), y_i)$$\n\nSupervised learning bifurcates based on the nature of the label space $\\mathcal{Y}$:\n1. **Regression:** $\\mathcal{Y} \\subseteq \\mathbb{R}$ (continuous target space, e.g., predicting temperature).\n2. **Classification:** $\\mathcal{Y} = \\{C_1, C_2, \\dots, C_K\\}$ (discrete target space, e.g., medical diagnosis).\n\n---\n\n### Paradigm 2: Unsupervised Learning\nIn unsupervised learning, the dataset lacks explicit supervisory targets:\n\n$$\\mathcal{D} = \\{x_1, x_2, \\dots, x_N\\}$$\n\nThe objective is to infer the underlying probability distribution $p(x)$ or discover intrinsic geometric and structural properties of the data space $\\mathcal{X}$. Common formulations include:\n* **Clustering:** Partitioning $\\mathcal{X}$ into disjoint subsets $S_1, \\dots, S_k$ such that intra-cluster distance is minimized and inter-cluster distance is maximized.\n* **Dimensionality Reduction:** Learning a projection mapping $g: \\mathbb{R}^d \\to \\mathbb{R}^k$ (where $k \\ll d$) that preserves maximal variance or topological relationships.\n* **Density Estimation:** Estimating the continuous probability density function $p(x)$ from which the empirical samples were drawn.\n\n---\n\n### Paradigm 3: Reinforcement Learning (RL)\nUnlike supervised or unsupervised learning, Reinforcement Learning is not defined by a static dataset $\\mathcal{D}$. Instead, it formalizes learning as an agent interacting with an environment over discrete time steps $t = 0, 1, 2, \\dots$, modeled as a Markov Decision Process (MDP) defined by the tuple $("
+ },
+ {
+  "id": "ai_foundations_L2_1",
+  "subject_id": "ai_foundations",
+  "level": 2,
+  "lesson_number": 1,
+  "title": "History & Paradigms",
+  "category": "MASTERY",
+  "content": "AI evolved through waves: symbolic/expert systems (1950s-80s), machine learning (1990s-2010s), deep learning (2010s+), foundation models/LLMs (2020s). KEY CONCEPTS: AI winters (funding collapses when hype outran results). The shift from hand-coded rules to learned patterns. WORKED EXAMPLE: Chess (rules-based Deep Blue 1997) vs Go (learned AlphaGo 2016) shows the paradigm shift. PRACTICE: 1) Map the 4 waves. 2) Explain why deep learning succeeded where rules failed."
+ },
+ {
+  "id": "ai_foundations_L3_1",
+  "subject_id": "ai_foundations",
+  "level": 3,
+  "lesson_number": 1,
+  "title": "How Machines Learn",
+  "category": "MASTERY",
+  "content": "Three learning types: supervised (labeled data), unsupervised (find structure), reinforcement (learn by reward). KEY CONCEPTS: Training data, features, models, inference. Generalization — performing on unseen data. Overfitting vs underfitting. WORKED EXAMPLE: Teaching a model cats vs dogs from labeled photos (supervised). PRACTICE: 1) Pick a problem for each learning type. 2) Define features for a house-price model. 3) Explain overfitting."
+ },
+ {
+  "id": "ai_foundations_L4_1",
+  "subject_id": "ai_foundations",
+  "level": 4,
+  "lesson_number": 1,
+  "title": "Neural Networks",
+  "category": "MASTERY",
+  "content": "Neural networks are layers of interconnected nodes that learn patterns via weighted connections. KEY CONCEPTS: Neurons, weights, activation functions, forward propagation, backpropagation (learning by error correction), gradient descent. Deep = many layers. WORKED EXAMPLE: An image classifier's early layers detect edges, deeper layers detect objects. PRACTICE: 1) Diagram a 3-layer network. 2) Explain backpropagation simply. 3) Define an activation function's role."
+ },
+ {
+  "id": "ai_foundations_L5_1",
+  "subject_id": "ai_foundations",
+  "level": 5,
+  "lesson_number": 1,
+  "title": "Modern AI — LLMs & Transformers",
+  "category": "MASTERY",
+  "content": "Large Language Models use the transformer architecture (attention mechanism) to process and generate language. KEY CONCEPTS: Tokens, embeddings, attention ('which words matter to which'), pre-training + fine-tuning, emergent abilities at scale. WORKED EXAMPLE: An LLM predicts the next token, and at scale this yields reasoning-like behavior. PRACTICE: 1) Explain attention in plain words. 2) Define a token. 3) Describe pre-training vs fine-tuning."
+ },
+ {
+  "id": "ai_foundations_L6_1",
+  "subject_id": "ai_foundations",
+  "level": 6,
+  "lesson_number": 1,
+  "title": "AI Systems & Deployment",
+  "category": "MASTERY",
+  "content": "Real AI systems combine models with data pipelines, APIs, monitoring, and guardrails. KEY CONCEPTS: MLOps (deploying/maintaining models), inference cost, latency, model drift, RAG (retrieval-augmented generation grounds LLMs in real data). WORKED EXAMPLE: A support bot uses RAG to answer from company docs, avoiding hallucination. PRACTICE: 1) Design an AI system's components. 2) Explain model drift. 3) Describe how RAG reduces hallucination."
+ },
+ {
+  "id": "ai_foundations_L7_1",
+  "subject_id": "ai_foundations",
+  "level": 7,
+  "lesson_number": 1,
+  "title": "Grandmaster — AI Strategy & Ethics",
+  "category": "MASTERY",
+  "content": "Deploying AI responsibly requires understanding bias, alignment, safety, and business fit. KEY CONCEPTS: Training-data bias, alignment (AI doing what we intend), interpretability, the build-vs-buy decision, ROI of AI. WORKED EXAMPLE: An AI hiring tool amplifying historical bias must be audited and corrected. PRACTICE: 1) Identify a bias risk in an AI use case. 2) Define alignment. 3) Build an AI ROI case."
+ },
+ {
+  "id": "ai_foundations_L8_1",
+  "subject_id": "ai_foundations",
+  "level": 8,
+  "lesson_number": 1,
+  "title": "King Level — Shaping the AI Frontier",
+  "category": "MASTERY",
+  "content": "At King level you understand AI deeply enough to architect novel systems and anticipate the frontier. KEY CONCEPTS: Multi-agent systems, autonomous agents, the compute-data-algorithm triad, where AI is heading (reasoning, agency, multimodality). Build AI-native products, not AI-bolted-on. WORKED EXAMPLE: An AI-native company designs its entire workflow around autonomous agents. PRACTICE: 1) Envision an AI-native version of a business. 2) Design a multi-agent system. 3) Predict the next AI capability leap."
+ }
 ]

@@ -1,98 +1,83 @@
 [
-  {
-    "id": "product_management_L1_1",
-    "subject_id": "product_management",
-    "level": 1,
-    "lesson_number": 1,
-    "title": "Product Management Foundations",
-    "content": "KEY CONCEPTS: A product manager owns the 'why' and 'what' \u2014 not the 'how' (engineering) or the 'when-to-sell' (sales). The PM sits at the intersection of business viability, technical feasibility, and user desirability; a product must satisfy all three. Jobs-To-Be-Done (JTBD): customers 'hire' a product to make progress in their lives \u2014 understand the job, not just the demographic. Outcomes over outputs: shipping features is not success; changing user behavior and business metrics is. The PM has responsibility without authority \u2014 influence, not command, is the core skill.\n\nWORKED EXAMPLE: A team ships 12 features and celebrates. Usage is flat. They optimized output (features shipped) instead of outcome (user behavior changed). The right question was never 'what should we build?' but 'what problem are users trying to solve, and did we solve it?'\n\nPRACTICE: 1) Write a JTBD statement for a product you use. 2) Distinguish an output metric from an outcome metric. 3) Identify the desirability/feasibility/viability risk in a product idea.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"A PM primarily owns:\", \"options\": [\"The how (engineering)\", \"The why and what\", \"The when to sell\", \"The code\"], \"correct\": 1, \"explanation\": \"PMs own the problem and the what; engineering owns the how.\"}, {\"q\": \"Jobs-To-Be-Done says customers:\", \"options\": [\"Buy based on demographics\", \"'Hire' products to make progress\", \"Choose randomly\", \"Always want more features\"], \"correct\": 1, \"explanation\": \"Understand the job, not just the persona.\"}, {\"q\": \"Success is measured by:\", \"options\": [\"Features shipped (outputs)\", \"Behavior and metrics changed (outcomes)\", \"Lines of code\", \"Team size\"], \"correct\": 1, \"explanation\": \"Outcomes over outputs.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L2_1",
-    "subject_id": "product_management",
-    "level": 2,
-    "lesson_number": 1,
-    "title": "Discovery & Customer Research",
-    "content": "KEY CONCEPTS: Discovery reduces the risk of building the wrong thing. Qualitative methods (user interviews, observation) reveal *why*; quantitative (analytics, surveys, A/B tests) reveal *what* and *how many*. The Mom Test: never ask 'would you use this?' (people lie to be nice) \u2014 ask about past behavior ('tell me about the last time you faced this problem'). Continuous discovery: talk to customers weekly, not once per quarter. Opportunity Solution Trees map the desired outcome \u2192 opportunities (pains) \u2192 solutions \u2192 experiments.\n\nWORKED EXAMPLE: A PM asks 20 users 'would you pay for this?' \u2014 18 say yes. They build it; nobody buys. Reframed via The Mom Test: 'What are you using today, and what did you pay for it?' would have revealed that nobody was spending money on the problem at all. Past behavior predicts; hypothetical enthusiasm doesn't.\n\nPRACTICE: 1) Rewrite three leading questions as behavioral ones. 2) Build an Opportunity Solution Tree. 3) Design one experiment to test a risky assumption.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"The Mom Test says never ask:\", \"options\": [\"About past behavior\", \"'Would you use this?'\", \"What they paid\", \"What they use today\"], \"correct\": 1, \"explanation\": \"Hypotheticals produce polite lies.\"}, {\"q\": \"Qualitative research reveals:\", \"options\": [\"How many\", \"Why\", \"Statistical significance\", \"Market size\"], \"correct\": 1, \"explanation\": \"Interviews reveal motivation; analytics reveal scale.\"}, {\"q\": \"Continuous discovery means talking to customers:\", \"options\": [\"Once a year\", \"Weekly\", \"Never\", \"Only at launch\"], \"correct\": 1, \"explanation\": \"Ongoing contact, not a one-time phase.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L3_1",
-    "subject_id": "product_management",
-    "level": 3,
-    "lesson_number": 1,
-    "title": "Prioritization & Roadmapping",
-    "content": "KEY CONCEPTS: Prioritization is the PM's highest-leverage act \u2014 saying no is the job. Frameworks: RICE (Reach \u00d7 Impact \u00d7 Confidence \u00f7 Effort), MoSCoW (Must/Should/Could/Won't), Kano model (basic needs, performance needs, delighters), Cost of Delay. A roadmap is not a release schedule \u2014 it's a communication of themes and outcomes over time, held loosely. Now/Next/Later beats Gantt-style date commitments for uncertain work. Opportunity cost: every 'yes' is an implicit 'no' to everything else.\n\nWORKED EXAMPLE: Two features: A reaches 10,000 users with small impact; B reaches 500 with huge impact. RICE forces explicit scoring rather than gut feel or whoever lobbied hardest. The framework's real value isn't the number \u2014 it's making trade-offs visible and defensible to stakeholders.\n\nPRACTICE: 1) Score three features with RICE. 2) Classify features using Kano. 3) Convert a date-based roadmap into Now/Next/Later.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"RICE stands for:\", \"options\": [\"Reach, Impact, Confidence, Effort\", \"Revenue, Income, Cost, Expense\", \"Research, Iterate, Create, Execute\", \"Rapid, Iterative, Continuous, Efficient\"], \"correct\": 0, \"explanation\": \"Reach \\u00d7 Impact \\u00d7 Confidence \\u00f7 Effort.\"}, {\"q\": \"A roadmap should communicate:\", \"options\": [\"Exact dates\", \"Themes and outcomes over time\", \"Only code tasks\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Now/Next/Later beats false date precision.\"}, {\"q\": \"Every 'yes' in prioritization is:\", \"options\": [\"Free\", \"An implicit 'no' to everything else\", \"Reversible\", \"Costless\"], \"correct\": 1, \"explanation\": \"Opportunity cost is real.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L4_1",
-    "subject_id": "product_management",
-    "level": 4,
-    "lesson_number": 1,
-    "title": "Product Strategy & Positioning",
-    "content": "KEY CONCEPTS: Product strategy answers: who is it for, what problem does it solve, why us, and why now? A product vision is the long-term change you want to create; strategy is the path. Positioning defines the competitive alternative and the unique value you offer against it. The strategy must make trade-offs \u2014 a product for everyone is a product for no one. Product-market fit (PMF): when the market pulls the product out of you \u2014 measurable by retention, organic growth, and the Sean Ellis test (>40% would be 'very disappointed' without it).\n\nWORKED EXAMPLE: A team measures PMF by signups, which are climbing. But retention at 30 days is 4% \u2014 users try it and leave. Signups measured curiosity, not fit. Retention, not acquisition, is the true PMF signal: fit means people come back.\n\nPRACTICE: 1) Write a positioning statement naming the competitive alternative. 2) Define your PMF metric. 3) Identify one trade-off your strategy deliberately makes.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"True product-market fit is best measured by:\", \"options\": [\"Signups\", \"Retention and organic pull\", \"Press coverage\", \"Funding raised\"], \"correct\": 1, \"explanation\": \"Fit means people come back.\"}, {\"q\": \"A product for everyone is:\", \"options\": [\"Ideal\", \"A product for no one\", \"Most profitable\", \"Easiest to build\"], \"correct\": 1, \"explanation\": \"Strategy requires trade-offs.\"}, {\"q\": \"Positioning must define:\", \"options\": [\"The competitive alternative and your unique value\", \"Only your features\", \"The price\", \"The team\"], \"correct\": 0, \"explanation\": \"You position against an alternative.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L5_1",
-    "subject_id": "product_management",
-    "level": 5,
-    "lesson_number": 1,
-    "title": "Metrics, Experimentation & Analytics",
-    "content": "KEY CONCEPTS: Choose one North Star Metric that captures the value delivered to users (not vanity). AARRR pirate metrics: Acquisition, Activation, Retention, Revenue, Referral. Retention is the foundation \u2014 without it, acquisition is a leaky bucket. Cohort analysis reveals whether the product is improving over time. A/B testing requires statistical significance (avoid peeking, ensure adequate sample); correlation isn't causation. Beware Goodhart's Law: when a measure becomes a target, it ceases to be a good measure.\n\nWORKED EXAMPLE: A team optimizes for 'time in app' and adds friction that keeps users hunting for features. Time-in-app rises \u2014 the metric improves while the product gets worse. Goodhart's Law in action: the metric was gamed, not the value. A North Star must be a proxy for genuine user value, not engagement for its own sake.\n\nPRACTICE: 1) Define a North Star Metric for a product. 2) Build an AARRR funnel with numbers. 3) Identify a metric that could be gamed and how.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Goodhart's Law states:\", \"options\": [\"Metrics always work\", \"When a measure becomes a target, it ceases to be a good measure\", \"More metrics are better\", \"Metrics are useless\"], \"correct\": 1, \"explanation\": \"Targets get gamed.\"}, {\"q\": \"AARRR stands for:\", \"options\": [\"Acquisition, Activation, Retention, Revenue, Referral\", \"Analyze, Act, Review, Repeat, Report\", \"All metrics\", \"None\"], \"correct\": 0, \"explanation\": \"The pirate metrics funnel.\"}, {\"q\": \"Without retention, acquisition is:\", \"options\": [\"Sufficient\", \"A leaky bucket\", \"Free\", \"Unnecessary\"], \"correct\": 1, \"explanation\": \"Churn undoes acquisition spend.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L6_1",
-    "subject_id": "product_management",
-    "level": 6,
-    "lesson_number": 1,
-    "title": "Execution, Teams & Stakeholders",
-    "content": "KEY CONCEPTS: The PM aligns engineering, design, and business without authority \u2014 clarity and trust are the currency. Write crisp specs: problem, user, success criteria, constraints, non-goals. Non-goals are as important as goals (they prevent scope creep). Manage up with outcome-focused updates; manage sideways with early involvement, not late approval. Empowered teams (given problems to solve) outperform feature teams (given solutions to build). Handle disagreement with data, user evidence, and shared goals \u2014 not authority or volume.\n\nWORKED EXAMPLE: A stakeholder demands a specific feature. Instead of arguing or complying, the PM asks 'what outcome are you trying to achieve?' \u2014 revealing the real goal, which a simpler solution addresses better. Reframing from solution to problem defuses politics and produces better products.\n\nPRACTICE: 1) Write a spec with explicit non-goals. 2) Convert a feature demand into a problem statement. 3) Design an outcome-focused stakeholder update.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Non-goals in a spec:\", \"options\": [\"Are unnecessary\", \"Prevent scope creep\", \"Confuse the team\", \"Slow work\"], \"correct\": 1, \"explanation\": \"Stating what you won't do protects focus.\"}, {\"q\": \"Empowered teams are given:\", \"options\": [\"Solutions to build\", \"Problems to solve\", \"Only deadlines\", \"No context\"], \"correct\": 1, \"explanation\": \"Problems, not prescriptions, produce better outcomes.\"}, {\"q\": \"When a stakeholder demands a feature, the PM should first ask:\", \"options\": [\"'When do you need it?'\", \"'What outcome are you trying to achieve?'\", \"'Who approved this?'\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Reframe from solution to problem.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L7_1",
-    "subject_id": "product_management",
-    "level": 7,
-    "lesson_number": 1,
-    "title": "Grandmaster \u2014 Platform, Pricing & Growth",
-    "content": "KEY CONCEPTS: Platform thinking: build capabilities others build on, creating ecosystem leverage and network effects. Pricing is product strategy \u2014 value-based pricing (charge a fraction of value created) beats cost-plus. Pricing models: subscription, usage-based, freemium, tiered \u2014 each shapes behavior. Growth loops beat funnels: a loop is self-reinforcing (users create content \u2192 attracts users). Retention compounds: a 5% retention improvement can outperform doubling acquisition spend. Land-and-expand: enter small, grow within the account.\n\nWORKED EXAMPLE: A company spends heavily on acquisition while retention is 60% monthly. They're filling a bucket with a hole \u2014 40% churn means the average customer lasts 2.5 months, so acquisition can never outrun the leak. Fixing retention to 90% (10-month lifespan) quadruples LTV without spending a dollar more on marketing.\n\nPRACTICE: 1) Design a growth loop for a product. 2) Choose a pricing model and justify it. 3) Compute LTV at two retention rates and compare.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"Value-based pricing means charging:\", \"options\": [\"Cost plus a margin\", \"A fraction of the value created\", \"The lowest price\", \"What competitors charge\"], \"correct\": 1, \"explanation\": \"Price to value, not to cost.\"}, {\"q\": \"A growth loop differs from a funnel because it:\", \"options\": [\"Is linear\", \"Is self-reinforcing\", \"Costs more\", \"Is slower\"], \"correct\": 1, \"explanation\": \"Loops compound; funnels leak.\"}, {\"q\": \"At 60% monthly retention, average customer lifespan is:\", \"options\": [\"10 months\", \"2.5 months\", \"1 year\", \"Infinite\"], \"correct\": 1, \"explanation\": \"1/(1\\u22120.6) = 2.5 months.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  },
-  {
-    "id": "product_management_L8_1",
-    "subject_id": "product_management",
-    "level": 8,
-    "lesson_number": 1,
-    "title": "King Level \u2014 Product Leadership & Category Creation",
-    "content": "KEY CONCEPTS: At King level, product leadership becomes company leadership: the product strategy IS the business strategy. Category creation \u2014 defining a new market and its language \u2014 is the highest form of product work, because the category king captures most of the value. Vision must be specific enough to guide decisions and inspiring enough to attract talent. Portfolio thinking across products: horizon 1 (core), 2 (emerging), 3 (bets). The King-level truth: great products are not the sum of great features \u2014 they are the expression of a single, clear point of view about how the world should work, executed with obsessive coherence.\n\nWORKED EXAMPLE: Two companies build similar tools. One adds every requested feature and becomes an incoherent Swiss Army knife. The other refuses 90% of requests to protect a sharp point of view, and becomes the definitive product in its category. Saying no is what makes a product great \u2014 coherence beats completeness.\n\nPRACTICE: 1) Articulate a product's point of view in one sentence. 2) Define a category you could create and name it. 3) Map a product portfolio across three horizons.",
-    "category": "MASTERY",
-    "quiz_json": "[{\"q\": \"The category king typically captures:\", \"options\": [\"An equal share\", \"Most of the value in the market\", \"The least value\", \"Nothing\"], \"correct\": 1, \"explanation\": \"Category creation concentrates value.\"}, {\"q\": \"Great products are:\", \"options\": [\"The sum of many features\", \"The expression of a clear point of view\", \"Feature-complete\", \"Copies of competitors\"], \"correct\": 1, \"explanation\": \"Coherence beats completeness.\"}, {\"q\": \"Horizon 1/2/3 portfolio thinking covers:\", \"options\": [\"Core, emerging, bets\", \"Past, present, future\", \"Small, medium, large\", \"Cheap, mid, premium\"], \"correct\": 0, \"explanation\": \"Core business, emerging opportunities, long-term bets.\"}]",
-    "dna16": "0701201800000000",
-    "created_at": ""
-  }
+ {
+  "id": "les_product_management_1_1",
+  "subject_id": "product_management",
+  "level": 1,
+  "lesson_number": 1,
+  "title": "product management Introduction to Business - Lesson 1",
+  "category": "forge",
+  "content": "**Lesson 2: Understanding Product Lifecycle Management (PLM)**\n\n**OBJECTIVES:**\n\n1. Define the five distinct phases of the Product Lifecycle Management (PLM) framework.\n2. Explain the key activities and tools used in each phase of the PLM framework.\n3. Apply the PLM framework to a real-world product example, identifying the phase and corresponding activities.\n\n**TEACHING:**\n\nIn the previous lesson, we introduced the foundations of product management, including the first principles and key concepts. Now, we will dive deeper into the Product Lifecycle Management (PLM) framework, which structures product management into five distinct phases: Discovery, Definition, Development, Launch, and Growth & Optimization. Each phase has its own set of activities, tools, and objectives, which we will explore in detail.\n\nThe **Discovery** phase is where product managers employ qualitative and quantitative research to identify user pain points and validate problem-solution fit. This phase is critical in understanding the customer's needs and defining the product vision. Tools such as Jobs To Be Done (JTBD) interviews and Opportunity Solution Trees (Teresa Torres) are used to gather insights and prioritize features. For example, a product manager at a fitness app company might conduct JTBD interviews to understand how users currently track their workouts and what features they would like to see in a new app.\n\nThe **Definition** phase translates insights into a clear product vision, strategy, and roadmap. The RICE scoring model (Reach, Impact, Confidence, Effort) is used to prioritize features, ensuring that the product meets the customer's needs while being technically feasible and viable. The Definition phase is where the product manager defines the product's key performance indicators (KPIs) and objectives, which will guide the development and launch phases.\n\nThe **Development** phase is where the product is built, and the product manager collaborates with engineering and design teams through Agile methodologies (Scrum, Kanban). User story mapping (Jeff Patton) is used to maintain context and flow, ensuring that the product meets the customer's needs. The Development phase is critical in ensuring that the product is delivered on time, within budget, and meets the required quality standards.\n\nThe **Launch** phase is where the product is released to the market, and the product manager coordinates go-to-market (GTM) plans, including positioning frameworks like the Value Proposition Canvas (Osterwalder) and messaging pillars. The Launch phase is critical in creating awareness and driving adoption of the product. Key performance indicators (KPIs) such as activation rate and churn are tracked to measure the product's success.\n\nThe **Growth & Optimization** phase is where the product manager utilizes A/B testing frameworks (e.g., Google Optimize) and cohort analysis to drive continuous improvement. The Pirate Metrics (AARRR: Acquisition, Activation, Retention, Referral, Revenue) framework is used to identify growth levers and optimize the product for maximum impact. This phase is critical in ensuring that the product continues to meet the customer's evolving needs and remains competitive in the market.\n\n**WORKED EXAMPLE:**\n\nLet's consider a real-world example of a product manager at a company that offers a mobile payment app. The product manager is responsible for developing a new feature that allows users to send money to friends and family. The product manager starts by conducting JTBD interviews to understand how users currently send money and what features they would like to see in the new app. The insights gathered from the interviews reveal that users want a simple and secure way to send money, with minimal fees.\n\nThe product manager then uses the RICE scoring model to prioritize features, assigning a score of 8 for Reach (number of users impacted), 9 for Impact (user satisfaction), 7 for Confidence (percentage of users who will use the feature), and 5 for Effort (person-months required to develop the feature). The score is calculated as (8 × 9 × 7) / 5 = 100.8, indicating that the feature is a high priority.\n\nThe product manager then collaborates with the engineering and design teams to develop the feature, using Agile methodologies and user story mapping to ensure that the feature meets the customer's needs. Once the feature is developed, the product manager coordinates the go-to-market plans, including positioning frameworks and messaging pillars. The feature is launched, and the product manager tracks key performance indicators (KPIs) such as activation rate and churn to measure the feature's success.\n\n**COMMON MISTAKE:**\n\nA common mistake that product managers make is to skip the Discovery phase and jump straight into the Development phase. This can result in a product that does not meet the customer's needs, leading to low adoption rates and poor customer satisfaction. It is essential to conduct thorough research and gather insights from customers to ensure that the product meets their needs and is technically feasible and viable.\n\n**PRACTICE:**\n\n1. Describe the five distinct phases of the Product Lifecycle Management (PLM) framework and the key activities and tools used in each phase.\n2. A product manager is developing a new feature for a fitness app that allows users to track their workouts. The product manager has conducted JTBD interviews and gathered insights that reveal users want a simple and intuitive way to track their workouts. Using the RICE scoring model, prioritize the feature and calculate the score. Assume a score of 9 for Reach, 8 for Impact, 6 for Confidence, and 4 for Effort.\n3. A company is launching a new mobile payment app and wants to coordinate go-to-market plans. Describe the positioning frameworks and messaging pillars that the product manager might use to create awareness and drive adoption of the app.\n4. A product manager is using A/B testing frameworks to drive continuous improvement of a mobile game. The product manager has identified two growth levers: increasing the number of daily active users and increasing the average revenue per user. Describe how the product manager might use the Pirate Metrics (AARRR) framework to optimize the game for maximum impact."
+ },
+ {
+  "id": "product_management_L1_1",
+  "subject_id": "product_management",
+  "level": 1,
+  "lesson_number": 1,
+  "title": "Product Management Foundations",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: A product manager owns the 'why' and 'what' — not the 'how' (engineering) or the 'when-to-sell' (sales). The PM sits at the intersection of business viability, technical feasibility, and user desirability; a product must satisfy all three. Jobs-To-Be-Done (JTBD): customers 'hire' a product to make progress in their lives — understand the job, not just the demographic. Outcomes over outputs: shipping features is not success; changing user behavior and business metrics is. The PM has responsibility without authority — influence, not command, is the core skill.\n\nWORKED EXAMPLE: A team ships 12 features and celebrates. Usage is flat. They optimized output (features shipped) instead of outcome (user behavior changed). The right question was never 'what should we build?' but 'what problem are users trying to solve, and did we solve it?'\n\nPRACTICE: 1) Write a JTBD statement for a product you use. 2) Distinguish an output metric from an outcome metric. 3) Identify the desirability/feasibility/viability risk in a product idea."
+ },
+ {
+  "id": "product_management_L2_1",
+  "subject_id": "product_management",
+  "level": 2,
+  "lesson_number": 1,
+  "title": "Discovery & Customer Research",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Discovery reduces the risk of building the wrong thing. Qualitative methods (user interviews, observation) reveal *why*; quantitative (analytics, surveys, A/B tests) reveal *what* and *how many*. The Mom Test: never ask 'would you use this?' (people lie to be nice) — ask about past behavior ('tell me about the last time you faced this problem'). Continuous discovery: talk to customers weekly, not once per quarter. Opportunity Solution Trees map the desired outcome → opportunities (pains) → solutions → experiments.\n\nWORKED EXAMPLE: A PM asks 20 users 'would you pay for this?' — 18 say yes. They build it; nobody buys. Reframed via The Mom Test: 'What are you using today, and what did you pay for it?' would have revealed that nobody was spending money on the problem at all. Past behavior predicts; hypothetical enthusiasm doesn't.\n\nPRACTICE: 1) Rewrite three leading questions as behavioral ones. 2) Build an Opportunity Solution Tree. 3) Design one experiment to test a risky assumption."
+ },
+ {
+  "id": "product_management_L3_1",
+  "subject_id": "product_management",
+  "level": 3,
+  "lesson_number": 1,
+  "title": "Prioritization & Roadmapping",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Prioritization is the PM's highest-leverage act — saying no is the job. Frameworks: RICE (Reach × Impact × Confidence ÷ Effort), MoSCoW (Must/Should/Could/Won't), Kano model (basic needs, performance needs, delighters), Cost of Delay. A roadmap is not a release schedule — it's a communication of themes and outcomes over time, held loosely. Now/Next/Later beats Gantt-style date commitments for uncertain work. Opportunity cost: every 'yes' is an implicit 'no' to everything else.\n\nWORKED EXAMPLE: Two features: A reaches 10,000 users with small impact; B reaches 500 with huge impact. RICE forces explicit scoring rather than gut feel or whoever lobbied hardest. The framework's real value isn't the number — it's making trade-offs visible and defensible to stakeholders.\n\nPRACTICE: 1) Score three features with RICE. 2) Classify features using Kano. 3) Convert a date-based roadmap into Now/Next/Later."
+ },
+ {
+  "id": "product_management_L4_1",
+  "subject_id": "product_management",
+  "level": 4,
+  "lesson_number": 1,
+  "title": "Product Strategy & Positioning",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Product strategy answers: who is it for, what problem does it solve, why us, and why now? A product vision is the long-term change you want to create; strategy is the path. Positioning defines the competitive alternative and the unique value you offer against it. The strategy must make trade-offs — a product for everyone is a product for no one. Product-market fit (PMF): when the market pulls the product out of you — measurable by retention, organic growth, and the Sean Ellis test (>40% would be 'very disappointed' without it).\n\nWORKED EXAMPLE: A team measures PMF by signups, which are climbing. But retention at 30 days is 4% — users try it and leave. Signups measured curiosity, not fit. Retention, not acquisition, is the true PMF signal: fit means people come back.\n\nPRACTICE: 1) Write a positioning statement naming the competitive alternative. 2) Define your PMF metric. 3) Identify one trade-off your strategy deliberately makes."
+ },
+ {
+  "id": "product_management_L5_1",
+  "subject_id": "product_management",
+  "level": 5,
+  "lesson_number": 1,
+  "title": "Metrics, Experimentation & Analytics",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Choose one North Star Metric that captures the value delivered to users (not vanity). AARRR pirate metrics: Acquisition, Activation, Retention, Revenue, Referral. Retention is the foundation — without it, acquisition is a leaky bucket. Cohort analysis reveals whether the product is improving over time. A/B testing requires statistical significance (avoid peeking, ensure adequate sample); correlation isn't causation. Beware Goodhart's Law: when a measure becomes a target, it ceases to be a good measure.\n\nWORKED EXAMPLE: A team optimizes for 'time in app' and adds friction that keeps users hunting for features. Time-in-app rises — the metric improves while the product gets worse. Goodhart's Law in action: the metric was gamed, not the value. A North Star must be a proxy for genuine user value, not engagement for its own sake.\n\nPRACTICE: 1) Define a North Star Metric for a product. 2) Build an AARRR funnel with numbers. 3) Identify a metric that could be gamed and how."
+ },
+ {
+  "id": "product_management_L6_1",
+  "subject_id": "product_management",
+  "level": 6,
+  "lesson_number": 1,
+  "title": "Execution, Teams & Stakeholders",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: The PM aligns engineering, design, and business without authority — clarity and trust are the currency. Write crisp specs: problem, user, success criteria, constraints, non-goals. Non-goals are as important as goals (they prevent scope creep). Manage up with outcome-focused updates; manage sideways with early involvement, not late approval. Empowered teams (given problems to solve) outperform feature teams (given solutions to build). Handle disagreement with data, user evidence, and shared goals — not authority or volume.\n\nWORKED EXAMPLE: A stakeholder demands a specific feature. Instead of arguing or complying, the PM asks 'what outcome are you trying to achieve?' — revealing the real goal, which a simpler solution addresses better. Reframing from solution to problem defuses politics and produces better products.\n\nPRACTICE: 1) Write a spec with explicit non-goals. 2) Convert a feature demand into a problem statement. 3) Design an outcome-focused stakeholder update."
+ },
+ {
+  "id": "product_management_L7_1",
+  "subject_id": "product_management",
+  "level": 7,
+  "lesson_number": 1,
+  "title": "Grandmaster — Platform, Pricing & Growth",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: Platform thinking: build capabilities others build on, creating ecosystem leverage and network effects. Pricing is product strategy — value-based pricing (charge a fraction of value created) beats cost-plus. Pricing models: subscription, usage-based, freemium, tiered — each shapes behavior. Growth loops beat funnels: a loop is self-reinforcing (users create content → attracts users). Retention compounds: a 5% retention improvement can outperform doubling acquisition spend. Land-and-expand: enter small, grow within the account.\n\nWORKED EXAMPLE: A company spends heavily on acquisition while retention is 60% monthly. They're filling a bucket with a hole — 40% churn means the average customer lasts 2.5 months, so acquisition can never outrun the leak. Fixing retention to 90% (10-month lifespan) quadruples LTV without spending a dollar more on marketing.\n\nPRACTICE: 1) Design a growth loop for a product. 2) Choose a pricing model and justify it. 3) Compute LTV at two retention rates and compare."
+ },
+ {
+  "id": "product_management_L8_1",
+  "subject_id": "product_management",
+  "level": 8,
+  "lesson_number": 1,
+  "title": "King Level — Product Leadership & Category Creation",
+  "category": "MASTERY",
+  "content": "KEY CONCEPTS: At King level, product leadership becomes company leadership: the product strategy IS the business strategy. Category creation — defining a new market and its language — is the highest form of product work, because the category king captures most of the value. Vision must be specific enough to guide decisions and inspiring enough to attract talent. Portfolio thinking across products: horizon 1 (core), 2 (emerging), 3 (bets). The King-level truth: great products are not the sum of great features — they are the expression of a single, clear point of view about how the world should work, executed with obsessive coherence.\n\nWORKED EXAMPLE: Two companies build similar tools. One adds every requested feature and becomes an incoherent Swiss Army knife. The other refuses 90% of requests to protect a sharp point of view, and becomes the definitive product in its category. Saying no is what makes a product great — coherence beats completeness.\n\nPRACTICE: 1) Articulate a product's point of view in one sentence. 2) Define a category you could create and name it. 3) Map a product portfolio across three horizons."
+ }
 ]
