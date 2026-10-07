@@ -1,6 +1,6 @@
 {
- "note": "Lessons held back from publication. Each opens with a generic template sentence instead of real instructional content, so it is a placeholder rather than a lesson. Listed by id so they can be regenerated or retired in production.",
- "count": 792,
+ "note": "Lessons held back from publication, listed by id so they can be fixed in production. reason=template_placeholder: opens with a generic template sentence instead of real instruction. reason=filed_under_non_subject_id: real lesson content, but its subject_id is an internal index name (sat_index_chunk_*, sat_index_sub_*) or 'test', not a subject, so it needs re-filing under the correct subject before it can be published.",
+ "count": 1180,
  "subjects_affected": [
   "biology",
   "chemistry",
@@ -11,7 +11,27 @@
   "physics",
   "programming",
   "psychology",
-  "sociology"
+  "sat_index_chunk_3",
+  "sat_index_chunk_4",
+  "sat_index_chunk_5",
+  "sat_index_chunk_6",
+  "sat_index_chunk_7",
+  "sat_index_chunk_8",
+  "sat_index_chunk_9",
+  "sat_index_sub_0",
+  "sat_index_sub_1",
+  "sat_index_sub_10",
+  "sat_index_sub_11",
+  "sat_index_sub_2",
+  "sat_index_sub_3",
+  "sat_index_sub_4",
+  "sat_index_sub_5",
+  "sat_index_sub_6",
+  "sat_index_sub_7",
+  "sat_index_sub_8",
+  "sat_index_sub_9",
+  "sociology",
+  "test"
  ],
  "lessons": [
   {
@@ -6349,6 +6369,3110 @@
    "lesson_number": 10,
    "title": "Population: Research Frontier",
    "reason": "template_placeholder"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_1",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 3 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_2",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 3 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_3",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 3 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_4",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 3 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_5",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 3 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_6",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 3 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_7",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 3 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_8",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 3 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_9",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 3 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_10",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 3 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_11",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 3 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_1_12",
+   "subject_id": "sat_index_chunk_3",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 3 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_1",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Core Principles of DevOps Engineering: Understanding the Foundation",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_2",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 3 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_3",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 3 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_4",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 3 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_5",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 3 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_6",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 3 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_7",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 3 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_8",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 3 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_3_2_9",
+   "subject_id": "sat_index_chunk_3",
+   "level": 2,
+   "lesson_number": 9,
+   "title": "sat index chunk 3 Core Principles - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_1",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 4 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_2",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 4 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_3",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 4 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_4",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 4 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_5",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 4 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_6",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 4 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_7",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 4 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_8",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 4 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_9",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 4 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_10",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 4 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_11",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 4 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_1_12",
+   "subject_id": "sat_index_chunk_4",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 4 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_1",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index chunk 4 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_2",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 4 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_3",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 4 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_4",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 4 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_5",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 4 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_6",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 4 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_7",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 4 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_4_2_8",
+   "subject_id": "sat_index_chunk_4",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 4 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_1",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Thermodynamics: Understanding Temperature and Heat",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_2",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 5 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_3",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 5 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_4",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 5 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_5",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 5 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_6",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 5 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_7",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 5 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_8",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 5 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_9",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 5 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_10",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 5 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_11",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 5 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_1_12",
+   "subject_id": "sat_index_chunk_5",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 5 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_1",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Introduction to Core Principles of Thermodynamics",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_2",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 5 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_3",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 5 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_4",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 5 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_5",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 5 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_6",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 5 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_7",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 5 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_5_2_8",
+   "subject_id": "sat_index_chunk_5",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 5 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_1",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 6 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_2",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 6 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_3",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 6 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_4",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 6 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_5",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 6 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_6",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 6 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_7",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 6 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_8",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 6 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_9",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 6 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_10",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 6 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_11",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 6 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_1_12",
+   "subject_id": "sat_index_chunk_6",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 6 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_1",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Core Principles of Wind Energy: Understanding the Fundamentals",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_2",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 6 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_3",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 6 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_4",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 6 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_5",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 6 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_6",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 6 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_7",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 6 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_6_2_8",
+   "subject_id": "sat_index_chunk_6",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 6 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_1",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 7 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_2",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 7 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_3",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 7 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_4",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 7 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_5",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 7 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_6",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 7 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_7",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 7 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_8",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 7 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_9",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 7 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_10",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 7 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_11",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 7 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_1_12",
+   "subject_id": "sat_index_chunk_7",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 7 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_1",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index chunk 7 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_2",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 7 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_3",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 7 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_4",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 7 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_5",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 7 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_6",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 7 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_7",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 7 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_7_2_8",
+   "subject_id": "sat_index_chunk_7",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 7 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_1",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 8 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_2",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 8 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_3",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 8 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_4",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 8 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_5",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 8 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_6",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 8 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_7",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 8 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_8",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 8 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_9",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 8 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_10",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 8 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_11",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 8 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_1_12",
+   "subject_id": "sat_index_chunk_8",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 8 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_1",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index chunk 8 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_2",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 8 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_3",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 8 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_4",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 8 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_5",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 8 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_6",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 8 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_7",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 8 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_8_2_8",
+   "subject_id": "sat_index_chunk_8",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 8 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_1",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index chunk 9 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_2",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index chunk 9 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_3",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index chunk 9 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_4",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index chunk 9 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_5",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index chunk 9 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_6",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index chunk 9 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_7",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index chunk 9 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_8",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index chunk 9 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_9",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index chunk 9 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_10",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index chunk 9 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_11",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index chunk 9 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_1_12",
+   "subject_id": "sat_index_chunk_9",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index chunk 9 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_1",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index chunk 9 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_2",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index chunk 9 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_3",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index chunk 9 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_4",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index chunk 9 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_5",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index chunk 9 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_6",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index chunk 9 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_7",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index chunk 9 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_chunk_9_2_8",
+   "subject_id": "sat_index_chunk_9",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index chunk 9 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_1",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Interdisciplinary Studies: Foundations and Key Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_2",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 0 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_3",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 0 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_4",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 0 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_5",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 0 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_6",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 0 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_7",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 0 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_8",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 0 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_9",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 0 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_10",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 0 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_11",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 0 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_1_12",
+   "subject_id": "sat_index_sub_0",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 0 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_1",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 0 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_2",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 0 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_3",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 0 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_4",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 0 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_5",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 0 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_6",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 0 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_7",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 0 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_0_2_8",
+   "subject_id": "sat_index_sub_0",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 0 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_1",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index sub 1 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_2",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 1 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_3",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 1 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_4",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 1 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_5",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 1 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_6",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 1 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_7",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 1 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_8",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 1 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_9",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 1 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_10",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 1 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_11",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 1 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_1_12",
+   "subject_id": "sat_index_sub_1",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 1 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_1",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Introduction to Core Principles of Addiction Science",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_2",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 1 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_3",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 1 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_4",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 1 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_5",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 1 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_6",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 1 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_7",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 1 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_1_2_8",
+   "subject_id": "sat_index_sub_1",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 1 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_1",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Constitutional Law: Foundations and Core Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_2",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 10 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_3",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 10 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_4",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 10 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_5",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 10 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_6",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 10 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_7",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 10 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_8",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 10 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_9",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 10 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_10",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 10 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_11",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 10 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_1_12",
+   "subject_id": "sat_index_sub_10",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 10 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_1",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 10 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_2",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 10 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_3",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 10 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_4",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 10 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_5",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 10 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_6",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 10 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_7",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 10 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_10_2_8",
+   "subject_id": "sat_index_sub_10",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 10 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_1",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Cyber Law: Foundations and Key Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_2",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 11 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_3",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 11 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_4",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 11 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_5",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 11 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_6",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 11 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_7",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 11 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_8",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 11 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_9",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 11 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_10",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 11 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_11",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 11 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_1_12",
+   "subject_id": "sat_index_sub_11",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 11 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_1",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 11 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_2",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 11 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_3",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 11 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_4",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 11 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_5",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 11 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_6",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 11 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_7",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 11 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_11_2_8",
+   "subject_id": "sat_index_sub_11",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 11 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_1",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Aerospace Engineering: Core Concepts and Terminology",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_2",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 2 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_3",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 2 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_4",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 2 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_5",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 2 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_6",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 2 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_7",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 2 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_8",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 2 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_9",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 2 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_10",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 2 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_11",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 2 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_1_12",
+   "subject_id": "sat_index_sub_2",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 2 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_1",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Introduction to Core Principles of Aerospace Engineering: DO-178C and Aircraft Systems",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_2",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 2 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_3",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 2 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_4",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 2 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_5",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 2 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_6",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 2 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_7",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 2 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_2_2_8",
+   "subject_id": "sat_index_sub_2",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 2 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_1",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index sub 3 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_2",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 3 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_3",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 3 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_4",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 3 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_5",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 3 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_6",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 3 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_7",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 3 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_8",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 3 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_9",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 3 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_10",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 3 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_11",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 3 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_1_12",
+   "subject_id": "sat_index_sub_3",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 3 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_1",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 3 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_2",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 3 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_3",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 3 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_4",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 3 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_5",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 3 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_6",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 3 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_7",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 3 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_3_2_8",
+   "subject_id": "sat_index_sub_3",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 3 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_1",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index sub 4 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_2",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 4 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_3",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 4 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_4",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 4 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_5",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 4 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_6",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 4 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_7",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 4 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_8",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 4 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_9",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 4 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_10",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 4 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_11",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 4 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_1_12",
+   "subject_id": "sat_index_sub_4",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 4 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_1",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 4 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_2",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 4 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_3",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 4 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_4",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 4 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_5",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 4 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_6",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 4 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_7",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 4 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_4_2_8",
+   "subject_id": "sat_index_sub_4",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 4 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_1",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Cryptography: Core Concepts and Terminology",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_2",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 5 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_3",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 5 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_4",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 5 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_5",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 5 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_6",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 5 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_7",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 5 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_8",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 5 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_9",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 5 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_10",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 5 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_11",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 5 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_1_12",
+   "subject_id": "sat_index_sub_5",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 5 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_1",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 5 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_2",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 5 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_3",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 5 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_4",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 5 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_5",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 5 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_6",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 5 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_7",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 5 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_5_2_8",
+   "subject_id": "sat_index_sub_5",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 5 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_1",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "sat index sub 6 Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_2",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 6 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_3",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 6 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_4",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 6 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_5",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 6 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_6",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 6 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_7",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 6 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_8",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 6 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_9",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 6 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_10",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 6 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_11",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 6 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_1_12",
+   "subject_id": "sat_index_sub_6",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 6 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_1",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 6 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_2",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 6 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_3",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 6 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_4",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 6 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_5",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 6 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_6",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 6 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_7",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 6 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_6_2_8",
+   "subject_id": "sat_index_sub_6",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 6 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_1",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Calculus: Foundations and Key Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_2",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 7 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_3",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 7 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_4",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 7 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_5",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 7 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_6",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 7 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_7",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 7 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_8",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 7 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_9",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 7 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_10",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 7 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_11",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 7 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_1_12",
+   "subject_id": "sat_index_sub_7",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 7 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_1",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Introduction to Core Principles of Calculus in Chemical Engineering",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_2",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 7 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_3",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 7 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_4",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 7 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_5",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 7 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_6",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 7 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_7",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 7 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_7_2_8",
+   "subject_id": "sat_index_sub_7",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 7 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_1",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Civil Engineering: Foundations and Key Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_2",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 8 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_3",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 8 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_4",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 8 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_5",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 8 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_6",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 8 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_7",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 8 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_8",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 8 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_9",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 8 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_10",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 8 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_11",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 8 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_1_12",
+   "subject_id": "sat_index_sub_8",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 8 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_1",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "Introduction to Core Principles of Civil Engineering: Understanding the Fundamentals of Structural Analysis",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_2",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 8 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_3",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 8 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_4",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 8 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_5",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 8 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_6",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 8 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_7",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 8 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_8_2_8",
+   "subject_id": "sat_index_sub_8",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 8 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_1",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "Introduction to Communication Skills: Foundations and Key Concepts",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_2",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "sat index sub 9 Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_3",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "sat index sub 9 Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_4",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "sat index sub 9 Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_5",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "sat index sub 9 Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_6",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "sat index sub 9 Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_7",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "sat index sub 9 Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_8",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 8,
+   "title": "sat index sub 9 Foundations - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_9",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 9,
+   "title": "sat index sub 9 Foundations - Lesson 9",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_10",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 10,
+   "title": "sat index sub 9 Foundations - Lesson 10",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_11",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 11,
+   "title": "sat index sub 9 Foundations - Lesson 11",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_1_12",
+   "subject_id": "sat_index_sub_9",
+   "level": 1,
+   "lesson_number": 12,
+   "title": "sat index sub 9 Foundations - Lesson 12",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_1",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 1,
+   "title": "sat index sub 9 Core Principles - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_2",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 2,
+   "title": "sat index sub 9 Core Principles - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_3",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 3,
+   "title": "sat index sub 9 Core Principles - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_4",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 4,
+   "title": "sat index sub 9 Core Principles - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_5",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 5,
+   "title": "sat index sub 9 Core Principles - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_6",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 6,
+   "title": "sat index sub 9 Core Principles - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_7",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 7,
+   "title": "sat index sub 9 Core Principles - Lesson 7",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_sat_index_sub_9_2_8",
+   "subject_id": "sat_index_sub_9",
+   "level": 2,
+   "lesson_number": 8,
+   "title": "sat index sub 9 Core Principles - Lesson 8",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_1",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 1,
+   "title": "test Foundations - Lesson 1",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_2",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 2,
+   "title": "test Foundations - Lesson 2",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_3",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 3,
+   "title": "test Foundations - Lesson 3",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_4",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 4,
+   "title": "test Foundations - Lesson 4",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_5",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 5,
+   "title": "test Foundations - Lesson 5",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_6",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 6,
+   "title": "test Foundations - Lesson 6",
+   "reason": "filed_under_non_subject_id"
+  },
+  {
+   "id": "les_test_1_7",
+   "subject_id": "test",
+   "level": 1,
+   "lesson_number": 7,
+   "title": "test Foundations - Lesson 7",
+   "reason": "filed_under_non_subject_id"
   }
  ]
 }

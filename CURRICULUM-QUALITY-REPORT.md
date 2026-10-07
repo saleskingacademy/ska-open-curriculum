@@ -65,6 +65,25 @@ duplicate groups / 36 rows exist corpus-wide, and most are this template
 repeated under different subjects — which is why the same text appeared under
 `chemistry`, `computer_science`, `literature` and `psychology` at once.
 
+### 1b. Lessons filed under non-subject IDs — 388 lessons, 20 IDs (withdrawn)
+
+Correction, 2026-10-06. The first version of this export published 20 lesson
+files whose `subject_id` is not a subject at all: 7 named `sat_index_chunk_*`,
+12 named `sat_index_sub_*`, and one named `test`. The lesson bodies are real
+(for example "Introduction to Interdisciplinary Studies"), but they are filed in
+production under internal index names, so there is no way to tell from the
+record which subject they belong to. That is the same wrong-subject defect this
+audit was meant to catch, and the first pass missed it.
+
+All 20 files are withdrawn and the 388 lessons are listed in
+`content/QUARANTINE-placeholder-lessons.json` with
+`reason: filed_under_non_subject_id`. None of them existed in this repository
+before the export and nothing else here referenced them. They need re-filing
+under a real subject in production before they can be published.
+
+Published totals after the correction: **972 lesson files, 14,232 lesson
+records**.
+
 ### 2. Corrupted titles — 1,217 lessons (repaired on export)
 
 8.4% of the corpus had titles beginning with `**`, left over from parsing a
