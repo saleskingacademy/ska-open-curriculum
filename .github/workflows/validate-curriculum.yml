@@ -5,11 +5,18 @@ on:
     paths:
       - 'content/**'
       - 'curriculum/**'
+      - 'knowledge/**'
+      - 'tools/audit_subject_integrity.py'
+      - 'tools/audit_catalog.py'
       - '.github/workflows/validate-curriculum.yml'
   pull_request:
     paths:
       - 'content/**'
       - 'curriculum/**'
+      - 'knowledge/**'
+      - 'tools/audit_subject_integrity.py'
+      - 'tools/audit_catalog.py'
+      - '.github/workflows/validate-curriculum.yml'
 
 jobs:
   validate:
@@ -41,3 +48,17 @@ jobs:
           }
           console.log(`Validated ${files.length} JSON files and ${lessons} structured lessons.`);
           JS
+
+      - name: Verify subject identifiers, knowledge files, and lesson assignments
+        run: python3 tools/audit_subject_integrity.py --report audit-results/subject-integrity.json
+
+      - name: Verify catalog subject names and calculated totals
+        run: python3 tools/audit_catalog.py
+
+      - name: Upload full subject integrity report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: subject-integrity
+          path: audit-results/subject-integrity.json
+          retention-days: 30
