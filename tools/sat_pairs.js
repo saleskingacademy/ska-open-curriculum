@@ -105,6 +105,8 @@ for (const d of docs) {
     if (pool.length && (parseInt(sha(a.text + di).slice(0, 2), 16) % 10) < 3) { distractor = pool[parseInt(sha(a.text + di).slice(2, 8), 16) % pool.length]; ctx = distractor.para.split(/\s+/).slice(0, 80).join(" ") + "\n\n" + ctx; st.distractor++; }
     if (!trainOK) { st.excluded_ai_drafted = (st.excluded_ai_drafted || 0) + 1; return; }
     pairsOut.write(JSON.stringify({ id: sid("Q", S.id + a.P + ai + "|" + di), subject: key, S: S.id, C: a.sec.id, P: a.P, dim: pname, q, context: ctx, a: a.text,
+      // the two-symbol pairing: the context's stable meaning and the question's live reading (Symbol256, 128 digits each)
+      sym_ctx: SYM.stable(ctx), sym_q: SYM.read(q),
       constraints: { subject: key, dimension: pname, key_terms: keys, min_terms: 2, unique: true, candidates: sat.length }, distractor: !!distractor }) + "\n"); st.pairs++;
     st.dims[pname] = (st.dims[pname] || 0) + 1;
     subjPairs.push({ q: q, a: a.text, dim: pname, keys: keys });
