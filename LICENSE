@@ -14,3 +14,8 @@ History: versions of this repository up to and including commit 0a5ca0d were pub
 Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). Copies obtained from those earlier
 versions remain under that licence. All material added or changed after that commit is
 covered only by this notice.
+
+Exception - dictionary/: the definitions, examples, parts of speech and synonyms in
+dictionary/words/ are from Open English WordNet 2024 and remain under Creative Commons
+Attribution 4.0 (CC BY 4.0); see dictionary/LICENSE. Only the DNA-16 anchors, Symbol256
+signatures and build tooling added by Sales King Academy LLC are covered by the notice above.

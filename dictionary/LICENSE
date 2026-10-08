@@ -1,0 +1,11 @@
+Definitions, examples, parts of speech and synonym sets in dictionary/words/ come from
+Open English WordNet 2024 (https://github.com/globalwordnet/english-wordnet),
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Changes made by Sales King Academy LLC: entries regrouped by written form into two-letter
+shards; each word and definition assigned a DNA-16 anchor; each definition given a Symbol256
+meaning signature; examples limited to two and synonyms to six per definition.
+
+The WordNet content above remains under CC BY 4.0. The DNA-16 anchors, Symbol256 signatures
+and the build tooling (tools/build_dictionary.py) are Copyright (c) 2026 Sales King Academy LLC.
