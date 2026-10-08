@@ -1,7 +1,7 @@
 ---
 key: adventure_tourism
 title: "Adventure Tourism"
-program: accounting_finance
+program: hospitality
 course_level: 4
 dna16: "0701201825007964"
 l4_address: "S6:P890012420"

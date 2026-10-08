@@ -1,7 +1,7 @@
 ---
 key: aerodynamics
 title: "Aerodynamics"
-program: general_studies
+program: engineering
 course_level: 3
 dna16: "0701201823624596"
 l4_address: "S6:P284252277"
