@@ -522,102 +522,102 @@ A hypothetical commercial team faces competing objectives involving growth, qual
 
 ## Review Question Bank
 
-1. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-2. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-3. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-4. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-5. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-6. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-7. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-8. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-9. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-10. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-11. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-12. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-13. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-14. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-15. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-16. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-17. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-18. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-19. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-20. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-21. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-22. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-23. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-24. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-25. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-26. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-27. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-28. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-29. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-30. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-31. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-32. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-33. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-34. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-35. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-36. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-37. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-38. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-39. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-40. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-41. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-42. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-43. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-44. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-45. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-46. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-47. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-48. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-49. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-50. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-51. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-52. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-53. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-54. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-55. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-56. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-57. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-58. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-59. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-60. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-61. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-62. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-63. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-64. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-65. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-66. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-67. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-68. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-69. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-70. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-71. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-72. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-73. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-74. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-75. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-76. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-77. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-78. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-79. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-80. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-81. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-82. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-83. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-84. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-85. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-86. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-87. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-88. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-89. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-90. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-91. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-92. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-93. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-94. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-95. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-96. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+1. Define ideal customer fit in sales practice, identify its purpose and distinguish verified facts from assumptions.
+2. What buyer, account, customer, or campaign evidence is needed to make an informed decision about ideal customer fit?
+3. Design a concrete sales scenario requiring ideal customer fit; list observable steps, actors, inputs, and intended outcomes.
+4. Diagnose a realistic failure involving ideal customer fit. What early warnings, consequences, and corrective actions matter?
+5. Select a measurable performance metric for ideal customer fit; build a numerical example with its denominator, time frame, assumptions, and limitations.
+6. Compare two valid approaches to ideal customer fit. Under what customer, financial, or operational conditions would each be preferable?
+7. How could AI assist with ideal customer fit, and which factual checks, data protections, and authorization boundaries must remain enforced?
+8. Construct a practical assessment rubric for ideal customer fit, including evidence quality, business outcome, customer impact, and common errors.
+9. Define prospecting and outreach in sales practice, identify its purpose and distinguish verified facts from assumptions.
+10. What buyer, account, customer, or campaign evidence is needed to make an informed decision about prospecting and outreach?
+11. Design a concrete sales scenario requiring prospecting and outreach; list observable steps, actors, inputs, and intended outcomes.
+12. Diagnose a realistic failure involving prospecting and outreach. What early warnings, consequences, and corrective actions matter?
+13. Select a measurable performance metric for prospecting and outreach; build a numerical example with its denominator, time frame, assumptions, and limitations.
+14. Compare two valid approaches to prospecting and outreach. Under what customer, financial, or operational conditions would each be preferable?
+15. How could AI assist with prospecting and outreach, and which factual checks, data protections, and authorization boundaries must remain enforced?
+16. Construct a practical assessment rubric for prospecting and outreach, including evidence quality, business outcome, customer impact, and common errors.
+17. Define discovery questioning in sales practice, identify its purpose and distinguish verified facts from assumptions.
+18. What buyer, account, customer, or campaign evidence is needed to make an informed decision about discovery questioning?
+19. Design a concrete sales scenario requiring discovery questioning; list observable steps, actors, inputs, and intended outcomes.
+20. Diagnose a realistic failure involving discovery questioning. What early warnings, consequences, and corrective actions matter?
+21. Select a measurable performance metric for discovery questioning; build a numerical example with its denominator, time frame, assumptions, and limitations.
+22. Compare two valid approaches to discovery questioning. Under what customer, financial, or operational conditions would each be preferable?
+23. How could AI assist with discovery questioning, and which factual checks, data protections, and authorization boundaries must remain enforced?
+24. Construct a practical assessment rubric for discovery questioning, including evidence quality, business outcome, customer impact, and common errors.
+25. Define opportunity qualification in sales practice, identify its purpose and distinguish verified facts from assumptions.
+26. What buyer, account, customer, or campaign evidence is needed to make an informed decision about opportunity qualification?
+27. Design a concrete sales scenario requiring opportunity qualification; list observable steps, actors, inputs, and intended outcomes.
+28. Diagnose a realistic failure involving opportunity qualification. What early warnings, consequences, and corrective actions matter?
+29. Select a measurable performance metric for opportunity qualification; build a numerical example with its denominator, time frame, assumptions, and limitations.
+30. Compare two valid approaches to opportunity qualification. Under what customer, financial, or operational conditions would each be preferable?
+31. How could AI assist with opportunity qualification, and which factual checks, data protections, and authorization boundaries must remain enforced?
+32. Construct a practical assessment rubric for opportunity qualification, including evidence quality, business outcome, customer impact, and common errors.
+33. Define objection diagnosis in sales practice, identify its purpose and distinguish verified facts from assumptions.
+34. What buyer, account, customer, or campaign evidence is needed to make an informed decision about objection diagnosis?
+35. Design a concrete sales scenario requiring objection diagnosis; list observable steps, actors, inputs, and intended outcomes.
+36. Diagnose a realistic failure involving objection diagnosis. What early warnings, consequences, and corrective actions matter?
+37. Select a measurable performance metric for objection diagnosis; build a numerical example with its denominator, time frame, assumptions, and limitations.
+38. Compare two valid approaches to objection diagnosis. Under what customer, financial, or operational conditions would each be preferable?
+39. How could AI assist with objection diagnosis, and which factual checks, data protections, and authorization boundaries must remain enforced?
+40. Construct a practical assessment rubric for objection diagnosis, including evidence quality, business outcome, customer impact, and common errors.
+41. Define buying-group mapping in sales practice, identify its purpose and distinguish verified facts from assumptions.
+42. What buyer, account, customer, or campaign evidence is needed to make an informed decision about buying-group mapping?
+43. Design a concrete sales scenario requiring buying-group mapping; list observable steps, actors, inputs, and intended outcomes.
+44. Diagnose a realistic failure involving buying-group mapping. What early warnings, consequences, and corrective actions matter?
+45. Select a measurable performance metric for buying-group mapping; build a numerical example with its denominator, time frame, assumptions, and limitations.
+46. Compare two valid approaches to buying-group mapping. Under what customer, financial, or operational conditions would each be preferable?
+47. How could AI assist with buying-group mapping, and which factual checks, data protections, and authorization boundaries must remain enforced?
+48. Construct a practical assessment rubric for buying-group mapping, including evidence quality, business outcome, customer impact, and common errors.
+49. Define solution demonstration in sales practice, identify its purpose and distinguish verified facts from assumptions.
+50. What buyer, account, customer, or campaign evidence is needed to make an informed decision about solution demonstration?
+51. Design a concrete sales scenario requiring solution demonstration; list observable steps, actors, inputs, and intended outcomes.
+52. Diagnose a realistic failure involving solution demonstration. What early warnings, consequences, and corrective actions matter?
+53. Select a measurable performance metric for solution demonstration; build a numerical example with its denominator, time frame, assumptions, and limitations.
+54. Compare two valid approaches to solution demonstration. Under what customer, financial, or operational conditions would each be preferable?
+55. How could AI assist with solution demonstration, and which factual checks, data protections, and authorization boundaries must remain enforced?
+56. Construct a practical assessment rubric for solution demonstration, including evidence quality, business outcome, customer impact, and common errors.
+57. Define proposal preparation in sales practice, identify its purpose and distinguish verified facts from assumptions.
+58. What buyer, account, customer, or campaign evidence is needed to make an informed decision about proposal preparation?
+59. Design a concrete sales scenario requiring proposal preparation; list observable steps, actors, inputs, and intended outcomes.
+60. Diagnose a realistic failure involving proposal preparation. What early warnings, consequences, and corrective actions matter?
+61. Select a measurable performance metric for proposal preparation; build a numerical example with its denominator, time frame, assumptions, and limitations.
+62. Compare two valid approaches to proposal preparation. Under what customer, financial, or operational conditions would each be preferable?
+63. How could AI assist with proposal preparation, and which factual checks, data protections, and authorization boundaries must remain enforced?
+64. Construct a practical assessment rubric for proposal preparation, including evidence quality, business outcome, customer impact, and common errors.
+65. Define commercial negotiation in sales practice, identify its purpose and distinguish verified facts from assumptions.
+66. What buyer, account, customer, or campaign evidence is needed to make an informed decision about commercial negotiation?
+67. Design a concrete sales scenario requiring commercial negotiation; list observable steps, actors, inputs, and intended outcomes.
+68. Diagnose a realistic failure involving commercial negotiation. What early warnings, consequences, and corrective actions matter?
+69. Select a measurable performance metric for commercial negotiation; build a numerical example with its denominator, time frame, assumptions, and limitations.
+70. Compare two valid approaches to commercial negotiation. Under what customer, financial, or operational conditions would each be preferable?
+71. How could AI assist with commercial negotiation, and which factual checks, data protections, and authorization boundaries must remain enforced?
+72. Construct a practical assessment rubric for commercial negotiation, including evidence quality, business outcome, customer impact, and common errors.
+73. Define contract handoff in sales practice, identify its purpose and distinguish verified facts from assumptions.
+74. What buyer, account, customer, or campaign evidence is needed to make an informed decision about contract handoff?
+75. Design a concrete sales scenario requiring contract handoff; list observable steps, actors, inputs, and intended outcomes.
+76. Diagnose a realistic failure involving contract handoff. What early warnings, consequences, and corrective actions matter?
+77. Select a measurable performance metric for contract handoff; build a numerical example with its denominator, time frame, assumptions, and limitations.
+78. Compare two valid approaches to contract handoff. Under what customer, financial, or operational conditions would each be preferable?
+79. How could AI assist with contract handoff, and which factual checks, data protections, and authorization boundaries must remain enforced?
+80. Construct a practical assessment rubric for contract handoff, including evidence quality, business outcome, customer impact, and common errors.
+81. Define CRM data integrity in sales practice, identify its purpose and distinguish verified facts from assumptions.
+82. What buyer, account, customer, or campaign evidence is needed to make an informed decision about CRM data integrity?
+83. Design a concrete sales scenario requiring CRM data integrity; list observable steps, actors, inputs, and intended outcomes.
+84. Diagnose a realistic failure involving CRM data integrity. What early warnings, consequences, and corrective actions matter?
+85. Select a measurable performance metric for CRM data integrity; build a numerical example with its denominator, time frame, assumptions, and limitations.
+86. Compare two valid approaches to CRM data integrity. Under what customer, financial, or operational conditions would each be preferable?
+87. How could AI assist with CRM data integrity, and which factual checks, data protections, and authorization boundaries must remain enforced?
+88. Construct a practical assessment rubric for CRM data integrity, including evidence quality, business outcome, customer impact, and common errors.
+89. Define customer retention in sales practice, identify its purpose and distinguish verified facts from assumptions.
+90. What buyer, account, customer, or campaign evidence is needed to make an informed decision about customer retention?
+91. Design a concrete sales scenario requiring customer retention; list observable steps, actors, inputs, and intended outcomes.
+92. Diagnose a realistic failure involving customer retention. What early warnings, consequences, and corrective actions matter?
+93. Select a measurable performance metric for customer retention; build a numerical example with its denominator, time frame, assumptions, and limitations.
+94. Compare two valid approaches to customer retention. Under what customer, financial, or operational conditions would each be preferable?
+95. How could AI assist with customer retention, and which factual checks, data protections, and authorization boundaries must remain enforced?
+96. Construct a practical assessment rubric for customer retention, including evidence quality, business outcome, customer impact, and common errors.
 
 ## Glossary
 
