@@ -97,9 +97,7 @@ To illustrate key concepts in podcasting, consider the following examples.
 1. Calculating podcast download numbers: A podcast episode is released and receives 500 downloads in the first week, 200 in the second, and 100 in the third. To calculate the total downloads after three weeks, add the downloads from each week: 500 + 200 + 100 = 800 downloads. 
 2. Determining podcast engagement: A podcast has 1000 subscribers and an average of 50 comments per episode. To calculate the engagement rate, divide the number of comments by the number of subscribers: 50 comments / 1000 subscribers = 0.05 or 5% engagement rate. 
 3. Measuring podcast monetization: A podcast generates $1000 from sponsorships per episode and releases 20 episodes per year. To calculate the annual revenue, multiply the revenue per episode by the number of episodes: $1000/episode * 20 episodes/year = $20,000/year. 
-These examples demonstrate how to apply mathematical principles to real-world podcasting scenarios, allowing creators to track and analyze their podcast's performance. Calculating podcast download numbers: A podcast episode is released and receives 500 downloads in the first week, 200 in the second, and 100 in the third. To calculate the total downloads after three weeks, add the downloads from each week: 500 + 200 + 100 = 800 downloads. 
-2. To calculate the engagement rate, divide the number of comments by the number of subscribers: 50 comments / 1000 subscribers = 0.05 or 5% engagement rate. 
-3. Measuring podcast monetization: A podcast generates $1000 from sponsorships per episode and releases 20 episodes per year. To calculate the annual revenue, multiply the revenue per episode by the number of episodes: $1000/episode * 20 episodes/year = $20,000/year.
+These examples demonstrate how to apply mathematical principles to real-world podcasting scenarios, allowing creators to track and analyze their podcast's performance. 2. 3.
 
 ## Applications
 

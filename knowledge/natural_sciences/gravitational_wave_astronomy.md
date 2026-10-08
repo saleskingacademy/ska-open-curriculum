@@ -29,7 +29,7 @@ Key concepts in gravitational wave astronomy include **strain**, which measures 
 
 The detection of gravitational waves requires highly sensitive instruments, such as **laser interferometers**, which use laser beams to measure tiny changes in distance between mirrors suspended in vacuum. The **LIGO** (Laser Interferometer Gravitational-Wave Observatory) and **Virgo** detectors are examples of such instruments, using **Michelson interferometry** to detect the minute changes in distance caused by gravitational waves.
 
-Key terms in gravitational wave astronomy include **polarization**, which refers to the orientation of the wave's electric field vector, and **strain**, which is a measure of the wave's amplitude. **Signal-to-noise ratio** is a critical concept, as it determines the detectability of a gravitational wave signal against the background noise of the detector. Understanding these foundational concepts is essential for practitioners in the field of gravitational wave astronomy.
+Key terms in gravitational wave astronomy include **polarization**, which refers to the orientation of the wave's electric field vector, and **strain**, which is a measure of the wave's amplitude. **Signal-to-noise ratio** is a critical concept, as it determines the detectability of a gravitational wave signal against the background noise of the detector.
 
 ## Mechanisms
 

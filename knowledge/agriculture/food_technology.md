@@ -56,7 +56,7 @@ The Water Footprint Network (WFN) method is applied to quantify the amount of wa
 The Food Miles concept is used to assess the environmental impact of food transportation, with a focus on reducing greenhouse gas emissions and promoting local food systems. However, its failure mode lies in its oversimplification, as it does not account for other factors such as production methods and processing practices. 
 The Environmental Impact Quotient (EIQ) formula is used to calculate the environmental impact of agricultural practices, taking into account factors such as soil erosion, water pollution, and biodiversity loss. The failure mode of EIQ lies in its limited applicability, as it is primarily designed for crop production and does not account for livestock or other food production systems.
 
-In the context of Food Technology within Agriculture Environmental studies, several methods and frameworks are employed to assess and manage the environmental impact of food production, processing, and distribution. The Life Cycle Assessment (LCA) method is used to evaluate the environmental effects of food products throughout their entire life cycle, from raw material extraction to end-of-life disposal or recycling. LCA is particularly useful for identifying areas of high environmental impact and informing strategies for reduction. However, its failure mode lies in the complexity and data intensity of the assessment, which can lead to inaccuracies if not properly managed.
+In the context of Food Technology within Agriculture Environmental studies, several methods and frameworks are employed to assess and manage the environmental impact of food production, processing, and distribution. LCA is particularly useful for identifying areas of high environmental impact and informing strategies for reduction. However, its failure mode lies in the complexity and data intensity of the assessment, which can lead to inaccuracies if not properly managed.
 
 The Water Footprint (WF) method is applied to quantify the volume of water used in the production of food products, helping to assess water scarcity and pollution impacts. WF is useful for water-intensive crops like rice, wheat, and sugarcane, but its failure mode can be the oversimplification of water use patterns, neglecting spatial and temporal variations.
 
@@ -76,8 +76,7 @@ To illustrate the application of food technology in an agricultural environmenta
 
 3. **Greenhouse Gas Emission Reduction**: A farm produces 1000 kg of tomatoes per day, resulting in 1.5 kg CO₂-eq/kg of tomatoes due to fertilizer and equipment usage. If the farmer implements a new fertilizer application technique that reduces emissions by 20%, the daily emission reduction can be calculated as: Emission reduction = Total production * Emission per unit * Reduction percentage = 1000 * 1.5 * 0.20 = 300 kg CO₂-eq/day.
 
-To illustrate the application of food technology in an agricultural environmental context, consider the following examples. 
-1. **Irrigation Water Treatment**: A farm uses 1000 m³ of water daily for irrigation. The water contains 200 mg/L of dissolved solids. If a treatment system can remove 80% of dissolved solids, how much will be removed daily? 
+1. The water contains 200 mg/L of dissolved solids. If a treatment system can remove 80% of dissolved solids, how much will be removed daily? 
 First, calculate the total amount of dissolved solids: 1000 m³ * 200 mg/L = 200,000 mg or 200 g. 
 Then, calculate the amount removed: 200 g * 0.8 = 160 g. 
 So, 160 g of dissolved solids are removed daily. 

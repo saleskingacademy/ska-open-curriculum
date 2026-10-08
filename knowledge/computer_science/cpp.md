@@ -213,13 +213,11 @@ int main() {
 ```
 This program outputs: Sum of array elements: 15.
 
-To illustrate the application of C++ programming concepts, consider the following examples.
-
 1. **Calculating the Area of a Rectangle**: Given a rectangle with length 10 cm and width 5 cm, calculate its area using C++. The formula for the area is length * width. In C++, this can be implemented as: `int length = 10; int width = 5; int area = length * width;`. The area would be 50 square cm.
 
 2. **Finding the Maximum of Two Numbers**: Write a C++ program to find the maximum of two numbers, 20 and 30. This can be achieved using the `if-else` statement or the `std::max` function from the `<algorithm>` library. For example, `int num1 = 20; int num2 = 30; int maxNum = (num1 > num2) ? num1 : num2;`. The maximum number would be 30.
 
-3. **Calculating the Sum of an Array**: Given an array of integers `{1, 2, 3, 4, 5}`, calculate the sum of its elements using C++. This can be done by iterating through the array and adding each element to a running total. For example, `int arr[] = {1, 2, 3, 4, 5}; int sum = 0; for (int i = 0; i < 5; i++) { sum += arr[i]; }`. The sum would be 15. These examples demonstrate basic C++ concepts such as variables, data types, operators, control structures, and functions.
+3. **Calculating the Sum of an Array**: Given an array of integers `{1, 2, 3, 4, 5}`, calculate the sum of its elements using C++. For example, `int arr[] = {1, 2, 3, 4, 5}; int sum = 0; for (int i = 0; i < 5; i++) { sum += arr[i]; }`. The sum would be 15. These examples demonstrate basic C++ concepts such as variables, data types, operators, control structures, and functions.
 
 ## Applications
 

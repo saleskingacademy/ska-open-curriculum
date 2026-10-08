@@ -130,12 +130,7 @@ For a dipole antenna, n = 1, so λ_res = (2 * 200e-9) / (2*1 + 1) = 800 nm.
 The enhancement factor (EF) can be estimated using the formula: EF = (ε_m / ε_d) * (ω_res / ω_0)^2, where ε_m is the metal permittivity, ε_d is the permittivity of the surrounding medium, ω_res is the resonance frequency, and ω_0 is the frequency of the incident light. 
 Substituting the given values, we get EF = (0.23 + 3.5i / 1) * (2πc / 800e-9 / (2πc / 800e-9))^2 = 10.6.
 
-To illustrate the principles of nanophotonics in engineering, consider the following examples. 
-1. **Plasmonic Waveguide**: A silver nanowire of diameter 100 nm and length 10 μm is used as a plasmonic waveguide. Given the refractive index of silver as 0.04 + 4.5i at 632.8 nm wavelength, calculate the propagation constant and the attenuation coefficient. 
-Using the formula for propagation constant β = (2π/λ) * (ε' + ε_m)^(1/2), where ε' is the real part of the permittivity of silver and ε_m is the permittivity of the surrounding medium (air, ε_m = 1), we can calculate β. 
-First, calculate the permittivity of silver ε = (0.04 + 4.5i)^2 = -19.99 + 0.36i, then ε' = -19.99. 
-Substituting values, β = (2π/632.8e-9) * (-19.99 + 1)^(1/2) = (9.93e6) * (-18.99)^(1/2) = (9.93e6) * (4.36i) = 4.33e7i. 
-The attenuation coefficient α = 2 * |Im(β)| = 2 * 4.33e7 = 8.66e7 m^-1.
+To illustrate the principles of nanophotonics in engineering, consider the following examples.
 2. **Photonic Crystal**: A 2D photonic crystal consists of a square lattice of air holes in a silicon slab with a lattice constant of 400 nm and a hole radius of 100 nm. Calculate the bandgap for TE polarization at a wavelength of 1550 nm. 
 Using the formula for the bandgap, we need to calculate the effective refractive index and the lattice constant in terms of wavelength. 
 The effective refractive index n_eff = √(ε_si * ε_air) = √(12.25 * 1) = 3.5. 

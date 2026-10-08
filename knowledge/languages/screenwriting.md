@@ -89,12 +89,7 @@ Alex sips their coffee, looking unsure."
 2. **Character Development**: A screenwriter wants to develop a character's backstory to inform their motivations. For instance, if the character, Maya, has a fear of heights, the screenwriter might decide that Maya had a traumatic experience as a child, such as falling from a tree. This backstory would influence Maya's actions and decisions throughout the script, making her a more nuanced and believable character.
 3. **Plot Structure**: A screenwriter is working on a romantic comedy with a typical three-act structure. Act 1 would introduce the protagonist, Emma, and her goal (e.g., finding love). Act 2 would present obstacles and conflicts (e.g., Emma's fear of commitment, her rival's attempts to sabotage her relationships). Act 3 would resolve the conflict and achieve Emma's goal (e.g., Emma overcoming her fears and finding love with her perfect match). The screenwriter would use plot points, such as the inciting incident and the climax, to create a narrative arc that engages the audience.
 
-To illustrate the principles of screenwriting, let's consider three concrete examples. 
-1. **Script Format**: A screenwriter is writing a scene where two characters, Alex and Maya, are having a conversation in a coffee shop. The script would be formatted with character names in caps, action lines in present tense, and dialogue indented 3.7 inches from the left margin. For example: 
-ALEX
-I'm telling you, I saw it with my own eyes.
-MAYA
-You must have been hallucinating.
+To illustrate the principles of screenwriting, let's consider three concrete examples.
 2. **Scene Structure**: A screenwriter is writing a scene where a character, Jack, discovers a hidden room in his attic. The scene would be structured to include an entrance, a turning point, and an exit. The entrance would establish the setting and Jack's goal, the turning point would be the discovery of the hidden room, and the exit would show the consequences of this discovery. 
 3. **Character Arc**: A screenwriter is writing a character arc for a protagonist, Sophia, who begins as a shy and introverted person but becomes confident and outgoing by the end of the story. The character arc would be developed by showing Sophia's flaws and weaknesses, her desire for change, and her ultimate transformation through a series of challenges and setbacks. For example, Sophia's character arc might be measured by her ability to speak in front of a crowd, with her initial failure (0% confidence) progressing to her final success (100% confidence).
 

@@ -122,7 +122,6 @@ Total cost = £10,000 + £1,000 = £11,000.
 3. **Trade Balance**: A country exports $100 million worth of goods and imports $80 million worth of goods in a given month. What is the trade balance? 
 Trade balance = Export value - Import value = $100 million - $80 million = $20 million surplus.
 
-To illustrate the concepts of import and export in business, let's consider the following examples. 
 1. **Export Example**: A US-based company exports 100 units of a product to Canada at $100 per unit. The export price is FOB (Free on Board) New York, and the transportation cost to Canada is $10 per unit. If the exchange rate is 1 USD = 1.3 CAD, what is the total revenue for the US company in USD? 
 First, calculate the total revenue in CAD: 100 units * $100/unit * 1.3 CAD/USD = $13,000 CAD. Then, convert this to USD: $13,000 CAD / 1.3 CAD/USD = $10,000 USD. The transportation cost is borne by the buyer, so it does not affect the US company's revenue.
 2. **Import Example**: A European company imports 500 units of a product from China at €50 per unit CIF (Cost, Insurance, and Freight) Rotterdam. The exchange rate is 1 EUR = 7.8 CNY, and the customs duty is 5% of the CIF value. What is the total cost of importing these units, including duty? 

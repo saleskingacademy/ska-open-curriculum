@@ -52,7 +52,7 @@ At 20°C, which is below Tg, the polymer is in its glassy state, and its Young's
 Assuming a 50% crystallinity, E = 10 GPa * 0.5 + 1 GPa * 0.5 = 5.5 GPa. 
 At 150°C, which is above Tg but below Tm, the polymer is in its rubbery state, and its Young's modulus can be estimated as the lower bound of the rule of mixtures: 1 / E = (volume fraction of crystalline phase) / 10 GPa + (volume fraction of amorphous phase) / 1 GPa. 
 Again, assuming a 50% crystallinity, 1 / E = 0.5 / 10 GPa + 0.5 / 1 GPa = 0.5 * (0.1 + 1) / GPa = 0.55 / GPa, so E = 1.82 GPa. Using Hooke's law, stress (σ) = force (F) / area (A) = 2500 N / 0.01 m^2 = 250,000 Pa or 250 MPa. Since this is below the yield strength, the material behaves elastically. Strain (ε) = stress (σ) / Young's modulus (E) = 250 MPa / 200 GPa = 0.00125. Elongation (ΔL) = strain (ε) * original length (L) = 0.00125 * 1 m = 0.00125 m or 1.25 mm.
-2. A polymer has a glass transition temperature (Tg) of 80°C and a melting point (Tm) of 180°C. If it is cooled from 200°C to 20°C at a rate of 2°C/min, estimate the temperature at which it will become brittle. As the polymer cools, it will become brittle when its temperature falls below Tg. The time it takes to cool from 200°C to 80°C is (200°C - 80°C) / (2°C/min) = 60 min.
+2. If it is cooled from 200°C to 20°C at a rate of 2°C/min, estimate the temperature at which it will become brittle. As the polymer cools, it will become brittle when its temperature falls below Tg. The time it takes to cool from 200°C to 80°C is (200°C - 80°C) / (2°C/min) = 60 min.
 
 ## Applications
 

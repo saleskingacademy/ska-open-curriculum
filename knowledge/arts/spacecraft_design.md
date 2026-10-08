@@ -104,8 +104,7 @@ The NASA Systems Engineering Handbook provides a comprehensive guide to this fra
 The Mass Fraction Method is used to estimate the mass of a spacecraft, based on its mission requirements and propulsion system. This method is useful for initial design estimates, but can be limited by its simplifying assumptions. 
 The Rocket Equation, derived from Newton's second law and the principle of conservation of momentum, is used to determine the delta-v (change in velocity) required for a spacecraft to perform a specific mission. This equation is essential for designing propulsion systems and determining the required fuel mass. 
 The failure mode of these methods can occur when simplifying assumptions are not validated, or when uncertainties in mission requirements or system performance are not adequately accounted for. 
-The Concurrent Engineering approach is used to integrate multiple disciplines and stakeholders in the design process, promoting collaboration and reducing errors. This approach is particularly useful for complex spacecraft systems, where multiple subsystems interact and impact overall performance. 
-The Design for Testability (DFT) method is used to ensure that spacecraft systems are designed with testing and verification in mind, reducing the risk of errors and rework. 
+The Concurrent Engineering approach is used to integrate multiple disciplines and stakeholders in the design process, promoting collaboration and reducing errors. The Design for Testability (DFT) method is used to ensure that spacecraft systems are designed with testing and verification in mind, reducing the risk of errors and rework. 
 The Failure Mode, Effects, and Criticality Analysis (FMECA) is a systematic approach to identifying and mitigating potential failures in spacecraft systems, ensuring reliable performance and minimizing risk.
 
 ## Worked Examples

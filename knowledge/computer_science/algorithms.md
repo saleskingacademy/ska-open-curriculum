@@ -26,9 +26,7 @@ A **problem** is a specification of a task to be performed, and an algorithm is 
 **Time complexity** and **space complexity** are measures of an algorithm's efficiency, with time complexity referring to the amount of time an algorithm takes to complete as a function of the size of the input, and space complexity referring to the amount of memory an algorithm uses. 
 **Determinism** is a property of an algorithm where it always produces the same output given the same input, and **non-determinism** is where an algorithm may produce different outputs given the same input. 
 An algorithm's **termination** refers to its ability to halt or stop after a finite number of steps, and **loop** refers to a sequence of instructions that is repeated while a certain condition is met. 
-These core concepts form the foundation of algorithms in computer science, and understanding them is essential for designing, analyzing, and implementing efficient algorithms. **Input** refers to the data provided to the algorithm, which can be in the form of numbers, strings, or other data structures. **Output** is the result produced by the algorithm after processing the input.
-
-A **problem** is a specification of a task to be performed, and an algorithm is said to **solve** a problem if it produces the correct output for every possible input. The **correctness** of an algorithm refers to its ability to produce the expected output for a given input.
+These core concepts form the foundation of algorithms in computer science, and understanding them is essential for designing, analyzing, and implementing efficient algorithms.
 
 **Time complexity** and **space complexity** are measures of an algorithm's efficiency, referring to the amount of time and memory required to execute the algorithm, respectively. **Big O notation** is a mathematical notation used to describe the upper bound of an algorithm's time or space complexity, usually expressed as a function of the input size.
 

@@ -43,7 +43,7 @@ In personal development, physical fitness is achieved through various methods an
 The SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goal-setting formula is effective for setting realistic fitness objectives. Apply SMART when creating a personalized fitness plan, but beware of its failure mode: setting unachievable goals due to unrealistic expectations. 
 The transtheoretical model (TTM) of behavior change is a framework for understanding the stages of change (precontemplation, contemplation, preparation, action, maintenance, termination) in adopting physical activity. Use TTM when identifying an individual's readiness to change their fitness behavior, but be cautious of its failure mode: assuming a linear progression through stages. 
 The FITT (Frequency, Intensity, Time, Type) principle is a guideline for designing exercise programs, considering the frequency, intensity, duration, and type of exercise. Apply FITT when creating a workout routine, but be aware of its failure mode: neglecting individual variability and progressive overload. 
-The periodization method involves alternating periods of intense training with periods of rest and recovery. Use periodization when seeking to avoid plateaus and prevent overtraining, but beware of its failure mode: inadequate recovery time, leading to burnout.
+Use periodization when seeking to avoid plateaus and prevent overtraining, but beware of its failure mode: inadequate recovery time, leading to burnout.
 
 ## Worked Examples
 

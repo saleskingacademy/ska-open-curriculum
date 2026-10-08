@@ -59,7 +59,7 @@ L8: Develop and manipulate inner models and fine structure theory to resolve dee
 
 Set theory operates through several key mechanisms that enable the formation and manipulation of sets. The first mechanism is set formation, where a set is defined as a collection of unique objects, known as elements or members, that can be anything (numbers, letters, people, etc.). This is achieved through the use of set-builder notation, which specifies the properties that elements must satisfy to be included in the set. For example, {x | x is an integer and 1 ≤ x ≤ 5} forms a set containing the integers 1, 2, 3, 4, and 5. For example, {x | x is a positive integer} defines the set of all positive integers.
 
-The second mechanism is set operations, which allow sets to be combined or modified. The union of two sets A and B, denoted by A ∪ B, is the set of all elements that are in A, in B, or in both. The intersection of A and B, denoted by A ∩ B, is the set of all elements that are in both A and B. The difference of A and B, denoted by A \ B or A - B, is the set of all elements that are in A but not in B.
+The second mechanism is set operations, which allow sets to be combined or modified. The intersection of A and B, denoted by A ∩ B, is the set of all elements that are in both A and B. The difference of A and B, denoted by A \ B or A - B, is the set of all elements that are in A but not in B.
 
 A third mechanism is the use of set relations, such as subset, equality, and disjointness. A set A is a subset of a set B, denoted by A ⊆ B, if every element of A is also an element of B. Two sets A and B are equal, denoted by A = B, if they have exactly the same elements. Two sets A and B are disjoint, denoted by A ∩ B = ∅, if they have no elements in common.
 

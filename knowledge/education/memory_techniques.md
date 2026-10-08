@@ -118,8 +118,6 @@ To illustrate the application of memory techniques in personal development, cons
 3. **Acronym**: Using the first letter of each item to form a memorable word or phrase, like "ROY G BIV" for the colors of the rainbow (Red, Orange, Yellow, Green, Blue, Indigo, Violet). This technique helps in recalling a sequence of information by creating a mental shortcut. 
 These examples demonstrate how memory techniques can be applied in everyday life to improve recall and retention of information, a key aspect of personal development.
 
-To illustrate the application of memory techniques in personal development, consider the following examples.
-
 1. **Peg System**: A student wants to remember a list of 5 items to purchase from a store: milk, eggs, bread, chicken, and apples. Using the peg system, they associate each item with a word that rhymes with a number: One (milk) is "bun", Two (eggs) is "shoe", Three (bread) is "tree", Four (chicken) is "door", and Five (apples) is "hive". By visualizing these associations, the student can recall the list more effectively.
 
 2. **Chain Method**: An individual aims to remember a sequence of 4 historical dates: 1492, 1776, 1815, and 1914. They create a story where each date is linked to the next: "In 1492, Columbus sailed to a new land, where he met a time traveler who took him to 1776 to witness the signing of the Declaration of Independence. The signer then handed him a pen that had been used in 1815 to sign the Treaty of Vienna, and this pen was later used by a soldier in 1914 to write a letter home." By recalling the story, the individual can remember the sequence of dates.

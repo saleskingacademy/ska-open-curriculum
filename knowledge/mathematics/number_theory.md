@@ -121,7 +121,7 @@ To illustrate key concepts in number theory, consider the following problems.
 Using the Euclidean algorithm, we start by dividing the larger number by the smaller: 48 = 18 * 2 + 12. Then, 18 = 12 * 1 + 6. Next, 12 = 6 * 2 + 0. Since the remainder is 0, the GCD is 6.
 
 2. Determine if 23 is a prime number. 
-A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. To check if 23 is prime, we test divisibility by all numbers from 2 to the square root of 23 (approximately 4.8). Since 23 is not divisible by 2, 3, or 4, and there are no other numbers less than or equal to its square root that could divide it, 23 is indeed a prime number.
+To check if 23 is prime, we test divisibility by all numbers from 2 to the square root of 23 (approximately 4.8). Since 23 is not divisible by 2, 3, or 4, and there are no other numbers less than or equal to its square root that could divide it, 23 is indeed a prime number.
 
 3. Find the least common multiple (LCM) of 12 and 15. 
 First, find the prime factorization of each number: 12 = 2^2 * 3 and 15 = 3 * 5. The LCM is the product of the highest powers of all prime factors involved: LCM(12, 15) = 2^2 * 3 * 5 = 60. This is because we take the highest power of each prime that appears in either factorization.

@@ -65,11 +65,9 @@ First, determine which specification limit is closer to the mean: USL (20.5 cm) 
 Since 20.2 cm is closer to 20.5 cm, Cpk = (20.5 - 20.2) / (3 * 0.2) = 0.3 / 0.6 = 0.5. 
 This indicates the process is not centered and needs adjustment to improve capability.
 
-To illustrate the application of quality engineering principles, consider the following examples. 
-1. A manufacturing process produces steel rods with a mean length of 100 cm and a standard deviation of 2 cm. If the specification limits are 95 cm and 105 cm, what is the process capability index (Cp) and the percentage of rods that will be within specifications? 
-Cp = (105 - 95) / (6 * 2) = 10 / 12 = 0.83. 
+1. Cp = (105 - 95) / (6 * 2) = 10 / 12 = 0.83. 
 Using the normal distribution, the percentage of rods within specifications is approximately 99.72% for 3 standard deviations from the mean, which is within the specification limits. 
-2. A quality engineer wants to reduce the defect rate of a production line from 5% to 1%. If the current process has 1000 units produced per day, what is the new required sample size to achieve the desired defect rate with 95% confidence? 
+2. If the current process has 1000 units produced per day, what is the new required sample size to achieve the desired defect rate with 95% confidence? 
 Using the binomial distribution, the required sample size can be calculated as n = (Z^2 * p * (1-p)) / E^2, where Z = 1.96 for 95% confidence, p = 0.01, and E = 0.005. 
 n = (1.96^2 * 0.01 * 0.99) / 0.005^2 = 1534 units. 
 3. A company produces engine blocks with a critical dimension of 50 mm and a tolerance of ±0.1 mm. If the process mean is 50.05 mm and the standard deviation is 0.05 mm, what is the process capability ratio (Cpk) and the expected number of defective engine blocks per 1000 produced? 

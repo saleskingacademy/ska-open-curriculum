@@ -65,7 +65,7 @@ To illustrate key concepts in real estate development, consider the following ex
 - Annual ROI: 10% of $10,000,000 = $1,000,000
 - Since the expected NOI ($1,200,000) exceeds the required ROI ($1,000,000), the project is viable. To find the minimum sale price for the property that would provide this ROI, consider the capitalization rate (cap rate) method, where the sale price equals the NOI divided by the cap rate. Assuming a 10% cap rate, the sale price would be $1,200,000 / 0.10 = $12,000,000.
 
-1. **Land Acquisition and Development Cost**: A developer purchases a 10,000 sqft land parcel for $500,000. The hard costs for construction are estimated at $150 per sqft, and soft costs (including permits, design, and financing) are 20% of the hard costs. Calculate the total development cost. 
+1. Calculate the total development cost. 
 Solution: Hard costs = 10,000 sqft * $150/sqft = $1,500,000. Soft costs = 20% * $1,500,000 = $300,000. Total development cost = Land cost + Hard costs + Soft costs = $500,000 + $1,500,000 + $300,000 = $2,300,000.
 
 2. **Project Revenue and Profit**: A developer builds a 20-unit apartment complex with an average sale price of $400,000 per unit. The total development cost is $6,000,000. Calculate the total revenue and profit from the project. 

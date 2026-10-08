@@ -35,7 +35,7 @@ The sales negotiation process involves a series of strategic interactions betwee
 5. **Value creation**: The seller highlights the value proposition of their product or service, emphasizing the benefits and unique features that differentiate it from competitors. 
 6. **Closing**: The seller seeks to finalize the agreement, using techniques such as scarcity, urgency, or social proof to overcome any remaining objections and secure a commitment from the buyer. 
 Throughout this process, the seller must balance their own goals with the need to maintain a positive relationship with the buyer, as a collaborative approach is more likely to yield a successful outcome. The causal chain can be broken down into several key steps: 
-1. **Needs Assessment**: The seller gathers information about the buyer's needs, preferences, and constraints to identify potential areas of agreement and leverage. 
+ 
 2. **Concession Management**: The seller strategically concedes on certain aspects, such as price or features, to create a sense of reciprocity and build trust, while also protecting their core interests. 
 4. **Counteroffer**: The buyer responds with a counteroffer, which may include concessions or alternative proposals, prompting the seller to reassess and adjust their position. 
 5. **Value Justification**: The seller provides evidence and rationale to support their proposed terms, highlighting the benefits and value proposition to justify their position and build credibility. 

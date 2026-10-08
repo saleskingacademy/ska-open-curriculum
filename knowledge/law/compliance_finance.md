@@ -50,8 +50,6 @@ The minimum capital requirement is 12% of the risk-weighted assets, which is 0.1
 The number of transactions exceeding $10,000 is ($500,000 / $5,000) * ($10,000 / $10,000) = 100 * (2) = 20 transactions, as only transactions above $10,000 are monitored, and $10,000/$5,000 = 2, so 100 * (2/10) = 20. A financial institution faces a penalty of $500,000 for non-compliance with anti-money laundering regulations. If the institution's annual revenue is $50 million, what percentage of revenue is the penalty? Solution: The penalty as a percentage of revenue is ($500,000 / $50,000,000) * 100% = 1%. 
 3. A company must choose between two compliance options: investing $1.2 million in a compliance system or paying an annual fine of $200,000 for non-compliance. If the compliance system has a lifespan of 8 years, what is the break-even point? Solution: The total cost of the compliance system over 8 years is $1.2 million. The company should invest in the compliance system as it is cheaper.
 
-To illustrate the application of compliance finance principles, consider the following examples.
-
 1. **Regulatory Capital Requirement**: A bank has $100 million in total assets, with a risk-weighted asset ratio of 0.8. If the regulatory capital requirement is 8%, what is the minimum amount of capital the bank must hold? 
 Solution: Risk-weighted assets = $100 million * 0.8 = $80 million. Minimum capital required = $80 million * 8% = $6.4 million.
 

@@ -136,7 +136,6 @@ Failure modes include over-reliance on presets and templates, neglecting the imp
 ## Worked Examples
 
 To illustrate key concepts in music production, let's consider three concrete examples. 
-1. **Equalization (EQ) Adjustment**: A music producer is working on a mix where the lead vocal sounds muddy. The frequency analysis shows a peak at 250 Hz. To correct this, the producer applies a -3 dB cut at 250 Hz with a Q factor of 2. This adjustment will reduce the muddiness, making the vocal sound clearer. 
 2. **Compressor Settings**: A producer wants to control the dynamic range of a drum track, aiming for a consistent level. They set the compressor's threshold at -20 dB, ratio at 4:1, and attack/release times at 10 ms/100 ms, respectively. This setup will reduce the volume of peaks above -20 dB by 4 times, resulting in a more even sound. 
 3. **Reverb Application**: For a sense of space, a producer decides to add reverb to an instrument track. They choose a room reverb with a decay time of 1.5 seconds and a pre-delay of 50 ms, applying it at 20% wet signal. This will give the instrument a sense of being played in a small to medium-sized room, enhancing the track's depth without overpowering it. 
 In each example, understanding the specific parameters and their effects is crucial for achieving the desired sound in music production.

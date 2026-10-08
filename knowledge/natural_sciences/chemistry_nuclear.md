@@ -68,7 +68,7 @@ Then, calculate the energy equivalent using E=mc^2: E = 4.886 * 10^-29 kg * (3 *
 Finally, calculate the binding energy per nucleon: 4.398 * 10^-12 J / 4 nucleons = 1.0995 * 10^-12 J/nucleon.
 
 To illustrate key concepts in nuclear chemistry, consider the following examples. 
-1. **Radioactive Decay**: A sample of Radon-222 (²²²Rn) has a half-life of 3.8 days. If we start with 1.0 gram of ²²²Rn, how much will remain after 11.4 days? 
+1. If we start with 1.0 gram of ²²²Rn, how much will remain after 11.4 days? 
 Given the half-life (t₁/₂ = 3.8 days), we can calculate the decay constant (λ) using the formula λ = ln(2) / t₁/₂. Thus, λ = ln(2) / 3.8 days = 0.181 days⁻¹. The amount of ²²²Rn remaining after time t is given by N(t) = N₀ * e^(-λt), where N₀ is the initial amount. After 11.4 days, N(11.4) = 1.0 * e^(-0.181 * 11.4) = 0.25 grams.
 2. **Nuclear Fission**: In a nuclear reactor, Uranium-235 (²³⁵U) undergoes fission, releasing 202 MeV of energy per nucleus. If 1.0 kg of ²³⁵U undergoes complete fission, how much energy is released? 
 Given the energy released per nucleus (202 MeV), and the molar mass of ²³⁵U (235 g/mol), we can calculate the number of nuclei in 1.0 kg: 1.0 kg * (1 mol / 235 g) * (6.022 * 10²³ nuclei / mol) = 2.56 * 10²⁴ nuclei. The total energy released is then 2.56 * 10²⁴ * 202 MeV = 5.17 * 10²⁶ MeV. Converting MeV to Joules (1 MeV = 1.602 * 10⁻¹³ J), we get 5.17 * 10²⁶ * 1.602 * 10⁻¹³ J = 8.29 * 10¹³ J.

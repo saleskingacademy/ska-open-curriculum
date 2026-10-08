@@ -41,7 +41,7 @@ In sports law ethics, several methods and frameworks guide decision-making and e
 ## Worked Examples
 
 In sports fitness, understanding the application of sports law ethics is crucial. Here are three concrete examples:
-1. **Informed Consent**: A 25-year-old athlete, John, signs a contract with a fitness center to participate in a high-intensity training program. The contract includes a waiver releasing the center from liability for any injuries. However, the waiver does not explicitly state the risks associated with the program. To comply with sports law ethics, the fitness center must ensure John understands the potential risks, such as muscle strain or cardiac issues, before signing the contract.
+
 2. **Duty of Care**: A fitness instructor, Sarah, is leading a spinning class when a participant, Michael, loses control and falls off the bike. Michael suffers a concussion and sues Sarah and the gym for negligence. To determine liability, the court will assess whether Sarah breached her duty of care by failing to provide adequate instruction, supervision, or warning about the risks of the activity.
 3. **Confidentiality**: A sports dietitian, Emily, discovers that a professional athlete, David, has a medical condition that could affect his performance. Emily must balance her duty to maintain confidentiality with her obligation to ensure David's safety and well-being. According to sports law ethics, Emily should encourage David to disclose his condition to his coach or team management, while respecting his confidentiality and avoiding any unauthorized disclosure.
 
@@ -56,7 +56,7 @@ Reasoning: Alex should balance the duty of confidentiality with the duty to prot
 3. **Duty of Care**: A gym member, Mike, suffers a heart attack while using a treadmill. The gym's emergency response plan is not followed, and Mike does not receive timely medical attention. Can the gym be held liable for breach of duty of care? 
 Reasoning: Yes, the gym has a duty to provide a safe environment and respond to emergencies in a timely manner. The gym's failure to follow its emergency response plan may be considered a breach of this duty, making them liable for Mike's injuries.
 
-In sports fitness, ethical dilemmas often arise, requiring careful consideration of legal and moral principles. Here are three worked examples:
+Here are three worked examples:
 
 1. **Informed Consent**: A 25-year-old athlete, Jane, is about to participate in a high-intensity fitness program. The program includes a waiver that releases the fitness center from liability in case of injury. However, the waiver does not clearly explain the risks associated with the program. To ensure informed consent, the fitness center should provide Jane with a clear explanation of the potential risks, such as muscle strain or cardiac issues, and obtain her signature on a revised waiver that acknowledges these risks.
 

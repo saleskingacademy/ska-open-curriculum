@@ -72,8 +72,6 @@ In urban planning design, as studied in arts, worked examples illustrate the app
 Area of green space = 0.3 * 10,000 = 3000 sqm, area of water feature = 0.2 * 10,000 = 2000 sqm, thus area of hardscape = 10,000 - 3000 - 2000 = 4000 sqm.
 2. **Pedestrian Pathway Design**: A 500m pedestrian pathway is to be designed with a 2m wide path, 1m wide planting strip on one side, and 0.5m wide lighting strip on the other side. If the pathway requires 10 benches, 20 lampposts, and 100 trees, and each bench requires 5 sqm, each lamppost requires 1 sqm, and each tree requires 10 sqm, calculate the total area required for the pathway and its amenities.
 Total area = (2 + 1 + 0.5) * 500 = 1750 sqm, area for benches = 10 * 5 = 50 sqm, area for lampposts = 20 * 1 = 20 sqm, area for trees = 100 * 10 = 1000 sqm.
-3. **Mixed-Use Development**: A 50,000 sqm mixed-use development is to be designed with 40% residential, 30% commercial, and 30% recreational space. If the residential space requires 500 units, the commercial space requires 10,000 sqm of retail, and the recreational space requires a 5000 sqm park, calculate the number of residential units per sqm.
-Area of residential space = 0.4 * 50,000 = 20,000 sqm, thus units per sqm = 500 / 20,000 = 0.025 units/sqm.
 
 ## Applications
 

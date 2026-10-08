@@ -62,7 +62,7 @@ The open ball B((0, 0), 1) consists of all points (x, y) such that d((x, y), (0,
 
 To illustrate key concepts in topology, consider the following problems. 
 1. Let X = {a, b, c} and define a topology τ = {{}, {a}, {b}, {a, b}, X}. Determine whether this is a valid topology. 
-The empty set and X are in τ, satisfying the first two axioms. For the third axiom, the intersection of {a} and {b} is the empty set, which is in τ, and the union of {a} and {b} is {a, b}, also in τ. Thus, τ is a valid topology. 
+For the third axiom, the intersection of {a} and {b} is the empty set, which is in τ, and the union of {a} and {b} is {a, b}, also in τ. Thus, τ is a valid topology. 
 2. Consider the real line R with the standard topology. Let U = (0, 1) and V = (1, 2). Find the boundary of U ∩ V. 
 Since U ∩ V = ∅, the boundary is ∅, as the empty set has no boundary points. 
 3. Let X = R with the discrete topology, where every subset of X is open. Find the closure of the set A = {1}. 
@@ -96,7 +96,7 @@ Additionally, some practitioners may mistakenly believe that a subspace of a com
 
 These errors often arise from a lack of attention to the precise definitions and theorems that underlie topological concepts. To avoid such mistakes, it is essential to carefully examine the definitions, proofs, and examples in topology, recognizing the nuances and subtleties that distinguish this field from other areas of mathematics.
 
-In the study of topology, several common mistakes arise due to misunderstandings of fundamental concepts. One such error is the confusion between topological equivalence and metric equivalence. Practitioners may incorrectly assume that two spaces are topologically equivalent because they are metrically equivalent, or vice versa. However, topological equivalence is determined by the existence of a homeomorphism, a continuous bijection with a continuous inverse, whereas metric equivalence relies on the preservation of distances. For instance, a circle and an ellipse are topologically equivalent but not metrically equivalent. Another mistake is the failure to distinguish between connectedness and path-connectedness. A space can be connected but not path-connected, as exemplified by the topologist's sine curve. Furthermore, some practitioners may mistakenly believe that a subspace of a compact space is compact, which is not necessarily true. The subspace must be closed to guarantee compactness. These errors highlight the importance of carefully applying topological definitions and theorems to avoid incorrect conclusions.
+In the study of topology, several common mistakes arise due to misunderstandings of fundamental concepts. For instance, a circle and an ellipse are topologically equivalent but not metrically equivalent. Another mistake is the failure to distinguish between connectedness and path-connectedness. A space can be connected but not path-connected, as exemplified by the topologist's sine curve. Furthermore, some practitioners may mistakenly believe that a subspace of a compact space is compact, which is not necessarily true. The subspace must be closed to guarantee compactness. These errors highlight the importance of carefully applying topological definitions and theorems to avoid incorrect conclusions.
 
 ## Advanced
 

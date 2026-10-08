@@ -233,7 +233,6 @@ The key to selecting the appropriate method is to consider the trade-offs betwee
 
 To illustrate the application of Swift in computer science, consider the following examples.
 
-To illustrate the application of Swift in computer science, consider the following examples. 
 1. **Calculating the Area of a Rectangle**: Suppose we want to write a Swift function to calculate the area of a rectangle given its length and width. The formula for the area is length * width. In Swift, this can be implemented as: 
 ```swift
 func calculateArea(length: Double, width: Double) -> Double {

@@ -88,7 +88,7 @@ Pharmacogenomics employs several methods and frameworks to predict drug response
 
 ## Worked Examples
 
-Pharmacogenomics involves the study of how genetic variations affect an individual's response to medications. Here are three concrete examples:
+Here are three concrete examples:
 1. **Warfarin Dosing**: A patient with a genetic variation in the CYP2C9 gene, which metabolizes warfarin, may require a lower dose. For example, if a patient is a CYP2C9*2/*3 heterozygote, their warfarin dose may need to be reduced by 20-30% to avoid bleeding complications. 
 2. **Codeine Metabolism**: A patient with a genetic variation in the CYP2D6 gene, which metabolizes codeine to morphine, may experience reduced pain relief if they are a poor metabolizer. For instance, a patient with the CYP2D6*4/*4 genotype may require an alternative pain medication, such as morphine, as codeine may not provide adequate pain relief.
 3. **Tamoxifen Efficacy**: A patient with a genetic variation in the CYP2D6 gene, which metabolizes tamoxifen to its active metabolite endoxifen, may have reduced efficacy of the medication if they are a poor metabolizer. For example, a patient with the CYP2D6*5/*5 genotype may require an alternative medication, such as an aromatase inhibitor, as tamoxifen may not be effective in reducing the risk of breast cancer recurrence.

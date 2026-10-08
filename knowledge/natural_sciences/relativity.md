@@ -60,7 +60,7 @@ In the study of relativity, several common mistakes are made by practitioners. O
 
 Another common mistake is the failure to distinguish between special and general relativity. Special relativity deals with objects in uniform motion, while general relativity deals with objects under the influence of gravity. Practitioners often incorrectly apply the principles of special relativity to situations where general relativity is more applicable, such as in the presence of strong gravitational fields.
 
-Additionally, many practitioners make errors when applying the concept of length contraction. Length contraction is the phenomenon where objects appear shorter to an observer in motion relative to a stationary observer. However, this contraction only occurs in the direction of motion, not in the direction perpendicular to motion. Many practitioners incorrectly assume that length contraction occurs in all directions, leading to incorrect calculations and conclusions.
+Additionally, many practitioners make errors when applying the concept of length contraction. However, this contraction only occurs in the direction of motion, not in the direction perpendicular to motion. Many practitioners incorrectly assume that length contraction occurs in all directions, leading to incorrect calculations and conclusions.
 
 These errors often arise from a lack of understanding of the fundamental principles of relativity, such as the importance of relative motion and the role of the observer in measuring physical phenomena. By recognizing and avoiding these common errors, practitioners can develop a deeper understanding of the principles of relativity and apply them correctly to a wide range of physical phenomena.
 

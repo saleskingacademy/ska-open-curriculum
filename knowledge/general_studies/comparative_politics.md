@@ -43,8 +43,6 @@ Understanding these mechanisms is crucial for analyzing and explaining political
 
 In comparative politics, researchers employ various methods and frameworks to analyze and explain political phenomena across different countries and contexts. 
 1. **Most Similar Systems Design (MSSD)**: used to compare countries with similar characteristics, such as economic systems or cultural backgrounds, to identify the impact of specific variables. Failure mode: overemphasis on similarities may overlook significant differences.
-2. **Most Different Systems Design (MDSD)**: used to compare countries with distinct characteristics, to identify common patterns or outcomes. Failure mode: may mask important differences in underlying conditions.
-3. **Structural Functionalism**: a framework that analyzes societies in terms of their functional requirements, such as socialization, education, and economic production. Failure mode: may overlook power dynamics and conflict.
 4. **Rational Choice Theory**: a model that assumes individuals make rational decisions based on self-interest, used to analyze political behavior and institutions. Failure mode: may oversimplify complex decision-making processes.
 5. **Institutionalism**: a framework that emphasizes the role of institutions, such as constitutions, laws, and norms, in shaping political outcomes. Failure mode: may underestimate the impact of non-institutional factors, such as social movements or economic crises.
 6. **Comparative Historical Analysis (CHA)**: a method that examines the historical development of political phenomena, such as democratization or revolution, across different countries. Failure mode: may be limited by the availability and quality of historical data.

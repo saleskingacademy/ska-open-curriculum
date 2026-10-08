@@ -37,15 +37,12 @@ Motivic cohomology is a cohomology theory for algebraic varieties, which is cons
 1. **Algebraic cycles**: One starts with algebraic cycles on a smooth variety X, which are formal linear combinations of subvarieties of X. 
 2. **Equivalence relations**: These cycles are then subject to equivalence relations, such as rational equivalence, which identifies cycles that differ by a cycle that is rationally equivalent to zero. 
 3. **Cycle complexes**: The resulting equivalence classes of cycles form a complex, known as the cycle complex, which is used to define the motivic cohomology groups. 
-4. **K-theory and motives**: The cycle complex is then related to algebraic K-theory and the theory of motives, which provides a framework for studying the cohomology of algebraic varieties in a unified way. 
 5. **Cohomology groups**: The motivic cohomology groups of X are defined as the cohomology groups of the cycle complex, and they are denoted by H^i(X, Z(j)), where i is the cohomological degree and j is the weight. 
 6. **Weight and degree**: The weight j corresponds to the dimension of the cycles, and the degree i corresponds to the codimension of the cycles. 
 7. **Long exact sequences**: The motivic cohomology groups fit into long exact sequences, which relate the cohomology groups of X to those of its subvarieties and quotients. 
 8. **Comparisons with other theories**: The motivic cohomology groups can be compared with other cohomology theories, such as étale cohomology and singular cohomology, using the machinery of cycle maps and realization functors. 
-This mechanism provides a powerful tool for studying the cohomology of algebraic varieties and has numerous applications in algebraic geometry, number theory, and related fields. **Equivalence relations**: These cycles are then subject to equivalence relations, such as rational equivalence, which identifies cycles that differ by a cycle that is rationally equivalent to zero. 
-3. **Cycle complexes**: The resulting equivalence classes of cycles form a complex, known as the cycle complex, which is used to define the motivic cohomology groups. 
+This mechanism provides a powerful tool for studying the cohomology of algebraic varieties and has numerous applications in algebraic geometry, number theory, and related fields. 
 4. **K-theory and motives**: The cycle complex is then related to algebraic K-theory and the theory of motives, which provides a framework for studying the cohomology of algebraic varieties in a way that is sensitive to their geometric and arithmetic properties. 
-5. **Cohomology groups**: The motivic cohomology groups of X are then defined as the cohomology groups of the cycle complex, which are denoted by H^i(X, Z(j)). 
 6. **Weight filtration**: The motivic cohomology groups are equipped with a weight filtration, which is a filtration by subgroups that reflects the geometric and arithmetic properties of the variety X. 
 7. **Comparison with other cohomology theories**: Finally, the motivic cohomology groups are compared with other cohomology theories, such as singular cohomology and étale cohomology, using various comparison theorems and spectral sequences.
 

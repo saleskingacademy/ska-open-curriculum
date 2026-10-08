@@ -102,7 +102,7 @@ To illustrate the application of Portuguese language concepts, let's consider th
 3. **Pronunciation**: Determine the pronunciation of the word "rio" (river). In Portuguese, the letter "i" at the end of a word is pronounced like a soft "ee" sound. The letter "r" is pronounced with a guttural or trilled sound, similar to the "ch" in the Scottish "loch". Therefore, "rio" would be pronounced as "ree-oo" with a guttural "r" sound at the beginning. Understanding these pronunciation rules helps in correctly pronouncing Portuguese words.
 
 To illustrate the application of Portuguese language concepts, consider the following examples. 
-1. Verb conjugation: Conjugate the verb "falar" (to speak) in the present tense for the first person singular (eu). The verb "falar" is a regular -ar verb, so we apply the conjugation pattern: eu falo (I speak). 
+1. The verb "falar" is a regular -ar verb, so we apply the conjugation pattern: eu falo (I speak). 
 2. Sentence structure: Identify the parts of speech in the sentence "Eu como uma maçã" (I eat an apple). Break down the sentence: "Eu" is a pronoun (first person singular), "como" is a verb (to eat, first person singular), "uma" is an indefinite article (feminine, singular), and "maçã" is a noun (feminine, singular). 
 3. Pronunciation: Determine the pronunciation of the word "rio" (river). The word "rio" ends in the letter "o", which is pronounced as a close-mid back rounded vowel (/oʊ/ or /u/ in some dialects) in European Portuguese, but as a close back rounded vowel (/u/) in Brazilian Portuguese. The pronunciation is "ree-oo" or "ree-u" depending on the dialect.
 

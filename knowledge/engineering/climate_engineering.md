@@ -56,7 +56,7 @@ Reasoning: Calculate the total planting cost (100,000 hectares * $500/hectare) =
 
 To illustrate the application of climate engineering principles in sustainability environments, consider the following examples.
 
-1. **Carbon Capture and Storage (CCS)**: A company plans to capture 90% of CO2 emissions from a power plant, which emits 1 million tons of CO2 per year. If the capture cost is $50 per ton, and the storage cost is $10 per ton, calculate the total annual cost of CCS. 
+1. If the capture cost is $50 per ton, and the storage cost is $10 per ton, calculate the total annual cost of CCS. 
 Reasoning: First, calculate the amount of CO2 captured: 1,000,000 tons/year * 0.9 = 900,000 tons/year. Then, calculate the capture cost: 900,000 tons/year * $50/ton = $45,000,000/year. Next, calculate the storage cost: 900,000 tons/year * $10/ton = $9,000,000/year. Finally, calculate the total annual cost: $45,000,000/year + $9,000,000/year = $54,000,000/year.
 
 2. **Solar Radiation Management (SRM)**: A researcher proposes to inject 1 million tons of sulfur dioxide into the stratosphere to reflect 1% of incoming solar radiation. If the cost of producing and injecting the sulfur dioxide is $100 per ton, calculate the total cost of the SRM project. 

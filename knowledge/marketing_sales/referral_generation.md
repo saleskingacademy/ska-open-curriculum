@@ -29,7 +29,7 @@ Referral generation refers to the process of encouraging and incentivizing satis
 **lead generation**: the process of attracting and converting strangers into potential customers, with referrals being a key source of high-quality leads. 
 **conversion rate**: the percentage of referrals that result in a desired outcome, such as a sale, sign-up, or subscription. 
 Understanding these core definitions and principles is essential for developing effective referral generation strategies. A practitioner must understand key terms: 
-**referral**: a personal recommendation or endorsement from one individual to another, often based on a positive experience. **advocate**: an individual who actively promotes a brand, product, or service, often driven by loyalty, satisfaction, or incentive. **influencer**: an individual with a significant following or network, who can sway opinions and drive referrals. **network effect**: the phenomenon where the value of a product, service, or brand increases as more people use or recommend it. **viral loop**: a self-reinforcing cycle where referrals lead to more referrals, driving exponential growth. **conversion rate**: the percentage of referrals that result in a desired outcome, such as a sale or sign-up.
+ **network effect**: the phenomenon where the value of a product, service, or brand increases as more people use or recommend it. **viral loop**: a self-reinforcing cycle where referrals lead to more referrals, driving exponential growth. **conversion rate**: the percentage of referrals that result in a desired outcome, such as a sale or sign-up.
 
 ## Mechanisms
 

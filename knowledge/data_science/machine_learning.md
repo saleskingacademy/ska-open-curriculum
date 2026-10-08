@@ -82,7 +82,7 @@ We calculate the Euclidean distances:
 - To (6.3, 3.3) is √((6.1-6.3)^2 + (3.1-3.3)^2) = √(0.2^2 + 0.2^2) = √0.08 ≈ 0.28 
 - To (5.8, 2.7) is √((6.1-5.8)^2 + (3.1-2.7)^2) = √(0.3^2 + 0.4^2) = √0.25 ≈ 0.5 
 - To (7.2, 3.2) is √((6.1-7.2)^2 + (3.1-3.2)^2) = √(1.1^2 + 0.1^2) = √1.22 ≈ 1.1 
-The 3 nearest neighbors are (6.3, 3.3, Versicolor), (5.8, 2.7, Setosa), and (6.1, 3.1) is closest to these, so it is classified as Versicolor. We have a dataset of 5 houses with sizes (1000, 1200, 1500, 1800, 2000) sqft and corresponding prices ($200,000, $250,000, $300,000, $350,000, $400,000). We can use linear regression to learn a model: price = β0 + β1 * size. Using ordinary least squares, we find β0 = $100,000 and β1 = $150/sqft. 
+The 3 nearest neighbors are (6.3, 3.3, Versicolor), (5.8, 2.7, Setosa), and (6.1, 3.1) is closest to these, so it is classified as Versicolor. We can use linear regression to learn a model: price = β0 + β1 * size. Using ordinary least squares, we find β0 = $100,000 and β1 = $150/sqft. 
 2. **Decision Trees**: Given a dataset of 10 students with attributes (age, GPA, attendance) and labels (pass/fail), we can construct a decision tree to predict student performance. For instance, if the dataset is [(20, 3.5, 90, pass), (22, 3.0, 80, fail), ...], the decision tree might learn rules like "if age > 21 and GPA > 3.2 then pass". 
 3. **K-Means Clustering**: Consider a set of 2D data points representing customer locations: [(1, 2), (1, 4), (2, 3), (10, 10), (10, 12), (12, 11)]. Using K-Means with K=2, we initialize centroids at (1, 1) and (11, 11). After iteration, the centroids converge to (1.3, 3) and (10.7, 11), effectively clustering customers into two geographic groups.
 

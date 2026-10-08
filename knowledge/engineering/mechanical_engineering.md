@@ -65,14 +65,12 @@ Using the formula: curvature = bending moment / (modulus of elasticity * moment 
 
 To illustrate key concepts in mechanical engineering, consider the following problems.
 
-1. A gear system consists of two gears with a gear ratio of 2:1. The input gear has a diameter of 20 cm and rotates at 1500 rpm. Calculate the rotational speed of the output gear. 
+1. The input gear has a diameter of 20 cm and rotates at 1500 rpm. Calculate the rotational speed of the output gear. 
 To solve this problem, we use the gear ratio formula: output speed = input speed / gear ratio. Given the gear ratio is 2:1, the output speed = 1500 rpm / 2 = 750 rpm.
 
-2. A piston-cylinder system has a piston area of 0.01 m^2 and moves with a force of 500 N. What is the pressure inside the cylinder? 
-Using the formula: pressure = force / area, we calculate pressure = 500 N / 0.01 m^2 = 50,000 Pa or 50 kPa.
+2. What is the pressure inside the cylinder?
 
-3. A beam is subjected to a bending moment of 1000 Nm. If the beam's moment of inertia is 0.001 m^4 and its modulus of elasticity is 200 GPa, what is the resulting curvature? 
-Using the formula: curvature = bending moment / (modulus of elasticity * moment of inertia), we find curvature = 1000 Nm / (200,000,000,000 Pa * 0.001 m^4) = 0.005 m^-1.
+3. A beam is subjected to a bending moment of 1000 Nm.
 
 2. A beam with a length of 5 meters is subjected to a point load of 10 kN at its center. If the beam is simply supported at both ends, calculate the maximum bending moment. 
 The maximum bending moment for a simply supported beam with a point load at its center is given by the formula: M = (P * L) / 4, where P is the point load and L is the length of the beam. Substituting the given values, M = (10 kN * 5 m) / 4 = 12.5 kNm.

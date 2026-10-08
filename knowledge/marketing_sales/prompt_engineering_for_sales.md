@@ -31,7 +31,7 @@ Lastly, familiarity with **evaluation metrics** such as **precision**, **recall*
 
 Understanding these foundational concepts is crucial for practitioners to effectively leverage prompt engineering in sales applications, such as generating personalized sales messages, product descriptions, or customer service responses.
 
-Core definitions in prompt engineering for sales include understanding a **prompt**, which is a specific input or query designed to elicit a particular response from a language model or sales tool. **Language models** are artificial intelligence (AI) systems trained on vast amounts of text data to generate human-like language outputs. **Sales tools** refer to software applications or platforms used to facilitate, automate, or enhance sales processes.
+Core definitions in prompt engineering for sales include understanding a **prompt**, which is a specific input or query designed to elicit a particular response from a language model or sales tool. **Sales tools** refer to software applications or platforms used to facilitate, automate, or enhance sales processes.
 
 First principles involve recognizing the importance of **clear intent**, which is the specific goal or outcome a sales practitioner aims to achieve through a prompt. **Contextual understanding** is crucial, referring to the ability of a language model or sales tool to comprehend the nuances and specifics of a given sales scenario or customer interaction.
 

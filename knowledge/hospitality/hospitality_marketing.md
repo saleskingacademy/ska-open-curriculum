@@ -50,7 +50,7 @@ Assuming the campaign cost is a fixed cost, the required increase in tourist spe
 As a percentage of average tourist spending, this is $3.33 / $1,000 * 100% = 0.333% increase in spending per tourist.
 
 To illustrate the application of hospitality marketing concepts, consider the following examples. 
-1. A hotel has 100 rooms, with an average occupancy rate of 80% and an average daily rate (ADR) of $150. If the hotel wants to increase revenue by 10%, what should be the new ADR or occupancy rate? 
+1. If the hotel wants to increase revenue by 10%, what should be the new ADR or occupancy rate? 
 Let's calculate the current revenue: 100 rooms * 0.8 * $150 = $12,000 per day. 
 To increase revenue by 10%, the new revenue should be $12,000 * 1.1 = $13,200 per day. 
 If the occupancy rate remains the same, the new ADR should be $13,200 / (100 * 0.8) = $165 per day. 

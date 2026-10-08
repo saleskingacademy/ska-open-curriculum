@@ -63,10 +63,8 @@ To illustrate the application of early childhood education principles, consider 
 To solve this, we divide the total instructional time by the number of children: 3 hours * 60 minutes/hour = 180 minutes, then 180 minutes / 15 children = 12 minutes per child. 
 2. A kindergarten class has 20 students, and the teacher wants to assess their understanding of basic math concepts. If she administers a 10-question quiz and 12 students score 7 or above, what percentage of the class demonstrated a satisfactory understanding? 
 To find the percentage, we calculate the number of students who scored satisfactorily (12) divided by the total number of students (20), then multiply by 100: (12/20) * 100 = 60%. 
-3. An early childhood educator is planning a lesson on shapes for a class of 25 students. If she wants to divide the students into small groups of 5 to facilitate collaborative learning, how many groups can she form? 
+3. If she wants to divide the students into small groups of 5 to facilitate collaborative learning, how many groups can she form? 
 To determine the number of groups, we divide the total number of students by the desired group size: 25 students / 5 students per group = 5 groups.
-
-To illustrate the application of early childhood education principles, consider the following scenarios:
 
 1. **Classroom Layout**: A kindergarten teacher has a rectangular classroom with dimensions 12 meters by 8 meters. The teacher wants to create learning centers, each requiring a minimum of 4 square meters. What is the maximum number of learning centers that can be created?
 

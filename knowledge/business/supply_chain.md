@@ -25,7 +25,7 @@ A supply chain refers to the network of organizations, people, and activities in
 **Stakeholders**, individuals or organizations with an interest in the supply chain, such as suppliers, manufacturers, distributors, and customers; 
 **Nodes**, points of interaction or transfer within the supply chain, like warehouses or transportation hubs; 
 **Flows**, the movement of goods, services, information, or funds through the supply chain, including physical flow, information flow, and financial flow. 
-Understanding these core definitions and principles is essential for effective supply chain management and decision-making. It encompasses the entire lifecycle of a product, including sourcing, manufacturing, logistics, and distribution. Key definitions include: 
+Understanding these core definitions and principles is essential for effective supply chain management and decision-making. Key definitions include: 
 **Supply Chain Management (SCM)**: the coordination and management of supply chain activities to maximize efficiency and profitability. **Value Chain**: a series of processes that create value for a product or service, from design to delivery. **Stakeholders**: individuals or organizations with an interest in the supply chain, including suppliers, manufacturers, logistics providers, distributors, and customers. **Nodes**: points of activity within the supply chain, such as manufacturing facilities, warehouses, and distribution centers. **Links**: the connections between nodes, including transportation, communication, and information exchange.
 
 ## Mechanisms

@@ -44,9 +44,7 @@ This indicates that the mercury concentration in the lake is 500 times higher th
 3. The NOAEL (no-observed-adverse-effect level) of a chemical is 50 mg/kg/day. If a person is exposed to 20 mg/kg/day, what is the margin of safety? Margin of safety = NOAEL / Actual dose = 50 mg/kg/day / 20 mg/kg/day = 2.5. This indicates a relatively safe exposure level, but individual factors may still influence the risk.
 
 To illustrate the principles of toxicology, consider the following examples. 
-1. A study on the effects of lead exposure in children found that the threshold dose for cognitive impairment was 10 μg/dL. If a child has a blood lead level of 15 μg/dL, what is the margin of exposure? 
-Margin of exposure = Threshold dose / Actual dose = 10 μg/dL / 15 μg/dL = 0.67. 
-This indicates a potential risk to the child's cognitive development. 
+1. This indicates a potential risk to the child's cognitive development. 
 2. The LD50 (lethal dose for 50% of the population) of a pesticide is 200 mg/kg body weight. If a 70 kg person ingests 100 mg of the pesticide, what is the percentage of the LD50? 
 Percentage of LD50 = (Actual dose / LD50) * 100 = (100 mg / (200 mg/kg * 70 kg)) * 100 = 0.0714 * 100 = 7.14%. 
 This indicates a relatively low risk of mortality from this exposure. 

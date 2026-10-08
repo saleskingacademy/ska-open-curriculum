@@ -43,14 +43,13 @@ Key terms include:
 
 Understanding these core concepts and vocabulary is essential for archaeologists to interpret the past accurately and to reconstruct the lives of ancient cultures.
 
-Archaeology, as a humanities discipline, is the systematic study of past human cultures through the recovery, analysis, and interpretation of material remains, such as artifacts, architecture, and cultural landscapes. A practitioner of archaeology, known as an archaeologist, must be familiar with core definitions and first principles. 
+A practitioner of archaeology, known as an archaeologist, must be familiar with core definitions and first principles. 
 Key terms include: 
 **Artifact**, an object made, used, or modified by humans, such as tools, pottery, or jewelry, which provides evidence of human activity. 
 **Assemblage**, a collection of artifacts found together, which can provide insights into the culture, technology, and behaviors of a past society. 
 **Stratigraphy**, the study of the layering of deposits, such as soil, rock, or occupation layers, which helps to establish a chronological framework for a site. 
 **Context**, the circumstances and conditions under which an artifact or assemblage was deposited, including its spatial, temporal, and cultural relationships. 
 **Culture**, a shared system of beliefs, values, and practices that characterize a particular human group, which can be inferred through the analysis of material remains. 
-**Material culture**, the physical manifestations of a culture, including artifacts, architecture, and other tangible remains. 
 Understanding these core concepts and vocabulary is essential for archaeologists to reconstruct and interpret the past, and to develop a nuanced understanding of human cultural diversity and complexity.
 
 ## Mechanisms

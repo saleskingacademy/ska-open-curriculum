@@ -55,8 +55,6 @@ Using the equation: mass flow rate (m-dot) = sqrt(2 * Pc / (gamma * (gamma-1))) 
 where gamma = 1.2, 
 m-dot = sqrt(2 * 10e6 / (1.2 * (1.2-1))) * 0.1 = 140.5 kg/s.
 
-To illustrate the application of aerospace propulsion principles, consider the following examples.
-
 1. **Rocket Engine Thrust Calculation**: A rocket engine has a mass flow rate of 10 kg/s, an exhaust velocity of 3000 m/s, and a pressure ratio of 10. Calculate the thrust produced. Using the equation T = (m_dot * V_e) + (P_e - P_0) * A_e, where T is thrust, m_dot is mass flow rate, V_e is exhaust velocity, P_e is exhaust pressure, P_0 is ambient pressure, and A_e is exhaust area. Assuming P_e = 10 * P_0 and A_e = 0.1 m^2, P_0 = 101325 Pa, the thrust T = (10 kg/s * 3000 m/s) + (10 * 101325 Pa - 101325 Pa) * 0.1 m^2 = 30000 N + (9 * 101325 Pa) * 0.1 m^2 = 30000 N + 909325 Pa * 0.1 m^2 = 30000 N + 90932.5 N = 120932.5 N.
 
 2. **Turbojet Engine Performance**: A turbojet engine has a compressor pressure ratio of 12, a turbine inlet temperature of 1500 K, and a mass flow rate of 20 kg/s. Calculate the specific thrust. Using the equation F / (m_dot) = sqrt((T_t4 / T_0) * (1 - (P_0 / P_t4))) * sqrt(2 * gamma * R / M) * (1 - (P_0 / P_t4)^(gamma - 1)/gamma), where F is thrust, m_dot is mass flow rate, T_t4 is turbine inlet temperature, T_0 is ambient temperature, P_0 is ambient pressure, P_t4 is turbine inlet pressure, gamma is adiabatic index, R is gas constant, and M is molar mass. Assuming T_0 = 288 K, P_0 = 101325 Pa, P_t4 = 12 * P_0, gamma = 1.4, R = 287 J/kg/K, and M = 28.97 g/mol, the specific thrust = sqrt((1500 K / 288 K) * (1 - (101325 Pa / (12 * 101325 Pa)))) * sqrt(2 * 1.4 * 287 J/kg/K / 0.02897 kg/mol) * (1 - (101325 Pa / (12 * 101325 Pa))^(1.4 - 1)/1.4) = 442.47 m/s.

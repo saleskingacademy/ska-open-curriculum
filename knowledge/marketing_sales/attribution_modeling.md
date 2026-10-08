@@ -45,8 +45,6 @@ Attribution modeling employs various methods and frameworks to assign credit to 
 Attribution modeling employs various methods to allocate credit to marketing touchpoints. 
 1. **Last Touch Attribution**: assigns 100% credit to the last interaction before conversion, suitable for simple, short conversion paths. Failure mode: oversimplifies complex customer journeys.
 2. **First Touch Attribution**: assigns 100% credit to the first interaction, useful for brand awareness campaigns. Failure mode: neglects subsequent interactions.
-3. **Linear Attribution**: distributes credit evenly across all touchpoints, applicable when all interactions have equal influence. Failure mode: assumes uniform impact.
-4. **Time-Decay Attribution**: assigns more credit to recent interactions, suitable for campaigns with a short conversion window. Failure mode: may overemphasize recency.
 5. **U-Shaped Attribution**: allocates 40% credit to the first and last touchpoints, and 20% to middle interactions, useful for balancing awareness and conversion. Failure mode: assumes a fixed, non-dynamic customer journey.
 6. **Markov Chain Attribution**: uses probabilistic models to estimate the influence of each touchpoint, applicable for complex, multi-step conversion paths. Failure mode: requires large datasets and can be computationally intensive.
 7. **Shapley Value Attribution**: a game-theoretic approach that allocates credit based on the marginal contribution of each touchpoint, suitable for evaluating synergies between channels. Failure mode: can be difficult to interpret and requires advanced analytical capabilities.

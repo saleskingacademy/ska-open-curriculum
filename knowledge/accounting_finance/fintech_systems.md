@@ -87,7 +87,6 @@ The interest earned is $1,000 * 12% * 2 = $240. The servicing fee is $1,000 * 2%
 3. **Robo-Advisory Services**: A fintech company offers a robo-advisory service, charging a management fee of 0.5% per annum. If an investor invests $10,000 in a portfolio with an expected return of 8% per annum, calculate the net return after 1 year. 
 The expected return is $10,000 * 8% = $800. The management fee is $10,000 * 0.5% = $50. The net return is $800 - $50 = $750, representing a 7.5% return after 1 year.
 
-To illustrate the application of fintech systems in economics finance, consider the following examples. 
 1. A peer-to-peer lending platform charges a 2% origination fee to borrowers and a 1% servicing fee to investors. If a borrower takes a $10,000 loan, and the investor invests $10,000, calculate the revenue generated for the platform. 
 Revenue = (2% of $10,000) + (1% of $10,000) = $200 + $100 = $300.
 2. A mobile payment system charges a 0.5% transaction fee to merchants. If a merchant processes $100,000 in transactions per month, calculate the revenue generated for the payment system. 

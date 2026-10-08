@@ -33,7 +33,6 @@ Understanding these core definitions and principles is crucial for effective RM 
 Revenue Management in Hospitality refers to the strategic process of maximizing revenue by optimizing room rates, occupancy, and revenue per available room (RevPAR). A practitioner must understand key definitions, including: 
 **Revenue**: the total income generated from hotel operations, 
 **Yield**: the ratio of actual revenue to potential revenue, 
-**Occupancy**: the percentage of available rooms occupied by guests, 
 **Average Daily Rate (ADR)**: the average rate paid by guests per room per night, 
 **RevPAR**: revenue per available room, calculated by multiplying occupancy by ADR. 
 First principles involve understanding customer **demand**, **segmentation**, and **pricing elasticity**, as well as the **booking curve**, which illustrates the pattern of room bookings over time. Vocabulary includes **overbooking**, the practice of accepting more bookings than available rooms to account for cancellations and no-shows, and **revenue leakage**, the loss of potential revenue due to inefficiencies in pricing or inventory management. A solid foundation in these concepts is essential for effective revenue management in hospitality.
@@ -70,9 +69,7 @@ First, calculate the current revenue: 50 diners * $30 = $1500. Then, calculate t
 3. A hotel offers a discounted room rate of $90 for bookings made at least 30 days in advance. If the hotel has a no-show rate of 5% and a cancellation rate of 10% for advance bookings, what is the potential revenue increase if the hotel can reduce its no-show and cancellation rates by 50%? 
 First, calculate the current revenue per available room: $90 * (1 - 0.05 - 0.10) = $90 * 0.85 = $76.50. Then, calculate the potential revenue per available room with a 50% reduction in no-show and cancellation rates: $90 * (1 - 0.025 - 0.05) = $90 * 0.925 = $83.25. The potential revenue increase per available room is $83.25 - $76.50 = $6.75.
 
-To illustrate the application of revenue management principles in hospitality tourism, consider the following examples. 
-1. A hotel has 100 rooms, with a weekday occupancy rate of 70% and a weekend occupancy rate of 90%. If the weekday room rate is $120 and the weekend room rate is $180, what is the potential revenue increase if the hotel can increase its weekday occupancy rate by 10%? 
-Potential revenue increase = (new occupancy rate - old occupancy rate) * number of rooms * room rate = (80% - 70%) * 100 * $120 = $1200.
+1. Potential revenue increase = (new occupancy rate - old occupancy rate) * number of rooms * room rate = (80% - 70%) * 100 * $120 = $1200.
 2. A restaurant has a seating capacity of 50 and operates at 80% capacity on weekdays and 100% on weekends. If the average weekday meal price is $20 and the average weekend meal price is $30, what is the potential revenue increase if the restaurant can increase its weekday seating capacity utilization by 15%? 
 Potential revenue increase = (new occupancy rate - old occupancy rate) * seating capacity * meal price = (95% - 80%) * 50 * $20 = $300.
 3. A hotel has a loyalty program that offers a 10% discount on room rates for repeat customers. If the hotel has 500 loyalty program members and the average room rate is $150, what is the potential revenue loss if all loyalty program members book a room at the discounted rate? 

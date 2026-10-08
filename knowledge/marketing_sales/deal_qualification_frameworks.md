@@ -30,11 +30,6 @@ Key vocabulary includes:
 **Readiness**: the extent to which an opportunity is prepared to move forward, considering factors such as timing, budget, and decision-maker availability. 
 **Viability**: an opportunity's potential for success, considering factors such as market demand, competition, and financial returns. 
 Understanding these definitions and principles is essential for practitioners to effectively apply deal qualification frameworks in real-world scenarios. The core definitions and first principles underlying this framework include: 
-**Opportunity**: a potential business deal or engagement, 
-**Qualification**: the process of evaluating an opportunity to determine its potential for success, 
-**Framework**: a structured set of criteria, guidelines, and tools used to support the qualification process. Key vocabulary includes: 
-**Fit**: the degree to which an opportunity aligns with an organization's strategic goals, 
-**Readiness**: the degree to which an opportunity is prepared to move forward, 
 **Viability**: the potential of an opportunity to generate desired outcomes, 
 **Risk**: the potential for adverse outcomes or consequences associated with an opportunity.
 
@@ -79,7 +74,6 @@ To illustrate the application of deal qualification frameworks, consider the fol
 
 3. **Calculating Return on Investment (ROI)**: A financial services company is evaluating a potential deal with a client who requires a customized investment portfolio. The deal qualification framework involves calculating the ROI by assessing the potential revenue, costs, and risks associated with the deal. With a potential revenue of $100,000, costs of $30,000, and a risk factor of 10%, the ROI calculation yields a return of $70,000, indicating a viable deal. The ROI formula used is: ROI = (Gain from Investment - Cost of Investment) / Cost of Investment.
 
-To illustrate the application of deal qualification frameworks, consider the following examples. 
 1. A sales team is evaluating a potential deal with a new client. The client has a budget of $100,000 and the proposed solution costs $80,000. Using the BANT (Budget, Authority, Need, Timeline) framework, the sales team assesses the deal as follows: Budget - $80,000 (meets the client's budget), Authority - 8/10 (the client has the authority to make the purchase), Need - 9/10 (the solution meets the client's needs), Timeline - 7/10 (the client wants to implement the solution within 6 months). The overall score is 24/30, indicating a qualified deal.
 2. A company is considering a partnership with a supplier. The supplier offers a 10% discount on bulk orders, and the company anticipates ordering $500,000 worth of products per year. Using the CHAMP (Challenges, Authority, Money, Priorities) framework, the company evaluates the deal as follows: Challenges - 6/10 (the supplier's product meets the company's needs, but there are some logistical challenges), Authority - 9/10 (the supplier has the authority to negotiate the deal), Money - 8/10 (the discount offered is attractive), Priorities - 7/10 (the company prioritizes cost savings). The overall score is 30/40, indicating a qualified deal.
 3. A marketing agency is evaluating a potential client engagement. The client has a budget of $50,000 and the agency's proposed solution costs $40,000. Using the GPCT (Goals, Plans, Challenges, Timeline) framework, the agency assesses the deal as follows: Goals - 8/10 (the client's goals align with the agency's solution), Plans - 7/10 (the client has a clear plan for implementation), Challenges - 6/10 (there are some challenges in implementing the solution), Timeline - 8/10 (the client wants to launch the campaign within 3 months). The overall score is 29/40, indicating a qualified deal. These examples demonstrate how deal qualification frameworks can be applied to evaluate potential deals and prioritize sales efforts.

@@ -72,7 +72,6 @@ First, calculate the total number of contacts: 1000 leads * 30% conversion rate 
 Then, calculate the total number of demos: 300 contacts * 20% conversion rate = 60 demos. 
 Finally, calculate the total number of opportunities: 60 demos * 15% conversion rate = 9 opportunities.
 
-To illustrate the application of SDR management principles, consider the following examples. 
 1. A sales team has a monthly sales target of $100,000, with an average deal size of $5,000. If the team has a conversion rate of 20% from lead to close, and an average of 50 leads are generated per month, what is the required number of leads to meet the sales target? 
 Using the formula: Required Leads = (Sales Target / Average Deal Size) / Conversion Rate, we get Required Leads = ($100,000 / $5,000) / 0.20 = 20 / 0.20 = 100 leads. Since the team already generates 50 leads per month, they need to increase lead generation by 50 leads to meet the target. 
 2. A company has an SDR team with 5 representatives, each handling 100 leads per month. If the average conversation rate from lead to demo is 15%, and each demo has a 30% chance of closing, what is the expected number of closed deals per month? 

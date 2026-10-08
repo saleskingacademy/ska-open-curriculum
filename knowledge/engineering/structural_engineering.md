@@ -39,7 +39,6 @@ Understanding these mechanisms is crucial in structural engineering, as it enabl
 In structural engineering, mechanisms refer to the step-by-step processes by which loads are transferred and resisted within a structure. The causal chain of mechanisms involves the following key steps: 
 1. **Load Application**: External loads, such as dead weight, live loads, wind, and seismic forces, are applied to the structure. 
 2. **Load Transfer**: These loads are transferred to the structural elements, such as beams, columns, and foundations, through various load paths. 
-3. **Stress Development**: As loads are applied, stresses develop within the structural elements, including axial, shear, and bending stresses. 
 4. **Deformation**: The structural elements deform under the applied loads, resulting in changes to their shape and size. 
 5. **Internal Force Distribution**: The internal forces, including axial, shear, and moment forces, are distributed throughout the structure, influencing the behavior of individual elements and the overall system. 
 6. **Equilibrium**: The structure reaches a state of equilibrium, where the internal forces balance the external loads, and the system stabilizes. 

@@ -140,7 +140,6 @@ These examples demonstrate basic programming concepts such as loops, conditional
 
 To illustrate key programming concepts, consider the following examples. 
 1. **Calculating Area and Perimeter**: Given a rectangle with length 10 cm and width 5 cm, write a program to calculate its area and perimeter. The formula for area is length * width, and for perimeter, it's 2 * (length + width). In Python, this can be implemented as: `length = 10; width = 5; area = length * width; perimeter = 2 * (length + width); print("Area:", area, "Perimeter:", perimeter)`. 
-2. **Finding the Maximum Value**: Suppose we have a list of numbers [12, 45, 7, 23, 56, 89, 34] and we want to find the maximum value. Using a simple iterative approach in Java, we initialize `max = list[0]`, then iterate through the list, updating `max` if we find a larger number. The Java code snippet would be: `int max = list[0]; for (int i = 1; i < list.length; i++) { if (list[i] > max) { max = list[i]; } } System.out.println("Max Value: " + max)`. 
 3. **Converting Celsius to Fahrenheit**: To convert a temperature from Celsius to Fahrenheit, the formula is (°C × 9/5) + 32 = °F. In C++, if we have a temperature in Celsius stored in `celsius`, the conversion can be done as: `float fahrenheit = (celsius * 9 / 5) + 32; cout << "Fahrenheit: " << fahrenheit;`. These examples demonstrate basic programming principles such as variables, data types, operators, control structures, and functions.
 
 ## Applications

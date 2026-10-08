@@ -51,7 +51,6 @@ This iterative process allows the global model to learn from diverse data source
 Federated learning employs various methods and frameworks to facilitate collaborative model training while maintaining data privacy. 
 1. **FedAvg**: a widely used algorithm that averages local model updates, suitable for homogeneous data distributions. Failure mode: may not perform well with non-IID (non-identically and independently distributed) data.
 2. **FedSGD**: an alternative to FedAvg, using stochastic gradient descent for local updates, applicable when data is heterogeneous. Failure mode: may require more communication rounds to converge.
-3. **Differential Privacy (DP)**: a framework ensuring data privacy by adding noise to local updates, used when data is sensitive. Failure mode: may compromise model accuracy due to added noise.
 4. **Secure Multi-Party Computation (SMPC)**: a framework enabling secure collaboration without revealing local data, suitable for high-stakes applications. Failure mode: may incur high computational overhead.
 5. **Hierarchical Federated Learning**: a framework for multi-tiered federated learning, applicable in scenarios with multiple levels of data hierarchy. Failure mode: may lead to increased communication complexity.
 6. **Personalization techniques**: such as **Multi-Task Learning** and **Meta-Learning**, used to adapt global models to local data distributions. Failure mode: may require careful hyperparameter tuning to avoid overfitting.

@@ -111,7 +111,7 @@ Then, calculate the percentage increase: (5 psi / 30 psi) * 100% = 16.67%.
 First, calculate the total wear allowed: 10 mm - 3 mm = 7 mm. 
 Then, divide the total wear by the wear rate: 7 mm / 0.5 mm per 1,000 miles = 14,000 miles. 
 This means the vehicle can travel 14,000 miles before the brake pad needs to be replaced. What percentage increase is needed to reach the recommended pressure? Solution: Increase needed = (Recommended - Actual) / Actual * 100 = (35 - 30) / 30 * 100 = 16.67%. 
-3. A brake pad has 10 mm of material left and needs to be replaced when it reaches 3 mm. If it wears down at a rate of 0.5 mm per 1,000 miles, how many miles can the vehicle travel before the brake pad needs replacement? Solution: Total wear allowed = 10 mm - 3 mm = 7 mm. Miles before replacement = Total wear allowed / Wear rate = 7 mm / 0.5 mm/1,000 miles = 14,000 miles.
+3. If it wears down at a rate of 0.5 mm per 1,000 miles, how many miles can the vehicle travel before the brake pad needs replacement? Solution: Total wear allowed = 10 mm - 3 mm = 7 mm. Miles before replacement = Total wear allowed / Wear rate = 7 mm / 0.5 mm/1,000 miles = 14,000 miles.
 
 ## Applications
 

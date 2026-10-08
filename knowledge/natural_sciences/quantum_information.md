@@ -23,7 +23,7 @@ In the context of physical sciences, Quantum Information refers to the study of 
 
 **Entanglement** is a fundamental concept in quantum information, where two or more qubits become correlated in such a way that the state of one qubit cannot be described independently of the others. **Quantum measurement** is the process of extracting information from a quantum system, which causes the system to collapse from a superposition of states to one of the possible states. The **density matrix** is a mathematical representation of the state of a quantum system, which encodes all the information about the system's properties and behavior.
 
-Key principles in quantum information include **quantum parallelism**, where a single quantum operation can be performed on multiple qubits simultaneously, and **quantum interference**, where the phases of different states can interfere with each other, leading to constructive or destructive interference patterns. Understanding these core definitions and principles is essential for a practitioner in the field of quantum information.
+Key principles in quantum information include **quantum parallelism**, where a single quantum operation can be performed on multiple qubits simultaneously, and **quantum interference**, where the phases of different states can interfere with each other, leading to constructive or destructive interference patterns.
 
 ## Quantum States And Density Matrices
 

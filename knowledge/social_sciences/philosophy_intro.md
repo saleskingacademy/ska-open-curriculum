@@ -35,8 +35,7 @@ Ultimately, the effective application of these methods and frameworks depends on
 
 ## Worked Examples
 
-To illustrate the application of philosophical concepts in the humanities, consider the following examples. 
-1. **Evaluating Moral Theories**: Suppose we want to assess the morality of an action using Utilitarianism, which prioritizes actions that maximize overall happiness. If an action benefits 80% of the population but harms 20%, we calculate the net happiness. Assuming the benefit to the 80% is +8 units of happiness and the harm to the 20% is -4 units, the net happiness would be +8 * 0.8 - 4 * 0.2 = +6.4 - 0.8 = +5.6 units. This positive net happiness suggests the action is morally justifiable under Utilitarianism.
+To illustrate the application of philosophical concepts in the humanities, consider the following examples.
 2. **Analyzing Ethical Dilemmas**: Consider a situation where telling the truth would lead to significant harm to an individual, but lying would prevent this harm. Using Kant's Categorical Imperative, which states that one should act only according to maxims that could be willed as universal laws, we evaluate the morality of lying. If the maxim "lie when it prevents harm" were universalized, it could lead to a breakdown in trust and communication, indicating that lying in this scenario might not be ethically justifiable.
 3. **Applying Virtue Ethics**: In a scenario where an individual must choose between personal gain and helping another, Aristotelian Virtue Ethics suggests considering the character traits (virtues) that the action would cultivate. If choosing to help another at personal cost cultivates the virtues of generosity and compassion, and these virtues are considered essential for human flourishing, then this action could be seen as ethically preferable, even if it doesn't lead to immediate personal benefit.
 

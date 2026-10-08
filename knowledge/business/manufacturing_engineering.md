@@ -103,8 +103,6 @@ The design and analysis of mechanisms involve understanding the kinematic and dy
 
 In manufacturing engineering, mechanisms refer to the mechanical systems and components that transmit and modify motion, force, and energy to perform specific tasks. A mechanism typically consists of a combination of links, joints, and actuators that work together to achieve a desired outcome. The causal chain of a mechanism can be broken down into several steps: 
 1. **Input**: An external energy source, such as a motor or manual effort, applies a force or motion to the mechanism. 
-2. **Transmission**: The input energy is transmitted through the mechanism, often using components like gears, belts, or linkages, which modify the motion or force. 
-3. **Conversion**: The transmitted energy is converted into a different form, such as rotational to linear motion, using components like cams, levers, or crankshafts. 
 4. **Output**: The converted energy is delivered to the desired location, where it performs a specific task, such as lifting, moving, or shaping a workpiece. 
 5. **Control**: The mechanism's motion and force are controlled using feedback systems, sensors, and actuators, which ensure precise and repeatable operation. 
 Understanding the causal chain of mechanisms is crucial in manufacturing engineering, as it enables the design, analysis, and optimization of mechanical systems for various applications, including machine tools, robotics, and automation systems.

@@ -25,7 +25,7 @@ The **normal form** of a game is a matrix that lists the payoffs for each player
 
 A **Nash equilibrium** is a strategy profile where no player can improve their payoff by unilaterally changing their strategy, assuming all other players keep their strategies unchanged. This concept, introduced by John Nash, is a fundamental principle in game theory, as it describes a stable state where no player has an incentive to deviate from their chosen strategy.
 
-Key concepts in game theory also include **dominant strategy**, which is a strategy that is the best choice for a player regardless of what the other players do, and **Pareto optimality**, which refers to a strategy profile where no player can improve their payoff without making another player worse off. Understanding these core definitions and principles is essential for analyzing and solving games in mathematics.
+Key concepts in game theory also include **dominant strategy**, which is a strategy that is the best choice for a player regardless of what the other players do, and **Pareto optimality**, which refers to a strategy profile where no player can improve their payoff without making another player worse off.
 
 ## Normal Form Games And Nash Equilibrium
 

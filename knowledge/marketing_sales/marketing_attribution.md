@@ -36,23 +36,17 @@ Marketing attribution employs various methods, models, and formulas to quantify 
 2. **First Touch Attribution**: attributes conversion to the initial marketing contact, ideal for brand awareness campaigns. Failure mode: neglects subsequent interactions' role.
 3. **Linear Attribution**: distributes credit evenly across all marketing interactions, useful for complex, multi-step sales processes. Failure mode: assumes equal influence from each interaction.
 4. **Time Decay Attribution**: assigns more weight to recent interactions, suitable for campaigns with a short window of influence. Failure mode: underestimates long-term effects.
-5. **U-Shaped Attribution**: allocates credit to both the first and last interactions, with less weight to middle interactions, applicable for campaigns with distinct awareness and conversion phases. Failure mode: may not accurately capture the middle interactions' impact.
 6. **Markov Chain Attribution**: models customer journeys as a series of states, using probability to estimate the influence of each marketing interaction. Failure mode: requires extensive data and can be computationally intensive.
 7. **Shapley Value Attribution**: a game-theoretic approach that assigns credit based on the marginal contribution of each marketing interaction. Failure mode: can be challenging to interpret and requires significant data.
 
-Marketing attribution employs various methods and frameworks to quantify the impact of marketing channels on customer behavior. 
-1. **Last-Touch Attribution**: assigns credit to the last marketing touchpoint before conversion, suitable for simple, linear customer journeys. Failure mode: oversimplifies complex journeys, neglecting earlier influences.
-2. **First-Touch Attribution**: credits the initial marketing touchpoint, ideal for brand awareness campaigns. Failure mode: ignores subsequent interactions that may have driven conversion.
+Marketing attribution employs various methods and frameworks to quantify the impact of marketing channels on customer behavior.
 3. **Linear Attribution**: distributes credit evenly across all touchpoints, applicable when each interaction has equal influence. Failure mode: assumes uniform impact, which may not reflect reality.
 4. **Time-Decay Attribution**: assigns more weight to recent interactions, suitable for campaigns with short consideration periods. Failure mode: may overemphasize recency, undervaluing earlier touches.
 5. **U-Shaped Attribution**: allocates more credit to first and last touchpoints, recognizing their disproportionate influence. Failure mode: assumes a consistent U-shaped pattern, which may not apply universally.
-6. **Markov Chain Attribution**: models customer journeys as a series of states, using probability to estimate the influence of each touchpoint. Failure mode: requires extensive data and can be computationally intensive.
-7. **Shapley Value Attribution**: uses game theory to allocate credit based on the marginal contribution of each touchpoint. Failure mode: can be complex to implement and interpret, especially with multiple channels.
 
 Marketing attribution employs various methods and frameworks to measure the impact of marketing channels on customer behavior. 
 1. **Last-Touch Attribution**: assigns credit to the last marketing touchpoint before conversion, suitable for simple, linear customer journeys. Failure mode: oversimplifies complex journeys, neglecting preceding interactions. 
 2. **First-Touch Attribution**: credits the initial marketing touchpoint, ideal for brand awareness campaigns. Failure mode: ignores subsequent interactions that may have driven conversion. 
-3. **Linear Attribution**: assigns equal credit to all touchpoints, applicable when each interaction has equal influence. Failure mode: assumes uniform impact, which may not reflect reality. 
 4. **Time-Decay Attribution**: weights touchpoints based on proximity to conversion, suitable for short sales cycles. Failure mode: may overemphasize recent interactions, underestimating earlier influences. 
 5. **U-Shaped Attribution**: allocates credit to both first and last touchpoints, with reduced weight to middle interactions, useful for balancing awareness and conversion efforts. Failure mode: relies on arbitrary weight assignments, potentially misrepresenting actual impact. 
 6. **Markov Chain Attribution**: models customer journeys as probabilistic sequences, accounting for complex, non-linear paths. Failure mode: requires extensive data and computational resources, potentially leading to overfitting. 

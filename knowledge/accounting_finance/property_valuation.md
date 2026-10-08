@@ -56,8 +56,7 @@ First, calculate the total cost: $50,000 (land) + $200,000 (improvement) = $250,
 Then, calculate the entrepreneurial profit: $250,000 * 0.10 = $25,000. 
 Finally, add the profit to the total cost to estimate the value of the improved property: $250,000 + $25,000 = $275,000.
 
-1. **Income Approach**: A commercial property generates an annual gross income of $250,000 and has annual operating expenses of $75,000. If the capitalization rate is 8%, what is the value of the property? 
-Value = Net Operating Income (NOI) / Capitalization Rate = ($250,000 - $75,000) / 0.08 = $175,000 / 0.08 = $2,187,500.
+1. **Income Approach**: A commercial property generates an annual gross income of $250,000 and has annual operating expenses of $75,000. Value = Net Operating Income (NOI) / Capitalization Rate = ($250,000 - $75,000) / 0.08 = $175,000 / 0.08 = $2,187,500.
 
 2. **Sales Comparison Approach**: Three comparable properties recently sold for $500,000, $525,000, and $475,000. If the subject property has a similar size and condition to these comparables but has an extra bedroom, how might its value be estimated? 
 First, determine the average sale price of the comparables: ($500,000 + $525,000 + $475,000) / 3 = $500,000. Then, adjust for the extra bedroom, assuming it adds 5% to the value: $500,000 * 1.05 = $525,000.

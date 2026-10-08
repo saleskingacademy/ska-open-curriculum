@@ -81,7 +81,7 @@ Next, calculate the number of purchases: 2,000 clicks * 2% = 40 purchases.
 Finally, calculate the expected revenue: 40 purchases * $50 = $2,000.
 
 To illustrate the concept of demand generation, consider the following examples. 
-1. A software company, XYZ Inc., wants to generate demand for its new product, a project management tool. The marketing team decides to create a series of webinars showcasing the tool's features and benefits. They allocate a budget of $10,000 for webinar production and promotion. If the cost per lead is $50 and the conversion rate from lead to customer is 10%, how many customers can XYZ Inc. expect to acquire from this campaign? 
+1. The marketing team decides to create a series of webinars showcasing the tool's features and benefits. They allocate a budget of $10,000 for webinar production and promotion. If the cost per lead is $50 and the conversion rate from lead to customer is 10%, how many customers can XYZ Inc. expect to acquire from this campaign? 
 Let's calculate: with a budget of $10,000 and a cost per lead of $50, XYZ Inc. can generate 200 leads ($10,000 / $50). Assuming a 10% conversion rate, the expected number of customers is 20 (200 leads * 0.10). 
 2. A company, ABC Corp., is launching a new e-book on digital marketing and wants to generate demand through social media advertising. They allocate $5,000 for Facebook ads, with a cost per click (CPC) of $1.50. If the conversion rate from click to download is 5%, how many e-book downloads can ABC Corp. expect? 
 Let's calculate: with a budget of $5,000 and a CPC of $1.50, ABC Corp. can generate 3,333 clicks ($5,000 / $1.50). Assuming a 5% conversion rate, the expected number of downloads is 166.65 (3,333 clicks * 0.05). 

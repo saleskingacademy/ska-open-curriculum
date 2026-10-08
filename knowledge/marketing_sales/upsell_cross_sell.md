@@ -51,11 +51,9 @@ To illustrate the concepts of upsell and cross-sell, consider the following exam
 3. A customer orders a meal at a restaurant for $15. The server cross-sells a dessert for $8 and a drink for $5, increasing the total sale to $28. This represents an 86.7% increase in revenue. 
 In each example, the salesperson uses upsell or cross-sell techniques to increase revenue, demonstrating the potential for these strategies to enhance sales performance.
 
-To illustrate the concepts of upsell and cross-sell, consider the following examples:
-
 1. A customer purchases a laptop for $1,000. The sales representative offers an upsell by suggesting a higher-end model with additional features for $1,200, representing a 20% increase in price. If the customer accepts, the revenue increases by $200.
 
-2. A customer buys a smartphone for $800. The salesperson cross-sells a phone case for $20 and a screen protector for $10, increasing the total sale by $30. This represents a 3.75% increase in revenue.
+2. A customer buys a smartphone for $800. This represents a 3.75% increase in revenue.
 
 3. A customer orders a meal at a restaurant for $15. The waiter cross-sells a dessert for $8 and upsells a premium drink for $5, increasing the total sale to $28. This represents an 86.67% increase in revenue. In each example, the key principle is to offer complementary or upgraded products that enhance the customer's experience, increasing average transaction value and revenue for the business.
 

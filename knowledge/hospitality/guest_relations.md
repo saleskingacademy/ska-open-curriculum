@@ -52,10 +52,8 @@ Current satisfied guests = 200 * 0.85 = 170, Target satisfied guests = 200 * 0.9
 3. A restaurant has an average table turnover time of 1.5 hours and serves 200 tables per day. If the restaurant wants to increase table turnover by 20%, what is the potential increase in tables served per day? 
 New table turnover time = 1.5 / 1.2 = 1.25 hours, Potential increase in tables served = (1.5 - 1.25) / 1.5 * 200 = 22 tables.
 
-To illustrate the application of guest relations principles in hospitality tourism, consider the following scenarios. 
-1. A hotel receives 500 guest complaints per month, with an average response time of 2 hours. If the hotel aims to reduce response time by 30%, what is the new target response time? 
-Response time reduction = 30% of 2 hours = 0.6 hours, so new target response time = 2 - 0.6 = 1.4 hours. 
-2. A resort has a guest satisfaction rating of 85% based on 200 surveys. If 50 more surveys are collected, with 40 reporting satisfaction, what is the new satisfaction rating? 
+1. Response time reduction = 30% of 2 hours = 0.6 hours, so new target response time = 2 - 0.6 = 1.4 hours. 
+2. If 50 more surveys are collected, with 40 reporting satisfaction, what is the new satisfaction rating? 
 Total surveys = 200 + 50 = 250, total satisfied guests = 0.85 * 200 + 40 = 170 + 40 = 210. 
 New satisfaction rating = 210 / 250 = 0.84 or 84%. 
 3. A restaurant receives an average of 800 customer feedback forms per week, with 20% reporting issues with food quality. If the restaurant reduces food quality issues by 15%, what is the new number of feedback forms reporting issues? 

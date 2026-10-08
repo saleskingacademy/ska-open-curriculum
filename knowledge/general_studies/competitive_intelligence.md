@@ -30,7 +30,6 @@ Competitive intelligence (CI) refers to the systematic collection, analysis, and
 **Primary research**: original data collected through surveys, interviews, or focus groups, often providing unique insights. 
 **Secondary research**: analysis of existing data, such as industry reports, academic studies, or internal company documents. 
 Understanding these core concepts and vocabulary is essential for effective CI practice, enabling practitioners to gather, analyze, and apply relevant information to drive business success. A practitioner must understand key definitions, including: 
-**Competitor**: an organization offering similar products or services, 
 **Market**: a group of buyers and sellers interacting to exchange goods or services, 
 **Strategy**: a long-term plan to achieve a particular goal or set of goals. First principles of CI involve understanding the **intelligence cycle**, which consists of: 
 **Planning and direction**, 

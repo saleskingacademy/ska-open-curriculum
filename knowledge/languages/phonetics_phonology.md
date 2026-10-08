@@ -38,8 +38,6 @@ To illustrate the application of phonetics and phonology in languages, consider 
 2. Determining the phonemes of the words "pat" and "bat": The words "pat" and "bat" differ in their initial sounds, /p/ (voiceless bilabial plosive) and /b/ (voiced bilabial plosive), respectively. This difference in sound distinguishes the two words, indicating that /p/ and /b/ are distinct phonemes in English.
 3. Analyzing the allophones of the phoneme /k/ in English: The phoneme /k/ has different allophones depending on its position in a word. For example, in "kin" the /k/ is aspirated [kʰ], while in "skin" it is not [k]. This variation in pronunciation does not change the word's meaning, illustrating the concept of allophonic variation within a phoneme.
 
-To illustrate the application of phonetics and phonology in languages, consider the following examples:
-
 1. **Transcription of Vowel Sounds**: Transcribe the vowel sound in the word "bit" using the International Phonetic Alphabet (IPA). The IPA transcription for the vowel sound in "bit" is /ɪ/. This is because the sound is a near-close near-front unrounded vowel, which is represented by the symbol /ɪ/ in the IPA chart.
 
 2. **Phonological Process - Assimilation**: In the word "blackbird", the /k/ sound is followed by the /b/ sound. Apply the phonological process of assimilation to this sequence. The /k/ sound is a voiceless velar stop, while the /b/ sound is a voiced bilabial stop. Through assimilation, the /k/ sound becomes /ɡ/, a voiced velar stop, resulting in /blæɡbɜːd/ due to the influence of the following voiced /b/ sound.

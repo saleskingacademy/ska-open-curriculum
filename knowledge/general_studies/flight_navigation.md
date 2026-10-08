@@ -63,8 +63,6 @@ Thus, the resultant track is 270° + 1.23° = 271.23°.
 3. To calculate the fuel consumption for a flight, we use the formula: fuel consumption = (fuel flow rate * flight time). 
 Given a fuel flow rate of 1000 kg/h and a flight time of 2.3 hours, the fuel consumption is 1000 * 2.3 = 2300 kg.
 
-To illustrate the application of flight navigation principles, consider the following examples.
-
 1. An aircraft is flying from New York (JFK) to London (LHR) with a planned route distance of 3460 nautical miles. If the aircraft's true airspeed is 480 knots and it encounters a headwind of 50 knots, calculate the estimated flight time. 
 Estimated flight time = planned route distance / (true airspeed - headwind) = 3460 nm / (480 - 50) knots = 3460 / 430 = 8.05 hours.
 

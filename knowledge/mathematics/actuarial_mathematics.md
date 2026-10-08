@@ -39,8 +39,8 @@ Key concepts in actuarial mathematics include **time value of money**, which des
 
 ## Mechanisms
 
-Actuarial mathematics relies on a combination of statistical analysis, probability theory, and mathematical modeling to assess and manage risk in financial and insurance contexts. The mechanism involves several key steps: 
-1. **Data Collection**: Gathering historical data on events such as claims, deaths, or retirements to understand the frequency and severity of these events.
+Actuarial mathematics relies on a combination of statistical analysis, probability theory, and mathematical modeling to assess and manage risk in financial and insurance contexts. The mechanism involves several key steps:
+
 2. **Probability Modeling**: Using statistical techniques to fit probability distributions to the collected data, allowing for the estimation of future event probabilities.
 3. **Stochastic Processes**: Modeling the behavior of these events over time using stochastic processes, such as Markov chains or random walks, to capture the uncertainty and variability inherent in the data.
 4. **Actuarial Tables**: Constructing tables that summarize the probability of certain events (e.g., mortality tables) based on the fitted distributions and stochastic models.
@@ -126,7 +126,7 @@ Actuarial mathematics has numerous applications in insurance, finance, and risk 
 In non-life insurance, actuaries use stochastic processes and statistical models to estimate the frequency and severity of claims. They apply techniques such as regression analysis and time series analysis to forecast claim frequencies and losses. The calculation of reinsurance premiums and the determination of insurance company reserves are also important applications of actuarial mathematics. 
 In finance, actuarial mathematics is used to value securities, such as bonds and stocks, and to calculate the risk of investment portfolios. Actuaries use mathematical models, such as the Black-Scholes model, to estimate the value of options and other derivatives. They also apply stochastic processes, such as Brownian motion, to model stock prices and other financial variables. 
 The application of actuarial mathematics in pension planning and retirement funding is also significant. Actuaries use mathematical models to estimate the present value of future pension benefits and to determine the required contributions to pension funds. They apply techniques such as cash flow analysis and probability theory to estimate the risk of pension fund deficits and to develop strategies for managing this risk. 
-Overall, actuarial mathematics provides a rigorous framework for analyzing and managing risk in a wide range of applications, from insurance and finance to pension planning and retirement funding. They apply probability theory and statistical techniques to estimate mortality rates, policy lapse rates, and other factors that affect insurance liabilities. The construction of mortality tables, which provide the probability of death at different ages, is a fundamental application of actuarial mathematics. These tables are used to calculate life insurance premiums, annuity benefits, and other insurance-related quantities.
+Overall, actuarial mathematics provides a rigorous framework for analyzing and managing risk in a wide range of applications, from insurance and finance to pension planning and retirement funding. They apply probability theory and statistical techniques to estimate mortality rates, policy lapse rates, and other factors that affect insurance liabilities. The construction of mortality tables, which provide the probability of death at different ages, is a fundamental application of actuarial mathematics.
 
 In pension planning, actuaries use mathematical models to calculate the present value of future pension obligations, and to determine the required contributions to fund these obligations. They also use stochastic models to estimate the impact of investment returns and demographic changes on pension fund liabilities.
 
@@ -134,7 +134,7 @@ Actuaries also work in finance, where they use mathematical models to price and 
 
 In risk management, actuaries use mathematical models to identify, assess, and mitigate risks. They use techniques such as scenario analysis and stress testing to estimate the potential impact of adverse events, and to develop strategies to manage these risks. Overall, actuarial mathematics provides a rigorous framework for analyzing and managing risk, and is essential for making informed decisions in a wide range of fields.
 
-In non-life insurance, actuaries use stochastic processes and statistical models to estimate the frequency and severity of claims. They apply techniques such as the compound Poisson distribution and the negative binomial distribution to model claim frequencies and severities. The calculation of reinsurance premiums and the determination of policy deductibles and limits are also applications of actuarial mathematics in non-life insurance.
+They apply techniques such as the compound Poisson distribution and the negative binomial distribution to model claim frequencies and severities. The calculation of reinsurance premiums and the determination of policy deductibles and limits are also applications of actuarial mathematics in non-life insurance.
 
 In finance, actuarial mathematics is used to value securities and derivatives, such as options and bonds. The Black-Scholes model, which is a stochastic differential equation, is an example of an actuarial mathematics application in finance. Actuaries also use mathematical models to estimate credit risk and to value assets and liabilities in pension funds and other institutional investment portfolios.
 

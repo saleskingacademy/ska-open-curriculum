@@ -84,8 +84,7 @@ The Newton-Raphson formula is x_n+1 = x_n - f(x_n)/f'(x_n).
 Starting with x0 = 2, we have f(x0) = (2)^3 - 2(2) - 5 = 8 - 4 - 5 = -1 and f'(x0) = 3(2)^2 - 2 = 12 - 2 = 10. 
 So, x1 = x0 - f(x0)/f'(x0) = 2 - (-1)/10 = 2 + 0.1 = 2.1. 
 Repeating the process, we get f(x1) = (2.1)^3 - 2(2.1) - 5 = 9.261 - 4.2 - 5 = -0.039 and f'(x1) = 3(2.1)^2 - 2 = 13.23 - 2 = 11.23. 
-So, x2 = x1 - f(x1)/f'(x1) = 2.1 - (-0.039)/11.23 = 2.1 + 0.0035 = 2.1035. 
-This process can be continued to find the root to the desired accuracy.
+So, x2 = x1 - f(x1)/f'(x1) = 2.1 - (-0.039)/11.23 = 2.1 + 0.0035 = 2.1035.
 
 To illustrate the concepts of numerical analysis, consider the following problems.
 

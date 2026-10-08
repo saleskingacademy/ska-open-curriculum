@@ -83,8 +83,7 @@ Using the p-series test with p = 2 > 1, we conclude the series converges.
 The sequence oscillates between -1 and 1, and thus does not satisfy the convergence criterion that for any ε > 0, there exists N such that for all n, m > N, |a_n - a_m| < ε. 
 Hence, {(-1)^n} is divergent.
 
-2. Determine if the series ∑(n=1 to ∞) 1/n^2 is convergent. 
-Using the p-series test with p = 2 > 1, we conclude the series converges.
+2. Determine if the series ∑(n=1 to ∞) 1/n^2 is convergent.
 
 ## Applications
 
