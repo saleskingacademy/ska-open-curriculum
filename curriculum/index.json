@@ -4,7 +4,7 @@
   "total_subjects": 970,
   "total_levels": 8,
   "lessons_per_level": 10,
-  "total_lessons": 77440,
+  "total_lessons": 77600,
   "categories": {
     "social_sciences": {
       "count": 57,
@@ -277,7 +277,7 @@
       ]
     },
     "general": {
-      "count": 182,
+      "count": 183,
       "subjects": [
         "acting",
         "addiction_science",
@@ -4934,6 +4934,14 @@
     "radiogenomics": {
       "name": "Radiogenomics",
       "category": "medical"
+    },
+    "ska_business_ai_autonomous_operations": {
+      "name": "SKA Business AI Autonomous Operations",
+      "category": "business"
+    },
+    "symbolic_representation_and_conversion": {
+      "name": "Symbolic Representation And Conversion",
+      "category": "general"
     }
   }
 }

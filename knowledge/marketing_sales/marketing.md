@@ -548,102 +548,102 @@ A hypothetical commercial team faces competing objectives involving growth, qual
 
 ## Review Question Bank
 
-1. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-2. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-3. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-4. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-5. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-6. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-7. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-8. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-9. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-10. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-11. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-12. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-13. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-14. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-15. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-16. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-17. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-18. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-19. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-20. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-21. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-22. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-23. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-24. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-25. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-26. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-27. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-28. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-29. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-30. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-31. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-32. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-33. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-34. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-35. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-36. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-37. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-38. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-39. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-40. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-41. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-42. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-43. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-44. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-45. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-46. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-47. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-48. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-49. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-50. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-51. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-52. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-53. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-54. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-55. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-56. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-57. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-58. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-59. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-60. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-61. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-62. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-63. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-64. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-65. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-66. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-67. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-68. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-69. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-70. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-71. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-72. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-73. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-74. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-75. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-76. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-77. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-78. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-79. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-80. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-81. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-82. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-83. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-84. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-85. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-86. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-87. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-88. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-89. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-90. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-91. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-92. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-93. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-94. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-95. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
-96. What principle, framework, metric, or failure mode should a practitioner consider in this situation?
+1. Define market research and segmentation in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+2. What buyer, account, customer, or campaign evidence is needed to make an informed decision about market research and segmentation?
+3. Design a concrete marketing scenario requiring market research and segmentation; list observable steps, actors, inputs, and intended outcomes.
+4. Diagnose a realistic failure involving market research and segmentation. What early warnings, consequences, and corrective actions matter?
+5. Select a measurable performance metric for market research and segmentation; build a numerical example with its denominator, time frame, assumptions, and limitations.
+6. Compare two valid approaches to market research and segmentation. Under what customer, financial, or operational conditions would each be preferable?
+7. How could AI assist with market research and segmentation, and which factual checks, data protections, and authorization boundaries must remain enforced?
+8. Construct a practical assessment rubric for market research and segmentation, including evidence quality, business outcome, customer impact, and common errors.
+9. Define positioning and differentiated value in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+10. What buyer, account, customer, or campaign evidence is needed to make an informed decision about positioning and differentiated value?
+11. Design a concrete marketing scenario requiring positioning and differentiated value; list observable steps, actors, inputs, and intended outcomes.
+12. Diagnose a realistic failure involving positioning and differentiated value. What early warnings, consequences, and corrective actions matter?
+13. Select a measurable performance metric for positioning and differentiated value; build a numerical example with its denominator, time frame, assumptions, and limitations.
+14. Compare two valid approaches to positioning and differentiated value. Under what customer, financial, or operational conditions would each be preferable?
+15. How could AI assist with positioning and differentiated value, and which factual checks, data protections, and authorization boundaries must remain enforced?
+16. Construct a practical assessment rubric for positioning and differentiated value, including evidence quality, business outcome, customer impact, and common errors.
+17. Define campaign message design in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+18. What buyer, account, customer, or campaign evidence is needed to make an informed decision about campaign message design?
+19. Design a concrete marketing scenario requiring campaign message design; list observable steps, actors, inputs, and intended outcomes.
+20. Diagnose a realistic failure involving campaign message design. What early warnings, consequences, and corrective actions matter?
+21. Select a measurable performance metric for campaign message design; build a numerical example with its denominator, time frame, assumptions, and limitations.
+22. Compare two valid approaches to campaign message design. Under what customer, financial, or operational conditions would each be preferable?
+23. How could AI assist with campaign message design, and which factual checks, data protections, and authorization boundaries must remain enforced?
+24. Construct a practical assessment rubric for campaign message design, including evidence quality, business outcome, customer impact, and common errors.
+25. Define channel selection and media planning in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+26. What buyer, account, customer, or campaign evidence is needed to make an informed decision about channel selection and media planning?
+27. Design a concrete marketing scenario requiring channel selection and media planning; list observable steps, actors, inputs, and intended outcomes.
+28. Diagnose a realistic failure involving channel selection and media planning. What early warnings, consequences, and corrective actions matter?
+29. Select a measurable performance metric for channel selection and media planning; build a numerical example with its denominator, time frame, assumptions, and limitations.
+30. Compare two valid approaches to channel selection and media planning. Under what customer, financial, or operational conditions would each be preferable?
+31. How could AI assist with channel selection and media planning, and which factual checks, data protections, and authorization boundaries must remain enforced?
+32. Construct a practical assessment rubric for channel selection and media planning, including evidence quality, business outcome, customer impact, and common errors.
+33. Define search and content strategy in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+34. What buyer, account, customer, or campaign evidence is needed to make an informed decision about search and content strategy?
+35. Design a concrete marketing scenario requiring search and content strategy; list observable steps, actors, inputs, and intended outcomes.
+36. Diagnose a realistic failure involving search and content strategy. What early warnings, consequences, and corrective actions matter?
+37. Select a measurable performance metric for search and content strategy; build a numerical example with its denominator, time frame, assumptions, and limitations.
+38. Compare two valid approaches to search and content strategy. Under what customer, financial, or operational conditions would each be preferable?
+39. How could AI assist with search and content strategy, and which factual checks, data protections, and authorization boundaries must remain enforced?
+40. Construct a practical assessment rubric for search and content strategy, including evidence quality, business outcome, customer impact, and common errors.
+41. Define marketing funnel measurement in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+42. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing funnel measurement?
+43. Design a concrete marketing scenario requiring marketing funnel measurement; list observable steps, actors, inputs, and intended outcomes.
+44. Diagnose a realistic failure involving marketing funnel measurement. What early warnings, consequences, and corrective actions matter?
+45. Select a measurable performance metric for marketing funnel measurement; build a numerical example with its denominator, time frame, assumptions, and limitations.
+46. Compare two valid approaches to marketing funnel measurement. Under what customer, financial, or operational conditions would each be preferable?
+47. How could AI assist with marketing funnel measurement, and which factual checks, data protections, and authorization boundaries must remain enforced?
+48. Construct a practical assessment rubric for marketing funnel measurement, including evidence quality, business outcome, customer impact, and common errors.
+49. Define attribution and incrementality in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+50. What buyer, account, customer, or campaign evidence is needed to make an informed decision about attribution and incrementality?
+51. Design a concrete marketing scenario requiring attribution and incrementality; list observable steps, actors, inputs, and intended outcomes.
+52. Diagnose a realistic failure involving attribution and incrementality. What early warnings, consequences, and corrective actions matter?
+53. Select a measurable performance metric for attribution and incrementality; build a numerical example with its denominator, time frame, assumptions, and limitations.
+54. Compare two valid approaches to attribution and incrementality. Under what customer, financial, or operational conditions would each be preferable?
+55. How could AI assist with attribution and incrementality, and which factual checks, data protections, and authorization boundaries must remain enforced?
+56. Construct a practical assessment rubric for attribution and incrementality, including evidence quality, business outcome, customer impact, and common errors.
+57. Define marketing experiment design in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+58. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing experiment design?
+59. Design a concrete marketing scenario requiring marketing experiment design; list observable steps, actors, inputs, and intended outcomes.
+60. Diagnose a realistic failure involving marketing experiment design. What early warnings, consequences, and corrective actions matter?
+61. Select a measurable performance metric for marketing experiment design; build a numerical example with its denominator, time frame, assumptions, and limitations.
+62. Compare two valid approaches to marketing experiment design. Under what customer, financial, or operational conditions would each be preferable?
+63. How could AI assist with marketing experiment design, and which factual checks, data protections, and authorization boundaries must remain enforced?
+64. Construct a practical assessment rubric for marketing experiment design, including evidence quality, business outcome, customer impact, and common errors.
+65. Define pricing communication in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+66. What buyer, account, customer, or campaign evidence is needed to make an informed decision about pricing communication?
+67. Design a concrete marketing scenario requiring pricing communication; list observable steps, actors, inputs, and intended outcomes.
+68. Diagnose a realistic failure involving pricing communication. What early warnings, consequences, and corrective actions matter?
+69. Select a measurable performance metric for pricing communication; build a numerical example with its denominator, time frame, assumptions, and limitations.
+70. Compare two valid approaches to pricing communication. Under what customer, financial, or operational conditions would each be preferable?
+71. How could AI assist with pricing communication, and which factual checks, data protections, and authorization boundaries must remain enforced?
+72. Construct a practical assessment rubric for pricing communication, including evidence quality, business outcome, customer impact, and common errors.
+73. Define demand generation in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+74. What buyer, account, customer, or campaign evidence is needed to make an informed decision about demand generation?
+75. Design a concrete marketing scenario requiring demand generation; list observable steps, actors, inputs, and intended outcomes.
+76. Diagnose a realistic failure involving demand generation. What early warnings, consequences, and corrective actions matter?
+77. Select a measurable performance metric for demand generation; build a numerical example with its denominator, time frame, assumptions, and limitations.
+78. Compare two valid approaches to demand generation. Under what customer, financial, or operational conditions would each be preferable?
+79. How could AI assist with demand generation, and which factual checks, data protections, and authorization boundaries must remain enforced?
+80. Construct a practical assessment rubric for demand generation, including evidence quality, business outcome, customer impact, and common errors.
+81. Define customer lifecycle marketing in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+82. What buyer, account, customer, or campaign evidence is needed to make an informed decision about customer lifecycle marketing?
+83. Design a concrete marketing scenario requiring customer lifecycle marketing; list observable steps, actors, inputs, and intended outcomes.
+84. Diagnose a realistic failure involving customer lifecycle marketing. What early warnings, consequences, and corrective actions matter?
+85. Select a measurable performance metric for customer lifecycle marketing; build a numerical example with its denominator, time frame, assumptions, and limitations.
+86. Compare two valid approaches to customer lifecycle marketing. Under what customer, financial, or operational conditions would each be preferable?
+87. How could AI assist with customer lifecycle marketing, and which factual checks, data protections, and authorization boundaries must remain enforced?
+88. Construct a practical assessment rubric for customer lifecycle marketing, including evidence quality, business outcome, customer impact, and common errors.
+89. Define marketing privacy and compliance in marketing practice, identify its purpose and distinguish verified facts from assumptions.
+90. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing privacy and compliance?
+91. Design a concrete marketing scenario requiring marketing privacy and compliance; list observable steps, actors, inputs, and intended outcomes.
+92. Diagnose a realistic failure involving marketing privacy and compliance. What early warnings, consequences, and corrective actions matter?
+93. Select a measurable performance metric for marketing privacy and compliance; build a numerical example with its denominator, time frame, assumptions, and limitations.
+94. Compare two valid approaches to marketing privacy and compliance. Under what customer, financial, or operational conditions would each be preferable?
+95. How could AI assist with marketing privacy and compliance, and which factual checks, data protections, and authorization boundaries must remain enforced?
+96. Construct a practical assessment rubric for marketing privacy and compliance, including evidence quality, business outcome, customer impact, and common errors.
 
 ## Glossary
 
