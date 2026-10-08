@@ -9,3 +9,11 @@ meaning signature; examples limited to two and synonyms to six per definition.
 
 The WordNet content above remains under CC BY 4.0. The DNA-16 anchors, Symbol256 signatures
 and the build tooling (tools/build_dictionary.py) are Copyright (c) 2026 Sales King Academy LLC.
+
+Definitions, examples, parts of speech and synonyms in senses marked "src": "wikt" come from English
+Wiktionary (https://en.wiktionary.org), extracted by kaikki.org / wiktextract, licensed under Creative
+Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+Changes made: entries regrouped by written form into three-letter shards; obsolete and archaic senses and
+senses that repeat an existing definition removed; examples limited to two; each word and definition
+assigned a DNA-16 anchor and a Symbol256 meaning signature. These Wiktionary-derived files are shared under
+CC BY-SA 4.0 as that licence requires.

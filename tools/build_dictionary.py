@@ -146,5 +146,7 @@ def verify():
     return not bad
 
 if __name__ == "__main__":
-    if sys.argv[1:2] == ["--verify"]: sys.exit(0 if verify() else 1)
-    main(sys.argv[1]); sys.exit(0 if verify() else 1)
+    # Superseded: the dictionary now holds WordNet AND Wiktionary in 3-letter shards.
+    # Running this alone would write WordNet-only 2-letter shards, so it refuses;
+    # its functions are reused by tools/build_dictionary_full.py.
+    sys.exit("use tools/build_dictionary_full.py (WordNet + Wiktionary); this builder is now a library")

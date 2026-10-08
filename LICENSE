@@ -16,6 +16,6 @@ versions remain under that licence. All material added or changed after that com
 covered only by this notice.
 
 Exception - dictionary/: the definitions, examples, parts of speech and synonyms in
-dictionary/words/ are from Open English WordNet 2024 and remain under Creative Commons
-Attribution 4.0 (CC BY 4.0); see dictionary/LICENSE. Only the DNA-16 anchors, Symbol256
+dictionary/words/ are from Open English WordNet 2024 (CC BY 4.0) and English Wiktionary
+(CC BY-SA 4.0) and remain under those licences; see dictionary/LICENSE. Only the DNA-16 anchors, Symbol256
 signatures and build tooling added by Sales King Academy LLC are covered by the notice above.
