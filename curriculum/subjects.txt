@@ -816,6 +816,7 @@ signal_processing
 single_cell_genomics
 site_reliability_engineering
 six_sigma
+ska_business_ai_autonomous_operations
 sleep_science
 social_media_marketing
 social_media_strategy
@@ -881,6 +882,7 @@ sustainable_tourism
 swahili
 swarm_robotics
 swift
+symbolic_representation_and_conversion
 syntax
 synthetic_biology
 system_design
@@ -966,4 +968,3 @@ xenobiology
 youth_sports_development
 zero_knowledge_proofs
 zoology
-symbolic_representation_and_conversion
