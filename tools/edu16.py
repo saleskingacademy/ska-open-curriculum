@@ -12,7 +12,10 @@ a Symbol256 state and a Chain256 attachment. Design: EDU16.md.
           offset_cs = ((((L*1000 + SSS)*100 + CCC)*100 + XXX)*100 + PPP): positional, no hashing,
           no collisions. Core (L0) spans ~116 days of 2018; all 8 levels end before Aug 2021.
   EDU-32  EDU-16 + T16 (the Chain32 pairing: stable anchor + its place in time).
-  Chain256 attachment, context "education". Stable lanes stored (1,4,5,8,9,12,13,16):
+  DNA-16  every unit is labeled by its EDU-16 alone (the `edu16` field) - that is its DNA-16.
+          Nothing else chain-related is published: T16, EDU-32, the spent instant and the Chain256
+          attachment are positional, so the worker derives them privately from the label.
+  Chain256 attachment, context "education" (derived, not stored). Stable lanes (1,4,5,8,9,12,13,16):
           L1 genesis  L4 education anchor  L5 subject EDU-16  L8 subject T16
           L9 unit EDU-16  L12 unit T16  L13 Symbol256 digest  L16 integrity digest
           Interlocked lanes 2,3,6,7,10,11,14,15 are the live beat clock at the moment of use:
@@ -106,23 +109,22 @@ def build():
                     ppp = alloc("paragraphs", skey + "/" + p["id"], skey, reg)
                     pe = edu16(ff, sss, ccc, 0, xxx, ppp, 4)
                     s16, i16 = d16(p["sig"]), d16(p["id"] + "|" + p["sig"] + "|" + str(p.get("words")))
-                    p_out.append({"edu16": pe, "t16": t16(pe), "spent": spent(pe), "pid": p["id"], "words": p.get("words"),
-                                  "sym16": s16, "int16": i16, "s128": "".join(lanes(se, pe, s16, i16))})
+                    p_out.append({"edu16": pe, "pid": p["id"], "words": p.get("words"),
+                                  "sym16": s16, "int16": i16})
                     p_sigs.append(p["sig"]); p_ints.append(i16); units.append(pe)
                 xs = agg_sig(p_sigs); xi = d16("|".join(p_ints)); xs16 = d16(xs)
-                sec_out.append({"edu16": xe, "t16": t16(xe), "spent": spent(xe), "id": sec["id"], "title": sec["title"],
-                                "sig": xs, "sym16": xs16, "int16": xi, "s128": "".join(lanes(se, xe, xs16, xi)), "paragraphs": p_out})
+                sec_out.append({"edu16": xe, "id": sec["id"], "title": sec["title"],
+                                "sig": xs, "sym16": xs16, "int16": xi, "paragraphs": p_out})
                 sec_sigs.append(xs); sec_ints.append(xi); units.append(xe)
             cs = agg_sig(sec_sigs); ci = d16(md_text) if md_text else d16("|".join(sec_ints)); cs16 = d16(cs)
-            ch_out.append({"key": topic, "edu16": ce, "t16": t16(ce), "spent": spent(ce), "path": js["path"],
-                           "sig": cs, "sym16": cs16, "int16": ci, "s128": "".join(lanes(se, ce, cs16, ci)), "sections": sec_out})
-            chapters_index[topic] = {"edu16": ce, "t16": t16(ce), "spent": spent(ce), "subject": b["id"], "subject_edu16": se,
-                                     "int16": ci, "s128": "".join(lanes(se, ce, cs16, ci))}
+            ch_out.append({"key": topic, "edu16": ce, "path": js["path"],
+                           "sig": cs, "sym16": cs16, "int16": ci, "sections": sec_out})
+            chapters_index[topic] = {"edu16": ce, "subject": b["id"], "subject_edu16": se,
+                                     "int16": ci}
             ch_sigs.append(cs); ch_int.append(ci); units.append(ce)
         ss = agg_sig(ch_sigs); si = d16("|".join(ch_int)); ss16 = d16(ss)
-        rec = {"edu16": se, "edu32": se + t16(se), "t16": t16(se), "spent": spent(se), "id": b["id"], "title": b["title"],
-               "field_code": ff, "field": b["field"], "sig": ss, "sym16": ss16, "int16": si,
-               "s128": "".join(lanes(se, se, ss16, si)), "chapters": ch_out}
+        rec = {"edu16": se, "id": b["id"], "title": b["title"],
+               "field_code": ff, "field": b["field"], "sig": ss, "sym16": ss16, "int16": si, "chapters": ch_out}
         json.dump(rec, open(os.path.join(OUT, b["id"] + ".json"), "w"), ensure_ascii=False, separators=(",", ":"))
         units.append(se)
     json.dump(reg, open(REG, "w"), separators=(",", ":"), sort_keys=True)
@@ -167,16 +169,18 @@ def verify():
     bad, n, ids, spents = [], 0, [], set()
     def chk(u, se):
         nonlocal n; n += 1
-        L = [u["s128"][i:i + 16] for i in range(0, 128, 16)]
-        if L[0] != GENESIS16: bad.append((u["edu16"], "L1 genesis"))
-        if L[1] != EDU_ANCHOR16: bad.append((u["edu16"], "L4 anchor"))
-        if L[2] != se or L[3] != t16(se): bad.append((u["edu16"], "L5/L8 subject"))
-        if L[4] != u["edu16"] or L[5] != t16(u["edu16"]) or u["t16"] != L[5]: bad.append((u["edu16"], "L9/L12 unit"))
-        if u["edu16"][2:5] != se[2:5]: bad.append((u["edu16"], "subject prefix"))
-        if L[6] != u["sym16"] or L[7] != u["int16"]: bad.append((u["edu16"], "L13/L16"))
-        if u["spent"] in spents: bad.append((u["edu16"], "spent address reused"))
-        if not (EDU_REGION_MS <= EDU_REGION_MS + offset_cs(u["edu16"]) * 10 < NOW_MS): bad.append((u["edu16"], "spent address not in the past"))
-        spents.add(u["spent"]); ids.append((u["sym16"], u["edu16"]))
+        # Published units carry only their DNA-16 label (edu16) plus symbol and
+        # integrity digests. The chain attachment is derived, never published:
+        # rebuild it here and check it, exactly as the worker does privately.
+        e = u["edu16"]
+        if not (len(e) == 16 and e.isdigit()): bad.append((e, "DNA-16 label")); return
+        if any(k in u for k in ("s128", "t16", "edu32", "spent")): bad.append((e, "chain digits published"))
+        L = lanes(se, e, u["sym16"], u["int16"])
+        if L[2][2:5] != L[4][2:5]: bad.append((e, "subject prefix"))
+        sp = spent(e)
+        if sp in spents: bad.append((e, "spent address reused"))
+        if not (EDU_REGION_MS <= EDU_REGION_MS + offset_cs(e) * 10 < NOW_MS): bad.append((e, "spent address not in the past"))
+        spents.add(sp); ids.append((u["sym16"], e))
     for f in sorted(glob.glob(os.path.join(OUT, "*.json"))):
         s = json.load(open(f)); se = s["edu16"]; chk(s, se)
         for c in s["chapters"]:
