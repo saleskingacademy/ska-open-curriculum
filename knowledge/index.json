@@ -349,9 +349,9 @@
     {
       "key": "adventure_tourism",
       "title": "Adventure Tourism",
-      "program": "accounting_finance",
+      "program": "hospitality",
       "course_level": 4,
-      "path": "knowledge/accounting_finance/adventure_tourism.md",
+      "path": "knowledge/hospitality/adventure_tourism.md",
       "dna16": "0701201825007964",
       "l4_address": "S6:P890012420",
       "sections": [
@@ -370,8 +370,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 21128,
-      "sha256": "57fc992f5e2c035b286b0a5e9480e6805206378cec80af70ee2a8f464bed8f16"
+      "chars": 21121,
+      "sha256": "37b6e68b8e95164133c2f82ffeede1d8f4796476c8096b71b90be027fdbde480"
     },
     {
       "key": "advertising",
@@ -397,9 +397,9 @@
     {
       "key": "aerodynamics",
       "title": "Aerodynamics",
-      "program": "general_studies",
+      "program": "engineering",
       "course_level": 3,
-      "path": "knowledge/general_studies/aerodynamics.md",
+      "path": "knowledge/engineering/aerodynamics.md",
       "dna16": "0701201823624596",
       "l4_address": "S6:P284252277",
       "sections": [
@@ -413,8 +413,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24246,
-      "sha256": "f49bebca1f9b7c5ee1b2d72e9808bda4422319cfc2eadc1e7a731e61cffb0ae6"
+      "chars": 24242,
+      "sha256": "adc350f1f2c06d98f06751a65f1e32610e29fe36983a9596f83b9b840bc0a847"
     },
     {
       "key": "aerospace_engineering",
@@ -2583,8 +2583,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20824,
-      "sha256": "ed4612d4d1226bcfce08e9174d478a35183130ec956cc55165d786fe5e8e06d7"
+      "chars": 16971,
+      "sha256": "2abfd377ccf8c648ec504ae9f3618e87b7025e37ea917867aed02d10ff7bed9f"
     },
     {
       "key": "auto_mechanics",
@@ -7863,8 +7863,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26493,
-      "sha256": "2f509e09f4419c2ee65a2d5d99b4cef04a082fd8d4d4283b37600bb591749838"
+      "chars": 22830,
+      "sha256": "0cfc39937460766281a78a180437a4a09a963cd57273876b20bac6f424efe883"
     },
     {
       "key": "discrete_mathematics",
@@ -10428,8 +10428,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26013,
-      "sha256": "1e7b1f837e7766accc44ddc965771fd4746c8d6318f059a3351f621a066e4108"
+      "chars": 26636,
+      "sha256": "e208ba6f1c48018f9f09b13e98bfae1e165dc10a7a6ab7660628268f88bc9ba9"
     },
     {
       "key": "fusion_plasma_physics",
