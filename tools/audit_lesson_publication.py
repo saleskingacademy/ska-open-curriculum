@@ -31,6 +31,7 @@ def review():
     errors = []
     published = []
     seen = set()
+    seen_positions = set()
     missing_id_by_file = collections.Counter()
 
     for path in sorted(ARCHIVE.glob("*.json")):
@@ -78,6 +79,9 @@ def review():
                 errors.append("Unfinished boilerplate published: " + str(ident))
             if not isinstance(lesson.get("level"), int) or lesson["level"] not in range(1,9):
                 errors.append("Invalid level: " + str(ident))
+            if pos in seen_positions:
+                errors.append("Duplicate lesson position in " + path.name + ": " + str(pos))
+            seen_positions.add(pos)
             published.append(pos)
     if len(published) != len(set(published)):
         errors.append("Duplicate subject/level/lesson position")
