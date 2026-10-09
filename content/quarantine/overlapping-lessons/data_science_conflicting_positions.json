@@ -1,0 +1,25 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "data_science",
+  "lessons": [
+    {
+      "id": "data_science_L1_1",
+      "subject_id": "data_science",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Data Science Foundations",
+      "category": "MASTERY",
+      "content": "Data science extracts insight and predictions from data using statistics, programming, and domain knowledge. KEY CONCEPTS: The data science lifecycle — collect, clean, explore, model, communicate. Structured vs unstructured data. Correlation vs causation. WORKED EXAMPLE: Analyzing sales data to find which factors predict churn. PRACTICE: 1) List the lifecycle stages. 2) Give an example of correlation that isn't causation. 3) Classify 3 data types."
+    },
+    {
+      "id": "data_science_L2_1",
+      "subject_id": "data_science",
+      "level": 2,
+      "lesson_number": 1,
+      "title": "Statistics & Probability",
+      "category": "MASTERY",
+      "content": "Statistics is the backbone of data science. KEY CONCEPTS: Mean/median/mode, variance/standard deviation, distributions (normal, skewed), probability, sampling, hypothesis testing, p-values, confidence intervals. WORKED EXAMPLE: An A/B test uses hypothesis testing to decide if a change truly improved conversion. PRACTICE: 1) Explain standard deviation. 2) Define a p-value. 3) Describe sampling bias."
+    }
+  ]
+}

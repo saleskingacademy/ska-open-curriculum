@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "project_management",
+  "lessons": [
+    {
+      "id": "project_management_L2_1",
+      "subject_id": "project_management",
+      "level": 2,
+      "lesson_number": 1,
+      "title": "Planning: Scope, WBS & Schedule",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: The Scope Statement defines what IS and IS NOT included — explicit exclusions prevent scope creep. The Work Breakdown Structure (WBS) decomposes deliverables into work packages small enough to estimate and assign (the 8/80 rule: no package smaller than 8 hours or larger than 80). Dependencies: Finish-to-Start (most common), Start-to-Start, Finish-to-Finish. The Critical Path is the longest chain of dependent tasks — it determines minimum project duration; delays here delay everything.\n\nWORKED EXAMPLE: Building a website: WBS decomposes into Design → Frontend → Backend → Integration → Testing → Launch. Frontend and Backend can run in parallel (no dependency), but Integration cannot start until both finish. The critical path runs through whichever of the two takes longer.\n\nPRACTICE: 1) Write a scope statement with 3 explicit exclusions. 2) Build a WBS with at least 8 work packages. 3) Map dependencies and identify the critical path."
+    }
+  ]
+}

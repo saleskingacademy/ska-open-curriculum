@@ -8,6 +8,7 @@ on:
       - 'knowledge/**'
       - 'tools/audit_subject_integrity.py'
       - 'tools/audit_catalog.py'
+      - 'tools/audit_lesson_publication.py'
       - '.github/workflows/validate-curriculum.yml'
   pull_request:
     paths:
@@ -54,6 +55,9 @@ jobs:
 
       - name: Verify catalog subject names and calculated totals
         run: python3 tools/audit_catalog.py
+
+      - name: Block template republishing and unregistered lesson subject IDs
+        run: python3 tools/audit_lesson_publication.py
 
       - name: Upload full subject integrity report
         if: always()
