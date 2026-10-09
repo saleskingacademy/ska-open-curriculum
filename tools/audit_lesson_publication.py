@@ -31,6 +31,7 @@ def review():
     errors = []
     published = []
     seen = set()
+    missing_id_by_file = collections.Counter()
 
     for path in sorted(ARCHIVE.glob("*.json")):
         for lesson in read(path):
@@ -63,6 +64,7 @@ def review():
             ident = lesson.get("id")
             pos = (sid, lesson.get("level"), lesson.get("lesson_number"))
             if not ident:
+                missing_id_by_file[path.name] += 1
                 errors.append("Missing lesson ID in " + path.name + ": " + str(pos))
             if ident in seen and ident:
                 errors.append("Duplicate published lesson ID in " + path.name + ": " + str(ident))
@@ -87,7 +89,7 @@ def review():
         "published_lessons":len(published), "archived_templates":len(archived_ids),
         "wrong_subject_ids_quarantined":len(wrong_labeled),
         "supplemental_subjects":len(lesson_only_files),
-        "structural_errors":len(errors), "errors":errors[:60]
+        "structural_errors":len(errors), "missing_id_files":dict(missing_id_by_file), "errors":errors[:60]
     }, indent=2))
     if errors:
         raise SystemExit(1)
