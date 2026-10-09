@@ -83,6 +83,22 @@ def review():
                 errors.append("Duplicate lesson position in " + path.name + ": " + str(pos))
             seen_positions.add(pos)
             published.append(pos)
+    # Preserve colliding but substantively different lessons without allowing
+    # their IDs to leak back into the single-slot published curriculum.
+    variants = ROOT / "content" / "quarantine" / "overlapping-lessons"
+    variant_ids = set()
+    for archive in sorted(variants.glob("*.json")):
+        data = read(archive)
+        items = data.get("lessons", []) if isinstance(data, dict) else []
+        if isinstance(data, dict) and "lesson" in data:
+            items = items + [data["lesson"]]
+        for lesson in items:
+            ident = lesson.get("id")
+            if not ident or ident in variant_ids or ident in seen:
+                errors.append("Invalid or republished archived variant: " + str(ident))
+            variant_ids.add(ident)
+    if len(variant_ids) < 44:
+        errors.append("Expected at least 44 preserved overlapping lesson variants")
     if len(published) != len(set(published)):
         errors.append("Duplicate subject/level/lesson position")
     if set(lesson_only_files) != set(supplemental):
@@ -93,6 +109,7 @@ def review():
         "published_lessons":len(published), "archived_templates":len(archived_ids),
         "wrong_subject_ids_quarantined":len(wrong_labeled),
         "supplemental_subjects":len(lesson_only_files),
+        "archived_slot_collisions":len(variant_ids),
         "structural_errors":len(errors), "missing_id_files":dict(missing_id_by_file), "errors":errors[:60]
     }, indent=2))
     if errors:
