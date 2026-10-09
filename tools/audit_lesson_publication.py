@@ -62,9 +62,12 @@ def review():
         for lesson in values:
             ident = lesson.get("id")
             pos = (sid, lesson.get("level"), lesson.get("lesson_number"))
-            if ident in seen:
-                errors.append("Duplicate published lesson ID: " + str(ident))
-            seen.add(ident)
+            if not ident:
+                errors.append("Missing lesson ID in " + path.name + ": " + str(pos))
+            if ident in seen and ident:
+                errors.append("Duplicate published lesson ID in " + path.name + ": " + str(ident))
+            if ident:
+                seen.add(ident)
             if lesson.get("subject_id") != sid:
                 errors.append("Wrong subject assigned: " + str(ident))
             if ident in quarantined:
