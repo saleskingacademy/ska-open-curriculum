@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "product_management",
+  "lessons": [
+    {
+      "id": "product_management_L1_1",
+      "subject_id": "product_management",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Product Management Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: A product manager owns the 'why' and 'what' — not the 'how' (engineering) or the 'when-to-sell' (sales). The PM sits at the intersection of business viability, technical feasibility, and user desirability; a product must satisfy all three. Jobs-To-Be-Done (JTBD): customers 'hire' a product to make progress in their lives — understand the job, not just the demographic. Outcomes over outputs: shipping features is not success; changing user behavior and business metrics is. The PM has responsibility without authority — influence, not command, is the core skill.\n\nWORKED EXAMPLE: A team ships 12 features and celebrates. Usage is flat. They optimized output (features shipped) instead of outcome (user behavior changed). The right question was never 'what should we build?' but 'what problem are users trying to solve, and did we solve it?'\n\nPRACTICE: 1) Write a JTBD statement for a product you use. 2) Distinguish an output metric from an outcome metric. 3) Identify the desirability/feasibility/viability risk in a product idea."
+    }
+  ]
+}

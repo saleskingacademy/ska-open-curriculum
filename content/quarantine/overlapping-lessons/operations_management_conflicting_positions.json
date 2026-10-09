@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "operations_management",
+  "lessons": [
+    {
+      "id": "operations_management_L1_1",
+      "subject_id": "operations_management",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Operations Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Operations management is the design and control of the processes that transform inputs into goods and services. The transformation model: Inputs (materials, labor, capital) → Process → Outputs, with feedback loops. Four operational objectives, often in tension: cost, quality, speed, flexibility. Little's Law is fundamental: Inventory = Throughput × Flow Time — reduce flow time or inventory and the relationship holds. A process is only as fast as its bottleneck; improving anything but the bottleneck adds no throughput.\n\nWORKED EXAMPLE: A coffee shop serves 30 customers/hour, and on average 5 customers are in the system. Little's Law gives flow time = 5/30 hour = 10 minutes per customer. To cut wait time, you either speed throughput or reduce the number in the system — the math tells you which lever to pull.\n\nPRACTICE: 1) Map a process you know as Inputs → Process → Outputs. 2) Identify its bottleneck. 3) Apply Little's Law to estimate flow time from throughput and inventory."
+    }
+  ]
+}

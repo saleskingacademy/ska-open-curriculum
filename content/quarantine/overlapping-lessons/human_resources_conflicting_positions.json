@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "human_resources",
+  "lessons": [
+    {
+      "id": "human_resources_L1_1",
+      "subject_id": "human_resources",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "HR Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Human Resources aligns people strategy with business strategy — the right people, in the right roles, engaged and developing. The employee lifecycle: attract, recruit, onboard, develop, retain, offboard. HR's dual role: employee advocate AND business steward — the tension is the job, not a flaw. Human capital is often the largest cost and the primary source of competitive advantage. Compliance (labor law, anti-discrimination, safety) is the floor, not the goal — great HR builds culture and capability above it.\n\nWORKED EXAMPLE: A company treats HR as pure administration (payroll, paperwork). Turnover is high and hiring is slow. Reframing HR as a strategic function — improving hiring quality, onboarding, and retention — turns a cost center into a driver of performance. The activities look similar; the mindset changes everything.\n\nPRACTICE: 1) Map your organization's employee lifecycle. 2) Identify one stage with the biggest drop-off. 3) Distinguish an administrative HR task from a strategic one."
+    }
+  ]
+}

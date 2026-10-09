@@ -1,0 +1,34 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "business_strategy",
+  "lessons": [
+    {
+      "id": "business_strategy_L1_1",
+      "subject_id": "business_strategy",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Strategy Foundations",
+      "category": "MASTERY",
+      "content": "Strategy is choosing where to play and how to win for sustainable advantage. It's about trade-offs — deciding what NOT to do. KEY CONCEPTS: Strategy answers what business you're in, who your customers are, and why you win. WORKED EXAMPLE: A budget airline wins by choosing NOT to offer frills — focus creates advantage. PRACTICE: 1) State your where-to-play. 2) State your how-to-win. 3) List what you'll deliberately NOT do."
+    },
+    {
+      "id": "business_strategy_L1_2",
+      "subject_id": "business_strategy",
+      "level": 1,
+      "lesson_number": 2,
+      "title": "Strategic Diagnosis",
+      "category": "MASTERY",
+      "content": "Diagnosis precedes prescription. Separate symptoms from causes, identify the system constraint, and distinguish an attractive opportunity from a problem that is merely visible.\n\nWORKED APPLICATION: Apply this concept to a business you understand. Define the strategic objective, identify the relevant actors and constraints, compare at least two alternatives, and state what evidence would change your conclusion.\n\nPRACTICE: 1) Write a one-page application. 2) Identify three assumptions. 3) Define one measurable signal that would validate or challenge your analysis.\n\nMASTERY STANDARD: Explain the concept, apply it to a new case, identify tradeoffs and limitations, and defend a decision with evidence."
+    },
+    {
+      "id": "business_strategy_L1_3",
+      "subject_id": "business_strategy",
+      "level": 1,
+      "lesson_number": 3,
+      "title": "Industry Boundaries",
+      "category": "MASTERY",
+      "content": "Industry boundaries are analytical choices. Examine adjacent categories, substitutes, complements, distribution layers, and changing technology before assuming today's industry definition will remain stable.\n\nWORKED APPLICATION: Apply this concept to a business you understand. Define the strategic objective, identify the relevant actors and constraints, compare at least two alternatives, and state what evidence would change your conclusion.\n\nPRACTICE: 1) Write a one-page application. 2) Identify three assumptions. 3) Define one measurable signal that would validate or challenge your analysis.\n\nMASTERY STANDARD: Explain the concept, apply it to a new case, identify tradeoffs and limitations, and defend a decision with evidence."
+    }
+  ]
+}
