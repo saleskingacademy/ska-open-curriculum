@@ -29,3 +29,19 @@ Published machine-readable targeted evidence: [validation report](VALIDATION_14_
 Next: Lessons 17–20 covering multi-digit subtraction, signed addition/subtraction, estimation/checking and integrated operations mastery, then two-form Level 2 cumulative assessment. Remaining course lessons, final examination, full capstone, prerequisite closure, academic review, metadata mapping and production serving verification remain open.
 
 Education-16 and Symbol256 mappings remain deferred per existing standards. No private operational code, Chain64 core, learner record or payment configuration is changed. No deployment, learner-serving update, email send, revenue receipt or hardware quantum execution is claimed by this content commit.
+
+## Post-commit CI result
+
+Content commit: `7945ea3b1d4edb59430a67ae45769e8b44776f73`. GitHub Actions run `38012970291` passed Python compilation and JavaScript syntax, then failed the existing knowledge-only integrity lint. Education-16 and JSON validation steps were skipped, so full CI is not passed.
+
+The lint script and every flagged knowledge file are unchanged by the content commit (verified against its parent diff). Inspection identifies these distinct findings:
+
+| Legacy path | Inspection result |
+|---|---|
+| `knowledge/mathematics/calculus_3.md` | Contradictory wording lists Poincare among open questions while immediately saying it was solved. Requires prose correction. |
+| `knowledge/general_studies/real_analysis.md` | Lists Poincare among open questions with a resolved parenthesis. Requires prose correction and disciplinary-scope review. |
+| `knowledge/mathematics/arithmetic.md` | Calls advanced number-theory conjectures open questions in arithmetic without separating this elementary course from the specialist use of arithmetic. Requires scope correction. |
+| `knowledge/mathematics/geometry.md` | Explicitly says Poincare is resolved; the regular expression crosses into the next sentence about Hodge remaining open. False positive for this rule. |
+| `knowledge/engineering/aerospace_engineering.md` | The matched passage discusses RANS turbulence-model and near-wall limitations, not breakdown of the underlying equations merely because turbulence occurs. False positive for this rule. |
+
+These are inherited findings, not regressions introduced by Lessons 14-16. Their correction requires narrowly scoped prose/lint changes with regression cases and refreshed derived artifacts where applicable. They remain open in this continuation rather than weakening the gate or labeling the full repository validated. Production serving was not tested or deployed.
