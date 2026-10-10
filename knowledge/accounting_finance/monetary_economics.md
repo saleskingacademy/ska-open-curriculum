@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Monetary Economics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Monetary economics studies the role of money in an economy—its creation, circulation, and impact on macroeconomic variables such as inflation, output, and interest rates. At its core, it examines how monetary institutions and policies influence the equilibrium between money supply (M), money demand (L), and the price level (P). First principles rest on the Quantity Theory of Money (QTM), expressed as MV = PY, where M is nominal money supply, V velocity of money, P the price level, and Y real output. Money serves as a medium of exchange, unit of account, and store of value, facilitating economic transactions and reducing transaction costs. The interplay of money with credit, expectations, and policy regimes shapes inflation dynamics, interest rate determination, and business cycles.

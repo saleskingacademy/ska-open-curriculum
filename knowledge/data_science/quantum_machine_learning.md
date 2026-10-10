@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Quantum Machine Learning
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Quantum Computing Basics
 
 Qubits (superposition — 0 AND 1 simultaneously), entanglement (correlated regardless of distance), interference (probability amplitudes). Quantum gates (Hadamard, CNOT, Toffoli). Quantum circuits. QUANTUM ADVANTAGE: For certain problems, exponential speedup over classical. Shor's algorithm (factoring — breaks RSA), Grover's algorithm (search — quadratic speedup). CURRENT HARDWARE: Superconducting (IBM, Google — 1000+ qubits, but noisy), Trapped ions (IonQ, Quantinuum — fewer qubits, higher fidelity), Photonic (Xanadu, PsiQuantum), Neutral atoms (QuEra), Topological (Microsoft — still theoretical). NISQ ERA: Noisy Intermediate-Scale Quantum — current devices too noisy for full error correction. 50-1000 qubits with errors. Variational algorithms designed for NISQ. QML ALGORITHMS: Quantum kernel methods, variational quantum eigensolver (VQE), quantum approximate optimization (QAOA), quantum neural networks (QNN), quantum Boltzmann machines. HYBRID: Classical-quantum loops. Classical optimizer tunes quantum circuit parameters. Best near-term approach. POTENTIAL: Drug discovery (molecular simulation), materials science, optimization (logistics, finance), cryptography. LIMITATIONS: Decoherence, error rates, qubit connectivity, no proven quantum advantage for ML on real data yet. Quantum supremacy (Google 2019 — narrow task). APPLIED: Prepare for quantum era. Quantum-safe cryptography now. QML research accelerating but production use years away.

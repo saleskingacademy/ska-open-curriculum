@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Sports Nutrition
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Sports nutrition is the scientific discipline focused on optimizing athletic performance, recovery, and adaptation through targeted dietary strategies. It integrates biochemistry, physiology, and metabolism to tailor macronutrient and micronutrient intake according to sport-specific energy demands, training phases, and individual variability. The core principle is to align nutrient timing, quantity, and quality with exercise intensity, duration, and goals (e.g., hypertrophy, endurance, power). Central to this is energy balance (Energy Intake = Energy Expenditure ± Energy Storage), substrate utilization shifts (carbohydrates, fats, proteins), and hydration dynamics, all modulated by hormonal and enzymatic responses to exercise and nutrition.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Calculus 3
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Multivariable Calculus
 
 Functions f(x,y,z). Partial derivatives ∂f/∂x. Gradient ∇f=(∂f/∂x, ∂f/∂y, ∂f/∂z). Directional derivative D_u f=∇f·u. MULTIPLE INTEGRALS: Double ∫∫f(x,y)dA, triple ∫∫∫f(x,y,z)dV. Change of variables: polar (r,θ), cylindrical (r,θ,z), spherical (ρ,θ,φ). Jacobian determinant. VECTOR FIELDS: F=(P,Q,R). Line integrals ∫_C F·dr. Conservative fields: F=∇f iff curl F=0. Green's theorem: ∮F·dr=∫∫(∂Q/∂x-∂P/∂y)dA. SURFACE INTEGRALS: ∫∫_S F·dS. Stokes' theorem: ∮F·dr=∫∫(curl F)·dS. Divergence theorem: ∫∫F·dS=∫∫∫(div F)dV. OPTIMIZATION: Critical points ∇f=0. Second derivative test: D=f_{xx}f_{yy}-(f_{xy})². Lagrange multipliers: ∇f=λ∇g for constraint g=c.

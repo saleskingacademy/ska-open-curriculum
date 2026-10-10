@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Folklore Mythology
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Mythology
 
 Sacred narratives explaining origins and cosmic order. Greek (Olympians, Titans, heroes, Iliad/Odyssey), Norse (Aesir/Vanir, Ragnarök, Eddas), Egyptian (Osiris-Isis-Horus cycle, Book of the Dead), Hindu (Vedas, Ramayana, Mahabharata), Chinese (Pangu creation, Journey to the West), Japanese (Kojiki, kami, Amaterasu), Celtic (Tuatha Dé Danann, Mabinogion). CAMPBELL'S MONOMYTH: Hero's Journey — call to adventure, threshold crossing, road of trials, supreme ordeal, return with boon. Found cross-culturally. Lucas explicitly used it for Star Wars. ARCHETYPES: Jung — Hero, Shadow, Anima/Animus, Trickster, Mother, Wise Old Man, Child. Universal patterns in collective unconscious. Appear in myths, dreams, stories across ALL cultures. FOLKLORE: Everyday narratives — fairy tales (Grimm, Perrault, Aesop), legends (King Arthur, Robin Hood), folk songs, proverbs, riddles, customs. Oral tradition → written collections (19th century nationalism → folklore studies). TRICKSTER: Universal archetype — Coyote (Native American), Anansi (West African), Loki (Norse), Hermes (Greek), Sun Wukong (Chinese). Breaks rules, challenges authority, creates through chaos. COMPARATIVE: Flood myths (Gilgamesh, Noah, Manu, Deucalion — independent or diffused?). Creation myths (ex nihilo, earth-diver, cosmic egg, emergence). Dying-and-rising gods (Osiris, Tammuz, Dionysus, Baldr). APPLIED: Mythology and folklore are humanity's first knowledge systems. They encode psychological truths, moral reasoning, and cultural values. Understanding them unlocks deeper understanding of every human culture.

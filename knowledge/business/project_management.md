@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Project Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Project management is the discipline of initiating, planning, executing, controlling, and closing work to achieve specific goals within defined constraints of scope, time, cost, and quality. Its core purpose is to deliver unique products, services, or results through temporary endeavors characterized by progressive elaboration and uncertainty. The first principles rest on the iron triangle (scope, time, cost), stakeholder alignment, risk management, and iterative refinement. Projects differ fundamentally from operations by their finite life cycle and defined objectives, demanding structured governance and adaptive leadership. Effective project management synthesizes technical skills, behavioral competencies, and contextual awareness to optimize resource allocation and value delivery.

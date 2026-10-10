@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Sales
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 SALES — COMPLETE MASTERY CURRICULUM (Intermediate → King Level)

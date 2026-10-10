@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History American
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Section
 
 FOUNDATIONS

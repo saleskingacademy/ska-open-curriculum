@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Communication Theory
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Communication theory is the interdisciplinary study of the processes, models, and systems through which information is encoded, transmitted, received, and decoded between entities. Rooted in Shannon and Weaver’s 1948 seminal work, it formalizes communication as a probabilistic transfer of messages over noisy channels, emphasizing entropy, redundancy, and channel capacity. At its core, communication theory integrates information theory, semiotics, cybernetics, and sociolinguistics to explain how meaning and signals propagate within and across systems. First principles include the sender-message-channel-receiver paradigm, noise as a stochastic disruptor, feedback loops for system regulation, and the quantification of information via entropy (H = -Σ p(x) log p(x)).

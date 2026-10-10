@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Time Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Time management is the disciplined process of planning, allocating, and controlling time to optimize productivity and achieve specific goals within temporal constraints. At its core, it rests on first principles: time is a finite, non-renewable resource; prioritization is essential to distinguish value-adding activities; and deliberate focus mitigates the cognitive cost of task-switching. Effective time management integrates objective measurement of time expenditure, strategic scheduling, and adaptive control mechanisms to align daily actions with long-term objectives. It requires mastery over self-regulation, environmental design, and decision heuristics to overcome procrastination and cognitive biases such as optimism bias and planning fallacy.

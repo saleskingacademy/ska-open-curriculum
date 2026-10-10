@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Military Tactics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Core concepts, principles, and frameworks in Military Tactics. Key terminology and definitions. Historical development and major contributors. METHODOLOGY: Standard approaches, techniques, and tools used in Military Tactics. Best practices and common pitfalls. Evidence-based methods. APPLICATIONS: Real-world implementation, case studies, industry standards. Professional certifications and career pathways. Cross-disciplinary connections. ADVANCED: Current research, emerging trends, and future directions. Ethical considerations and societal impact. Critical analysis of competing approaches.

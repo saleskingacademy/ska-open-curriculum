@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Statistical Mechanics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Fundamentals
 
 Microstates, macrostates. Ergodic hypothesis. Boltzmann entropy S=k_B*ln(Omega). ENSEMBLES: Microcanonical (fixed E,N,V). Canonical (fixed T,N,V): partition function Z=sum(exp(-E_i/kT)), F=-kT*ln(Z). Grand canonical (fixed T,mu,V): grand partition function Xi. CLASSICAL: Maxwell-Boltzmann distribution f(v)=4pi*n(m/2pi*kT)^(3/2)*v^2*exp(-mv^2/2kT). Equipartition theorem <E>=f/2*kT. QUANTUM STATISTICS: Fermi-Dirac (fermions, half-integer spin): f(E)=1/(exp((E-mu)/kT)+1). Bose-Einstein (bosons, integer spin): f(E)=1/(exp((E-mu)/kT)-1). APPLICATIONS: Ideal gas (PV=NkT from partition function). Blackbody radiation (Planck distribution). Einstein/Debye models of solids. Bose-Einstein condensation. Fermi gas (degenerate electron gas, white dwarfs). PHASE TRANSITIONS: Order parameters. First-order (latent heat) vs continuous. Critical exponents. Ising model. Mean-field theory. Renormalization group.

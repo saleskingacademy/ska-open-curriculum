@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Podcasting
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Podcasting is a digital audio broadcasting medium that enables episodic content distribution via syndicated feeds (commonly RSS with enclosures) to on-demand listeners. It operates on the principles of decentralized content creation, asynchronous consumption, and platform-agnostic accessibility. At its core, podcasting integrates three technical pillars: content capture (audio recording), content packaging (encoding and metadata tagging), and content distribution (feed syndication and hosting). Unlike traditional radio, podcasting leverages internet protocols to enable time-shifted listening, fostering niche communities and direct creator-to-consumer relationships. The foundational protocols include RSS 2.0 with iTunes extensions, MP3/AAC encoding standards (bitrate typically 64–128 kbps for voice clarity), and hosting solutions optimized for bandwidth and scalability.

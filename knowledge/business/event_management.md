@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Event Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Event management is the strategic discipline of planning, organizing, coordinating, and executing events to achieve specific objectives, whether commercial, educational, social, or cultural. At its core, event management integrates project management principles with marketing, logistics, risk management, and stakeholder engagement to deliver seamless experiences. The first principles include defining clear objectives (SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound), stakeholder alignment, resource optimization, and iterative evaluation. Events are temporary, unique undertakings constrained by time, budget, and scope, requiring dynamic coordination of people, processes, and technology.

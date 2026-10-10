@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Web Design
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Web design is the multidisciplinary practice of planning, conceptualizing, and arranging content intended for the Internet. At its core, web design synthesizes visual communication, user experience (UX) principles, and front-end technologies to create interfaces that are both aesthetically compelling and functionally efficient. First principles include:  

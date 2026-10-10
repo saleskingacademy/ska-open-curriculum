@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Astrobiology
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Definition
 
 Study of life's origin, evolution, distribution, and future in the universe. Interdisciplinary: biology, chemistry, geology, astronomy, physics. ORIGIN OF LIFE: Abiogenesis — how non-living chemistry became biology. Miller-Urey experiment (1952 — amino acids from primordial atmosphere simulation). RNA World hypothesis (self-replicating RNA preceded DNA/proteins). Hydrothermal vents (black smokers — chemical energy, mineral catalysts). Panspermia (life seeded from space — not origin, just transport). EXTREMOPHILES: Life in "impossible" conditions. Thermophiles (>80°C, Thermus aquaticus — Taq polymerase for PCR). Psychrophiles (Antarctic ice). Halophiles (Dead Sea). Acidophiles (pH <3). Radiation-resistant (Deinococcus radiodurans — survives 5000× human lethal dose). Tardigrades (survive vacuum of space). These expand the definition of "habitable." MARS: Evidence of ancient water (river channels, mineral deposits). Methane fluctuations (geological or biological?). Mars 2020 Perseverance — collecting samples for return. EUROPA & ENCELADUS: Subsurface oceans beneath ice shells. Europa (Jupiter moon) — 2× Earth's water. Enceladus (Saturn moon) — water plumes containing organic molecules. Prime targets for life detection. TITAN: Saturn's largest moon. Dense atmosphere, methane lakes. Possible exotic biochemistry (silicon-based? methane solvent?). Dragonfly mission (2034). APPLIED: Understanding life's limits and origins informs everything from medicine to planetary protection protocols.

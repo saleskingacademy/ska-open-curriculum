@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Educational Psychology
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Learning Theories
 
 Behaviorism (Skinner — operant conditioning, reinforcement schedules). Cognitivism (information processing, schema theory — Piaget). Constructivism (knowledge constructed through experience — Vygotsky ZPD, scaffolding). Social learning (Bandura — modeling, self-efficacy). Connectivism (Siemens — learning in networks). MOTIVATION: Intrinsic vs extrinsic. Self-determination theory (Deci & Ryan: autonomy, competence, relatedness). Flow (Csikszentmihalyi: challenge-skill balance). Growth mindset (Dweck: intelligence is malleable) vs fixed mindset. Attribution theory (Weiner: locus, stability, controllability). TRANSFER: Near transfer (similar contexts) vs far transfer (different contexts). Promoting transfer: varied practice, explicit connections, metacognitive strategies. METACOGNITION: Thinking about thinking. Planning, monitoring, evaluating one's own learning. Self-regulated learning (Zimmerman: forethought, performance, self-reflection). INTELLIGENCE: Multiple intelligences (Gardner: linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, naturalistic). Sternberg's triarchic (analytical, creative, practical).

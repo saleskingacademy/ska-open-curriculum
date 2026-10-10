@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # React
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 React is a declarative, component-based JavaScript library for building user interfaces, primarily maintained by Meta (Facebook). Its core principle is the unidirectional data flow and the virtual DOM diffing algorithm, enabling efficient UI updates. React abstracts UI into composable, reusable components, each encapsulating its own state and lifecycle. The fundamental unit is the React element, a lightweight description of what to render, which React reconciles against the virtual DOM to produce minimal real DOM mutations. React’s design is rooted in functional programming concepts, emphasizing pure functions, immutability, and side-effect management via hooks.

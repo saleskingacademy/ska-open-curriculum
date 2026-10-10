@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Art Criticism
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Art criticism is the systematic study, interpretation, and evaluation of artworks, integrating aesthetic theory, historical context, and cultural discourse to elucidate meaning, value, and impact. Rooted in philosophy (Plato, Aristotle), semiotics (Barthes, Eco), and hermeneutics (Gadamer), it transcends mere subjective taste by applying rigorous methodologies to interrogate form, content, and function. First principles include: distinguishing description (what is seen) from analysis (how elements interact), interpretation (meaning construction), and judgment (value assessment). Criticism operates dialectically—balancing artist intent, viewer reception, and socio-historical frameworks—to produce nuanced understanding rather than absolute verdicts.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History African
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 African history is the systematic study of human societies, state-formation, economic networks, and cultural evolutions on the African continent from hominid origins to the contemporary era. It rejects the Eurocentric "historical vacuum" myth by utilizing an interdisciplinary methodology combining historical linguistics, archaeological stratigraphy, archaeometallurgy, paleoclimatology, genetics, and oral historiography. First principles dictate: (1) Africa is the primary locus of human evolutionary development (phylogenetic origin); (2) African historical trajectories are driven by internal dynamics, environmental adaptation (such as the desertification of the Sahara starting ~3500 BCE), and indigenous technological innovations (such as independent iron metallurgy in the Great Lakes and Termit regions); and (3) historical reconstruction requires decolonizing the archive by cross-referencing oral traditions with external documentary sources (Arabic, Ge'ez, European) and empirical scientific data.

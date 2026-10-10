@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Memory Techniques
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Memory techniques, or mnemonics, are systematic cognitive strategies that enhance encoding, storage, and retrieval of information by leveraging the brain’s associative, spatial, and imaginal faculties. Rooted in dual-coding theory and the method of loci, these techniques exploit the brain’s superior capacity for visual and spatial memory over rote verbal memorization. At first principles, memory enhancement relies on transforming abstract or arbitrary data into structured, meaningful, and vivid representations, thereby creating durable neural patterns. Effective mnemonics optimize attention, reduce cognitive load via chunking, and engage elaborative rehearsal by linking new information to pre-existing knowledge schemas.

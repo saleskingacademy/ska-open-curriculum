@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ancient Egypt Civilization
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Predynastic (5000-3100 Bce)
 
 Nile agriculture, Nagada culture, unification under Narmer/Menes. TIMELINE: Old Kingdom (2686-2181 — pyramids), First Intermediate, Middle Kingdom (2055-1650 — literature golden age), Second Intermediate (Hyksos), New Kingdom (1550-1069 — imperial height), Third Intermediate, Late Period, Ptolemaic, Roman. PYRAMIDS: Step Pyramid of Djoser (2670 BCE, Imhotep architect). Great Pyramid of Giza (Khufu/Cheops, 2560 BCE) — 2.3M limestone blocks, 146.5m tall, aligned to true north within 0.05°. Engineering precision that still astounds. Theories: internal ramp, water lubrication, counterweight systems. HIEROGLYPHICS: ~750 signs. Rosetta Stone (196 BCE, found 1799, Champollion decoded 1822). Hieratic and Demotic scripts for daily use. RELIGION: Ra, Osiris, Isis, Horus, Anubis, Ma'at. Afterlife central — Book of the Dead, mummification (70-day process), canopic jars, ka/ba/akh soul concepts. MEDICINE: Edwin Smith Papyrus (1600 BCE) — surgical treatise, 48 cases. Ebers Papyrus — 700+ remedies. Dentistry, ophthalmology, pharmacology. MATHEMATICS: Base-10, fractions (unit fractions only), Rhind Papyrus (1650 BCE) — 84 problems. Area of circle approximation (π ≈ 3.16). AKHENATEN: Religious revolution — monotheistic Aten worship. Amarna period. Nefertiti. Reversed by Tutankhamun. CLEOPATRA VII: Last pharaoh. Spoke 9 languages. Alliance with Caesar then Antony. Ptolemaic dynasty (Greek). Egypt became Roman province 30 BCE.

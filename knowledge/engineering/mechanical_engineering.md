@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Mechanical Engineering
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Statics
 
 Free body diagrams. Equilibrium ΣF=0, ΣM=0. Trusses (method of joints, method of sections). Friction (f=μN, static vs kinetic). MECHANICS OF MATERIALS: Stress σ=F/A, strain ε=ΔL/L. Hooke's law σ=Eε (E=Young's modulus). Poisson's ratio ν=-ε_lat/ε_axial. Shear stress τ=VQ/(Ib). Bending stress σ=My/I. Torsion τ=Tr/J. Mohr's circle. Failure theories: von Mises, Tresca, maximum normal stress. DYNAMICS: Newton's laws applied. Work-energy, impulse-momentum. Vibrations: natural frequency ω_n=√(k/m), damping ratio ζ=c/(2√(km)), forced vibration, resonance. THERMODYNAMICS: Cycles — Carnot (max efficiency), Otto (gasoline engine, η=1-(1/r^(γ-1))), Diesel, Rankine (steam power), refrigeration (COP_cooling=Q_L/W). FLUID MECHANICS: Bernoulli P+½ρv²+ρgh=const. Reynolds number Re=ρvD/μ (laminar<2300, turbulent>4000). Navier-Stokes equations. MANUFACTURING: Machining (turning, milling, drilling), casting, forging, welding, additive manufacturing (3D printing — FDM, SLA, SLS).

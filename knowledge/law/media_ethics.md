@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Media Ethics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Media ethics is the branch of applied ethics examining the moral responsibilities and principles guiding media practitioners in the creation, dissemination, and consumption of information across platforms. Rooted in normative ethical theories—deontology, consequentialism, virtue ethics—it interrogates the tension between truth-telling, harm minimization, autonomy, and public interest. Core first principles include truthfulness (veracity), fairness, accountability, respect for privacy, avoidance of harm, and independence from undue influence. Media ethics operates within a complex ecosystem where legal frameworks (e.g., First Amendment, GDPR), professional codes (e.g., SPJ Code of Ethics), and evolving digital norms intersect. It demands balancing competing values: transparency vs. confidentiality, speed vs. accuracy, public interest vs. individual rights.

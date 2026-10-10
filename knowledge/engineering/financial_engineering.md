@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Financial Engineering
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Derivatives
 
 Options (Black-Scholes: C=S₀N(d₁)-Ke^(-rT)N(d₂), Greeks: Δ=∂V/∂S, Γ=∂²V/∂S², θ=∂V/∂t, ν=∂V/∂σ, ρ=∂V/∂r). Futures (cost of carry F=S·e^(r-q)T). Swaps (IRS, CDS, currency). MODELS: Binomial tree (Cox-Ross-Rubinstein), Black-Scholes-Merton, stochastic volatility (Heston), jump-diffusion (Merton), local volatility (Dupire). Monte Carlo simulation. FIXED INCOME: Duration (Macaulay, modified), convexity, yield curve (bootstrapping, Nelson-Siegel). MBS (prepayment models — CPR, PSA). RISK: VaR (Value at Risk — historical, parametric, Monte Carlo), CVaR/ES (Expected Shortfall), stress testing, backtesting. Basel III/IV capital requirements. PORTFOLIO: Markowitz (mean-variance optimization), CAPM (E(R)=Rf+β(Rm-Rf)), APT, factor models (Fama-French 3/5). Black-Litterman. PROGRAMMING: Python (NumPy, pandas, QuantLib), C++ (pricing engines), R (risk analytics).

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Auto Mechanics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Auto mechanics is the discipline and practice of diagnosing, repairing, and maintaining internal combustion engine vehicles and their subsystems, encompassing mechanical, electrical, hydraulic, and electronic domains. Rooted in thermodynamics, fluid mechanics, and materials science, it requires mastery of engine cycles (primarily the four-stroke Otto and Diesel cycles), power transmission, and control systems. The fundamental principle is energy conversion—chemical energy in fuel to mechanical work—mediated by precise timing, combustion control, and mechanical integrity. Effective auto mechanics integrates systematic diagnostic methodologies, component-level understanding, and adherence to manufacturer specifications and safety standards.

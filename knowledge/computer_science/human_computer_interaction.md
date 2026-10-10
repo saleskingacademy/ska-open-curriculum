@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Human Computer Interaction
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Human-Computer Interaction (HCI) is an interdisciplinary field focused on the design, evaluation, and implementation of interactive computing systems for human use and the study of major phenomena surrounding them. At its core, HCI integrates principles from computer science, cognitive psychology, design, and ergonomics to optimize the usability, accessibility, and user experience of digital interfaces. First principles include understanding human perceptual and cognitive capabilities (e.g., Miller’s Law: 7±2 items in working memory), affordances (Norman, 1988), feedback loops, and the socio-technical context of interaction. HCI is inherently iterative, emphasizing user-centered design (UCD), empirical evaluation, and continuous refinement.

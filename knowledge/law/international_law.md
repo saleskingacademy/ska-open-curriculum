@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # International Law
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Sources
 
 Treaties (Vienna Convention on Law of Treaties), customary international law (state practice + opinio juris), general principles, judicial decisions (ICJ), scholarly writings. UN CHARTER: Sovereign equality, prohibition of force (Art 2(4)), self-defense (Art 51), Security Council enforcement (Ch VII). TRADE LAW: WTO (GATT, GATS, TRIPS). Most-favored-nation principle. National treatment. Dispute settlement (panels, Appellate Body). HUMAN RIGHTS: Universal Declaration (1948). ICCPR (civil/political), ICESCR (economic/social/cultural). European Convention on Human Rights. Geneva Conventions (humanitarian law in armed conflict — protection of civilians, POWs, wounded). ICC (Rome Statute — genocide, crimes against humanity, war crimes, aggression). INVESTMENT LAW: Bilateral investment treaties (BITs). ICSID arbitration. Expropriation (direct vs indirect), fair and equitable treatment, full protection and security. SANCTIONS: UN sanctions, US (OFAC — SDN list, sectoral sanctions), EU sanctions. Extraterritorial application (FCPA, UK Bribery Act). MARITIME: UNCLOS — territorial sea (12nm), EEZ (200nm), continental shelf, freedom of navigation.

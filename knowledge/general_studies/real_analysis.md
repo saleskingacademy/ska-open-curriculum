@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Real Analysis
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Real Numbers
 
 Completeness axiom (every nonempty bounded above set has supremum). Archimedean property. Density of rationals. SEQUENCES: Convergence ε-N definition. Cauchy sequences. Bolzano-Weierstrass (bounded sequence has convergent subsequence). Limsup, liminf. SERIES: Absolute vs conditional convergence. Rearrangement theorem (Riemann). CONTINUITY: ε-δ definition. Uniform continuity. Extreme value theorem. DIFFERENTIABILITY: Implies continuity. Mean value theorem. Taylor's theorem with remainder. INTEGRATION: Riemann integral via partitions. Integrability of continuous functions. Fundamental theorem of calculus. Lebesgue measure and integral (measure zero, dominated convergence, Fubini). METRIC SPACES: (X,d), open/closed balls, completeness, compactness (sequential), total boundedness. Contraction mapping theorem. FUNCTION SPACES: Uniform convergence, Weierstrass M-test, Arzelà-Ascoli theorem.

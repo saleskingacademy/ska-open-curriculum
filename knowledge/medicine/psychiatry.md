@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Psychiatry
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Psychiatry is the medical specialty devoted to the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders. Rooted in neurobiology, psychology, and social sciences, it integrates biological, psychological, and sociocultural models to understand psychopathology. Core principles include the biopsychosocial model (Engel, 1977), neurochemical and neuroanatomical correlates of mental illness, and evidence-based psychopharmacology and psychotherapy. Psychiatry uniquely combines medical assessment (history, mental status exam, physical/neuro exam) with longitudinal evaluation and multidisciplinary treatment planning.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Dropshipping
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Dropshipping is a retail fulfillment method wherein the seller accepts customer orders without maintaining inventory, instead transferring order details to a third-party supplier—typically a manufacturer, wholesaler, or another retailer—who ships products directly to the end customer. This eliminates the need for upfront inventory investment and warehousing, fundamentally shifting capital expenditure (CapEx) to operational expenditure (OpEx). The core economic principle is arbitrage on supply chain latency and price differentials, leveraging digital storefronts as demand aggregation points. Critical to dropshipping is the decoupling of inventory risk from sales activity, enabling scalable, low-barrier market entry but introducing dependencies on supplier reliability, shipping times, and product quality control.

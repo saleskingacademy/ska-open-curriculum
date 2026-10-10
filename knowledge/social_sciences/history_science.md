@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History Science
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Historical science is the rigorous, empirical reconstruction of unique, past token events using present-day physical, chemical, and textual traces. Unlike experimental science, which isolates invariant physical laws through repeatable, controlled trials, historical science operates under the asymmetry of overdetermination: past events leave redundant, localized physical traces in the present, making it epistemologically viable to reconstruct the past even when direct observation is impossible. Its first principles dictate that: (1) time is unidirectional and thermodynamic, producing entropic decay of information; (2) historical traces are biased by taphonomic and preservation filters; and (3) causal claims must be validated through the elimination of competing hypotheses using "smoking gun" evidence rather than predictive forward-modeling.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Veterinary Science
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Veterinary science is the multidisciplinary field dedicated to the study, diagnosis, treatment, and prevention of diseases in animals, encompassing domestic, wild, and laboratory species. It integrates principles from anatomy, physiology, pathology, microbiology, pharmacology, surgery, and epidemiology to maintain animal health, ensure food safety, and control zoonotic diseases. Core to veterinary science is the One Health concept, recognizing the interconnectedness of human, animal, and environmental health. The discipline relies on rigorous clinical reasoning frameworks, evidence-based medicine, and population health management to optimize outcomes across species.

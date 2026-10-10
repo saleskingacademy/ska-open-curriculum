@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Enterprise Ai Architecture
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Enterprise AI Architecture (EAI Architecture) is the systematic design and deployment of AI capabilities embedded within an organization’s technology stack, optimized to deliver scalable, secure, and compliant AI-driven business outcomes. It integrates data engineering, model development, deployment, monitoring, and governance into a cohesive framework aligned with enterprise IT and business strategy. First principles include modularity, reusability, explainability, data lineage, operationalization, and continuous learning. EAI Architecture must reconcile competing demands of agility and control, balancing innovation velocity with risk mitigation, while ensuring interoperability across heterogeneous legacy and cloud-native systems.

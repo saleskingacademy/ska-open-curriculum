@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Stochastic Analysis
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Stochastic analysis is based on probability theory, which involves the study of random events and their likelihood of occurrence. A **random variable** is a function that assigns a numerical value to each outcome of a random experiment, and its possible values are described by a **probability distribution**, which is a mathematical function that assigns a probability to each possible value of the random variable. The **expected value** of a random variable is a measure of its central tendency, calculated as the sum of each possible value multiplied by its probability.

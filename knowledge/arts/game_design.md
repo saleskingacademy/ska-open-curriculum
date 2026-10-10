@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Game Design
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Game design is the systematic craft of creating interactive systems governed by rules, goals, and feedback loops to produce meaningful player experiences. At its core, game design orchestrates the interplay between mechanics (rules and systems), dynamics (player interactions and emergent behavior), and aesthetics (emotional responses), a triad formalized in the MDA framework (Hunicke, LeBlanc, Zubek, 2004). First principles include defining clear objectives, balancing challenge and skill (Csikszentmihalyi’s Flow Model), ensuring meaningful player choices, and designing feedback loops that reinforce engagement. Effective game design requires iterative prototyping, player-centric testing, and an understanding of ludology (study of play) and narratology (storytelling within games).

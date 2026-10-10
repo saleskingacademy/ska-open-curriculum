@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Space Exploration History
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Rocketry Pioneers
 
 Tsiolkovsky (1903 — rocket equation), Goddard (1926 — first liquid-fuel rocket), von Braun (V-2, then NASA). SPACE RACE: Sputnik 1 (Oct 4, 1957 — first artificial satellite). Laika (Nov 1957 — first animal in orbit). Yuri Gagarin (Apr 12, 1961 — first human in space, Vostok 1). Alan Shepard (May 1961), John Glenn (Feb 1962 — first US orbit). Valentina Tereshkova (Jun 1963 — first woman). Alexei Leonov (Mar 1965 — first spacewalk). APOLLO: JFK commitment (May 1961). Apollo 1 fire (1967, 3 killed). Apollo 8 (first humans to orbit Moon, Dec 1968). APOLLO 11 (Jul 20, 1969 — Neil Armstrong, Buzz Aldrin land on Moon. "One small step." 600M watched live). Apollo 13 (1970 — "Houston, we've had a problem," successful failure). Apollo 17 (Dec 1972 — last Moon landing, Gene Cernan last human on Moon). STATIONS: Salyut, Skylab, Mir (1986-2001), ISS (1998-present, 420km altitude, ~$150B, continuously crewed since Nov 2000). SHUTTLES: 1981-2011, 135 missions. Challenger (1986, O-ring), Columbia (2003, foam strike). PROBES: Voyager 1 (1977, now interstellar space 24B km away, still communicating), Mars rovers (Spirit, Opportunity, Curiosity, Perseverance), Cassini-Huygens (Saturn), New Horizons (Pluto). James Webb Space Telescope (2021 — L2 point, infrared, first galaxies). COMMERCIAL ERA: SpaceX (reusable rockets, Falcon 9, Starship), Blue Origin, Virgin Galactic. Artemis program (return to Moon). Mars plans.

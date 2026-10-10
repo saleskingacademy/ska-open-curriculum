@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ancient India Civilization
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Indus Valley (3300-1300 Bce)
 
 Harappa, Mohenjo-daro. Advanced urban planning — grid streets, indoor plumbing, standardized weights, granaries. Population ~5M. Writing (undeciphered Indus script — 400+ symbols). Declined ~1900 BCE — climate change, river shifts. VEDIC PERIOD (1500-500 BCE): Indo-Aryan migration. Rigveda (~1500 BCE — oldest Hindu scripture, 1028 hymns). Caste system origins. Sanskrit literature. Upanishads (~800-500 BCE — philosophical texts, Brahman-Atman, karma, moksha, samsara). MAURYA EMPIRE (322-185 BCE): Chandragupta Maurya. Ashoka (268-232 BCE — converted to Buddhism after Kalinga War, Rock Edicts, promoted dharma across empire, first known ruler to advocate religious tolerance and animal welfare). GUPTA EMPIRE (320-550 CE): Golden Age. MATHEMATICS: Zero as a number (Brahmagupta 628 CE), decimal place-value system (what we call "Arabic" numerals — actually Indian), negative numbers, quadratic formula, π calculated to 4 decimal places (Aryabhata). ASTRONOMY: Aryabhata (476 CE) — Earth rotates on axis, heliocentric ideas, eclipses are shadows. MEDICINE: Sushruta Samhita (600 BCE) — 300+ surgical procedures, rhinoplasty (nose reconstruction), 120+ surgical instruments. Ayurveda system. LITERATURE: Mahabharata (100K+ verses, longest epic ever written, contains Bhagavad Gita), Ramayana. Kalidasa (Shakespeare of India). Grammar: Panini (4th century BCE — Ashtadhyayi, 3959 rules, considered most sophisticated grammar ever written, influenced modern computational linguistics).

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Linear Algebra
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Vector Spaces
 
 Axioms (closure, associativity, commutativity, identity, inverse, distributivity). Subspaces. Span, linear independence, basis, dimension. MATRICES: m×n array. Row reduction, echelon form, RREF. Rank = dimension of column space. SYSTEMS Ax=b: consistent iff b∈col(A). DETERMINANTS: det(A) via cofactor expansion or row operations. det(AB)=det(A)det(B). Invertible iff det≠0. EIGENVALUES: Av=λv. Characteristic polynomial det(A-λI)=0. Eigenspaces. Diagonalization A=PDP⁻¹ when n linearly independent eigenvectors exist. INNER PRODUCT SPACES: ⟨u,v⟩, norm ||v||=√⟨v,v⟩, orthogonality ⟨u,v⟩=0. Gram-Schmidt process. Orthogonal projection. SINGULAR VALUE DECOMPOSITION: A=UΣV^T. Applications: PCA, least squares, image compression. LINEAR TRANSFORMATIONS: T:V→W linear. Matrix representation. Kernel (null space), image (range). Rank-nullity theorem: dim(ker)+dim(im)=dim(domain).

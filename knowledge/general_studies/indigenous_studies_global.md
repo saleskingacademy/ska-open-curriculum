@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Indigenous Studies Global
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Scope
 
 476M+ indigenous people across 90 countries, speaking 4000+ languages. Not a monolith — vast diversity of cultures, histories, knowledge systems. KNOWLEDGE SYSTEMS: Ecological knowledge (fire management — Australian Aboriginal people managed landscapes for 65,000 years with controlled burning, now called "cultural burning" and adopted by modern land management). Astronomical knowledge (Aboriginal star maps, Polynesian navigation by stars/currents/waves). Agricultural (Three Sisters — corn/beans/squash companion planting, Amazonian terra preta dark earth). Medicinal (aspirin from willow bark, quinine from cinchona, 25%+ of modern pharmaceuticals derive from traditional knowledge). COLONIALISM IMPACT: Genocide, displacement, forced assimilation, residential schools (Canada, US, Australia — forced removal of children, cultural erasure, physical/sexual abuse). Land dispossession. Language death (1 indigenous language dies every 2 weeks). SOVEREIGNTY: Self-determination movements. Standing Rock (DAPL pipeline protest 2016). Māori Treaty of Waitangi (1840, ongoing negotiations). UNDRIP (UN Declaration on Rights of Indigenous Peoples, 2007). Land back movement. CONTEMPORARY: Indigenous futurism, language revitalization (Hawaiian, Māori, Welsh success stories), indigenous data sovereignty, traditional ecological knowledge in climate research. APPLIED: Indigenous knowledge systems offer sophisticated solutions to sustainability, biodiversity, and land management challenges. Respectful engagement means recognition of intellectual property, free prior informed consent (FPIC), and benefit-sharing.

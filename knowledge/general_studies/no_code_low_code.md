@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # No Code Low Code
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Definition
 
 Platforms enabling software creation without (no-code) or with minimal (low-code) traditional programming. Visual builders, drag-and-drop, pre-built components. MARKET: $30B+ (2024), growing 25%+/year. Gartner: 70% of new enterprise apps will use no-code/low-code by 2025. PLATFORMS: Websites (Webflow, Squarespace, Framer, Carrd), Apps (Bubble, Glide, Adalo, FlutterFlow), Automation (Zapier, Make/Integromat, n8n), Databases (Airtable, Notion), Internal tools (Retool, Appsmith), E-commerce (Shopify, no-code Shopify apps), AI-powered (V0 by Vercel, Bolt, Lovable). WORKFLOW AUTOMATION: Triggers → Actions across apps. "When new email with attachment → save to Google Drive → notify in Slack → log in spreadsheet." Zapier connects 6000+ apps. Make offers complex branching logic. CAPABILITIES: CRUD apps, dashboards, marketplaces, CRMs, project management tools, mobile apps, landing pages, chatbots, membership sites. MVP development in hours/days instead of weeks/months. LIMITATIONS: Scalability (most platforms struggle past ~10K users), customization ceiling (eventually need code), vendor lock-in (hard to export/migrate), performance (slower than native), complex logic (recursive, heavy computation). WHEN TO USE: MVPs, internal tools, prototypes, simple products, automation. WHEN NOT TO: High-performance apps, complex algorithms, products requiring full control, scale beyond platform limits. APPLIED: No-code democratizes software creation. Non-technical founders can build and validate before hiring developers. Reduces software creation cost 70%+. Every business professional should know basic no-code tools.

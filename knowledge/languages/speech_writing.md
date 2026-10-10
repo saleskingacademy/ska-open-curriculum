@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Speech Writing
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Speech writing is the disciplined art and science of crafting oral discourse designed to inform, persuade, motivate, or entertain a live or mediated audience. At its core, speech writing synthesizes rhetorical theory, audience analysis, and narrative construction into a coherent, memorable verbal performance. The first principles rest on Aristotle’s triad: ethos (credibility), pathos (emotional connection), and logos (logical argument). Effective speech writing transcends mere text composition by anticipating delivery dynamics, audience psychology, and contextual exigencies. It requires precision in language economy, rhythmic cadence, and structural clarity to optimize cognitive retention and emotional impact.

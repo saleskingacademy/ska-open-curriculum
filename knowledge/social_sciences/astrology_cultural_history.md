@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Astrology Cultural History
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Origins
 
 Mesopotamian (2000+ BCE) — celestial omens for kings/state, not individuals. MUL.APIN tablets. HELLENISTIC: Ptolemy's Tetrabiblos (2nd century CE) — codified Western astrology. Natal charts, houses, aspects. Zodiac from Babylonian constellations mapped onto ecliptic. SYSTEMS: Western (tropical zodiac — based on seasons/equinoxes), Vedic/Jyotish (sidereal — based on actual star positions, ~24° offset from Western due to precession), Chinese (12-year animal cycle + 5 elements = 60-year cycle, based on Jupiter's orbital period). CULTURAL SIGNIFICANCE: Guided architecture (Angkor Wat aligned to equinoxes), medicine (Hippocrates: "A physician without knowledge of astrology has no right to call himself physician"), agriculture (planting by moon phases), political decisions (Reagan consulted astrologer). SEPARATION FROM ASTRONOMY: Distinguished as separate discipline during Scientific Revolution (17th century). Previously unified — Kepler practiced both. MODERN STATUS: Not scientifically validated as predictive system (Shawn Carlson double-blind study 1985, no controlled study has shown effect). However, remains culturally significant worldwide — 25%+ of Americans read horoscopes, major cultural force in India (marriages), East Asia (business decisions). APPLIED: Understand as cultural/historical phenomenon. Its influence on art, literature, architecture, medicine, and political history is undeniable regardless of its predictive validity.

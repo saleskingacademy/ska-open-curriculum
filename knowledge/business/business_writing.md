@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Business Writing
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Business writing is the disciplined practice of crafting clear, concise, purposeful communication tailored to professional contexts, aiming to inform, persuade, or instruct stakeholders efficiently. Rooted in principles of clarity, brevity, and audience-centricity, it transcends mere grammar correctness, emphasizing strategic message design aligned with organizational goals. First principles include: 1) Audience Analysis—understanding reader knowledge, needs, and biases; 2) Purpose Definition—clarifying the communication’s objective; 3) Message Structuring—organizing content logically; 4) Tone Calibration—balancing professionalism with approachability; 5) Precision and Economy—using exact language and avoiding verbosity; 6) Action Orientation—guiding readers toward desired outcomes. Mastery requires integrating these principles with domain-specific norms and medium-specific constraints (email, reports, proposals).

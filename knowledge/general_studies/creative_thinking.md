@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Creative Thinking
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Creative thinking is the cognitive process of generating novel, valuable ideas by transcending conventional patterns of thought. Rooted in associative memory, divergent thinking, and cognitive flexibility, it synthesizes disparate concepts into original solutions. At its core, creative thinking balances convergent and divergent processes: divergence expands possibilities, while convergence refines and implements ideas. First principles include cognitive incubation, analogical transfer, and the interplay of intrinsic motivation with domain expertise. Creativity is not serendipitous but systematic, leveraging structured heuristics and metacognitive strategies to navigate ambiguity and complexity.

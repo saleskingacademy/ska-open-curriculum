@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Mathematical Logic
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Propositional
 
 Connectives (¬, ∧, ∨, →, ↔), truth tables, tautology, contradiction, satisfiability. Normal forms (CNF, DNF). Completeness of propositional calculus. PREDICATE: Quantifiers (∀, ∃), predicates, functions, terms, formulas. Free/bound variables. Prenex normal form. Herbrand universe. PROOF THEORY: Natural deduction, sequent calculus, resolution. Soundness and completeness (Gödel completeness theorem). Compactness theorem. MODEL THEORY: Interpretations, models, elementary equivalence, Löwenheim-Skolem theorem. Ultraproducts. COMPUTABILITY: Turing machines, recursive functions, Church-Turing thesis. Halting problem (undecidable). Recursively enumerable vs recursive sets. INCOMPLETENESS: Gödel's first theorem (consistent + sufficiently strong → incomplete), second theorem (cannot prove own consistency). Implications for foundations of mathematics.

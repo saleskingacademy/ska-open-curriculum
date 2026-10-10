@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Mathematical Modeling
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Modeling Process
 
 Problem identification → assumptions → mathematical formulation → solution → validation → interpretation. CONTINUOUS MODELS: ODEs for population (logistic dP/dt=rP(1-P/K)), epidemics (SIR: dS/dt=-βSI, dI/dt=βSI-γI, dR/dt=γI), pharmacokinetics. PDEs for diffusion, waves, heat. DISCRETE MODELS: Difference equations, Markov chains (transition matrices, steady state πP=π). Leslie matrices for age-structured populations. OPTIMIZATION MODELS: Linear programming (simplex, interior point). Integer programming. Dynamic programming (Bellman equation). STOCHASTIC MODELS: Monte Carlo simulation, queueing theory (M/M/1: λ<μ, L=λ/(μ-λ)), random walks. DIMENSIONAL ANALYSIS: Buckingham π theorem. Scaling laws. CURVE FITTING: Least squares, splines, neural network approximation (universal approximation theorem).

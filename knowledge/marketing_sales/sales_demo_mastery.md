@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Sales Demo Mastery
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 Professional discipline for the closer specialist: sales demo mastery. Applied practice used to generate revenue.

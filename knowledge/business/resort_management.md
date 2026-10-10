@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Resort Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Resort management is the strategic and operational discipline dedicated to the integrated administration of resort properties—encompassing lodging, recreation, food & beverage, retail, and ancillary guest services—to optimize guest satisfaction, operational efficiency, and financial performance. It synthesizes hospitality management, destination marketing, revenue optimization, facility operations, and human resource leadership within a geographically and seasonally dynamic context. Core first principles include guest-centricity, asset lifecycle management, demand forecasting, and sustainable resource utilization. Resorts differ from standard hotels by their scale, amenity diversity, and dependency on natural or constructed attractions, requiring multi-disciplinary coordination and adaptive strategies to balance peak/off-peak demand, seasonality, and competitive positioning.

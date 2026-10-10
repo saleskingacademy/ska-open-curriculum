@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Marketing
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 MARKETING — COMPLETE CURRICULUM
