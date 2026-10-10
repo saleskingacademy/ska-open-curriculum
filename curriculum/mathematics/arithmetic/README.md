@@ -22,7 +22,10 @@ For Lessons 1–5 read each original draft together with its companion. The comp
 | 11 | [Meaning of addition](lesson_11_meaning_of_addition.md) | Full lesson package |
 | 12 | [Addition facts](lesson_12_addition_facts.md) | Full lesson package |
 | 13 | [Multi-digit addition](lesson_13_multi_digit_addition.md) | Full lesson package |
-| 14–80 | [Sequence](../arithmetic_zero_to_advanced.md) | Planned, not yet counted as full lesson packages |
+| 14 | [Mental addition](lesson_14_mental_addition.md) | Full lesson package |
+| 15 | [Meaning of subtraction](lesson_15_meaning_of_subtraction.md) | Full lesson package |
+| 16 | [Subtraction facts](lesson_16_subtraction_facts.md) | Full lesson package |
+| 17–80 | [Sequence](../arithmetic_zero_to_advanced.md) | Planned, not yet counted as full lesson packages |
 
 Use the legacy Arithmetic JSON and knowledge/study files as supplementary material pending review. Its different lesson numbering is not a second version of this 80-lesson sequence. Do not count the same lesson twice. A JSON total of 80 does not mean 80 records are populated.
 
@@ -41,3 +44,10 @@ The map's stricter routine threshold of 85% applies, along with 80% for transfer
 Every new lesson is original instructional expression about established mathematics. No accreditation or independently reviewed academic equivalence is claimed. Education-16 and Symbol256 remain deferred. Automated exact-answer checks supplement a source review; they do not prove educational completeness or replace a human academic review. The manifest reports these limits explicitly.
 
 The [Level 1 examination](assessments/level_01_foundation_examination.md) has two 25-item forms with a shared outcome blueprint, explanatory keys, critical-skill thresholds and remediation. The foundational investigation in Lesson 10 is separate from the still-pending Arithmetic course capstone.
+
+
+## Current continuation: 2026-10-10 UTC
+
+Lessons 14–16 add mental addition, subtraction models and subtraction facts, with original worked examples, independent problems, explanatory keys, formative and alternate quizzes, computational/AI checks and remediation. Sixteen of eighty declared lesson packages are populated (20% lesson population, not overall course completion). Lessons 17–20 and the Level 2 cumulative examination are next. The [computational, AI and quantum research pathway](../../COMPUTATIONAL_AI_QUANTUM_RESEARCH_PATHWAY.md) records the advanced extension without counting planned instruction as completed.
+
+Targeted checks: run `python3 tools/validate_arithmetic_14_16.py`. These supplement source review; independent academic review and production serving remain unverified.

@@ -83,16 +83,25 @@ A learner advances only after demonstrating at least 85% on routine work, 80% on
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 14: Mental addition
+
+Instructional package: [Lesson 14](arithmetic/lesson_14_mental_addition.md). Includes explanatory practice keys, quiz, alternate reassessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply mental addition in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 15: Meaning of subtraction
+
+Instructional package: [Lesson 15](arithmetic/lesson_15_meaning_of_subtraction.md). Includes explanatory practice keys, quiz, alternate reassessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply meaning of subtraction in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 16: Subtraction facts
+
+Instructional package: [Lesson 16](arithmetic/lesson_16_subtraction_facts.md). Includes explanatory practice keys, quiz, alternate reassessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply subtraction facts in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
@@ -451,3 +460,4 @@ A graduate can perform and explain elementary arithmetic; move fluently among in
 
 ## Next dependencies
 Pre-algebra, Algebra I, discrete mathematics, programming foundations, probability/statistics, financial mathematics and computational mathematics.
+
