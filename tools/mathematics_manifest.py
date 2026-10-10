@@ -9,6 +9,7 @@ across overlapping catalogue subjects as a unique mathematics corpus total.
 from pathlib import Path
 import json
 import re
+from datetime import datetime, timezone
 
 ROOT = Path(__file__).resolve().parents[1]
 MATH = ROOT / 'curriculum/mathematics'
@@ -79,8 +80,8 @@ def main():
         source_paths=relative([MATH/'arithmetic_zero_to_advanced.md',legacy]+lessons+exams),
         modules=8,lessons_planned=80,lessons_populated=len(lessons),
         partial_lesson_drafts=sum(not any(q.name.startswith(f'lesson_{i:02d}_') for q in lessons) for i in range(1,6)),quizzes=len(lessons),problem_sets=len(lessons),
-        module_exams=len(exams),final_exam=False,projects_capstones=int((folder/'lesson_10_foundation_mastery.md').exists()),
-        project_note='Lesson 10 foundational investigation; full course capstone pending.',
+        module_exams=len(exams),final_exam=False,projects_capstones=sum((folder/name).exists() for name in ['lesson_10_foundation_mastery.md','lesson_20_operations_mastery.md']),
+        project_note='Lesson 10 foundational investigation and Lesson 20 event-ledger investigation; full course capstone pending.',
         assessment_forms=2*len(exams),
         solution_coverage='Canonical full packages have explanatory keys. Lessons 1-5 use original prose plus linked companions; legacy supplementary bank remains unvalidated.',
         prerequisite_coverage='Local entry checks and remediation for populated packages; advanced lesson bridge and course-wide closure review remain pending.',
@@ -92,7 +93,7 @@ def main():
         length_policy='Coverage and competency driven; no mandatory word minimum.',
         completion_percent=None,
         completion_percent_note='No defensible single completion percentage across heterogeneous course gates; report declared lesson population and open completion gates separately.')
-    report=dict(schema_version=1,inventory_date_utc='2026-10-03',
+    report=dict(schema_version=1,inventory_date_utc=datetime.now(timezone.utc).date().isoformat(),
         governing_specs=['standards/COVERAGE_BASED_COMPLETION_POLICY.md','standards/ZERO_TO_FRONTIER_CURRICULUM_STANDARD.md',
           'standards/CURRICULUM_COMPLETION_AUDIT.md','standards/ACADEMIC_EQUIVALENCE_AND_ASSESSMENT_STANDARD.md',
           'curriculum/mathematics/MATHEMATICS_COMPLETION_MASTER_PLAN.md'],

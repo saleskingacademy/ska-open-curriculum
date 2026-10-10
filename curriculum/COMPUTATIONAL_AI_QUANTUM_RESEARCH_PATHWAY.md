@@ -43,7 +43,7 @@ Research assessments require reviewers competent in the specialty. Use originali
 
 For each stage, author the missing instruction in prerequisite order and attach an outcome-to-assessment blueprint. Provide worked examples, guided and independent practice, explanatory keys, alternate assessments, cumulative examination and a scored capstone. Audit technical claims and date-sensitive tool instructions against primary sources. Require external academic review before claiming independently verified equivalence. No word count or generated lesson count substitutes for these gates.
 
-Immediate continuation: Arithmetic Lessons 17–20, followed by the Level 2 cumulative assessment; then multiplication and division. Binary computation remains explicitly scheduled in Arithmetic Lessons 61–62. Quantum foundations follow validated linear algebra, complex-number and probability packages. Research specialization remains open until its instructional and review requirements are actually met.
+Immediate continuation: Arithmetic Lessons 21–30 (multiplication and division), following the populated Lessons 17–20 and the authored two-form Level 2 cumulative assessment. Completion of those learner assessments must be demonstrated, not inferred from file presence. Binary computation remains explicitly scheduled in Arithmetic Lessons 61–62. Quantum foundations follow validated linear algebra, complex-number and probability packages. Research specialization remains open until its instructional and review requirements are actually met.
 
 ## Primary references and provenance
 

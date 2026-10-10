@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Inventory source material without equating its presence with completion."""
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -37,7 +38,7 @@ def build():
                          lessons_planned=12, lessons_populated=0, lesson_population_percent=0,
                          completion_percent=None, validation_status='PENDING', fallback_required=True,
                          fallback_implementation='REQUIRED; PRODUCTION INTEGRATION NOT VERIFIED'))
-    output = dict(schema_version=1, inventory_date_utc='2026-10-03',
+    output = dict(schema_version=1, inventory_date_utc=datetime.now(timezone.utc).date().isoformat(),
                   percentage_policy='Null means no audited acceptance denominator. Lesson population is not overall completion.',
                   source_policy='SKELETON is a conservative lower bound pending review; existing instructional prose is retained. Do not sum overlapping inventories.',
                   length_policy='Coverage-based completion; no universal word floor.',

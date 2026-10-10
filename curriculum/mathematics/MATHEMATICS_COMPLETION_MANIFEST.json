@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "inventory_date_utc": "2026-10-03",
+  "inventory_date_utc": "2026-10-10",
   "governing_specs": [
     "standards/COVERAGE_BASED_COMPLETION_POLICY.md",
     "standards/ZERO_TO_FRONTIER_CURRICULUM_STANDARD.md",
@@ -47,10 +47,11 @@
       "subject": "Arithmetic",
       "status": "SEQUENCED",
       "status_basis": "80-lesson map; partial full lesson population; course gates open.",
-      "word_count": 33893,
+      "word_count": 40793,
       "word_count_scope": "canonical lesson and assessment prose proxy; excludes map, README, metadata and headings",
       "source_paths": [
         "curriculum/mathematics/arithmetic/assessments/level_01_foundation_examination.md",
+        "curriculum/mathematics/arithmetic/assessments/level_02_operations_examination.md",
         "curriculum/mathematics/arithmetic/lesson_01_counting_and_quantity.md",
         "curriculum/mathematics/arithmetic/lesson_02_numerals_and_symbols.md",
         "curriculum/mathematics/arithmetic/lesson_03_place_value.md",
@@ -67,41 +68,44 @@
         "curriculum/mathematics/arithmetic/lesson_14_mental_addition.md",
         "curriculum/mathematics/arithmetic/lesson_15_meaning_of_subtraction.md",
         "curriculum/mathematics/arithmetic/lesson_16_subtraction_facts.md",
+        "curriculum/mathematics/arithmetic/lesson_17_multi_digit_subtraction.md",
+        "curriculum/mathematics/arithmetic/lesson_18_signed_addition_subtraction.md",
+        "curriculum/mathematics/arithmetic/lesson_19_estimation_and_checking.md",
+        "curriculum/mathematics/arithmetic/lesson_20_operations_mastery.md",
         "curriculum/mathematics/arithmetic/level_01_lessons_01_05.md",
         "curriculum/mathematics/arithmetic_zero_to_advanced.md"
       ],
       "modules": 8,
       "lessons_planned": 80,
-      "lessons_populated": 16,
+      "lessons_populated": 20,
       "legacy_lesson_records": 1,
-      "quizzes": 16,
-      "problem_sets": 16,
-      "module_exams": 1,
+      "quizzes": 20,
+      "problem_sets": 20,
+      "module_exams": 2,
       "final_exam": false,
-      "projects_capstones": 1,
+      "projects_capstones": 2,
       "solution_coverage": "Canonical full packages have explanatory keys. Lessons 1-5 use original prose plus linked companions; legacy supplementary bank remains unvalidated.",
       "prerequisite_coverage": "Local entry checks and remediation for populated packages; advanced lesson bridge and course-wide closure review remain pending.",
       "computational_coverage": "Optional concrete algorithm traces in new lessons; advanced modules pending.",
       "ai_augmented_coverage": "Constructed incorrect claims audited independently in new lessons; advanced modules pending.",
-      "validation_status": "Source-reviewed; foundation and Lessons 14-16 exact checks passed; independent academic review pending.",
+      "validation_status": "Source-reviewed; exact checks in validation report; no independent academic review.",
       "mapping_status": "DEFERRED",
       "partial_lesson_drafts": 0,
-      "project_note": "Lesson 10 foundational investigation; full course capstone pending.",
-      "assessment_forms": 2,
-      "full_lesson_population_percent": 20.0,
+      "project_note": "Lesson 10 foundational investigation and Lesson 20 event-ledger investigation; full course capstone pending.",
+      "assessment_forms": 4,
+      "full_lesson_population_percent": 25.0,
       "word_floor": null,
       "word_floor_percent": null,
       "length_policy": "Coverage and competency driven; no mandatory word minimum.",
       "completion_percent": null,
-      "completion_percent_note": "No defensible single completion percentage across heterogeneous course gates; report declared lesson population and open completion gates separately.",
-      "last_incremental_review_utc": "2026-10-10"
+      "completion_percent_note": "No defensible single completion percentage across heterogeneous course gates; report declared lesson population and open completion gates separately."
     },
     {
       "subject_id": "pre_algebra",
       "subject": "Pre-Algebra",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3669,
+      "word_count": 3678,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/pre_algebra.md"
@@ -127,7 +131,7 @@
       "subject": "Elementary Algebra",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3325,
+      "word_count": 3353,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/algebra_1.md"
@@ -153,7 +157,7 @@
       "subject": "Intermediate Algebra",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3357,
+      "word_count": 3354,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/algebra_2.md"
@@ -179,7 +183,7 @@
       "subject": "Geometry",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2928,
+      "word_count": 2934,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/geometry.md"
@@ -231,7 +235,7 @@
       "subject": "Precalculus",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2624,
+      "word_count": 2623,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/precalculus.md"
@@ -309,7 +313,7 @@
       "subject": "Multivariable Calculus",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 4494,
+      "word_count": 4527,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/calculus_3.md"
@@ -409,7 +413,7 @@
       "subject": "Differential Equations",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 4240,
+      "word_count": 4256,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/differential_equations.md"
@@ -459,7 +463,7 @@
       "subject": "Discrete Mathematics",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2259,
+      "word_count": 2263,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/discrete_mathematics.md"
@@ -485,7 +489,7 @@
       "subject": "Combinatorics",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2453,
+      "word_count": 2463,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/combinatorics.md"
@@ -511,7 +515,7 @@
       "subject": "Graph Theory",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2787,
+      "word_count": 2799,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/graph_theory.md"
@@ -906,7 +910,7 @@
       "subject": "Number Theory",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 6356,
+      "word_count": 6354,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/langlands_program.md",
@@ -1080,7 +1084,7 @@
       "subject": "Topology",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 11164,
+      "word_count": 11180,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/general_studies/geometric_group_theory.md",
@@ -1923,7 +1927,7 @@
       "subject": "Foundations of Mathematics",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 7427,
+      "word_count": 7470,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/arithmetic.md",
@@ -1950,7 +1954,7 @@
       "subject": "Algebra",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 6682,
+      "word_count": 6707,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "curriculum/mathematics/algebra.json",
@@ -1978,7 +1982,7 @@
       "subject": "Geometry and Trigonometry",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 5460,
+      "word_count": 5466,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/geometry.md",
@@ -2005,7 +2009,7 @@
       "subject": "Calculus",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 12797,
+      "word_count": 12830,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "curriculum/mathematics/calculus.json",
@@ -2034,7 +2038,7 @@
       "subject": "Discrete Mathematics and Logic",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 19259,
+      "word_count": 19285,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/combinatorics.md",
@@ -2094,7 +2098,7 @@
       "subject": "Mathematical Analysis",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 18932,
+      "word_count": 18976,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/general_studies/complex_analysis.md",
@@ -2125,7 +2129,7 @@
       "subject": "Applied Mathematics and Operations Research",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 17712,
+      "word_count": 17764,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/business/operations_research.md",
@@ -2207,162 +2211,6 @@
       "mapping_status": "DEFERRED"
     },
     {
-      "subject_id": "operator_algebras",
-      "subject": "Operator Algebras",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 2602,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/operator_algebras.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "derived_algebraic_geometry",
-      "subject": "Derived Algebraic Geometry",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 4106,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/derived_algebraic_geometry.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "langlands_program",
-      "subject": "Langlands Program",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3674,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/langlands_program.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "numerical_methods",
-      "subject": "Numerical Methods",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 4035,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/numerical_methods.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "motivic_cohomology",
-      "subject": "Motivic Cohomology",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3496,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/motivic_cohomology.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "tropical_geometry",
-      "subject": "Tropical Geometry",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3583,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/tropical_geometry.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
       "subject_id": "ergodic_theory",
       "subject": "Ergodic Theory",
       "status": "SKELETON",
@@ -2393,36 +2241,10 @@
       "subject": "Pre Algebra",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3669,
+      "word_count": 3678,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/pre_algebra.md"
-      ],
-      "modules": null,
-      "lessons_planned": null,
-      "lessons_populated": 0,
-      "legacy_lesson_records": 0,
-      "quizzes": 0,
-      "problem_sets": 0,
-      "module_exams": 0,
-      "final_exam": false,
-      "projects_capstones": 0,
-      "solution_coverage": "NOT AUDITED",
-      "prerequisite_coverage": "NOT AUDITED",
-      "computational_coverage": "NOT AUDITED",
-      "ai_augmented_coverage": "NOT AUDITED",
-      "validation_status": "PENDING",
-      "mapping_status": "DEFERRED"
-    },
-    {
-      "subject_id": "stochastic_analysis",
-      "subject": "Stochastic Analysis",
-      "status": "SKELETON",
-      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 4391,
-      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
-      "source_paths": [
-        "knowledge/mathematics/stochastic_analysis.md"
       ],
       "modules": null,
       "lessons_planned": null,
@@ -2467,14 +2289,14 @@
       "mapping_status": "DEFERRED"
     },
     {
-      "subject_id": "applied_mathematics",
-      "subject": "Applied Mathematics",
+      "subject_id": "numerical_methods",
+      "subject": "Numerical Methods",
       "status": "SKELETON",
       "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
-      "word_count": 3710,
+      "word_count": 4035,
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
-        "knowledge/mathematics/applied_mathematics.md"
+        "knowledge/mathematics/numerical_methods.md"
       ],
       "modules": null,
       "lessons_planned": null,
@@ -2519,6 +2341,162 @@
       "mapping_status": "DEFERRED"
     },
     {
+      "subject_id": "langlands_program",
+      "subject": "Langlands Program",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 3674,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/langlands_program.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "motivic_cohomology",
+      "subject": "Motivic Cohomology",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 3496,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/motivic_cohomology.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "applied_mathematics",
+      "subject": "Applied Mathematics",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 3762,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/applied_mathematics.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "tropical_geometry",
+      "subject": "Tropical Geometry",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 3583,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/tropical_geometry.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "derived_algebraic_geometry",
+      "subject": "Derived Algebraic Geometry",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 4106,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/derived_algebraic_geometry.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "operator_algebras",
+      "subject": "Operator Algebras",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 2602,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/operator_algebras.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
       "subject_id": "homotopy_type_theory",
       "subject": "Homotopy Type Theory",
       "status": "SKELETON",
@@ -2527,6 +2505,32 @@
       "word_count_scope": "legacy knowledge prose proxy; unvalidated",
       "source_paths": [
         "knowledge/mathematics/homotopy_type_theory.md"
+      ],
+      "modules": null,
+      "lessons_planned": null,
+      "lessons_populated": 0,
+      "legacy_lesson_records": 0,
+      "quizzes": 0,
+      "problem_sets": 0,
+      "module_exams": 0,
+      "final_exam": false,
+      "projects_capstones": 0,
+      "solution_coverage": "NOT AUDITED",
+      "prerequisite_coverage": "NOT AUDITED",
+      "computational_coverage": "NOT AUDITED",
+      "ai_augmented_coverage": "NOT AUDITED",
+      "validation_status": "PENDING",
+      "mapping_status": "DEFERRED"
+    },
+    {
+      "subject_id": "stochastic_analysis",
+      "subject": "Stochastic Analysis",
+      "status": "SKELETON",
+      "status_basis": "Programme scope identified; full lesson/assessment audit pending.",
+      "word_count": 4391,
+      "word_count_scope": "legacy knowledge prose proxy; unvalidated",
+      "source_paths": [
+        "knowledge/mathematics/stochastic_analysis.md"
       ],
       "modules": null,
       "lessons_planned": null,

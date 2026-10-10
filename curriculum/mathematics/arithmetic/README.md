@@ -25,7 +25,11 @@ For Lessons 1–5 read each original draft together with its companion. The comp
 | 14 | [Mental addition](lesson_14_mental_addition.md) | Full lesson package |
 | 15 | [Meaning of subtraction](lesson_15_meaning_of_subtraction.md) | Full lesson package |
 | 16 | [Subtraction facts](lesson_16_subtraction_facts.md) | Full lesson package |
-| 17–80 | [Sequence](../arithmetic_zero_to_advanced.md) | Planned, not yet counted as full lesson packages |
+| 17 | [Multi-digit subtraction](lesson_17_multi_digit_subtraction.md) | Full lesson package |
+| 18 | [Signed addition and subtraction](lesson_18_signed_addition_subtraction.md) | Full lesson package |
+| 19 | [Estimation and checking](lesson_19_estimation_and_checking.md) | Full lesson package |
+| 20 | [Operations mastery](lesson_20_operations_mastery.md) | Full lesson package |
+| 21–80 | [Sequence](../arithmetic_zero_to_advanced.md) | Planned, not yet counted as full lesson packages |
 
 Use the legacy Arithmetic JSON and knowledge/study files as supplementary material pending review. Its different lesson numbering is not a second version of this 80-lesson sequence. Do not count the same lesson twice. A JSON total of 80 does not mean 80 records are populated.
 
@@ -51,3 +55,9 @@ The [Level 1 examination](assessments/level_01_foundation_examination.md) has tw
 Lessons 14–16 add mental addition, subtraction models and subtraction facts, with original worked examples, independent problems, explanatory keys, formative and alternate quizzes, computational/AI checks and remediation. Sixteen of eighty declared lesson packages are populated (20% lesson population, not overall course completion). Lessons 17–20 and the Level 2 cumulative examination are next. The [computational, AI and quantum research pathway](../../COMPUTATIONAL_AI_QUANTUM_RESEARCH_PATHWAY.md) records the advanced extension without counting planned instruction as completed.
 
 Targeted checks: run `python3 tools/validate_arithmetic_14_16.py`. These supplement source review; independent academic review and production serving remain unverified.
+
+## Level 2 continuation: 2026-10-10 UTC
+
+Lessons 17–20 now populate the remainder of the addition/subtraction sequence. Twenty of eighty lesson packages are populated (25% lesson population, not full-course completion). The [Level 2 examination](assessments/level_02_operations_examination.md) supplies two 25-item forms with outcome blueprints, explanatory keys, prerequisite-critical gates and remediation. Lesson 20 adds a scored event-ledger investigation. These public materials are self-study assessments; learner records and secure credentialing assessments remain private.
+
+Run `python3 tools/validate_arithmetic_17_20.py` for the new numeric checks. Lesson 21, Meaning of multiplication, is next. Historical entries above retain their as-of counts.

@@ -107,21 +107,33 @@ Instructional package: [Lesson 16](arithmetic/lesson_16_subtraction_facts.md). I
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 17: Multi-digit subtraction
+
+Instructional package: [Lesson 17](arithmetic/lesson_17_multi_digit_subtraction.md). Includes explanatory keys, formative assessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply multi-digit subtraction in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 18: Signed addition/subtraction
+
+Instructional package: [Lesson 18](arithmetic/lesson_18_signed_addition_subtraction.md). Includes explanatory keys, formative assessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply signed addition/subtraction in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 19: Estimation and checking
+
+Instructional package: [Lesson 19](arithmetic/lesson_19_estimation_and_checking.md). Includes explanatory keys, formative assessment and remediation.
+
 **Outcome:** Understand, calculate with, explain, and apply estimation and checking in routine and unfamiliar problems.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
 
 ### Lesson 20: Operations mastery
+
+Instructional package: [Lesson 20](arithmetic/lesson_20_operations_mastery.md). Includes explanatory keys, formative assessment and remediation.
+
 **Outcome:** Integrate and transfer the preceding level skills without prompts.
 
 **Required lesson pattern:** concept from first principles; notation/vocabulary; at least 3 worked examples (concrete, symbolic, applied); 10 guided-to-independent problems; one misconception diagnosis; one transfer problem; 5-item quiz with explanations; remediation link to prerequisite skills.
