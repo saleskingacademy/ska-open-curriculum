@@ -5,11 +5,11 @@
   "total_levels": 8,
   "lessons_per_level": 10,
   "total_lessons": 80,
-  "accreditation": "Exceeds ABET/regional standards by 10%",
+  "accreditation": "No institutional or course accreditation is claimed.",
   "levels": {
     "1": {
       "name": "Beginner",
-      "academic_equivalent": "AP/GCSE + 10%",
+      "academic_equivalent": "Foundational arithmetic content; level alignment has not been independently validated.",
       "lessons": [
         {
           "lesson": 1,

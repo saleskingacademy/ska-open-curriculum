@@ -1,0 +1,41 @@
+name: Academic certification inventory audit
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'knowledge/index.json'
+      - 'knowledge/**'
+      - 'tools/academic_certification_inventory_audit.py'
+      - '.github/workflows/academic-certification-inventory.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate read-only inventory report
+        run: |
+          python tools/academic_certification_inventory_audit.py --root . --output academic_inventory_report.json
+          python - <<'PY'
+          import json
+          with open('academic_inventory_report.json', encoding='utf-8') as f:
+              data = json.load(f)
+          print('Indexed rows:', data['indexed_rows'])
+          print('Unique keys:', data['unique_subject_keys'])
+          print('Issue counts:', data['issue_counts'])
+          PY
+      - name: Upload inventory report
+        uses: actions/upload-artifact@v4
+        with:
+          name: academic-certification-inventory
+          path: academic_inventory_report.json
+          retention-days: 30

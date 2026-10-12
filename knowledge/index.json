@@ -1556,8 +1556,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22023,
-      "sha256": "fc1d7e1cd6de86ddd35daa5b341ab607c2916f7d3807f0470d2c81ef300e76d3"
+      "chars": 22309,
+      "sha256": "583a247dd90bff9cb1519201dba7c2cd75558da0785e7e5465145068f5125f54"
     },
     {
       "key": "algebra_2",
@@ -1577,8 +1577,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22101,
-      "sha256": "a8fbfd95e1217d3f7e6f1b065e00480001c9dfa47c05ff1c25fcbd7dd308a906"
+      "chars": 22132,
+      "sha256": "367befa836603b86e753fecb44b7828a013d3fa8ad9ad5b88097db77787f9972"
     },
     {
       "key": "algebraic_geometry",
@@ -2065,8 +2065,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25568,
-      "sha256": "f5c5cb880adc72580c8bba6952ecf83b774a256cc3ff838ae6bd15ea78e226a2"
+      "chars": 26079,
+      "sha256": "5b502ee135178293c29d1da60fbaeeca82c4f6c37ab41fe658f24182accf502f"
     },
     {
       "key": "aquaculture",
@@ -2203,8 +2203,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24792,
-      "sha256": "1a7ce52cc69d4d626fe871e75ce93f642c0c1144d9e7f34c5115b1fd98ec38fe"
+      "chars": 25180,
+      "sha256": "28f1d4a5f20615afa3843bc080f5ade42e2d369eb6eb29a8753cbb797c62ccdc"
     },
     {
       "key": "arithmetic_geometry",
@@ -3849,8 +3849,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29487,
-      "sha256": "f5b61998c1ef802399f2a48d83dd9fcdabf3ed930cc2a7d24f3fc50cdaffb093"
+      "chars": 29898,
+      "sha256": "6278612b4e091cf1245beb6e8c68f78bf413b3adf58773ca2d987742924577ef"
     },
     {
       "key": "campaign_planning",
@@ -5003,8 +5003,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16868,
-      "sha256": "88cd5abc68c1d6a613bbae7de05a35934234e890bedf7f89b01d64a19de754ca"
+      "chars": 17006,
+      "sha256": "b6ff11363d63895c93203fab2b1e5f608409486e51bf7251827b04c1d79c20fb"
     },
     {
       "key": "commercial_driving",
@@ -7608,8 +7608,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28835,
-      "sha256": "29645699a62dad35c532dd69d7a7778c05833ed49a7c0df46f41b9951ba12917"
+      "chars": 28990,
+      "sha256": "01c181b5d953573bb84e727797e1ddcc2be69b78fb5bd6fd9c6e2b67d5b0a523"
     },
     {
       "key": "diffusion_models",
@@ -7890,8 +7890,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15900,
-      "sha256": "72dc8d637517b96821d281e1a6a8b8d0abd9b5a5e803edf56f20be70ba83076d"
+      "chars": 15981,
+      "sha256": "ab581a3f495a52d80de027db77ab5892e403844c5025e125de83d72ad7473f4f"
     },
     {
       "key": "distributed_systems",
@@ -10775,8 +10775,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20302,
-      "sha256": "5acc57bcb0c3e0479be9136b4b83f359bbf80c026a158fda5f890088719ec708"
+      "chars": 20354,
+      "sha256": "4e4b9762d9b3134c65bc4199a0ea67678f22aea745269686a7ce89e9050d5f42"
     },
     {
       "key": "geophysics",
@@ -11070,8 +11070,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17788,
-      "sha256": "3e5c85d55dfe1089c75ad1c474124c7cb1b951c62e1a07efc396266b9d5e6769"
+      "chars": 17913,
+      "sha256": "54d0ad581e51624161dff6e15316682caf1a1edd66306b19b88381fa892559bc"
     },
     {
       "key": "graphic_design",
@@ -16311,8 +16311,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17157,
-      "sha256": "8ca9227a00fa7184885855f751a6909cad6eaf689de7ada65304e2a52c286aad"
+      "chars": 17153,
+      "sha256": "a69eb27feb90b995bc83086378551370adc925a744e2313798d1b82e93189948"
     },
     {
       "key": "numerical_analysis",
@@ -18593,8 +18593,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24668,
-      "sha256": "1ca13d17af4ca4bd44965921fee38431d1eaeb9a65582698ab73dfaffd826847"
+      "chars": 24768,
+      "sha256": "aae945a69e94749c4506377d0684afe1c52517d2cef7f35c8cbb3a4c0bca76b6"
     },
     {
       "key": "precalculus",
@@ -18614,8 +18614,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17718,
-      "sha256": "88bc1d2a7d2d6d062a30aed42543f96f0201feb26ebc2cfdf953ebc7e3e94cc3"
+      "chars": 17738,
+      "sha256": "750938d3f8cc8f5cf0ab1ca80420fefd01fa4f948feeb72055613311949c446f"
     },
     {
       "key": "precision_agriculture",
@@ -20021,8 +20021,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27748,
-      "sha256": "cf5cc90deb1900d43df821a641e36a7119d01a732ba20910f092ad176ecda0e8"
+      "chars": 28170,
+      "sha256": "7a049a12ad7b6f6e3273ed5d360d285783f9c2ddaa2baff4b388a176e373ac99"
     },
     {
       "key": "real_estate",
@@ -23945,8 +23945,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24931,
-      "sha256": "39ae783b3a6c11758e6181aff8e3d21be56edf3fd8301e15dbc5f579f71b4fdb"
+      "chars": 25094,
+      "sha256": "e440a759a1f046744bb7fc2df592cba673bba17788051888245acee8392e039f"
     },
     {
       "key": "tort_law",
