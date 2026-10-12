@@ -6,655 +6,427 @@ course_level: 3
 dna16: "0701201824919911"
 l4_address: "S6:P933770714"
 chain256_anchor: "1833441552095756093297551768279218174859766427921600179168201827085771851326610916742864773927921402147187582792171334080011934701705612687518240075555893772792126493886739279210373188509216890376866906462652143848635159279210431523793927920900574308223269"
-updated_at: "2026-10-01T20:00:00.000Z"
+updated_at: "2026-10-12"
+generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
+training_use: "specialized SKA models (business, sales, marketing education); not for general-purpose models competing with the writing model"
 license: All-Rights-Reserved (Sales King Academy LLC)
-source: Sales King Academy knowledge base (ska_knowledge)
+source: Sales King Academy (original chapter, rewritten 2026-10-12)
 ---
 
 # Marketing
 
-> name heuristic. unparsed reply: [object Object]
+Marketing is the work of deciding which customers a business will serve, understanding what those customers need, shaping an offer and a message that fits them, and bringing that offer to their attention in ways that lead to profitable, lasting relationships. This chapter treats marketing as an evidence-driven discipline. You will learn how to research a market and size it, how to segment, target and position, how buyers make decisions, how to build a value proposition and message, how pricing and brand shape demand, how to choose and run channels, how to measure conversion and test changes, how to keep and grow customers, how to attribute results and plan a budget, and which legal and ethical limits apply. The chapter closes with a case study, key terms, review questions and an answer key.
 
-## Overview
+All companies, people and figures in the examples and case study are hypothetical and were built for teaching. Legal topics are described in general terms; confirm the rules for your market with qualified counsel.
 
-MARKETING — COMPLETE CURRICULUM
+## Learning Objectives
 
-## Foundations
+By the end of this chapter you should be able to:
 
-Marketing is the process of identifying, creating, communicating, and delivering value to customers profitably. It's not just promotion — it's understanding customer needs deeply enough to build and position offerings they want. Core: the right product, to the right people, with the right message, at the right time and price.
+1. Explain the role of marketing in creating and capturing demand and how it works with sales and product.
+2. Design a market research plan that combines qualitative and quantitative evidence.
+3. Size a market from the bottom up and distinguish total, serviceable and obtainable market.
+4. Segment a market, choose target segments with explicit criteria and write a positioning statement.
+5. Apply principles of buyer psychology responsibly, including jobs to be done and common decision biases.
+6. Build a value proposition and a message hierarchy for different personas.
+7. Calculate contribution margin and break-even volume and explain how discounts change them.
+8. Choose a channel mix across owned, earned and paid media and explain the tradeoffs.
+9. Work through a paid acquisition funnel from impressions to cost per customer.
+10. Design an A/B test and judge whether a result is statistically meaningful.
+11. Calculate customer acquisition cost, payback and lifetime value and explain their limits.
+12. Compare attribution models and explain why incrementality matters.
+13. Build a campaign plan and a budget tied to measurable objectives.
+14. Apply truth-in-advertising, endorsement, privacy and anti-spam rules.
+15. Evaluate partnerships, communities and events as growth channels.
 
-THE 4 Ps (Marketing Mix): Product (features, quality, design, brand that meet needs), Price (value-based, cost-plus, competitive, penetration, or skimming), Place (distribution channels — where/how customers buy), Promotion (advertising, PR, sales, digital). Modern extensions add People, Process, Physical evidence (7 Ps for services).
+## 1. What Marketing Does
 
-Marketing refers to the business process of creating, communicating, and delivering value to customers and stakeholders. A key concept is the **market**, defined as a group of individuals or organizations with the willingness and ability to purchase a product or service. **Target market** refers to a specific segment of the market that a business aims to serve. The **marketing mix**, also known as the 4Ps, consists of **product** (goods or services offered), **price** (amount charged for the product), **promotion** (methods used to communicate with the target market), and **place** (channels used to distribute the product). **Customer value** is the perceived benefit that a customer receives from a product or service, and **customer satisfaction** refers to the extent to which a customer's expectations are met. **Marketing strategy** is a long-term plan that outlines how a business will achieve its marketing objectives, while **marketing tactics** are specific actions taken to implement the strategy. Understanding these core definitions and principles is essential for marketing practitioners to develop effective marketing plans and campaigns. **Market segmentation** involves dividing a larger market into smaller groups based on characteristics such as demographics, needs, or behaviors. **Unique selling proposition (USP)** is a statement that defines a product's or service's unique benefit and differentiates it from competitors.
+Marketing sits between a company and its market. On one side, it brings information from customers into the business: who they are, what they struggle with, what they value and what they will pay. On the other side, it carries the company's offer to the people most likely to benefit, in language they recognize, through the channels they use. Both directions matter. A team that only broadcasts and never listens ends up promoting products nobody wants. A team that only researches and never acts produces reports instead of revenue.
 
-## Segmentation, Targeting, Positioning (Stp)
+It helps to separate two jobs. Demand creation makes people aware that a problem is worth solving and that a certain kind of solution exists. Demand capture makes sure that when people are actively looking, they find and choose your offer. Demand creation includes education, content, brand building and category design; its effects are slow and hard to attribute. Demand capture includes search advertising, review sites, comparison pages and well-built conversion paths; its effects are fast and easy to measure. Because capture is easier to measure, companies often overinvest in it and underinvest in creation, and then find that the pool of active buyers stops growing.
 
-Segment the market (demographic, geographic, psychographic, behavioral). Target the segments you can serve best and profitably. Position your brand distinctly in the target's mind. Positioning is the single most important strategic marketing decision — it defines what you stand for versus alternatives.
+The classic framework of the marketing mix, often called the four Ps, describes the decisions marketing influences: Product (what is offered, including features, quality and packaging), Price (what the customer pays and how), Place (where and how the offer is available), and Promotion (how the market learns about it). Service businesses often add People, Process and Physical evidence, because the customer experiences the staff, the steps and the environment as part of the product. The value of the framework is not the list itself but the reminder that a promotion problem is sometimes really a product, price or availability problem.
 
-## Customer & Buyer Psychology
-
-The customer journey — Awareness, Consideration, Decision, Retention, Advocacy. The marketing funnel (TOFU/MOFU/BOFU) maps content to journey stage. Understand jobs-to-be-done: customers "hire" products to make progress in their lives. Emotion and identity drive brand choice more than features.
-
-## Brand & Positioning
-
-A brand is the sum of perceptions in the customer's mind — the promise you make and keep. Brand equity (awareness, associations, loyalty, perceived quality) is a durable asset. Strong brands command premiums, earn loyalty, and reduce acquisition cost. Consistency across every touchpoint builds brand.
-
-## Digital Marketing
-
-SEO (organic search visibility), SEM/PPC (paid search), content marketing (attract via valuable content), social media (engagement and reach), email marketing (highest ROI channel), influencer and affiliate. The digital funnel is measurable end-to-end — attribution connects spend to revenue.
-
-## Metrics & Roi
-
-Key metrics — CAC (Customer Acquisition Cost), LTV (Lifetime Value), LTV:CAC ratio (target 3:1+), conversion rate, ROAS (Return on Ad Spend), churn, MRR/ARR. Marketing must tie to revenue. Measure what matters; vanity metrics (likes, impressions) mislead without conversion.
-
-## Content & Inbound
-
-Inbound marketing attracts customers by creating valuable content matched to their needs, versus interruptive outbound. Content builds trust, authority, and organic reach. The flywheel — attract, engage, delight — turns customers into promoters who fuel growth.
-
-## Positioning & Messaging
-
-A great value proposition states who it's for, what problem it solves, and why it's better/different. Messaging hierarchy — one core promise, supported by proof points. Differentiation must be real and defensible, not just claimed.
-
-## Mastery Levels
-
-L1 — understand the 4 Ps and STP. L2-3 — build campaigns and brand positioning. L4-5 — orchestrate multi-channel strategy and measure ROI. L6-7 — lead marketing organizations and growth engines. L8 Grandmaster — teach marketing and build category-defining brands.
-
-## Mechanisms
-
-Marketing involves a series of steps that create a causal chain, leading to the ultimate goal of driving sales and revenue. The process begins with market research, where businesses gather data about their target audience, including demographics, preferences, and behaviors. This information is used to develop a unique value proposition (UVP), which differentiates the product or service from competitors. The UVP is then communicated through various marketing channels, such as advertising, social media, and content marketing. As potential customers engage with these channels, they enter the sales funnel, where they progress through stages of awareness, consideration, and decision-making. Effective marketing mechanisms rely on understanding the customer's journey and tailoring the marketing mix (4Ps: product, price, promotion, and place) to meet their needs at each stage. By aligning the marketing strategy with the customer's decision-making process, businesses can increase the likelihood of conversion, ultimately driving sales and revenue growth. The causal chain is as follows: market research informs UVP, UVP guides marketing channel selection, marketing channels drive customer engagement, customer engagement fuels the sales funnel, and the sales funnel yields conversions.
-
-Marketing involves a series of coordinated steps that facilitate the exchange of goods or services between a business and its target audience. The process begins with market research, where businesses gather data about their potential customers, including demographics, preferences, and behaviors. This information is used to identify a target market and create buyer personas, which guide the development of marketing strategies. 
-The next step is to establish a unique value proposition (UVP), which differentiates the business's offerings from those of its competitors. The UVP is then communicated to the target market through various marketing channels, such as advertising, social media, content marketing, and public relations. 
-As potential customers engage with the business's marketing efforts, they enter the sales funnel, where they progress through stages of awareness, consideration, and decision-making. The business's goal is to nurture these leads through the sales funnel, providing them with relevant information and incentives to ultimately make a purchase. 
-Throughout this process, businesses use metrics such as conversion rates, customer acquisition costs, and return on investment (ROI) to evaluate the effectiveness of their marketing efforts and make data-driven decisions to optimize their strategies. By understanding the causal chain of marketing mechanisms, businesses can create a cohesive and efficient marketing system that drives revenue growth and customer engagement.
-
-## Methods And Frameworks
-
-In business marketing, several methods, models, and formulas are employed to analyze and implement marketing strategies. The SWOT analysis is used to identify a company's strengths, weaknesses, opportunities, and threats, helping to inform marketing decisions. The Marketing Mix (4Ps) framework - product, price, promotion, and place - is utilized to develop and implement marketing strategies. The AIDA formula (attention, interest, desire, action) is applied to create effective advertising campaigns. The Customer Journey Map is used to understand customer experiences and identify areas for improvement. The Ansoff Matrix is employed to evaluate market growth strategies, such as market penetration, market development, product development, and diversification. Each of these methods has its failure mode, including over-reliance on a single framework, failure to consider external factors, and inadequate customer understanding. Effective marketers must be aware of these potential pitfalls and adapt their approaches accordingly, using a combination of methods to achieve a comprehensive understanding of their market and customers.
-
-Marketing strategies employ various methods, models, and formulas to analyze and optimize business performance. The SWOT analysis is used to identify a company's strengths, weaknesses, opportunities, and threats, guiding strategic decision-making. The Ansoff Matrix helps determine market growth strategies, such as market penetration, market development, product development, and diversification. The Boston Consulting Group (BCG) Matrix categorizes products into stars, cash cows, question marks, and dogs, based on market growth and relative market share, informing portfolio management decisions. The 4Ps framework (product, price, promotion, and place) is used to develop marketing mixes, while the 7Ps framework extends this to include physical evidence, process, and people, particularly relevant for service-based businesses. The AIDA formula (attention, interest, desire, and action) models the customer's purchasing process, guiding advertising and promotional strategies. Failure modes include over-reliance on a single framework, neglecting external factors, and failing to adapt to changing market conditions. Effective marketers select and combine these methods and frameworks to suit specific business contexts and goals.
-
-## Worked Examples
-
-To illustrate key marketing concepts, consider the following examples. 
-1. Calculating Customer Lifetime Value (CLV): A company sells coffee machines with an average sale price of $100. The customer retention rate is 75% and the average customer buys a new machine every 5 years. If the company's cost of goods sold is 40% and it spends $10 on marketing per customer, calculate the CLV. 
-CLV = (Average Sale Price * Customer Retention Rate * Average Lifespan) - (Cost of Goods Sold + Marketing Cost). 
-CLV = ($100 * 0.75 * 5) - ($40 + $10) = $275. 
-2. Break-Even Analysis: A new product launch requires a fixed cost of $10,000 and a variable cost of $5 per unit. If the selling price is $10 per unit, calculate the break-even point. 
-Break-Even Point = Fixed Cost / (Selling Price - Variable Cost). 
-Break-Even Point = $10,000 / ($10 - $5) = 2,000 units. 
-3. Pricing Strategy: A company offers two products, A and B, with demand curves of Q = 100 - P and Q = 50 - 0.5P, respectively. If the company wants to maximize revenue, which product should it prioritize and at what price? 
-Revenue = Price * Quantity. 
-For Product A, Revenue = P * (100 - P) = 100P - P^2. 
-For Product B, Revenue = P * (50 - 0.5P) = 50P - 0.5P^2. 
-To maximize revenue, take the derivative of revenue with respect to price and set it equal to zero. 
-For Product A, d(Revenue)/dP = 100 - 2P = 0, P = $50. 
-For Product B, d(Revenue)/dP = 50 - P = 0, P = $50. 
-Given the higher demand curve, Product A should be prioritized at $50.
-
-## Applications
-
-In business, marketing applications are diverse and widespread. Companies use marketing to identify and satisfy customer needs, ultimately driving sales and revenue growth. Market research is a crucial application, involving the collection and analysis of data to understand target audiences, their preferences, and behaviors. This informs product development, pricing strategies, and promotional campaigns. Digital marketing applications, such as social media marketing, email marketing, and search engine optimization (SEO), enable businesses to reach and engage with customers online. Additionally, marketing metrics and analytics are used to measure campaign effectiveness, track key performance indicators (KPIs), and make data-driven decisions. Brand management is another key application, where companies strive to create and maintain a unique identity, build customer loyalty, and differentiate themselves from competitors. Marketing automation tools are also used to streamline and optimize marketing processes, such as lead generation, lead nurturing, and customer relationship management. Overall, marketing applications are essential for businesses to compete effectively, build strong customer relationships, and drive long-term growth and profitability.
-
-In business, marketing applications are diverse and critical to driving revenue and growth. Market research informs product development, enabling companies to create offerings that meet customer needs. Segmentation, targeting, and positioning (STP) strategies help businesses identify and cater to specific customer groups, increasing the effectiveness of marketing efforts. Digital marketing channels, such as social media, email, and search engine optimization (SEO), allow companies to reach and engage with customers at various touchpoints. Data analytics and metrics, including return on investment (ROI) and customer lifetime value (CLV), enable marketers to measure campaign performance and make data-driven decisions. Brand management involves creating and maintaining a unique brand identity, while customer relationship management (CRM) focuses on building and sustaining long-term customer relationships. Additionally, marketing applications extend to pricing strategies, product launches, and distribution channel management, all of which require a deep understanding of customer behavior, market trends, and competitor activity. By applying marketing principles and techniques, businesses can differentiate themselves, drive customer acquisition and retention, and ultimately achieve their revenue and growth objectives.
-
-## Common Errors
-
-Practitioners often make mistakes in marketing due to misconceptions or oversimplifications. One common error is assuming that a large market share automatically translates to profitability, ignoring the potential for low-margin sales to erode overall profitability. Another mistake is prioritizing product features over customer needs, leading to a mismatch between the product offered and the target market's demands. Additionally, marketers may focus too heavily on acquiring new customers while neglecting retention strategies, which can be more cost-effective and lead to long-term loyalty. Furthermore, the failure to segment markets effectively can result in marketing efforts being diluted across too broad an audience, reducing their impact. Marketers also often underestimate the importance of measuring and analyzing the return on investment (ROI) of marketing campaigns, making it difficult to assess their effectiveness and make data-driven decisions. These errors stem from a lack of understanding of marketing principles, such as the importance of customer-centricity, market segmentation, and data-driven decision making. Some marketers also confuse correlation with causation, mistakenly attributing sales increases to specific campaigns or tactics without considering other factors. Additionally, relying too heavily on historical data can lead to missed opportunities, as it may not account for changes in market trends or consumer behavior. Furthermore, neglecting to segment the target audience can result in ineffective marketing strategies, as a one-size-fits-all approach often fails to resonate with diverse customer groups. These errors can be avoided by adopting a customer-centric approach, continuously monitoring and analyzing market data, and being aware of the complexities and nuances of marketing dynamics.
-
-## Advanced
-
-At the graduate level, marketing extends into specialized areas such as marketing analytics, digital marketing, and international marketing. Marketing analytics involves the use of statistical methods and data mining techniques to analyze customer behavior and optimize marketing strategies. Digital marketing encompasses the use of digital channels such as social media, email, and search engines to reach customers. International marketing requires an understanding of cultural and economic differences across countries and the ability to adapt marketing strategies accordingly. Open questions in the field of marketing include the impact of artificial intelligence on customer behavior, the role of social responsibility in marketing, and the effectiveness of influencer marketing. The field is moving towards a greater emphasis on data-driven decision making, personalized marketing, and sustainability. Graduate-level marketing students are expected to critically evaluate marketing theories and practices, and to develop innovative solutions to complex marketing problems. They must also stay up-to-date with the latest marketing trends and technologies, such as blockchain and virtual reality, and consider their potential applications in marketing.
-
-## Deep Curriculum Expansion
-
-This expansion adds a 12-chapter instructional sequence and is designed to continue toward the full SKA textbook standard.
-
-## 1. Marketing as Demand Engineering
-
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
-
-Marketing creates, shapes, captures, and measures demand. Start with a customer problem and market definition, then choose positioning, message, offer, channel, and measurement. Separate awareness from qualified demand and demand from revenue. A large audience is not automatically a valuable market.
-
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
-
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
-
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
-
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Marketing and sales share one revenue system. Marketing typically owns the earlier stages, from awareness to qualified interest, and sales owns the later ones, from qualified opportunity to signed contract, though the boundary varies by business. The handoff needs a written agreement: what counts as a qualified lead, how quickly sales will follow up, and how leads that are not ready will be returned to nurturing. Without that agreement, marketing reports success on lead volume while sales complains about lead quality, and both are right.
 
 ## 2. Market Research
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Market research reduces the risk of decisions by replacing assumptions with evidence. It answers questions such as: Who has this problem? How do they solve it today? What do they value? What words do they use? How much would they pay? Which alternatives do they compare?
 
-Research combines qualitative and quantitative evidence. Interviews reveal language, motives, constraints, and context; behavioral and market data reveal scale and patterns. Triangulate sources and distinguish observed behavior from stated preference. Research should change a decision, not merely produce a report.
+Qualitative research explores and explains. Customer interviews, observation of people doing the work, reviews of support tickets and sales call recordings, and analysis of online discussions reveal problems, motivations and language. They are best for discovering what you did not know to ask. Ten to twenty well-run interviews with people in one segment often surface most of the major themes; when new interviews stop producing new themes, you have likely reached saturation for that question.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+Quantitative research measures. Surveys, analytics data, experiments and sales records tell you how common something is, how strongly people feel, and how behavior changes. They are best for sizing and prioritizing what qualitative research has already found. A survey designed before interviews usually asks the wrong questions; a survey designed after them can measure the right ones.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+Good interview practice resembles good sales discovery. Ask about past behavior rather than hypothetical future behavior, because people are poor at predicting what they would do and good at recalling what they did. "Tell me about the last time you had to reschedule a client" yields better evidence than "Would you use a tool that made rescheduling easier?" Avoid leading questions. Listen for the customer's own words, which later become marketing copy. Record notes consistently so findings can be compared.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Secondary research uses information others have already published: government statistics, industry reports, company filings, academic studies and competitors' public materials. It is cheap and fast, but it was collected for someone else's purpose, so check its definitions, date and method before relying on it.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Competitive analysis maps the alternatives a buyer considers: direct competitors, indirect substitutes, manual workarounds and doing nothing. For each, note what it offers, what it costs, whom it serves best, and where customers complain about it. The gaps between what customers want and what alternatives provide are where positioning opportunities sit.
 
-## 3. Segmentation and Positioning
+## 3. Sizing a Market
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Market sizing estimates how much revenue an offer could earn. Three layers are common. The total addressable market is the revenue available if every potential customer for this kind of offer bought it. The serviceable addressable market is the portion the company can realistically reach and serve with its current product, channels and geography. The serviceable obtainable market is the portion it can plausibly win over a defined period, given competition and its resources.
 
-Segmentation divides a market into groups that differ in needs, behavior, economics, or response. Positioning defines the frame through which a target buyer understands an offer relative to alternatives. Good segmentation is actionable: the organization can change its message, product, channel, or economics based on the distinction.
+Top-down sizing starts from a large published figure and applies percentages. It is quick but easily inflated, because each percentage is a guess and the starting figure often includes customers who would never buy. Bottom-up sizing counts actual potential customers and multiplies by a realistic price. It is slower but much easier to defend and to act on.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+### Worked Example 1: Bottom-Up Market Sizing
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+A company sells booking and membership software to independent fitness studios for $1,800 per year. Using business registry data for the regions it serves, the team estimates there are 12,000 independent studios in those regions. This figure is the team's own estimate for teaching purposes.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Total addressable market: 12,000 studios × $1,800 = $21,600,000 per year.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Interviews and a short survey suggest that 40% of studios already use some digital booking tool, which makes them easier to reach and quicker to switch, while the rest still rely on paper or messaging apps and rarely buy software in the first year. The company decides to target the digital 40% first.
 
-## 4. Brand and Messaging
+Serviceable addressable market: 12,000 × 0.40 = 4,800 studios. 4,800 × $1,800 = $8,640,000 per year.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+The company believes it can win 5% of the serviceable market within three years, based on its sales capacity and the number of competitors.
 
-Brand is a set of associations and expectations accumulated through repeated experiences. Messaging translates positioning into language appropriate to a specific audience and stage. Strong messaging is specific about problem, audience, mechanism, and outcome while avoiding claims that cannot be supported.
+Serviceable obtainable market: 4,800 × 0.05 = 240 studios. 240 × $1,800 = $432,000 in annual recurring revenue.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+The $21.6 million total is a headline; the $432,000 obtainable figure is the one that drives the plan. It tells the team how many customers to acquire per month (about 6.7 over 36 months), what acquisition cost it can afford, and whether the business is large enough to justify the investment. If $432,000 is too small, the team must widen the serviceable market, for example by building features that serve paper-based studios, or raise the price by adding value.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+## 4. Segmentation, Targeting and Positioning
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Segmentation divides a market into groups whose members are similar to each other in ways that matter for marketing and different from other groups. Useful segmentation variables include demographics or firmographics (age, income, company size, industry), geography, behavior (how they buy, how often they use a product, what they currently use), needs (the job they are trying to get done, the outcome they value most) and attitudes. Needs-based and behavioral segments are usually more useful than purely demographic ones, because they explain why people buy.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+A segment is useful when it is measurable, large enough to be worth serving, reachable through identifiable channels, distinct in how it responds to marketing, and actionable with the company's resources. A segment that cannot be reached cheaply is a statistic, not a market.
 
-## 5. Content Strategy
+Targeting chooses which segments to serve first. Score each segment on attractiveness (size, growth, willingness to pay, competitive intensity) and on fit (how well the product solves their problem, whether the company has credibility with them, how efficiently it can reach them). Start with the segment where both scores are high, win it decisively, and use that base to expand. Trying to serve every segment at once usually means serving none of them well.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Positioning defines how the target segment should think about the offer relative to its alternatives. It is a choice about the mental slot the company wants to occupy. A common template for a positioning statement is: "For [target customer] who [need or problem], [product] is a [category] that [key benefit]. Unlike [main alternative], it [main point of difference]." For example: "For independent fitness studios that lose revenue to missed classes, StudioFlow is a booking and membership system that fills cancelled spots automatically. Unlike general-purpose scheduling tools, it was built around class waitlists and membership rules."
 
-Content should serve a job: educate, establish credibility, answer objections, create demand, support evaluation, or help customers succeed. Build content around audience questions and decision stages. Measure useful outcomes rather than publishing volume alone. Repurposing is efficient only when the adapted content remains relevant to its context.
+The statement is an internal tool, not a slogan. It guides product, copy, sales conversations and channel choices. A strong position is specific, believable, important to the target customer and defensible against competitors. A position that claims to be the best at everything is not a position.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+## 5. How Buyers Decide
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+People rarely buy products for their own sake; they hire them to make progress in a situation. The jobs-to-be-done view asks what job the customer is trying to get done, in what circumstances, and what progress looks like to them. A studio owner does not want booking software; they want full classes without spending evenings on messages. The job has functional parts (fill classes), emotional parts (feel in control) and social parts (look professional to members). Messages and products that address all three outperform those that list features.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Buying journeys share common phases even when they look different on the surface: recognizing a problem, exploring solutions, comparing options, deciding, and then using and evaluating what was bought. Each phase raises different questions. Early on, buyers ask "Is this problem worth solving?" Later, "Which approach is right?" Then, "Which provider is safest?" After purchase, "Did I make a good choice?" Content and messages should answer the question the buyer is actually asking at that moment.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Behavioral research has identified regular patterns in decision-making that marketers should understand, both to communicate clearly and to avoid misuse. Loss aversion means that people tend to weigh potential losses more heavily than equivalent gains, so framing the cost of inaction can motivate more than describing gains. Social proof means that people look to others like them when uncertain, which is why reviews and case studies from similar customers matter. Anchoring means that the first number people see influences how they judge later numbers. Choice overload means that too many options can delay decisions, so a small number of clear packages often converts better than a long menu. Defaults matter, because many people accept whatever option is preselected.
 
-## 6. Digital Distribution
+These patterns can be used honestly, to make real value easier to see, or dishonestly, to push people into decisions against their interests. Fake countdown timers, invented scarcity, preselected add-ons that customers do not notice, and cancellation flows designed to confuse are increasingly treated by regulators as deceptive or unfair practices. They also destroy trust and raise refund and churn rates. The test is simple: would the customer feel well treated if they understood exactly what you did and why?
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Business buyers add organizational dynamics. Several people participate, each with different criteria, and the decision must be justified to others. Marketing to business buyers must therefore equip a champion with materials they can share: business cases, security documentation, implementation plans and references.
 
-Digital distribution includes search, social, email, communities, partnerships, advertising, and direct channels. Channel selection should reflect audience behavior, economics, controllability, and measurement quality. Own durable assets such as customer relationships and first-party data rather than depending entirely on rented reach.
+## 6. Value Proposition and Messaging
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+A value proposition states why a specific customer should choose this offer over the alternatives. It connects the customer's job, pains and desired gains to what the offer does. A useful way to build one is to list, for a target persona, the jobs they are trying to do, the pains that make those jobs hard, and the gains they hope for; then list, for the offer, the features, the pains they relieve and the gains they create. The value proposition is the overlap, expressed in the customer's words.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+A message hierarchy turns the value proposition into consistent communication. At the top is one core message, a single sentence that captures the main value. Beneath it sit three or four supporting pillars, each a distinct benefit. Beneath each pillar sit proof points: data, customer results, demonstrations, certifications. For example, for the studio product:
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+- Core message: Keep every class full without spending your evenings on messages.
+- Pillar 1, fill cancelled spots: waitlisted members are offered the spot automatically. Proof: customers report fewer empty spots, measured in their own booking data.
+- Pillar 2, get paid on time: memberships renew and charge automatically, with failed-payment follow-up. Proof: integration with established payment processors; collection reports.
+- Pillar 3, look professional: branded booking pages and reminders. Proof: examples from current customers.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Different personas need different emphasis. The studio owner cares most about revenue and time; the front-desk manager about daily workload; the instructor about knowing who is coming. The core message stays the same while the order of pillars and the proof change.
 
-## 7. Demand Generation
+Good copy is clear before it is clever. It uses the customer's language, leads with the outcome, states specifics instead of adjectives ("cut no-shows by sending reminders 24 hours and 2 hours before class" rather than "powerful reminder features"), and asks for one action at a time. Test headlines and offers rather than debating them; the market's response is better evidence than internal preference.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+## 7. Pricing as a Marketing Decision
 
-Demand generation connects audience, message, offer, channel, conversion mechanism, and follow-up. Define the desired action at each stage and measure movement between stages. A campaign should have an explicit hypothesis and a reason the audience should act now rather than merely consume content.
+Price communicates value as well as capturing it. A price far below alternatives can signal low quality; a price far above them needs proof of superior value. Three broad approaches exist. Cost-plus pricing adds a margin to cost; it is simple but ignores what customers are willing to pay. Competitor-based pricing sets prices relative to alternatives; it is safe but surrenders differentiation. Value-based pricing sets prices from the value the customer receives; it captures the most revenue when value can be measured and communicated, and requires the research to do so.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+Packaging is often more powerful than the price level itself. Good-better-best tiers let customers self-select, and a well-designed middle tier often becomes the most popular choice. Tiers should differ by the value delivered to different segments, not by arbitrary feature removal. Usage-based pricing aligns price with value for products whose use varies widely, but makes revenue less predictable for both sides.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+Survey methods can help estimate willingness to pay. One common approach asks respondents at what price a product would seem too cheap to trust, a bargain, getting expensive, and too expensive to consider; the overlaps suggest an acceptable range. Such survey methods measure stated rather than actual behavior, so confirm them with real offers when possible.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+### Worked Example 2: Contribution Margin, Break-Even and the Cost of a Promotion
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+An online store sells a training kit for $90. The product, packaging, payment fees and shipping cost $36 per unit (variable cost). The marketing team plans a campaign with a fixed cost of $27,000 for creative work and media.
 
-## 8. Marketing Analytics
+Contribution margin per unit: $90 − $36 = $54, or $54 ÷ $90 = 60% of price.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Break-even volume for the campaign: $27,000 ÷ $54 = 500 units. The campaign must sell 500 additional units to pay for itself.
 
-Marketing analytics translates activity into decisions. Track acquisition cost, conversion rates, contribution margin, retention, cohort behavior, and incremental impact where possible. Avoid vanity metrics that look large but do not change economic outcomes. Measurement definitions must be consistent across systems.
+The team considers adding a 20% discount to make the campaign more attractive. The price becomes $90 × 0.80 = $72. Variable cost stays at $36, so contribution margin falls to $72 − $36 = $36 per unit.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+New break-even volume: $27,000 ÷ $36 = 750 units.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+The 20% discount requires 50% more units (750 versus 500) just to break even, and it also reduces the margin on customers who would have bought at full price anyway. Before running the discount, the team should estimate whether it will lift volume by at least 50% among people who would not otherwise buy. If not, a non-price offer such as a bonus guide with low variable cost may serve better.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+## 8. Brand
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+A brand is the set of associations people hold about a company or product: what it stands for, what it is like to deal with, whom it is for and what it promises. Logos, colors and names are signals that help people recall those associations, but they are not the brand itself. The brand is built by every experience a customer has, including advertising, sales conversations, the product, support, invoices and the way problems are handled.
 
-## 9. Experimentation
+Strong brands lower the cost of every other marketing activity. They raise response rates, because people are more likely to open a message or click an advertisement from a name they recognize and trust. They support higher prices, because buyers pay for reduced risk. They improve sales conversion, because the buyer arrives already partly persuaded. These effects build slowly and are hard to attribute to individual campaigns, which is why brand investment is often cut first in budget pressure and missed later.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Brand consistency matters because recognition depends on repetition. A short brand guide should define the positioning, voice and tone, visual identity, and the words the company uses and avoids. Voice is the stable personality of the brand, such as direct, warm and expert; tone adapts it to context, more reassuring in a support message, more energetic in a launch announcement.
 
-Marketing experiments test specific hypotheses under controlled conditions. Define the treatment, control, primary metric, minimum detectable effect when appropriate, sample or duration constraints, and stopping rules. Statistical significance does not automatically imply business significance; consider effect size, cost, and durability.
+Brand building also depends on distinctive assets: elements such as a color, a character, a sound or a phrase that people associate uniquely with the brand. Using them consistently across years makes the brand easier to recall when a buying need arises. Changing them frequently, because the internal team is tired of them, wastes accumulated recognition long before customers have learned them.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+## 9. Channels: Owned, Earned and Paid
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+A channel is a route by which a message reaches people. Channels are often grouped into three kinds.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Owned media are the channels the company controls: its website, blog, email list, app, community and social accounts. They cost time to build but little to use, and the audience compounds over time. Their weakness is reach: they only reach people who already found you.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Earned media is attention given by others: press coverage, reviews, word of mouth, social shares, mentions by creators and referrals. It is highly credible because it is not paid for, but it cannot be fully controlled. It is earned by being genuinely remarkable, newsworthy or helpful, and by making it easy for satisfied customers to speak up.
 
-## 10. Lifecycle and Retention
+Paid media is attention bought: search advertising, social advertising, display and video advertising, sponsorships, paid placements with creators, and traditional media such as radio, television, print and outdoor. It offers fast, scalable reach and precise targeting, but costs rise with competition and results stop when spending stops.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Healthy marketing usually uses all three in a loop. Paid media brings new people to owned channels, owned channels build relationships that lead to purchases, satisfied customers produce earned media, and earned media lowers the cost of paid acquisition. The right mix depends on the business: a product people actively search for may lean on search advertising and comparison pages; a new category with no search demand needs education and content first; a product whose buyers gather in communities may grow through community and partnerships.
 
-Marketing continues after acquisition. Onboarding, education, usage prompts, renewal communication, and expansion campaigns can influence customer outcomes. Lifecycle design should respond to customer state rather than sending the same message to everyone. Retention is both a customer-value issue and an economic variable.
+Choose channels by asking where the target segment already spends attention, how they make decisions, what the economics of each channel are at the expected scale, and what the company can execute well. It is better to master two channels than to spread effort thinly across eight.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+## 10. Content, Search and Inbound Marketing
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+Inbound marketing attracts people by publishing material that is genuinely useful to them, so that they come to the company rather than the company interrupting them. It includes articles, guides, videos, podcasts, tools, templates, webinars and newsletters. Over time, good content builds an audience, earns search traffic, supports sales conversations and establishes expertise.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+A content strategy starts with the audience and their questions at each stage of the buying journey, not with a calendar of posts. For each important question, decide on the best format and the action you want the reader to take next. Early-stage content explains problems and their costs. Middle-stage content compares approaches and shows how to evaluate solutions. Late-stage content provides proof, pricing explanations, implementation details and answers to common objections. Content that serves sales conversations, such as a clear page explaining security practices, is often the highest-value content a business can produce.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Search engine optimization aims to make useful pages discoverable when people search. Durable practice is straightforward: understand what searchers actually want for a query, create the most helpful page on that topic, make the page fast and accessible, structure it clearly with descriptive headings, earn links from relevant sites by being worth citing, and keep important pages accurate and current. Tricks that try to manipulate rankings without serving searchers tend to stop working and can lead to penalties. Search behavior is also changing as more people get direct answers from search features and AI assistants, which rewards content that is clearly sourced, specific and authoritative.
 
-## 11. AI-Augmented Marketing
+Distribution matters as much as creation. Each substantial piece should be planned with its distribution: email to subscribers, social posts, sales team use, partner sharing, repurposing into shorter formats. Many teams produce too much content and distribute too little.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+## 11. Paid Acquisition and the Funnel
 
-AI can accelerate research, content transformation, personalization, classification, experimentation, and workflow execution. It can also amplify factual errors, bias, privacy problems, and generic messaging. Use retrieval and source controls for factual claims, human review for consequential communication, and measurement to verify that AI changes outcomes.
+Paid acquisition turns budget into attention and attention into customers through a series of conversion steps. The key terms are cost per thousand impressions (CPM), click-through rate (CTR), cost per click (CPC), conversion rate (CVR), cost per lead (CPL) and cost per acquisition (CPA), sometimes called cost per customer.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+### Worked Example 3: From Impressions to Cost per Customer
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+A business-to-business software company runs a social advertising campaign with a $10,000 budget. The platform charges an average CPM of $12. The advertisement's click-through rate is 0.9%. The landing page converts 3% of visitors into leads who book a demonstration, and the sales team converts 8% of those leads into paying customers. Each new customer produces $1,200 of gross profit in the first year.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+Impressions: $10,000 ÷ $12 × 1,000 ≈ 833,333 impressions.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+Clicks: 833,333 × 0.009 = 7,500 clicks.
 
-## 12. Marketing Strategy and Growth
+Cost per click: $10,000 ÷ 7,500 ≈ $1.33.
 
-### Learning Objectives
-- Explain the central concepts and vocabulary.
-- Apply the framework to a concrete business situation.
-- Identify evidence, assumptions, risks, and tradeoffs.
+Leads: 7,500 × 0.03 = 225 leads.
 
-A mature marketing strategy connects market structure, customer economics, positioning, channels, product, sales, retention, and capital allocation. Growth is constrained by the weakest part of the system. Sustainable scaling requires repeatable acquisition, acceptable unit economics, operational capacity, and a feedback loop that improves the system.
+Cost per lead: $10,000 ÷ 225 ≈ $44.44.
 
-### Worked Example
-A hypothetical organization applies the framework to a live commercial problem. The operator defines the objective, maps the current state, identifies alternatives, makes assumptions explicit, selects measurable indicators, and reviews the result against evidence rather than intuition alone.
+Customers: 225 × 0.08 = 18 customers.
 
-### Practice
-1. Apply the framework to a business you understand.
-2. Identify three assumptions and state how each could be tested.
-3. Define one outcome metric and one guardrail metric.
-4. Identify a likely failure mode and a control.
+Cost per customer: $10,000 ÷ 18 ≈ $555.56.
 
-### Case Study
-A hypothetical company applies the framework but initially optimizes an activity metric rather than the underlying business outcome. After reviewing the data, it changes the process, measurement definition, and decision rule. Analyze why the original measurement was insufficient and what evidence supports the revised approach.
+First-year gross profit: 18 × $1,200 = $21,600, or $2.16 of gross profit for every dollar spent.
 
-### Review Questions
-1. What is the central idea of this chapter?
-2. How does it affect a real business decision?
-3. What is a common failure mode?
-4. What evidence would demonstrate mastery?
+This chain shows where to improve. Doubling the landing page conversion rate from 3% to 6% doubles customers to 36 and halves the cost per customer to about $277.78 without any extra spend. Improving the click-through rate does the same at the top of the funnel. Often the cheapest improvement is on the company's own website, not in the advertising platform.
 
-## Worked Example Bank
+Two cautions apply. First, platform-reported conversions can overstate results, because platforms tend to credit themselves for conversions that would have happened anyway; incrementality tests, discussed in section 14, give a truer picture. Second, costs rise as spend grows, because the cheapest audiences are reached first. A channel that delivers customers at $556 each on a $10,000 budget may cost far more per customer at $100,000.
 
-### Worked Example 1
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+## 12. Conversion Optimization and Experiments
 
-### Worked Example 2
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Conversion rate optimization improves the share of people who take a desired action at each step: visiting to signing up, signing up to activating, trial to purchase. It works best as a disciplined process: study where people drop out using analytics, understand why through session recordings, surveys and user tests, form a hypothesis, test a change, and keep what works.
 
-### Worked Example 3
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Common sources of lost conversion include unclear value (the visitor cannot tell what the product does or who it is for within a few seconds), lack of trust (no proof, no reviews, unclear pricing), friction (long forms, required accounts, slow pages, confusing steps) and mismatched intent (an advertisement promises one thing and the page delivers another).
 
-### Worked Example 4
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+An A/B test randomly splits visitors between the current version (control) and a changed version (variant) and compares results. Randomization makes the groups comparable, so differences in outcome can be attributed to the change rather than to who happened to see it. Decide the primary metric, the minimum effect worth detecting and the sample size before starting, and do not stop the test the moment the result looks good; repeatedly checking and stopping early inflates the rate of false positives.
 
-### Worked Example 5
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+### Worked Example 4: Is the Difference Real?
 
-### Worked Example 6
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+A landing page test sends 1,000 visitors to the control and 1,000 to a variant with a new headline. The control produces 40 sign-ups (4.0%); the variant produces 55 (5.5%). The variant looks 37.5% better. Is the difference likely to be real?
 
-### Worked Example 7
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+A two-proportion z-test answers this. The pooled conversion rate is (40 + 55) ÷ 2,000 = 95 ÷ 2,000 = 0.0475.
 
-### Worked Example 8
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+The standard error of the difference is the square root of 0.0475 × (1 − 0.0475) × (1/1,000 + 1/1,000) = the square root of 0.0475 × 0.9525 × 0.002 = the square root of 0.0000904875 ≈ 0.00951.
 
-### Worked Example 9
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+The observed difference is 0.055 − 0.040 = 0.015.
 
-### Worked Example 10
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+The z-statistic is 0.015 ÷ 0.00951 ≈ 1.58.
 
-### Worked Example 11
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+For a two-sided test at the conventional 5% significance level, the threshold is about 1.96. Since 1.58 is below 1.96, the result is not statistically significant; the two-sided p-value is roughly 0.11. A difference this large could plausibly arise by chance with these sample sizes.
 
-### Worked Example 12
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+The right conclusion is not "the headline does not work" but "this test cannot tell yet." The team should either continue to the sample size it planned in advance or accept that the test was too small to detect an effect of this size. Calculating the required sample size before running the test avoids this situation. Small companies with limited traffic should test bold changes, which produce larger effects that are easier to detect, rather than small tweaks.
 
-### Worked Example 13
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+## 13. Lifecycle Marketing, Retention and Unit Economics
 
-### Worked Example 14
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Acquiring a customer is only the start. Lifecycle marketing guides customers through onboarding, activation, regular use, expansion and renewal, and wins back those who drift away. Email, in-app messages, community and account management are its main tools.
 
-### Worked Example 15
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Onboarding should lead each new customer to the first moment of real value as quickly as possible. Identify the actions that predict long-term retention (for a studio product, perhaps publishing a class schedule and receiving the first online booking) and design messages and help that drive those actions. Customers who reach early value stay longer; customers who do not are likely to leave regardless of later effort.
 
-### Worked Example 16
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Segment lifecycle messages by behavior. A customer who has not logged in for two weeks needs a different message from one who is using the product heavily and might be ready for a higher tier. Messages triggered by behavior consistently outperform messages sent to everyone on a schedule.
 
-### Worked Example 17
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+Unit economics tie marketing to profitability. Customer acquisition cost (CAC) is total sales and marketing spending in a period divided by new customers acquired in that period. Payback period is how many months of gross profit from a customer it takes to recover the CAC. Lifetime value (LTV) estimates the gross profit a customer generates over their whole relationship.
 
-### Worked Example 18
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+### Worked Example 5: CAC, Payback and Lifetime Value
 
-### Worked Example 19
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+A subscription company spends $300,000 on sales and marketing in a quarter and acquires 50 new customers. Each customer pays $800 per month, and the gross margin is 75%. Monthly customer churn is 2%.
 
-### Worked Example 20
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
+CAC: $300,000 ÷ 50 = $6,000 per customer.
 
-### Worked Example 21
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
-
-### Worked Example 22
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
-
-### Worked Example 23
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
-
-### Worked Example 24
-Define the customer or business problem, establish assumptions, select the appropriate framework, calculate or estimate the relevant economics, and identify what evidence would change the decision.
-
-## Case Study Bank
-
-## Case Study 1
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 2
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 3
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 4
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 5
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 6
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 7
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 8
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 9
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 10
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 11
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Case Study 12
-A hypothetical commercial team faces competing objectives involving growth, quality, cost, customer value, and risk. The team uses evidence, explicit decision criteria, and a feedback loop to revise its approach. Analyze the tradeoffs and identify the information that remains uncertain.
-
-## Review Question Bank
-
-1. Define market research and segmentation in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-2. What buyer, account, customer, or campaign evidence is needed to make an informed decision about market research and segmentation?
-3. Design a concrete marketing scenario requiring market research and segmentation; list observable steps, actors, inputs, and intended outcomes.
-4. Diagnose a realistic failure involving market research and segmentation. What early warnings, consequences, and corrective actions matter?
-5. Select a measurable performance metric for market research and segmentation; build a numerical example with its denominator, time frame, assumptions, and limitations.
-6. Compare two valid approaches to market research and segmentation. Under what customer, financial, or operational conditions would each be preferable?
-7. How could AI assist with market research and segmentation, and which factual checks, data protections, and authorization boundaries must remain enforced?
-8. Construct a practical assessment rubric for market research and segmentation, including evidence quality, business outcome, customer impact, and common errors.
-9. Define positioning and differentiated value in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-10. What buyer, account, customer, or campaign evidence is needed to make an informed decision about positioning and differentiated value?
-11. Design a concrete marketing scenario requiring positioning and differentiated value; list observable steps, actors, inputs, and intended outcomes.
-12. Diagnose a realistic failure involving positioning and differentiated value. What early warnings, consequences, and corrective actions matter?
-13. Select a measurable performance metric for positioning and differentiated value; build a numerical example with its denominator, time frame, assumptions, and limitations.
-14. Compare two valid approaches to positioning and differentiated value. Under what customer, financial, or operational conditions would each be preferable?
-15. How could AI assist with positioning and differentiated value, and which factual checks, data protections, and authorization boundaries must remain enforced?
-16. Construct a practical assessment rubric for positioning and differentiated value, including evidence quality, business outcome, customer impact, and common errors.
-17. Define campaign message design in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-18. What buyer, account, customer, or campaign evidence is needed to make an informed decision about campaign message design?
-19. Design a concrete marketing scenario requiring campaign message design; list observable steps, actors, inputs, and intended outcomes.
-20. Diagnose a realistic failure involving campaign message design. What early warnings, consequences, and corrective actions matter?
-21. Select a measurable performance metric for campaign message design; build a numerical example with its denominator, time frame, assumptions, and limitations.
-22. Compare two valid approaches to campaign message design. Under what customer, financial, or operational conditions would each be preferable?
-23. How could AI assist with campaign message design, and which factual checks, data protections, and authorization boundaries must remain enforced?
-24. Construct a practical assessment rubric for campaign message design, including evidence quality, business outcome, customer impact, and common errors.
-25. Define channel selection and media planning in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-26. What buyer, account, customer, or campaign evidence is needed to make an informed decision about channel selection and media planning?
-27. Design a concrete marketing scenario requiring channel selection and media planning; list observable steps, actors, inputs, and intended outcomes.
-28. Diagnose a realistic failure involving channel selection and media planning. What early warnings, consequences, and corrective actions matter?
-29. Select a measurable performance metric for channel selection and media planning; build a numerical example with its denominator, time frame, assumptions, and limitations.
-30. Compare two valid approaches to channel selection and media planning. Under what customer, financial, or operational conditions would each be preferable?
-31. How could AI assist with channel selection and media planning, and which factual checks, data protections, and authorization boundaries must remain enforced?
-32. Construct a practical assessment rubric for channel selection and media planning, including evidence quality, business outcome, customer impact, and common errors.
-33. Define search and content strategy in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-34. What buyer, account, customer, or campaign evidence is needed to make an informed decision about search and content strategy?
-35. Design a concrete marketing scenario requiring search and content strategy; list observable steps, actors, inputs, and intended outcomes.
-36. Diagnose a realistic failure involving search and content strategy. What early warnings, consequences, and corrective actions matter?
-37. Select a measurable performance metric for search and content strategy; build a numerical example with its denominator, time frame, assumptions, and limitations.
-38. Compare two valid approaches to search and content strategy. Under what customer, financial, or operational conditions would each be preferable?
-39. How could AI assist with search and content strategy, and which factual checks, data protections, and authorization boundaries must remain enforced?
-40. Construct a practical assessment rubric for search and content strategy, including evidence quality, business outcome, customer impact, and common errors.
-41. Define marketing funnel measurement in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-42. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing funnel measurement?
-43. Design a concrete marketing scenario requiring marketing funnel measurement; list observable steps, actors, inputs, and intended outcomes.
-44. Diagnose a realistic failure involving marketing funnel measurement. What early warnings, consequences, and corrective actions matter?
-45. Select a measurable performance metric for marketing funnel measurement; build a numerical example with its denominator, time frame, assumptions, and limitations.
-46. Compare two valid approaches to marketing funnel measurement. Under what customer, financial, or operational conditions would each be preferable?
-47. How could AI assist with marketing funnel measurement, and which factual checks, data protections, and authorization boundaries must remain enforced?
-48. Construct a practical assessment rubric for marketing funnel measurement, including evidence quality, business outcome, customer impact, and common errors.
-49. Define attribution and incrementality in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-50. What buyer, account, customer, or campaign evidence is needed to make an informed decision about attribution and incrementality?
-51. Design a concrete marketing scenario requiring attribution and incrementality; list observable steps, actors, inputs, and intended outcomes.
-52. Diagnose a realistic failure involving attribution and incrementality. What early warnings, consequences, and corrective actions matter?
-53. Select a measurable performance metric for attribution and incrementality; build a numerical example with its denominator, time frame, assumptions, and limitations.
-54. Compare two valid approaches to attribution and incrementality. Under what customer, financial, or operational conditions would each be preferable?
-55. How could AI assist with attribution and incrementality, and which factual checks, data protections, and authorization boundaries must remain enforced?
-56. Construct a practical assessment rubric for attribution and incrementality, including evidence quality, business outcome, customer impact, and common errors.
-57. Define marketing experiment design in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-58. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing experiment design?
-59. Design a concrete marketing scenario requiring marketing experiment design; list observable steps, actors, inputs, and intended outcomes.
-60. Diagnose a realistic failure involving marketing experiment design. What early warnings, consequences, and corrective actions matter?
-61. Select a measurable performance metric for marketing experiment design; build a numerical example with its denominator, time frame, assumptions, and limitations.
-62. Compare two valid approaches to marketing experiment design. Under what customer, financial, or operational conditions would each be preferable?
-63. How could AI assist with marketing experiment design, and which factual checks, data protections, and authorization boundaries must remain enforced?
-64. Construct a practical assessment rubric for marketing experiment design, including evidence quality, business outcome, customer impact, and common errors.
-65. Define pricing communication in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-66. What buyer, account, customer, or campaign evidence is needed to make an informed decision about pricing communication?
-67. Design a concrete marketing scenario requiring pricing communication; list observable steps, actors, inputs, and intended outcomes.
-68. Diagnose a realistic failure involving pricing communication. What early warnings, consequences, and corrective actions matter?
-69. Select a measurable performance metric for pricing communication; build a numerical example with its denominator, time frame, assumptions, and limitations.
-70. Compare two valid approaches to pricing communication. Under what customer, financial, or operational conditions would each be preferable?
-71. How could AI assist with pricing communication, and which factual checks, data protections, and authorization boundaries must remain enforced?
-72. Construct a practical assessment rubric for pricing communication, including evidence quality, business outcome, customer impact, and common errors.
-73. Define demand generation in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-74. What buyer, account, customer, or campaign evidence is needed to make an informed decision about demand generation?
-75. Design a concrete marketing scenario requiring demand generation; list observable steps, actors, inputs, and intended outcomes.
-76. Diagnose a realistic failure involving demand generation. What early warnings, consequences, and corrective actions matter?
-77. Select a measurable performance metric for demand generation; build a numerical example with its denominator, time frame, assumptions, and limitations.
-78. Compare two valid approaches to demand generation. Under what customer, financial, or operational conditions would each be preferable?
-79. How could AI assist with demand generation, and which factual checks, data protections, and authorization boundaries must remain enforced?
-80. Construct a practical assessment rubric for demand generation, including evidence quality, business outcome, customer impact, and common errors.
-81. Define customer lifecycle marketing in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-82. What buyer, account, customer, or campaign evidence is needed to make an informed decision about customer lifecycle marketing?
-83. Design a concrete marketing scenario requiring customer lifecycle marketing; list observable steps, actors, inputs, and intended outcomes.
-84. Diagnose a realistic failure involving customer lifecycle marketing. What early warnings, consequences, and corrective actions matter?
-85. Select a measurable performance metric for customer lifecycle marketing; build a numerical example with its denominator, time frame, assumptions, and limitations.
-86. Compare two valid approaches to customer lifecycle marketing. Under what customer, financial, or operational conditions would each be preferable?
-87. How could AI assist with customer lifecycle marketing, and which factual checks, data protections, and authorization boundaries must remain enforced?
-88. Construct a practical assessment rubric for customer lifecycle marketing, including evidence quality, business outcome, customer impact, and common errors.
-89. Define marketing privacy and compliance in marketing practice, identify its purpose and distinguish verified facts from assumptions.
-90. What buyer, account, customer, or campaign evidence is needed to make an informed decision about marketing privacy and compliance?
-91. Design a concrete marketing scenario requiring marketing privacy and compliance; list observable steps, actors, inputs, and intended outcomes.
-92. Diagnose a realistic failure involving marketing privacy and compliance. What early warnings, consequences, and corrective actions matter?
-93. Select a measurable performance metric for marketing privacy and compliance; build a numerical example with its denominator, time frame, assumptions, and limitations.
-94. Compare two valid approaches to marketing privacy and compliance. Under what customer, financial, or operational conditions would each be preferable?
-95. How could AI assist with marketing privacy and compliance, and which factual checks, data protections, and authorization boundaries must remain enforced?
-96. Construct a practical assessment rubric for marketing privacy and compliance, including evidence quality, business outcome, customer impact, and common errors.
-
-## Glossary
-
-**ICP:** A defined profile of customers for whom a solution is expected to fit and create value.
-
-**Conversion rate:** The proportion of a defined population that completes a specified transition or action.
-
-**Pipeline:** A structured set of commercial opportunities at defined stages.
-
-**Positioning:** The deliberate framing of an offer relative to a target audience and alternatives.
-
-**Retention:** Continued customer relationship or usage over a defined period.
-
-**Unit economics:** Economics measured at the level of a meaningful business unit such as a customer, transaction, or account.
+Monthly gross profit per customer: $800 × 0.75 = $600.
+
+Payback period: $6,000 ÷ $600 = 10 months.
+
+Average customer lifetime, using the simple approximation of 1 ÷ monthly churn: 1 ÷ 0.02 = 50 months.
+
+Lifetime value: $600 × 50 = $30,000.
+
+LTV to CAC ratio: $30,000 ÷ $6,000 = 5 to 1.
+
+Many subscription businesses aim for an LTV to CAC ratio of at least 3 to 1 and a payback period of roughly a year or less, though the right targets depend on cash position and growth stage. A ratio of 5 to 1 suggests the company may be underinvesting in growth and could spend more to acquire customers.
+
+These figures need care. The lifetime approximation assumes churn is constant, which is rarely true; early churn is usually higher than later churn. A young company may not have enough history to know its real churn. Blended CAC hides differences between channels: one channel might deliver customers at $3,000 and another at $12,000. Calculate unit economics by channel and by segment, and treat lifetime value as an estimate with a range rather than a fact.
+
+## 14. Measurement and Attribution
+
+Marketing measurement tries to answer two questions: what happened, and what caused it. The first is mostly a data problem; the second is much harder.
+
+Start with a small set of metrics tied to business outcomes. A useful structure is one primary metric for the whole marketing function, such as qualified pipeline created or new revenue from new customers, supported by a few input metrics for each stage of the funnel. Metrics that are easy to raise without improving outcomes, such as impressions, followers or raw lead counts, should be watched but not targeted.
+
+Attribution assigns credit for a conversion to the marketing touchpoints that preceded it. Single-touch models give all the credit to one touch: first-touch credits the interaction that introduced the customer, and last-touch credits the final interaction before conversion. Multi-touch models spread credit: linear gives equal credit to every touch, time-decay gives more credit to recent touches, and position-based models give most credit to the first and last touches with the rest spread across the middle.
+
+### Worked Example 6: Comparing Attribution Models
+
+A customer's path to a $3,000 purchase includes three touches: a social advertisement (first), a webinar (middle) and a branded search click (last).
+
+First-touch: social advertisement $3,000; webinar $0; search $0.
+
+Last-touch: social advertisement $0; webinar $0; search $3,000.
+
+Linear: $3,000 ÷ 3 = $1,000 to each touch.
+
+Position-based with 40% to the first touch, 40% to the last and 20% to the middle: social advertisement 0.40 × $3,000 = $1,200; webinar 0.20 × $3,000 = $600; search 0.40 × $3,000 = $1,200.
+
+Under last-touch, the team would conclude that branded search is its best channel and might cut the social budget. But a branded search happens because someone already knows the brand; cutting the activity that introduced them would likely reduce branded searches later. No attribution model reveals true causation; each embeds an assumption. Use attribution as a directional guide and test the most important assumptions directly.
+
+Incrementality testing measures what marketing actually causes. A holdout test withholds a campaign from a random group of the audience and compares their behavior with those who saw it; the difference is the campaign's incremental effect. A geographic test runs a campaign in some regions and not in comparable others. Marketing mix modeling uses statistical analysis of spending and sales over time to estimate each channel's contribution, and works without tracking individuals, which grows more valuable as privacy rules and browser changes limit user-level tracking.
+
+## 15. Planning, Budgeting and Campaigns
+
+A marketing plan connects business goals to specific activities. A practical plan includes the business objective (for example, new annual revenue), the marketing objective that supports it (for example, qualified opportunities created), the target segments and positioning, the main campaigns and always-on programs, the channel mix, the budget, the metrics and their targets, the people responsible, and the review rhythm.
+
+Budgets can be set by percentage of revenue, by matching competitors, by funding specific objectives, or by testing and scaling. The objective-based approach, working backwards from targets through the funnel and the cost per outcome, is the most defensible because it links spending directly to results, though it depends on reasonable conversion assumptions. A sensible budget also reserves a share, often 10% to 20%, for experiments in new channels and messages, so the company keeps learning.
+
+A campaign is a coordinated set of activities around one message and objective over a defined period. A campaign brief should state the objective and how it will be measured, the target audience, the single most important message and its proof, the offer or call to action, the channels and assets, the budget, the timeline and the owner. Most weak campaigns fail at the brief stage, with vague objectives or several competing messages, rather than in execution.
+
+Review results on a fixed schedule. Weekly reviews catch execution problems; monthly reviews adjust channel spending; quarterly reviews revisit targets, segments and positioning. Write down what was learned, including from failures, so that knowledge survives staff changes.
+
+## 16. Law and Ethics in Marketing
+
+Marketing claims must be truthful and not misleading, and objective claims need evidence before they are made. In the United States the Federal Trade Commission enforces these principles, and most other countries have similar consumer protection and advertising standards bodies. A claim can mislead through what it implies, not only through what it states, and fine print does not cure a misleading headline.
+
+Endorsements and testimonials must reflect genuine experiences, and material connections between the brand and the endorser, such as payment, free products or a business relationship, must be disclosed clearly. Fake reviews, reviews written by employees posing as customers, and the selective suppression of negative reviews are prohibited in many jurisdictions. Creators and influencers paid to promote a product must disclose the relationship in a way their audience will notice.
+
+Privacy and data protection laws govern how personal data is collected and used. In the European Union and the United Kingdom, organizations need a lawful basis for processing personal data, must be transparent about it, must respect rights such as access and objection, and generally need consent for non-essential cookies and many forms of electronic marketing. Several US states have comprehensive privacy laws that grant consumers rights to know, delete and opt out of the sale or sharing of their data. Collect only the data you need, explain how you use it, and honor opt-outs across every tool.
+
+Email and messaging rules include the US CAN-SPAM Act, which requires accurate header and subject information, a valid physical postal address and a working opt-out honored promptly; rules on automated calls and text messages that generally require prior consent; and stricter consent requirements in jurisdictions such as Canada and the European Union.
+
+Accessibility is both an ethical and, in many places, a legal obligation. Websites, emails and documents should be usable by people with disabilities: sufficient color contrast, descriptive alternative text for images, captions for video, keyboard navigation and clear structure. Accessible marketing also tends to be clearer marketing for everyone.
+
+AI-generated content raises additional obligations. Facts, statistics and claims in AI-drafted copy must be verified. Images and endorsements generated by AI must not deceive people into believing a real person said or did something. Customer data should only be used with tools and for purposes the company is permitted to use it for. A person in the company remains responsible for every message published in its name.
+
+## 17. Partnerships, Communities and Events
+
+Some of the most efficient growth comes from borrowing trust that others have already built. Partnerships, communities and events all work this way, and all three are easy to start and hard to do well.
+
+A partnership connects the company with an organization that already serves the same customers without competing for the same budget. Common forms include referral partners who recommend the product for a fee, integration partners whose products connect to yours, resellers and agencies who sell or implement it, and co-marketing partners who share an audience for a joint guide, webinar or event. The test of a good partner is overlap of audience, alignment of incentives and complementary offers. Write down what each side contributes, how leads are shared, how referral fees are paid and how customer data may be used, before the first joint campaign. Most partnerships fail not through conflict but through neglect: neither side assigns an owner, and the agreement sits unused.
+
+A community gathers customers and prospects around a shared interest, such as a professional group, an online forum or a regular meetup. Healthy communities exist for their members first. They give people a place to learn from each other, solve problems and be recognized for their expertise. The company benefits indirectly through loyalty, product feedback, word of mouth and content created by members. Communities that become thinly disguised sales channels lose their members. Measure community health through participation, the share of questions answered by members rather than staff, and retention of active members, and only then through business outcomes.
+
+Events, whether in person or online, compress months of relationship building into hours. Trade shows put the company in front of many buyers at once; hosted dinners and workshops build deeper relationships with fewer people; webinars scale education at low cost. Every event needs a plan for before, during and after: who should attend and how they will be invited, what attendees will learn or experience, and how each conversation will be followed up within days. Much of the value of an event is lost when leads sit unworked for weeks after it ends, so agree the follow-up process with sales before the event, not after.
+
+## Case Study: Growing a Studio Software Company Beyond Paid Search
+
+This case is hypothetical and was written for teaching.
+
+StudioFlow sells booking and membership software to independent fitness studios. For its first two years, nearly all new customers came from search advertising on terms such as "fitness studio booking software." Cost per customer was about $400 and payback was under six months. In the third year, two larger competitors entered the search auctions. Cost per click doubled, cost per customer rose above $900 and growth stalled, even though the marketing team kept increasing the search budget.
+
+The new head of marketing began with research instead of more spending. She interviewed 18 recent customers and 10 studios that had evaluated StudioFlow but chosen a competitor. Three findings stood out. First, most customers had not been searching for software at all when they first heard of StudioFlow; they had been frustrated by empty spots in classes after last-minute cancellations, and a fellow studio owner had mentioned the automatic waitlist. Search was where they confirmed a recommendation, not where they discovered it. Second, studios that lost to competitors usually did so because the competitor's pages explained pricing clearly and StudioFlow's did not. Third, customers described the problem as "empty spots" and "chasing payments," while StudioFlow's site talked about "scheduling optimization."
+
+The team made four changes. They rewrote the website around the customers' language, leading with "Keep every class full" and publishing clear pricing for all tiers. They launched a referral program that rewarded both the referring and the new studio with a month of service, and made it easy to share a personal link. They created a free calculator that estimated revenue lost to empty spots from a studio's class size, cancellation rate and price, which studio owners shared with each other and which earned links from fitness business blogs. And they ran a geographic holdout test: search advertising was paused for six weeks in a set of randomly chosen regions and continued in comparable regions.
+
+The holdout test showed that pausing search in the test regions reduced new customers there by only about a third of what the platform's own reports had credited to search; many of those customers found StudioFlow anyway through branded searches and referrals. The team cut search spending by 40% and moved the savings into the referral program and content. Over the next three quarters, referrals grew to the largest source of new customers, the landing page conversion rate rose after the pricing change, blended cost per customer fell below $500, and customers who arrived by referral showed lower early churn than those from paid search.
+
+Questions for analysis:
+
+1. Why did the platform's reports overstate the contribution of search advertising, and how did the holdout test correct this?
+2. What role did language from customer interviews play in improving conversion?
+3. Which of the four changes were demand creation and which were demand capture?
+4. What risks should the team watch for in a referral program that rewards both sides?
+
+## Key Terms
+
+**A/B test:** an experiment that randomly assigns people to a control or a variant and compares outcomes.
+
+**Attribution:** the assignment of credit for a conversion to the marketing touchpoints that preceded it.
+
+**Brand:** the associations people hold about a company or product, built by every experience with it.
+
+**Break-even volume:** fixed cost divided by contribution margin per unit.
+
+**Contribution margin:** price minus variable cost per unit.
+
+**Conversion rate:** the share of people at one stage who complete the next desired action.
+
+**Cost per acquisition (CPA):** spending divided by the number of customers acquired.
+
+**Customer acquisition cost (CAC):** total sales and marketing spending divided by new customers in the same period.
+
+**Demand capture:** marketing aimed at people already looking for a solution.
+
+**Demand creation:** marketing that makes people aware a problem is worth solving and a solution exists.
+
+**Earned media:** attention given by others, such as reviews, press and word of mouth.
+
+**Incrementality:** the additional outcome caused by marketing, compared with what would have happened without it.
+
+**Jobs to be done:** a view of purchasing as hiring a product to make progress in a particular situation.
+
+**Lifetime value (LTV):** the estimated gross profit a customer generates over their relationship with the company.
+
+**Marketing mix:** the set of decisions about product, price, place and promotion.
+
+**Message hierarchy:** a structure of one core message, supporting pillars and proof points.
+
+**Owned media:** channels the company controls, such as its website and email list.
+
+**Paid media:** attention bought through advertising and sponsorships.
+
+**Payback period:** the months of gross profit needed to recover customer acquisition cost.
+
+**Positioning:** the place an offer is meant to occupy in the target customer's mind relative to alternatives.
+
+**Segmentation:** dividing a market into groups with similar needs or behaviors.
+
+**Serviceable addressable market:** the part of the total market a company can realistically reach and serve.
+
+**Serviceable obtainable market:** the part of the serviceable market a company can plausibly win in a defined period.
+
+**Statistical significance:** a judgment that an observed difference is unlikely to be due to chance alone, at a chosen threshold.
+
+**Total addressable market:** the revenue available if every potential customer for this kind of offer bought it.
+
+**Value proposition:** a statement of why a specific customer should choose an offer over the alternatives.
+
+## Review Questions
+
+1. Why do companies tend to overinvest in demand capture relative to demand creation?
+2. What makes an interview question about past behavior more reliable than one about future intentions?
+3. In Worked Example 1, what would the serviceable obtainable market be if the company could win 8% of the serviceable market?
+4. What five tests should a segment pass before it is worth targeting?
+5. How does a positioning statement differ from an advertising slogan?
+6. What are the functional, emotional and social parts of a job to be done, and why do all three matter?
+7. When does using a behavioral pattern such as scarcity become deceptive?
+8. In Worked Example 2, how many units would the campaign need to break even with a 10% discount instead of 20%?
+9. Why can a channel's cost per customer rise as its budget grows?
+10. In Worked Example 3, what would the cost per customer be if the sales conversion rate rose from 8% to 10%?
+11. Why should an A/B test not be stopped the moment the variant appears to be winning?
+12. What are the main weaknesses of the lifetime value approximation of 1 divided by monthly churn?
+13. Why might last-touch attribution lead a company to cut the channel that is actually creating its demand?
+14. How does a holdout test measure incrementality?
+15. What must be disclosed when a creator is paid to promote a product?
+16. What should a campaign brief contain, and why do weak campaigns often fail at the brief stage?
+
+## Answer Key
+
+1. Demand capture is fast and easy to attribute, while demand creation works slowly and is hard to measure, so budgets drift toward what reports can credit.
+2. People recall what they actually did more accurately than they predict what they would do; past behavior is evidence, future intentions are guesses.
+3. 4,800 × 0.08 = 384 studios; 384 × $1,800 = $691,200 in annual recurring revenue.
+4. It should be measurable, large enough to be worth serving, reachable through identifiable channels, distinct in how it responds, and actionable with the company's resources.
+5. A positioning statement is an internal guide that defines the target, need, category, benefit and point of difference; a slogan is a public expression that may draw on it.
+6. Functional is the practical task, emotional is how the customer wants to feel, and social is how they want to be seen. Products and messages that address all three outperform those addressing only features.
+7. When it misrepresents the facts, such as invented deadlines, fake countdown timers or false claims of limited stock, or when it pressures people into decisions they would not make with accurate information.
+8. Price $81, contribution margin $81 − $36 = $45, break-even $27,000 ÷ $45 = 600 units.
+9. The cheapest, most responsive audiences are reached first; reaching more people means bidding for less responsive or more contested audiences.
+10. Customers: 225 × 0.10 = 22.5, about 22 to 23; cost per customer ≈ $10,000 ÷ 22.5 ≈ $444.44.
+11. Checking repeatedly and stopping at the first favorable reading inflates the chance of a false positive; the sample size should be fixed in advance.
+12. It assumes constant churn, which is rarely true; young companies may lack enough history; and blended figures hide differences between channels and segments.
+13. Last-touch credits the final interaction, often a branded search, which happens because earlier activity already introduced the brand; cutting that earlier activity reduces later branded searches.
+14. It withholds the campaign from a randomly chosen group and compares their outcomes with the exposed group; the difference is the effect the campaign caused.
+15. The material connection between the brand and the creator, such as payment, free products or a business relationship, disclosed clearly where the audience will notice it.
+16. Objective and metric, audience, single main message and proof, offer or call to action, channels and assets, budget, timeline and owner. Vague objectives or competing messages at the brief stage cannot be fixed by good execution.
