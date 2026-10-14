@@ -1,0 +1,29 @@
+name: Priority Domain Completion Gate
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'knowledge/**'
+      - 'symbols/**'
+      - 'study/**'
+      - 'edu16/**'
+      - 'curriculum/PRIORITY_DOMAIN_MANIFEST.json'
+      - 'standards/PRIORITY_DOMAIN_COMPLETION_STANDARD.md'
+      - 'tools/priority_domain_gate.py'
+      - '.github/workflows/priority-domain-gate.yml'
+  workflow_dispatch:
+
+jobs:
+  priority-domain-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Priority-domain identity, depth and completion claims
+        run: python3 tools/priority_domain_gate.py
+      - name: Curriculum subject-integrity guard
+        run: python3 tools/curriculum_integrity_lint.py
+      - name: Education-16 deterministic-address verification
+        run: python3 tools/edu16.py --verify
