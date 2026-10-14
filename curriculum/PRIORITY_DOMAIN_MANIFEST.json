@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "policy": "standards/PRIORITY_DOMAIN_COMPLETION_STANDARD.md",
+  "completion_policy": "standards/COVERAGE_BASED_COMPLETION_POLICY.md",
+  "rule": "status=complete is an evidence claim, never a word-count claim",
+  "groups": {
+    "artificial_intelligence_technology": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/computer_science/artificial_intelligence_foundations.md",
+        "knowledge/data_science/machine_learning.md",
+        "knowledge/sales_king_academy/ai_foundations_for_business.md",
+        "knowledge/sales_king_academy/ai_tools_and_platforms.md",
+        "knowledge/sales_king_academy/ai_integration_architecture.md",
+        "knowledge/sales_king_academy/ai_business_process_automation.md",
+        "knowledge/sales_king_academy/ai_data_privacy_and_governance.md"
+      ]
+    },
+    "business": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/business/business_fundamentals.md",
+        "knowledge/business/business_strategy.md",
+        "knowledge/business/international_business.md",
+        "knowledge/sales_king_academy/ai_roi_and_change_management.md"
+      ]
+    },
+    "sales": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/marketing_sales/sales.md",
+        "knowledge/marketing_sales/consultative_selling.md",
+        "knowledge/marketing_sales/enterprise_b2b_selling.md",
+        "knowledge/marketing_sales/sales_psychology.md",
+        "knowledge/marketing_sales/pipeline_management.md",
+        "knowledge/sales_king_academy/ai_sales_workflow_integration.md",
+        "knowledge/sales_king_academy/ai_sales_agents_deployment.md"
+      ]
+    },
+    "marketing": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/marketing_sales/marketing.md",
+        "knowledge/marketing_sales/digital_marketing.md",
+        "knowledge/marketing_sales/marketing_automation.md",
+        "knowledge/sales_king_academy/ai_content_marketing_systems.md",
+        "knowledge/sales_king_academy/ai_marketing_automation_integration.md",
+        "knowledge/sales_king_academy/ai_personalization_and_segmentation.md"
+      ]
+    },
+    "finance_accounting": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/accounting_finance/financial_accounting.md",
+        "knowledge/accounting_finance/corporate_finance.md",
+        "knowledge/accounting_finance/fintech.md",
+        "knowledge/accounting_finance/defi.md"
+      ]
+    },
+    "crypto_blockchain": {
+      "status": "in_progress",
+      "files": [
+        "knowledge/general_studies/cryptocurrency.md",
+        "knowledge/computer_science/blockchain.md",
+        "knowledge/computer_science/blockchain_development.md",
+        "knowledge/general_studies/web3.md",
+        "knowledge/sales_king_academy/blockchain_fundamentals_for_business.md",
+        "knowledge/sales_king_academy/crypto_payments_integration.md",
+        "knowledge/sales_king_academy/crypto_compliance_and_risk.md",
+        "knowledge/sales_king_academy/ai_for_crypto_market_analysis.md"
+      ]
+    }
+  }
+}
