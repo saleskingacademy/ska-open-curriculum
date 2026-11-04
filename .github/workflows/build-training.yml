@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: mkdir -p out && node tools/sat_pairs.js | tee out/stats.json && python3 tools/depth.py
       - name: Education-16 + spent memory + Chain256 attachment (fails on a broken chain)
-        run: python3 tools/edu16.py
+        run: python3 tools/edu16.py && node tools/edu16_text.js
       - name: Commit symbol tables if changed
         run: |
           git config user.name "ska-builder"; git config user.email "noreply@saleskingacademy.com"
