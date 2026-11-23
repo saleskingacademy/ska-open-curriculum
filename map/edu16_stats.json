@@ -1,26 +1,26 @@
 {
- "units": 35893,
+ "units": 36053,
  "broken": 0,
  "routing": {
   "address_only": {
-   "units": 35893,
-   "avg_pairs": 7.892,
+   "units": 36053,
+   "avg_pairs": 7.893,
    "max_pairs": 8,
    "by_pairs": {
     "4": 369,
     "6": 1117,
-    "7": 149,
-    "8": 34258
+    "7": 151,
+    "8": 34416
    }
   },
   "symbol_then_address": {
-   "units": 35893,
-   "avg_symbol_pairs": 3.455,
-   "resolved_by_symbol": 32598,
-   "same_symbol_state_resolved_by_address": 3295,
+   "units": 36053,
+   "avg_symbol_pairs": 3.454,
+   "resolved_by_symbol": 32752,
+   "same_symbol_state_resolved_by_address": 3301,
    "by_pairs": {
-    "2": 1200,
-    "3": 30342,
+    "2": 1190,
+    "3": 30506,
     "4": 1046,
     "5": 10
    }
