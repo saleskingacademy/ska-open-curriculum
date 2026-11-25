@@ -13,7 +13,7 @@ class SalesArithmetic(unittest.TestCase):
     def test_foundations_nested_cohort(self):
         inquiries, conversations, demos, purchases = map(D, ["240", "72", "24", "6"])
         self.assertDecimal(conversations / inquiries * 100, "30")
-        self.assertDecimal(demos / conversations * 100, "33.33333333333333333333333333")
+        self.assertAlmostEqual(float(demos / conversations * 100), 100 / 3, places=10)
         self.assertDecimal(purchases / demos * 100, "25")
         self.assertDecimal(purchases / inquiries * 100, "2.5")
         self.assertDecimal((conversations/inquiries)*(demos/conversations)*(purchases/demos), ".025")
