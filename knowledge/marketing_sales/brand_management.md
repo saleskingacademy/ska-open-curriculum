@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Brand Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Brand management is the strategic process of creating, developing, maintaining, and optimizing a brand’s equity to achieve sustained competitive advantage and maximize long-term financial returns. At its core, brand management orchestrates tangible and intangible assets—name, logo, design, messaging, reputation, and customer experience—into a coherent identity that influences consumer perception, preference, and loyalty. First principles include brand equity as a multidimensional construct (awareness, associations, perceived quality, loyalty), the interplay between brand identity and image, and the dynamic co-creation of brand meaning through consumer interaction and market context. Effective brand management balances consistency with adaptability, leveraging data-driven insights to align internal capabilities with external market opportunities.

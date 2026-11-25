@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Applied Mathematics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Optimization
 
 Linear programming (simplex, interior point), nonlinear (gradient descent, Newton's method, conjugate gradient), integer programming (branch-and-bound), dynamic programming (Bellman equation). NUMERICAL: Root finding (Newton-Raphson, bisection), numerical integration (Simpson, Gauss quadrature), ODE solvers (Euler, Runge-Kutta, adaptive), PDE solvers (finite difference, finite element). MODELING: Differential equations (population dynamics — Lotka-Volterra, heat equation, wave equation, fluid — Navier-Stokes). Agent-based modeling. STOCHASTIC: Markov chains, Poisson processes, Brownian motion, stochastic differential equations (Itô calculus). Monte Carlo methods. TRANSFORM: Fourier transform (DFT, FFT), Laplace transform, wavelet transform, z-transform. GRAPH THEORY: Shortest path (Dijkstra), network flow (max-flow min-cut), matching, coloring, spectral graph theory.

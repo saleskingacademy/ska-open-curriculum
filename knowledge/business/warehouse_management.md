@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Warehouse Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Warehouse management is the systematic administration of all activities related to the receipt, storage, and movement of goods within a warehouse, optimizing space utilization, inventory accuracy, labor productivity, and order fulfillment speed. At its core, it integrates inventory control, material handling, facility layout, and information systems to ensure seamless supply chain flow. The first principles revolve around the triad of **space, time, and cost**: maximizing cubic utilization (space), minimizing dwell and handling times (time), and reducing operational expenses (cost). Effective warehouse management balances throughput with accuracy, leveraging data-driven decision-making and lean principles to eliminate waste and variability.

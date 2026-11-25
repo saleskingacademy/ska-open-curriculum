@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Seo
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Search Engine Optimization (SEO) is the systematic process of enhancing a website’s visibility and ranking in organic (non-paid) search engine results pages (SERPs). At its core, SEO aligns web content and technical infrastructure with search engine algorithms, which evaluate relevance, authority, and user experience signals. First principles include understanding user intent, keyword relevance, crawlability, indexability, and authority signals (backlinks, domain trust). SEO operates at the intersection of information retrieval, user behavior analytics, and web technology, aiming to maximize qualified organic traffic by optimizing for ranking factors weighted by engines like Google’s RankBrain and BERT.

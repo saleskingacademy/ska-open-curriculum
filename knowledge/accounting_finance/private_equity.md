@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Private Equity
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Private equity (PE) denotes a class of investment vehicles and strategies involving the acquisition of equity ownership in private companies or public companies with the intent to delist and restructure. PE fundamentally operates on the principle of active ownership and value creation through operational improvements, financial engineering, and strategic repositioning, typically over a 4–7 year horizon. Unlike public equity, PE investments are illiquid, high risk, and require deep due diligence, hands-on governance, and exit planning. The core economic rationale is to generate superior risk-adjusted returns by exploiting information asymmetries, operational inefficiencies, and capital structure optimization. PE funds are predominantly structured as limited partnerships, where General Partners (GPs) manage capital committed by Limited Partners (LPs) under a defined investment mandate.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # French
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 French is a Romance language originating from Vulgar Latin, primarily spoken in France, parts of Belgium, Switzerland, Canada (notably Quebec), and numerous African countries. It is a member of the Gallo-Romance branch, characterized by its phonological evolution (e.g., palatalization, nasal vowels), morphological simplification from Latin, and syntactic structures emphasizing subject-verb-object order with extensive use of auxiliary verbs. French orthography reflects historical phonology, combining etymological spelling with modern pronunciation shifts. The language employs a system of grammatical gender (masculine/feminine), two numbers (singular/plural), and complex verb conjugations across moods (indicative, subjunctive, conditional, imperative) and tenses (present, passé composé, imparfait, plus-que-parfait, futur simple, futur antérieur). Its lexicon is heavily Latinate, with significant borrowings from Frankish, English, and other languages. French serves as a lingua franca in diplomacy, international law, and global culture.

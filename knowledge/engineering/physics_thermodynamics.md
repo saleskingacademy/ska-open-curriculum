@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Physics Thermodynamics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Thermodynamics is the rigorous study of energy transformations and the statistical behavior of matter at macroscopic scales, governed by conservation laws and entropy principles. Its core is the First Law of Thermodynamics, a statement of energy conservation:  

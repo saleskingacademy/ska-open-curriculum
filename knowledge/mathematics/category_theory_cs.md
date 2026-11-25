@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Category Theory Cs
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Category theory, originating from algebraic topology (Eilenberg & Mac Lane, 1945), abstracts mathematical structures and their interrelations via objects and morphisms. Formally, a **category** 𝒞 consists of:  

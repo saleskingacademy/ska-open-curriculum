@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Emt Paramedic
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Emergency Medical Technician-Paramedics (EMT-Paramedics) represent the apex of prehospital emergency care providers, trained to deliver advanced life support (ALS) interventions in dynamic, uncontrolled environments. Their role synthesizes pathophysiological understanding, clinical assessment, pharmacology, and procedural skills to stabilize, treat, and transport critically ill or injured patients. Core principles include rapid scene assessment, prioritization via triage algorithms, airway management, circulatory support, and continuous patient monitoring. The paramedic operates within the "Golden Hour" paradigm, where timely interventions directly influence morbidity and mortality outcomes. Foundational knowledge integrates anatomy, physiology, pharmacodynamics, and evidence-based protocols, with a focus on decision-making under uncertainty and resource constraints.

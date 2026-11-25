@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ruby
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Ruby is a dynamic, open-source, object-oriented programming language designed for simplicity and productivity, created by Yukihiro Matsumoto in 1995. It blends imperative, functional, and reflective paradigms, emphasizing human-friendly syntax and powerful metaprogramming capabilities. At its core, Ruby treats everything as an object, including primitive data types, enabling uniform method invocation. The language employs a garbage-collected, interpreted runtime (MRI—Matz’s Ruby Interpreter) with dynamic typing and late binding. Ruby’s execution model is based on a stack-based virtual machine (YARV—Yet Another Ruby VM) introduced in Ruby 1.9, which compiles Ruby code into bytecode for efficient execution. The language’s core principles are: simplicity, productivity, and the principle of least astonishment (POLA), ensuring code readability and intuitive behavior.

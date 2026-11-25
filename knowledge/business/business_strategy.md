@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Business Strategy
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 BUSINESS STRATEGY — COMPLETE CURRICULUM

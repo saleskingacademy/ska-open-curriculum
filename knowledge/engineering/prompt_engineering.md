@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Prompt Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Prompt engineering is the systematic design, optimization, and evaluation of input queries (prompts) to guide large language models (LLMs) toward producing desired outputs with maximal accuracy, relevance, and efficiency. Rooted in the principles of natural language understanding, information retrieval, and human-computer interaction, prompt engineering leverages the emergent behaviors of transformer-based architectures by strategically shaping context, constraints, and task framing. At its core, prompt engineering exploits the probabilistic token prediction mechanism of autoregressive models, manipulating input tokens to steer model latent space activations toward target semantic distributions. This discipline balances linguistic precision, cognitive load, and model architecture idiosyncrasies, transcending naive trial-and-error by applying rigorous frameworks to optimize prompt efficacy.

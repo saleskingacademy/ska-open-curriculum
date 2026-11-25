@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Strength Conditioning
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Strength conditioning is the systematic application of mechanical overload to the neuromuscular system to induce adaptations in muscle hypertrophy, neural drive, tendon stiffness, and connective tissue resilience. Rooted in the principles of progressive overload, specificity, and recovery, strength conditioning optimizes force production capacity, rate of force development (RFD), and muscular endurance. At its core, it manipulates variables such as intensity (%1RM), volume (sets × reps), frequency, and exercise selection to target adaptations across the force-velocity spectrum and energy systems. The underpinning physiology involves motor unit recruitment patterns, muscle fiber type transitions, and hormonal milieu modulation.

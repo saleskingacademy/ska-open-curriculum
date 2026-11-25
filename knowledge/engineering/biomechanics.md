@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Biomechanics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Biomechanics is the quantitative study of the mechanical principles governing the structure, function, and motion of biological systems, from cellular components to whole organisms. Rooted in classical mechanics, it integrates Newtonian dynamics, continuum mechanics, and materials science to elucidate how forces generate movement and maintain structural integrity in living tissues. The discipline rests on first principles: kinematics (describing motion without regard to forces), kinetics (forces causing motion), and material behavior under load (stress-strain relationships). Central to biomechanics is the concept of the body as a multiscale, anisotropic, viscoelastic system, where hierarchical organization and nonlinear material properties challenge simplistic mechanical models.

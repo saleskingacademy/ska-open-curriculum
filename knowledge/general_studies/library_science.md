@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Library Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Library Science is the systematic study and practice of managing information resources, services, and systems to facilitate knowledge discovery, access, preservation, and dissemination. Rooted in principles of information organization, retrieval, and user behavior, it integrates bibliographic control, classification, cataloging, preservation, and digital curation within socio-technical contexts. The discipline’s first principles include the universality of knowledge, the necessity of standardized metadata, and the imperative of user-centered service design. It balances the triad of content, context, and user, employing both traditional analog methods and cutting-edge digital technologies to optimize information lifecycle management.

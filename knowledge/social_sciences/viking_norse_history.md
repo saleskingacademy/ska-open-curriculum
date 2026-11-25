@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Viking Norse History
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Viking Norse history encompasses the socio-political, economic, and cultural developments of Scandinavian peoples—primarily from present-day Norway, Sweden, and Denmark—during the Viking Age (c. 793–1066 CE) and its antecedents and aftermath. Defined by maritime expansion, raiding, trading, and settlement, the Viking Age marks a transformative epoch in medieval European and North Atlantic history. Core first principles include the interplay of kinship-based polities (chiefdoms evolving into petty kingdoms), the centrality of seafaring technology (longships), and the integration of pagan Norse cosmology with emergent Christian influences. Chronologically, it is bracketed by the raid on Lindisfarne (793 CE) and the Battle of Stamford Bridge (1066 CE), encapsulating roughly three centuries of dynamic change.

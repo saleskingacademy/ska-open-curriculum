@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Insurance
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Insurance is a risk management mechanism whereby an individual or entity (the insured) transfers the financial consequences of uncertain loss events to another party (the insurer) in exchange for a premium. At its core, insurance operates on the principle of risk pooling and indemnification, underpinned by the law of large numbers, which enables the insurer to predict aggregate losses with statistical confidence. The contractual basis is the insurance policy, a legal agreement defining covered perils, limits, deductibles, exclusions, and conditions. The fundamental objective is to restore the insured to their pre-loss financial position (indemnity), subject to moral hazard and adverse selection constraints, which are mitigated via underwriting and actuarial science.

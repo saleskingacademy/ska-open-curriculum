@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Csharp
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 C# (pronounced "C-sharp") is a statically typed, multi-paradigm programming language developed by Microsoft as part of the .NET ecosystem. It is designed for strong type safety, object-oriented programming (OOP), component-oriented development, and modern language constructs such as asynchronous programming and LINQ. At its core, C# compiles to Common Intermediate Language (CIL), executed by the Common Language Runtime (CLR), enabling cross-language interoperability and managed memory via garbage collection. The language syntax is C-family influenced, emphasizing clarity, expressiveness, and developer productivity. First principles include encapsulation, inheritance, polymorphism, and abstraction, supported by a rich type system encompassing value types (structs, enums) and reference types (classes, interfaces, delegates).

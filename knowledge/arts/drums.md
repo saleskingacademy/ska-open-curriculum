@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Drums
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Drums are membranophones—percussion instruments producing sound primarily through the vibration of a stretched membrane (drumhead) when struck. The fundamental physics involves the interaction of tension, membrane mass, and boundary conditions, producing complex vibrational modes characterized by nodal patterns and overtones. The core components include the shell (resonator), drumhead(s), tensioning mechanism, and striking implement (sticks, mallets, hands). Drum acoustics depend on shell material (wood, metal, synthetic), shape (cylindrical, conical), diameter, depth, and tuning tension, all influencing pitch, timbre, sustain, and projection. Drums serve rhythmic, tonal, and cultural functions across musical traditions, from simple pulse-keeping to intricate polyrhythmic dialogues.

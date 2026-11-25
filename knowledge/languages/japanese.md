@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Japanese
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Japanese (日本語, Nihongo) is a Japonic language primarily spoken in Japan by over 125 million people. Its core linguistic features include a complex system of honorifics (keigo), agglutinative morphology, a subject-object-verb (SOV) syntax, and a mixed script system combining logographic kanji and two syllabaries, hiragana and katakana. The language’s phonology is characterized by a relatively small inventory of vowels (five: /a, i, u, e, o/) and consonants, with a mora-timed rhythm. Japanese grammar is predicate-final, heavily reliant on particles (助詞, joshi) to mark grammatical relations, and employs extensive verb conjugations to express tense, mood, and politeness. Its lexicon is stratified into native yamato kotoba, Sino-Japanese (kango), and gairaigo (loanwords). Understanding Japanese requires mastery of its writing systems, honorific hierarchy, and syntactic structures.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Quantum Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Quantum engineering is the discipline that applies principles of quantum mechanics to design, build, and optimize devices and systems exploiting quantum phenomena such as superposition, entanglement, and tunneling. Rooted in the postulates of quantum theory—state vectors in Hilbert space, unitary evolution via Schrödinger’s equation, and measurement-induced wavefunction collapse—quantum engineering transcends classical constraints by harnessing quantum coherence and non-classical correlations. It integrates quantum physics, information theory, materials science, and control engineering to realize technologies like quantum computers, sensors, and communication networks. The theoretical foundation rests on the density matrix formalism (ρ), quantum operations (CPTP maps), and open quantum systems modeled by Lindblad master equations:  

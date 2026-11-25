@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Orbital Mechanics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Kepler
 
 Three laws — (1) elliptical orbits with Sun at focus, (2) equal areas in equal times, (3) T²∝a³. Orbital elements: semi-major axis a, eccentricity e, inclination i, RAAN Ω, argument of periapsis ω, true anomaly ν. TWO-BODY: Vis-viva equation v²=μ(2/r-1/a). Energy E=-μ/2a. Circular velocity vc=√(μ/r). Escape velocity ve=√(2μ/r). MANEUVERS: Hohmann transfer (most fuel-efficient two-impulse), bi-elliptic, plane change Δv=2v·sin(Δi/2). Gravity assists (slingshot). PERTURBATIONS: J2 (oblateness — causes nodal regression and apsidal rotation), atmospheric drag, third-body (Sun, Moon), solar radiation pressure. APPLICATIONS: LEO, MEO, GEO (42,164 km, T=24h), SSO (sun-synchronous), Molniya, halo orbits, Lagrange points (L1-L5).

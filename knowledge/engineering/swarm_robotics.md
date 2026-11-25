@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Swarm Robotics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Swarm robotics is a subfield of multi-robot systems emphasizing large populations of relatively simple, homogeneous robots that coordinate via local interactions and decentralized control to achieve complex, emergent behaviors. Inspired by biological swarms (ants, bees, fish schools), the core principle is that collective intelligence arises from simple agents following simple rules without centralized oversight. Key first principles include *scalability* (performance maintained or improved as swarm size grows), *robustness* (fault tolerance via redundancy), *flexibility* (adaptation to dynamic environments), and *locality* (decisions based on local sensing and communication). The theoretical foundation draws from distributed algorithms, nonlinear dynamics, statistical physics, and control theory, formalized through models like the Couzin et al. (2005) zonal interaction model and the Vicsek model (Vicsek et al., 1995) for alignment dynamics.

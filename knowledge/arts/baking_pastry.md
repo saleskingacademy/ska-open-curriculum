@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Baking Pastry
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Baking pastry is the art and science of creating structured doughs or batters that transform through thermal and mechanical processes into layered, tender, or flaky baked goods. At its core, pastry baking manipulates gluten development, fat distribution, hydration, and leavening to control texture, flavor, and form. The fundamental principles rest on balancing flour protein interactions, fat plasticity, water content, and temperature to achieve desired crumb structures—from crisp and flaky to tender and crumbly. The Maillard reaction and starch gelatinization during baking finalize color and mouthfeel. Precise control of ingredient ratios, mixing techniques, and baking parameters underpins reproducibility and quality.

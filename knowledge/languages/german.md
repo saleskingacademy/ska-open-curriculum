@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # German
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 German (Deutsch) is a West Germanic language primarily spoken in Germany, Austria, Switzerland, Liechtenstein, Luxembourg, and parts of Belgium and Italy. It is characterized by a complex inflectional morphology, three grammatical genders (masculine, feminine, neuter), four cases (nominative, accusative, dative, genitive), strong and weak verb classes, and a flexible word order governed by the V2 (verb-second) principle in main clauses and verb-final position in subordinate clauses. German orthography employs the Latin alphabet augmented by umlauts (ä, ö, ü) and the Eszett (ß). Its lexicon is heavily influenced by Latin, Greek, and French, with a productive system of compound nouns and derivational morphology. The language’s phonology features a distinction between fortis and lenis consonants, a set of front rounded vowels, and a pitch accent in some dialects.

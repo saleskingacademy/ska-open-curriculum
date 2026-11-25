@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Combinatorics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Combinatorics is the branch of mathematics concerned with counting, arrangement, and combination of discrete structures. At its core, it studies finite or countable sets and the ways elements can be selected or arranged under specified constraints. The fundamental principle is that of enumeration: determining the cardinality of sets formed by combinatorial rules. First principles include the Rule of Sum (disjoint union cardinality), Rule of Product (Cartesian product cardinality), and the Principle of Inclusion-Exclusion (PIE) for overlapping sets. Combinatorics interfaces deeply with algebra, probability, and geometry, underpinning algorithms and complexity theory.

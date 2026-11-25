@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Art Conservation
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Art conservation is the interdisciplinary practice dedicated to the preservation, stabilization, and restoration of cultural heritage artifacts, encompassing paintings, sculptures, textiles, manuscripts, and mixed-media objects. Rooted in principles of material science, chemistry, art history, and ethics, conservation aims to prolong an artifact’s physical and aesthetic integrity while respecting its historical authenticity and artist intent. The foundational premise is minimal intervention guided by reversibility, compatibility, and documentation, ensuring future conservators can understand and, if necessary, undo treatments. Conservation balances preventive care—environmental control, handling protocols—with interventive treatments, grounded in diagnostic analysis and scientific methodologies.

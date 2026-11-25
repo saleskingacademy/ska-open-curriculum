@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Turkish
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Turkish is a member of the Oghuz branch of the Turkic language family, characterized by agglutinative morphology, vowel harmony, and SOV (Subject-Object-Verb) canonical word order. It employs a Latin-based alphabet of 29 letters, introduced in 1928 as part of Atatürk’s language reforms, replacing the Ottoman Arabic script. The language’s phonology is marked by eight vowels divided into front/back and rounded/unrounded categories, underpinning its vowel harmony system. Turkish syntax is head-final, with extensive use of suffixation for grammatical functions, including case marking, tense-aspect-mood (TAM), and evidentiality. The core verbal system distinguishes between aorist, past, future, and necessitative moods, with evidential suffixes encoding speaker’s source of information. Turkish lexicon is predominantly Turkic but includes extensive loanwords from Arabic, Persian, French, and English.

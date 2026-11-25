@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Rust
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Rust is a statically typed, compiled systems programming language emphasizing safety, concurrency, and performance. Designed by Graydon Hoare at Mozilla (first stable release 1.0 in 2015), Rust’s core principle is “fearless concurrency” via ownership and borrowing, eliminating data races at compile time. Its type system enforces memory safety without a garbage collector, relying on a strict ownership model with rules: each value has a single owner; references are either mutable or immutable but never both simultaneously; lifetimes track scope to prevent dangling pointers. Rust’s zero-cost abstractions enable high-level expressiveness without runtime overhead. The language syntax is inspired by C++ and ML-family languages, featuring pattern matching, algebraic data types (enums), and traits (type classes). Cargo, Rust’s integrated package manager and build system, standardizes dependency management and compilation workflows.

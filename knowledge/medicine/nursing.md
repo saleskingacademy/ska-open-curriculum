@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Nursing
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Nursing is the autonomous and collaborative care of individuals of all ages, families, groups, and communities, sick or well, and in all settings. It encompasses the promotion of health, prevention of illness, and the care of ill, disabled, and dying people. Rooted in holistic principles, nursing integrates biological, psychological, sociological, and environmental sciences to optimize patient outcomes. The discipline is grounded in the nursing process—a systematic, evidence-based approach comprising assessment, diagnosis, planning, implementation, and evaluation (ADPIE)—which operationalizes clinical judgment and critical thinking in care delivery.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Food Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Food Science is the multidisciplinary study of the physical, chemical, biological, and engineering principles underlying the nature, composition, processing, preservation, safety, and sensory attributes of food. It integrates biochemistry, microbiology, physics, and engineering to optimize food quality, safety, nutrition, and shelf-life. At its core, food science applies thermodynamics, reaction kinetics, mass transfer, and molecular interactions to understand and control food systems from farm to fork. The first principles include water activity (a_w), enzyme kinetics, Maillard reaction pathways, microbial growth models, and rheological behavior of food matrices.

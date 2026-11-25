@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Precalculus
 
-> name heuristic - model placement unavailable
-
 ## Functions
 
 Domain, range, composition f(g(x)), inverse functions f⁻¹. Even: f(-x)=f(x), odd: f(-x)=-f(x). Transformations: shifts, stretches, reflections. POLYNOMIAL THEORY: Fundamental theorem of algebra — degree n polynomial has exactly n roots (counting multiplicity, over ℂ). Descartes' rule of signs. Intermediate value theorem. CONIC SECTIONS: Circle (x-h)²+(y-k)²=r². Ellipse (x-h)²/a²+(y-k)²/b²=1. Hyperbola difference=1. Parabola y=a(x-h)²+k or x=a(y-k)²+h. Eccentricity. VECTORS: Magnitude |v|=√(v₁²+v₂²), direction, unit vectors. Dot product v·w=|v||w|cosθ. Cross product (3D). PARAMETRIC EQUATIONS: x=f(t), y=g(t). Eliminate parameter for Cartesian. LIMITS INTRODUCTION: Intuitive concept, left/right limits, limit laws, continuity.

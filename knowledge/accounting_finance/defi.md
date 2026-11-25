@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Defi
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Decentralized Finance (DeFi) is an open, permissionless financial ecosystem built primarily on blockchain technology, enabling peer-to-peer financial services without centralized intermediaries. At its core, DeFi leverages smart contracts—immutable, self-executing code deployed on platforms like Ethereum—to automate trustless transactions, enforce rules, and maintain transparency. First principles include cryptographic security, tokenization of assets, composability (protocol interoperability), and on-chain governance. DeFi’s raison d’être is to democratize access to financial instruments (lending, borrowing, trading, derivatives, insurance) by eliminating gatekeepers, reducing friction, and enabling programmable money.

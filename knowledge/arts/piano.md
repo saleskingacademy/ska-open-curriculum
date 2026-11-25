@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Piano
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 The piano is a polyphonic, stringed keyboard instrument classified as a chordophone and idiophone hybrid, utilizing a hammer action mechanism to strike strings and produce sound. Invented c.1700 by Bartolomeo Cristofori, it fundamentally operates on the principle of kinetic energy transfer: a key depresses a lever that triggers a felt-covered hammer to strike one or more steel strings tuned to specific pitches. The resultant string vibrations resonate through a wooden soundboard, amplifying sound via acoustic coupling. The standard modern piano spans 88 keys (A0–C8), covering 7¼ octaves, with a tempered tuning system—most commonly equal temperament—allowing fixed-pitch modulation across keys. The instrument’s dynamic range (~40 dB) and expressive capacity derive from velocity-sensitive hammer strikes and pedal mechanisms (damper, sostenuto, and una corda) that alter sustain and timbre.

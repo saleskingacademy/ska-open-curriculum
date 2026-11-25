@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Trigonometry
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Trigonometry is the branch of mathematics that studies the relationships between angles and lengths in triangles, primarily right-angled triangles, extending to circular and periodic functions. At its core, it formalizes the connection between linear and angular measures via ratios of sides, enabling the analysis of geometric configurations and periodic phenomena. The foundational elements rest on the unit circle definition, where an angle θ corresponds to a point (cos θ, sin θ) on the circle of radius 1 centered at the origin in the Cartesian plane. This links algebraic functions with geometric intuition and underpins the six fundamental trigonometric functions: sine (sin), cosine (cos), tangent (tan), cotangent (cot), secant (sec), and cosecant (csc). These functions satisfy key identities such as the Pythagorean identity sin²θ + cos²θ = 1, and their periodicity and symmetry properties enable extensive applications in analysis, physics, and engineering.

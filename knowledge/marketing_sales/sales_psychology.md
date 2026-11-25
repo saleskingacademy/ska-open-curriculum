@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Sales Psychology
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 SALES PSYCHOLOGY — COMPLETE CURRICULUM

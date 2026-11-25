@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Photography
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Photography is the art and science of capturing and recording electromagnetic radiation, primarily visible light, to create permanent images. Fundamentally, it involves controlling light through optical systems (lenses, apertures), photosensitive media (digital sensors or film emulsions), and timing mechanisms (shutter speed) to translate a three-dimensional scene into a two-dimensional representation. The core physical principles include the inverse square law of illumination, the wave-particle duality of light, and the interplay of exposure triangle components—aperture (f-number), shutter speed (seconds), and ISO sensitivity (sensor or film gain). Mastery requires understanding light behavior, optics, sensor characteristics, color science, and compositional psychology.

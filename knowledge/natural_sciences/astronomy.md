@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Astronomy
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Astronomy is the empirical and theoretical study of celestial objects, phenomena, and the universe as a whole, encompassing their positions, motions, physical properties, and evolution. Rooted in classical mechanics, electromagnetism, quantum mechanics, and general relativity, it integrates observational data with mathematical frameworks to elucidate cosmic structures from planetary systems to large-scale cosmology. The discipline relies on the inverse-square law for radiation, Newtonian gravity \( F = G \frac{m_1 m_2}{r^2} \), and the Doppler effect \( \Delta \lambda / \lambda_0 = v_r / c \) for radial velocity measurements. The celestial sphere is modeled via spherical coordinates (right ascension \(\alpha\), declination \(\delta\)) and time standards (UTC, sidereal time) to precisely locate objects.

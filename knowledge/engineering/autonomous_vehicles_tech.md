@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Autonomous Vehicles Tech
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Levels
 
 SAE 0 (no automation) → 1 (driver assistance — lane keeping OR adaptive cruise) → 2 (partial — lane keeping AND adaptive cruise, hands-on) → 3 (conditional — car drives in specific conditions, human fallback) → 4 (high — car drives in defined areas, no human needed) → 5 (full — any condition). Current state: Level 2 widespread (Tesla, GM), Level 4 limited (Waymo geofenced robotaxis). SENSOR STACK: Cameras (cheap, color/texture, fail in low light/weather), LiDAR (precise 3D point cloud, expensive, fail in heavy rain/snow), Radar (works in all weather, less detail), Ultrasonic (short range, parking). Sensor fusion combines all. Tesla's camera-only bet vs Waymo's full sensor suite. PERCEPTION: Object detection, tracking, classification, lane detection, traffic sign recognition, pedestrian intent prediction. PREDICTION: Where will other vehicles/pedestrians go? Trajectory prediction. Behavior modeling. Uncertainty quantification. PLANNING: Route planning (A* on road graph), behavior planning (when to merge, yield, turn), motion planning (trajectory optimization, avoiding obstacles). CONTROL: Steering, throttle, braking. PID controllers, MPC (Model Predictive Control). Vehicle dynamics. CHALLENGES: Edge cases (construction zones, emergency vehicles, debris), adversarial attacks, ethical dilemmas (trolley problem in practice), regulatory framework, liability, weather, mapping freshness. APPLIED: $800B+ projected market. Transforms transportation, logistics, urban planning. Safety promise: 94% of crashes are human error.

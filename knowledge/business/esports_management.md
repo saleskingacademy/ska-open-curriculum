@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Esports Management
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Esports management is the strategic orchestration of human, financial, technological, and operational resources to build, sustain, and scale competitive electronic sports organizations, events, and ecosystems. Rooted in principles of traditional sports management, it integrates unique digital-native elements—game publisher partnerships, platform monetization, player performance analytics, and global fan engagement—underpinned by rapid innovation cycles and volatile market dynamics. Core first principles include stakeholder alignment (players, teams, publishers, sponsors, fans), competitive integrity, scalable revenue models, and adaptive governance frameworks that reconcile decentralized online infrastructures with centralized event production.

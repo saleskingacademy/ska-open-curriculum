@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Numerical Methods
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Root Finding
 
 Bisection (slow, reliable), Newton's method x_{n+1}=x_n-f(x_n)/f'(x_n) (quadratic convergence), secant method. INTERPOLATION: Lagrange polynomials, Newton's divided differences, splines (cubic). NUMERICAL INTEGRATION: Trapezoidal rule error O(h²), Simpson's rule error O(h⁴), Gaussian quadrature. NUMERICAL DIFFERENTIATION: Forward/backward/central differences. Richardson extrapolation. ODE SOLVERS: Euler's method y_{n+1}=y_n+hf(t_n,y_n) error O(h). Runge-Kutta (RK4) error O(h⁴). Adaptive step size. Stiff equations. LINEAR ALGEBRA: Gaussian elimination with pivoting O(n³). LU decomposition. Iterative methods: Jacobi, Gauss-Seidel, conjugate gradient. OPTIMIZATION: Gradient descent, Newton's method, quasi-Newton (BFGS). Constrained: penalty methods, Lagrangian. ERROR ANALYSIS: Floating point representation, machine epsilon, round-off error, truncation error, stability, conditioning.

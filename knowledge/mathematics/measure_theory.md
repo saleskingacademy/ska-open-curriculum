@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Measure Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Measure theory rigorously extends classical notions of length, area, and volume to abstract spaces, providing the foundation for integration, probability, and ergodic theory. At its core, a **measure space** \((X, \mathcal{F}, \mu)\) consists of a set \(X\), a \(\sigma\)-algebra \(\mathcal{F}\) of subsets of \(X\), and a measure \(\mu: \mathcal{F} \to [0, \infty]\) satisfying countable additivity: for any countable disjoint collection \(\{A_i\} \subset \mathcal{F}\), \(\mu\left(\bigcup_i A_i\right) = \sum_i \mu(A_i)\). The construction of measures often begins with a **pre-measure** defined on an algebra, extended via Carathéodory’s extension theorem to a complete measure on the generated \(\sigma\)-algebra. The Lebesgue measure \(\lambda\) on \(\mathbb{R}^n\) exemplifies the canonical translation-invariant measure, underpinning the Lebesgue integral, which generalizes the Riemann integral by integrating over measurable functions with respect to \(\mu\).

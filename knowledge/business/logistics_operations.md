@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Logistics Operations
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Logistics operations encompass the integrated planning, execution, and control of the movement and storage of goods, services, and related information from origin to consumption to meet customer requirements efficiently and effectively. Rooted in supply chain management, logistics focuses on optimizing flow and inventory across multiple nodes and modes, balancing cost, speed, reliability, and flexibility. First principles include the conservation of flow (material balance), time-value of inventory (holding cost vs. stockout risk), and network optimization (minimizing total system cost under constraints). The core objective is to synchronize supply and demand while minimizing total landed cost and maximizing service levels.

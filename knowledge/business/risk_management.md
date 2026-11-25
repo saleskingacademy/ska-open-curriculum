@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Risk Management
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Risk management is the systematic identification, assessment, prioritization, and mitigation of uncertainty in decision-making contexts to minimize potential negative impacts while maximizing opportunities. Rooted in decision theory, probability, and economics, it operates on first principles: uncertainty (unknown outcomes), exposure (vulnerability to loss), and control (capacity to influence outcomes). The core objective is to optimize the risk-return tradeoff by quantifying risk (often as variance, Value at Risk, or Expected Shortfall) and applying controls or hedges to align with organizational risk appetite and regulatory constraints. Risk management integrates qualitative and quantitative methods, balancing model precision with practical applicability under incomplete information.

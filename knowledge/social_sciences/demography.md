@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Demography
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Demography is the scientific study of human populations, encompassing their size, structure, distribution, and changes over time due to births, deaths, migration, and aging. Rooted in the intersection of sociology, statistics, economics, and epidemiology, demography employs quantitative methods to analyze population dynamics and forecast trends. The foundational principle is the demographic balancing equation:  

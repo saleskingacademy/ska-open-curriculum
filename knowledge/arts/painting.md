@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Painting
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Painting is the deliberate application of pigment suspended in a medium onto a surface to create a visual composition. At its core, painting synthesizes color theory, material science, perceptual psychology, and manual dexterity to manipulate light and form. The primary principles include the understanding of pigment properties (opacity, tinting strength, drying time), support characteristics (absorbency, texture), and medium behavior (oil, acrylic, watercolor). The act of painting is governed by the interaction between light, surface, and viewer perception, relying on color mixing (additive and subtractive), value gradation, and compositional balance. Historically, painting evolved from representational mimicry to abstraction, reflecting cultural and technological shifts. The foundational framework integrates colorimetry (CIELAB coordinates), brushstroke mechanics (pressure, angle, speed), and layering techniques (glazing, scumbling, impasto) to achieve desired optical effects.

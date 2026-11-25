@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Computer Architecture
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Computer architecture is the conceptual design and fundamental operational structure of a computer system. It defines the functional behavior, organization, and implementation of hardware components to execute instructions efficiently. Rooted in the von Neumann model, architecture bridges the gap between hardware engineering and software execution, encompassing instruction set architecture (ISA), microarchitecture, system design, and performance optimization. First principles include abstraction layers (ISA, microarchitecture, system architecture), the fetch-decode-execute cycle, and the trade-offs between complexity, speed, power, and cost. Central to architecture is the balance of instruction-level parallelism (ILP), memory hierarchy efficiency, and control logic sophistication, all governed by Amdahl’s Law and principles of locality.

@@ -33,6 +33,9 @@ jobs:
           python3 tools/validate_arithmetic_foundations.py
           python3 tools/validate_arithmetic_14_16.py
           python3 tools/validate_arithmetic_17_20.py
+          python3 tools/validate_arithmetic_business_lessons.py
+      - name: No leaked tool output in knowledge pages
+        run: python3 tools/check_knowledge_artifacts.py
       - name: Curriculum integrity lint
         run: python3 tools/curriculum_integrity_lint.py
       - name: Verify Education-16 attachments

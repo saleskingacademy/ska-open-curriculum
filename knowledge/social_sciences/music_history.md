@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Music History
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Music history is the systematic study of the development, context, and transformation of music across cultures, epochs, and styles. It interrogates the diachronic evolution of musical forms, practices, and technologies, grounded in primary sources (scores, treatises, recordings) and secondary analyses (critical theory, ethnomusicology). Core principles include chronology, stylistic taxonomy, socio-cultural contextualization, and intertextuality. Chronology anchors music within temporal frameworks (e.g., Medieval 500–1400 CE, Baroque 1600–1750 CE), while stylistic taxonomy classifies idioms (modal, tonal, atonal). Socio-cultural contextualization examines music’s function and meaning within societies, and intertextuality explores influence and innovation across repertoires.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Dairy Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Dairy science is the multidisciplinary study of milk production, processing, and utilization from domesticated animals, primarily bovines, ovines, and caprines. It integrates principles from animal physiology, microbiology, biochemistry, nutrition, genetics, and food engineering to optimize milk yield, quality, safety, and value-added dairy products. The core first principles include lactation biology governed by mammary gland physiology, milk synthesis via secretory epithelial cells, and milk composition determined by species genetics and feed inputs. Milk is a complex colloidal system primarily composed of water (~87%), lactose (~4.8%), fat (~3.7%), protein (~3.3%), minerals (~0.7%), and vitamins. Understanding the physicochemical interactions among casein micelles, whey proteins, fat globules, and minerals underpins all downstream processing and product development.

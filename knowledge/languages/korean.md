@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Korean
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Korean (한국어, Hangugeo) is an agglutinative language of the Koreanic language family, primarily spoken in the Korean Peninsula by approximately 77 million people. Its core linguistic typology is SOV (Subject-Object-Verb), with extensive use of honorifics and speech levels reflecting social hierarchy. The language employs a unique featural alphabet, Hangul (한글), invented in 1443 by King Sejong the Great, designed for phonemic transparency and ease of literacy. Korean morphosyntax is characterized by extensive verb conjugations encoding tense, aspect, mood, speech level, and politeness, combined with postpositional particles marking grammatical relations. The lexicon is a blend of native Korean words, Sino-Korean vocabulary (한자어), and modern loanwords, primarily from English and Japanese. Phonologically, Korean features a three-way contrast in stops and affricates (lenis, fortis, aspirated) and vowel harmony remnants. The language’s core principle is the agglutination of bound morphemes to roots, with strict vowel harmony and consonant assimilation rules governing phonotactics.

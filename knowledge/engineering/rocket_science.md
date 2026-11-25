@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Rocket Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Rocket science, formally known as astronautical engineering, is the multidisciplinary study of designing, analyzing, and optimizing vehicles propelled by rocket engines through atmospheric and space environments. At its core lies Newton’s Third Law—every action has an equal and opposite reaction—manifested in expelling mass at high velocity to generate thrust. The fundamental principles include conservation of momentum, thermodynamics of propellant combustion, fluid dynamics of nozzle expansion, and orbital mechanics. Central to performance prediction is the Tsiolkovsky rocket equation:  

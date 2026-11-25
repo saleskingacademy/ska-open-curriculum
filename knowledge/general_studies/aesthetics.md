@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Aesthetics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Aesthetics is the philosophical study of beauty, art, and taste, encompassing the nature and appreciation of sensory-emotional values. Rooted in Greek ἀισθητικός (aisthētikos, “perceptible by the senses”), it interrogates the conditions under which objects or experiences elicit aesthetic experience—defined as a complex interplay of perception, emotion, cognition, and cultural context. First principles include the triadic relation of subject (the perceiver), object (the artwork or phenomenon), and aesthetic judgment (the evaluative response). Key ontological questions address whether aesthetic properties are objective features or subjective projections. Epistemologically, aesthetics probes how knowledge of beauty or artistic value is constituted, often invoking phenomenology (Husserl, Merleau-Ponty) and analytic frameworks (Davidson, Goodman). Aesthetic experience is distinguished by disinterested pleasure (Kant), a mode of engagement free from practical concerns, enabling reflective judgment. The field synthesizes insights from metaphysics, psychology, semiotics, and cultural theory.

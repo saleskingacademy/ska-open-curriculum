@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Media Studies
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Media Studies is an interdisciplinary field analyzing the production, dissemination, and reception of media texts across various platforms, focusing on the socio-cultural, political, economic, and technological dimensions of communication. Rooted in critical theory, semiotics, cultural studies, and communication theory, it interrogates how media shapes and is shaped by power structures, ideology, identity, and audience interpretation. First principles include understanding media as both a technological artifact and a social practice, recognizing the encoding/decoding process (Stuart Hall, 1973), and situating media within political economy frameworks (Herman & Chomsky, 1988).

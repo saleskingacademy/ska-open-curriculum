@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ui Ux Design
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 UI/UX Design is the interdisciplinary practice of crafting digital interfaces (UI) that optimize user experiences (UX) through systematic understanding of human behavior, cognitive psychology, and interaction paradigms. At its core, UI (User Interface) design focuses on the visual and interactive elements—layout, typography, color, controls—while UX (User Experience) encompasses the holistic journey of a user’s interaction, including usability, accessibility, and emotional resonance. The first principles derive from Norman’s principles of design (affordances, signifiers, feedback), Hick’s Law (decision time increases logarithmically with choices), Fitts’s Law (time to target based on distance and size), and Gestalt principles (proximity, similarity, closure) for perceptual grouping. Effective UI/UX design is data-informed, iterative, and user-centered, balancing business goals with human needs through measurable heuristics and validated frameworks.

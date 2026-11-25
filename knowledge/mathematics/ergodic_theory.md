@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ergodic Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Ergodic theory studies the long-term average behavior of dynamical systems under iteration, focusing on measure-preserving transformations on probability spaces. Formally, let \((X, \mathcal{B}, \mu)\) be a probability space and \(T: X \to X\) a measurable, measure-preserving transformation: \(\mu(T^{-1}A) = \mu(A)\) for all \(A \in \mathcal{B}\). The core question is whether time averages converge to space averages, i.e., for \(f \in L^1(\mu)\), does  

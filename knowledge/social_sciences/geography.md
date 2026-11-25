@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Geography
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Geography is the systematic study of the spatial distribution and interaction of physical and human phenomena on Earth’s surface. It integrates natural sciences (geomorphology, climatology, biogeography) and social sciences (cultural, economic, political geography) to analyze patterns, processes, and relationships across scales. The discipline is grounded in first principles of spatial analysis: location (absolute and relative), place (physical and human characteristics), scale (local to global), spatial interaction (flows of people, goods, information), and spatial organization (patterns and networks). Geography employs both qualitative and quantitative methods, leveraging Geographic Information Systems (GIS), remote sensing, spatial statistics, and field observation to model and interpret complex Earth systems.

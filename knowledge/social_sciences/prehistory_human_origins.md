@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Prehistory Human Origins
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Prehistory human origins encompass the deep-time evolutionary processes leading to anatomically modern Homo sapiens, spanning from the divergence of the hominin clade (~7 Ma) to the advent of written records (~5 ka). Core principles integrate paleoanthropology, comparative genomics, archaeology, and paleoecology to reconstruct morphology, behavior, and demography absent direct documentation. The evolutionary framework is grounded in cladistics, molecular clock calibration, and stratigraphic correlation, emphasizing incremental anatomical and cognitive adaptations under selective pressures such as climate oscillations and interspecies competition.

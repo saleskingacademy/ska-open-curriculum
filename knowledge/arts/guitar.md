@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Guitar
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 The guitar is a fretted string instrument typically comprising six strings tuned in standard EADGBE (from lowest pitch to highest: E2, A2, D3, G3, B3, E4). It functions as a transposing instrument, where pitch is altered by finger placement on the fretboard, effectively shortening string length to raise pitch by semitones (one fret = one semitone). The core physics involve vibrating strings anchored at the nut and bridge, with pitch determined by string length, tension, and mass per unit length, governed by Mersenne’s law: \( f = \frac{1}{2L} \sqrt{\frac{T}{\mu}} \). The guitar’s tonal palette arises from its construction (body shape, wood species, bracing), string type (nylon or steel), and amplification (acoustic resonance or electric pickups). Mastery requires integration of theoretical knowledge (music theory, acoustics), technical facility (right- and left-hand coordination), and interpretive skills (stylistic idioms, dynamics).

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Physics Waves
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Waves in physics are disturbances that transfer energy and momentum through space and/or a medium without net transport of matter. Fundamentally, waves are solutions to linear partial differential equations (PDEs) describing oscillatory phenomena, typically derived from conservation laws and constitutive relations. The prototypical wave equation in one dimension is  

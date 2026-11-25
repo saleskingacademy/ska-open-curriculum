@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Nutrition Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Nutrition science is the multidisciplinary study of nutrients and other food components, their digestion, absorption, metabolism, physiological roles, and impact on health, disease prevention, and performance. Rooted in biochemistry, physiology, and molecular biology, it addresses how macronutrients (carbohydrates, proteins, lipids), micronutrients (vitamins, minerals), and non-nutritive compounds (phytochemicals, fiber) influence cellular function and systemic homeostasis. Core first principles include energy balance (caloric intake vs. expenditure), nutrient bioavailability, metabolic pathways (e.g., glycolysis, β-oxidation), and the interaction between genetics and environment (nutrigenomics). Quantification relies on metrics like Dietary Reference Intakes (DRIs), basal metabolic rate (BMR), and glycemic index/load.

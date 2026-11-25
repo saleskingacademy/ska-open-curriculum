@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Type Theory
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Type theory is a formal alternative to set theory where terms (representing programs or proofs) are assigned types (representing specifications or propositions). It is governed by the typing judgment $\Gamma \vdash t : T$, stating that under context $\Gamma$, term $t$ has type $T$. First principles dictate that a type system must exhibit: (1) Progress: a well-typed term is either a value or can take a step; (2) Preservation: if $\Gamma \vdash t : T$ and $t \to t'$, then $\Gamma \vdash t' : T$; (3) Strong Normalization (for logical frameworks): all valid computation sequences terminate.

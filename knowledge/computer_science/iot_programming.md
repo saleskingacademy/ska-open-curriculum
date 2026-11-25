@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Iot Programming
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Internet of Things (IoT) programming is the discipline of developing software that enables heterogeneous physical devices—embedded systems, sensors, actuators—to connect, communicate, and perform autonomous or semi-autonomous tasks over network infrastructures. At its core, IoT programming integrates embedded systems programming, network protocols, data processing, and cloud integration under stringent constraints of power, latency, and security. First principles include: device abstraction, event-driven architectures, real-time constraints, and interoperability via standard protocols (e.g., MQTT, CoAP). The programming stack spans from low-level firmware (bare-metal C, RTOS) through middleware (message brokers, edge computing) to high-level cloud services (AWS IoT Core, Azure IoT Hub). Effective IoT programming requires mastery of concurrency, resource optimization, secure communication, and data serialization formats (CBOR, Protocol Buffers).

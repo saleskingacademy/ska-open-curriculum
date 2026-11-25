@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Water Resources Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Water Resources Engineering is the interdisciplinary branch of civil and environmental engineering focused on the planning, development, management, and sustainability of water resources. It integrates hydrology, hydraulics, environmental science, and infrastructure design to optimize water availability for human use, ecological balance, and hazard mitigation. At its core lies the principle of the hydrologic cycle—precipitation, infiltration, runoff, evaporation, and groundwater flow—governed by conservation of mass (continuity equation), momentum (Navier-Stokes simplifications), and energy balances. The fundamental goal is to quantify, control, and utilize water flows within natural and engineered systems under spatial-temporal variability and uncertainty.

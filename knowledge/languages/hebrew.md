@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Hebrew
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Hebrew (עִבְרִית, Ivrit) is a Northwest Semitic language of the Afroasiatic family, historically rooted in the ancient Canaanite linguistic continuum. It functions as both a liturgical language of Judaism and the modern national language of Israel. Hebrew’s phonology, morphology, and syntax are characterized by a root-and-pattern (nonconcatenative) morphology, primarily based on triliteral (three-consonant) roots that generate semantic fields through vocalic and affixational patterns. Its script, the Hebrew alphabet (א–ת), is an abjad of 22 consonantal letters with optional niqqud (vowel diacritics) for phonemic precision. Modern Hebrew (Ivrit Hadashah) emerged from the revival efforts of Eliezer Ben-Yehuda in the late 19th century, evolving from Biblical and Mishnaic Hebrew but incorporating extensive neologisms and syntactic calques from European languages.

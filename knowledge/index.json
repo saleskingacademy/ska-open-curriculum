@@ -204,8 +204,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28943,
-      "sha256": "d5c5669805c2383acc58e53377dc99e506f94695e2cd87fb130bb7cdcad40277"
+      "chars": 28892,
+      "sha256": "b36ec3036ce4ce18a22c49f628df586c8ec5bf4e273f8efeeb8c39bcb15472f9"
     },
     {
       "key": "additive_manufacturing_3d",
@@ -225,8 +225,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26255,
-      "sha256": "d71d541ccb09386fd8c9142165f7dabc08ebc57a2e63c3bbd5ddb345d7d323f2"
+      "chars": 26204,
+      "sha256": "742ceee5ed1221065d74b50798b1928ab5982a145a072138068ba7b4abdefb5a"
     },
     {
       "key": "additive_manufacturing_advanced",
@@ -391,8 +391,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15792,
-      "sha256": "5bad9e62f8260fa7f36dcf9e598af67e162457955486343473abb6ca82e62223"
+      "chars": 15744,
+      "sha256": "c997205b2a405ecd1b3a7abfdbe2c59a1c320329b75a7dea41947a2280ed42e5"
     },
     {
       "key": "aerodynamics",
@@ -523,8 +523,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16182,
-      "sha256": "68c489b120dd03c89bf9cfdb57c1fe4fc0c1fed2485041f810e273b089412c53"
+      "chars": 16134,
+      "sha256": "6597b95683293283a0cebcd3723b39bf6a31c17a88cdfe9f69e01eb1fefeef8d"
     },
     {
       "key": "affiliate_marketing",
@@ -1432,8 +1432,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16348,
-      "sha256": "3769809addee210711b7590bb68a78bc9d2a54a75578825420201f04b51d48bf"
+      "chars": 16300,
+      "sha256": "d111cd6d10520707eeacb29cd67eeb021bf9b5dad439ad203a8b4b5393764540"
     },
     {
       "key": "air_traffic_control",
@@ -1721,8 +1721,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29830,
-      "sha256": "4b36880d73fff56550ccb4e5eb7c5a87aa220da70f5ce12c6fa3a60dbf1c5232"
+      "chars": 29779,
+      "sha256": "07b93a6aebc8cfd97aadcd8221f1d26251147eda38b0ee690c56683073c486e1"
     },
     {
       "key": "ancient_greek",
@@ -1769,8 +1769,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27689,
-      "sha256": "f20361f320e3b147711c5a8b56673c7ebd2b114d1bf5c80550f6da1c80de60b9"
+      "chars": 27638,
+      "sha256": "db49af90988f80c7249872c65969f3754ff423d63a231657daf62fa32cd14188"
     },
     {
       "key": "ancient_mesoamerica",
@@ -1893,8 +1893,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 14967,
-      "sha256": "a5e1a3bf43f76078dafab8d7cb5e9938e55c1f7eb553be75c91bda96f2108efc"
+      "chars": 14919,
+      "sha256": "6f40cab38be57e66dd92288f4f7c97bfc05d5c11bcf731b1af816ba0f79ccdd9"
     },
     {
       "key": "animal_science",
@@ -2065,8 +2065,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26079,
-      "sha256": "5b502ee135178293c29d1da60fbaeeca82c4f6c37ab41fe658f24182accf502f"
+      "chars": 26028,
+      "sha256": "1992f4cb8fdb2535a105233e9bcf0f350b84f2e1932de2f32b8cff58ad8d9e79"
     },
     {
       "key": "aquaculture",
@@ -2258,8 +2258,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17252,
-      "sha256": "f5d521b407306fd0e9098892b47bdcc11803fa0045fd96687393cd3f4ad3e589"
+      "chars": 17204,
+      "sha256": "5c03c41881e1f0d8f57dc94fa7bfd83100e0fe31f9e5e8035f8202f235326dcf"
     },
     {
       "key": "art_criticism",
@@ -2279,8 +2279,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 23698,
-      "sha256": "6ed997f1f70379ba1ab325cc137aeceddeab9da96d8b845a51966f70bada6037"
+      "chars": 23647,
+      "sha256": "eadec0ac9cb9bee5c615075876a81cb2b32e6cca5878f01a741c8743cb0a97eb"
     },
     {
       "key": "art_fundamentals",
@@ -2327,8 +2327,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17563,
-      "sha256": "49e83c91861376d3ac0a62c15370191b53d6f9bf956aa8b0d0aeb25c2a81033c"
+      "chars": 17515,
+      "sha256": "6419990e6d9841df0e2587d666a4a933493c480503218521d237615365c47e75"
     },
     {
       "key": "artificial_intelligence_foundations",
@@ -2389,8 +2389,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28396,
-      "sha256": "4f00f44b9b7803869df0a1cee572e0bb97a46ed6ae7554e5e968a1996c518ecb"
+      "chars": 28345,
+      "sha256": "14caea1837f69d9abc9a8456de89aa964c4b118da0229aa62c75fe68a99aa784"
     },
     {
       "key": "astrology_cultural_history",
@@ -2410,8 +2410,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26687,
-      "sha256": "c9825e9db29b005dadf123aa7fbdaf3be7dc66dcaff1e695037ecf8bd2e2930d"
+      "chars": 26636,
+      "sha256": "be9c8f57121db1c677610524cc524ac9fc290ba61c02966746644debfc139421"
     },
     {
       "key": "astronomy",
@@ -2437,8 +2437,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16907,
-      "sha256": "c503a62c21c060a0108015be8a76170cecd9913910474de74f3b83d238f93166"
+      "chars": 16859,
+      "sha256": "497b41a3a2fd5864bcb9036e7eff2622d1cfb959e5c32c3b6182d48b5af5bebd"
     },
     {
       "key": "astrophysics",
@@ -2611,8 +2611,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 21995,
-      "sha256": "379f7b6c8a115156b97a819644be2fe1382b3c14702c22fe80c71906779584a4"
+      "chars": 21944,
+      "sha256": "b1efb7daac02e25e1933d20c7caf190321f5f0ee3466729bf70d38304f650fe2"
     },
     {
       "key": "autonomous_systems",
@@ -2659,8 +2659,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26303,
-      "sha256": "59d6c778e48317c01c47ebf8e110443fdeb0b8cd154bacb7ec46930c73651035"
+      "chars": 26252,
+      "sha256": "fbb92a6726255ef998e56c071f43fb926ce0d8d007d85efa51f8b251ac73d81a"
     },
     {
       "key": "aviation_law",
@@ -2804,8 +2804,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16307,
-      "sha256": "f017942452f512e034379cb4ce39b851fc42b5a33d6084d7d7decbcd0c02652a"
+      "chars": 16259,
+      "sha256": "8a837f882f72bb2e8bf564b0165579ad329f2ec44443c93164332e957012f839"
     },
     {
       "key": "banking",
@@ -2902,8 +2902,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16388,
-      "sha256": "b49f501cd6ff609ced99d07eedfe6dd86cba68eeb8e627f2ca8a15e311dd0a3b"
+      "chars": 16340,
+      "sha256": "da44ec57a2d7718b24c063ee94874def9533c503f02189cb3565474f502dd2b7"
     },
     {
       "key": "behavioral_economics",
@@ -2985,8 +2985,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16318,
-      "sha256": "14dcaa0d1e99b576369d142045b91b73969d33d5e8cea2250d544621733b23e5"
+      "chars": 16270,
+      "sha256": "eeb41ba249c12a854a7c0ccfbd39996bb57a2951f73954c3c9ec24c5322646b6"
     },
     {
       "key": "biochemistry",
@@ -3012,8 +3012,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16092,
-      "sha256": "d2b52d3cb6eb210a43c4bf0546a016150a9d1b0154c5ff01981347b3bf6d0955"
+      "chars": 16044,
+      "sha256": "5980dea28126b7107e0e2fdbad05f85c0f9b546257833187219a9886bf6f15f7"
     },
     {
       "key": "bioethics",
@@ -3055,8 +3055,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30026,
-      "sha256": "1338b9ba99c49489674d4d220bf20f171f7facdab29e38cbc05fcafa434d7b81"
+      "chars": 29975,
+      "sha256": "ec5bed9d51ca82b5edf2cead624b08aa876d30e4acdba03337ea601f70c0c84c"
     },
     {
       "key": "bioinformatics",
@@ -3156,8 +3156,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16296,
-      "sha256": "d45edf76e51803f93731942d5cbbaf73b892293b6cfa3d4f516b77826e9cbb16"
+      "chars": 16248,
+      "sha256": "ba6273ac227e5dae2b1f261c9f4bb2d15c5a190562972e40efe4c217b3b8571f"
     },
     {
       "key": "biomedical_engineering",
@@ -3358,8 +3358,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28213,
-      "sha256": "9b687a9cde180b144966dc1a667d4b37db9e5cecf1d7af0db6b22fe8b3d2a7f6"
+      "chars": 28162,
+      "sha256": "f7ff482739a7f5e0db214345cb5b93b338e80640a54a4bf67709269a6a1ce01b"
     },
     {
       "key": "brain_computer_interfaces",
@@ -3412,8 +3412,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26655,
-      "sha256": "73e01bfe253151a126f0413cff4e014ef195784dc6766df218876f37f39deba6"
+      "chars": 26604,
+      "sha256": "205664a89d853c6ba22c09e2b29073b185a846d6babef2054aa3bee7ae575f0c"
     },
     {
       "key": "brand_narrative",
@@ -3687,8 +3687,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16923,
-      "sha256": "23f2a2e0585c9c8889302f973cca3ab08a73d9bd2eecab1b5d86fa692c7b8daa"
+      "chars": 16872,
+      "sha256": "ea61f7f3d16abb0999cc4b624cf3dd05e04a6259acfdb2eb6c67d72ae90c0cde"
     },
     {
       "key": "business_writing",
@@ -3709,8 +3709,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22906,
-      "sha256": "d96bc9dacedef6e75886c0b56fa30a48c545f5a0b182ac6a51fad71e28f3ff11"
+      "chars": 22855,
+      "sha256": "cc9cc72a6d6ea055d79103e22a7a64b0371dfbe7a7f9e1f141b991d58bab4a65"
     },
     {
       "key": "buyer_psychology",
@@ -3849,8 +3849,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29898,
-      "sha256": "6278612b4e091cf1245beb6e8c68f78bf413b3adf58773ca2d987742924577ef"
+      "chars": 29847,
+      "sha256": "b23e9303cddf91ae43146a3fa0eddc11803440ebf58331f8cc8034b4ef8be29d"
     },
     {
       "key": "campaign_planning",
@@ -4023,8 +4023,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26358,
-      "sha256": "26c71c428836ee36d47ed18163f40025d1febdc60de867853405f8ff2c7ff7f7"
+      "chars": 26307,
+      "sha256": "116a16778b1a2593d6a8f43dae1a7917979d72dbe58456799dc93be054b228ce"
     },
     {
       "key": "casino_management",
@@ -4078,8 +4078,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26658,
-      "sha256": "0ee64771cdb574e72a2e773419ffc5ab3082894b39aefa95c9c2604c8df0bec3"
+      "chars": 26607,
+      "sha256": "ca5f044f72b66af38a6aa8bfc01dc08089b9fad3b7c95ee8df2fbf6264f75446"
     },
     {
       "key": "causal_inference_ml",
@@ -4532,8 +4532,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30749,
-      "sha256": "95bb47c7588aaea7fb22dafe1c289ac0b6626532532486354b7a84571c41401d"
+      "chars": 30698,
+      "sha256": "dbb7d71fcd488e7b43f2ecba1b8d5f4263efd4473fb52ae89dde80d8e2398f4e"
     },
     {
       "key": "classics",
@@ -4593,8 +4593,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27889,
-      "sha256": "2d58ab33c5e4c1c761118138fc2e17b0b7bf39bace015a00088549e64cc894ea"
+      "chars": 27838,
+      "sha256": "eaf6f68e14d2772c11e1b5ee42c4ef12fe0f048af8558b45987b9fde2f4cf238"
     },
     {
       "key": "climate_engineering",
@@ -4614,8 +4614,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25337,
-      "sha256": "b35e199dc846732507a025debb534ec5d6965b5d4d0a47abec734cfa0ce24e03"
+      "chars": 25286,
+      "sha256": "6540cefda6aab097f79662f65a9d27ce9c62044fc8ebbd0e5dd7d39f5fa1bc96"
     },
     {
       "key": "climate_modeling",
@@ -5003,8 +5003,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17006,
-      "sha256": "b6ff11363d63895c93203fab2b1e5f608409486e51bf7251827b04c1d79c20fb"
+      "chars": 16958,
+      "sha256": "0b24c0b4c44d5e9baf0acc51fd36e2e4876a00e819cb7c7b90fdc85b7fab7767"
     },
     {
       "key": "commercial_driving",
@@ -5023,8 +5023,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 23749,
-      "sha256": "accc59613fdd3928e028a62abeb926789fc59421ebc7b23c13be30f4d147a01e"
+      "chars": 23698,
+      "sha256": "1ec6775dfaa00416a2c760c98b38e1adc9b6774129ea862cae45c9be89798d79"
     },
     {
       "key": "commercial_real_estate",
@@ -5120,8 +5120,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19200,
-      "sha256": "43325ad4dc95e0c5f3047edff30bf912647fd6bcfecc874aee69a40d8197b034"
+      "chars": 19149,
+      "sha256": "71a0dac756355c7d757986bf1abe53af6f4109c79b2045a1ec70afe3192cafa0"
     },
     {
       "key": "community_development",
@@ -5243,8 +5243,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30058,
-      "sha256": "3da54232b927080538fd06de5ba5f8677794b3aa85bab33fd4983485db69e468"
+      "chars": 30007,
+      "sha256": "7b582bab49b0e55439e5cd81bbbc3d4265af564b224b71172a3f6dc4a96f9794"
     },
     {
       "key": "competitive_analysis",
@@ -5455,8 +5455,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16740,
-      "sha256": "e98405cab725265be8834f5c0a950ab756e69be57657af7f94215d725effe36d"
+      "chars": 16692,
+      "sha256": "195d8faa64f70df1c10f5a7e3e629ae7f8d5fbc3a35fd20baac71e76b290686f"
     },
     {
       "key": "computer_fundamentals",
@@ -5523,8 +5523,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15661,
-      "sha256": "e07c609e59afc1959b419075b91b0ff23d421aab0682e411511213ad5aa897ca"
+      "chars": 15613,
+      "sha256": "66ccbb40456467bdec6deac923330581cfd945e34ce9f56bea4fd4c99c4181e8"
     },
     {
       "key": "computer_vision",
@@ -5570,8 +5570,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24194,
-      "sha256": "bcb1c2dc7cf8389530a9eaa1a63c06b3b7c6915e5a73b332bb7d1559e288bafa"
+      "chars": 24143,
+      "sha256": "dd7c4ae84f3cad858a60d8f258e82ebac1ba9e5b6848384ec8e2c7c70c9d369f"
     },
     {
       "key": "condensed_matter",
@@ -5849,8 +5849,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15671,
-      "sha256": "8d74a4ced7f52bc2d2ec290d6cae4ee9742d2f44893969eecb5789572ad64e2f"
+      "chars": 15623,
+      "sha256": "03e79ac511dcadb5e0981cd23eb17e3ef62c3caa222d5c92bb30883a4de56540"
     },
     {
       "key": "contract_law",
@@ -6100,8 +6100,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15722,
-      "sha256": "44696099ddf40e42bdf9e1b63f0f564156c33d79d2b9ed25c1b814ab52fdf9c4"
+      "chars": 15674,
+      "sha256": "bdad5f7e9bd04d401904349e13b8fea32cc3ae83dcd9fabfca45f507c9999f5f"
     },
     {
       "key": "corpus_linguistics",
@@ -6188,8 +6188,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16655,
-      "sha256": "5858e502254192c40741aef2df9ff3debaefb5da85ba28802fa06b1062aaf858"
+      "chars": 16607,
+      "sha256": "109bc959dc9096a8a8eaf5cc42e4d2f52a2414b85a215ea8c3056b8b7d4b8e51"
     },
     {
       "key": "cpp",
@@ -6237,8 +6237,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19657,
-      "sha256": "11b9a8d9fe92714865cd32c24f173f6dbf771f0f36e67a168f45d92b0c483282"
+      "chars": 19606,
+      "sha256": "7e76308638c2cf676304acd52edd80da2f15a0b22ce7bed52297b744cb07cae7"
     },
     {
       "key": "creative_writing",
@@ -6639,8 +6639,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16649,
-      "sha256": "546b917fc032d66e81c0d6d00f509f8be27bea791a93995460d17c2f62c8e3d7"
+      "chars": 16601,
+      "sha256": "38d261569c0ff09b69c940b87f8e49beb7141284c194dcbb2118ac614209cdf0"
     },
     {
       "key": "csharp",
@@ -6666,8 +6666,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15966,
-      "sha256": "ca69a449b78cff68f2d4d5228d5b816cea32f02eb3d11a76c005386c181e9096"
+      "chars": 15918,
+      "sha256": "cf074a385023cb2780d231db8aac34d5973b050d526a4cafcce055885ab7d558"
     },
     {
       "key": "culinary_arts",
@@ -6874,8 +6874,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17083,
-      "sha256": "931272851341252e37c6962885063b4ce4556a7eeab42fb90c3975ef2ad7ef5d"
+      "chars": 17035,
+      "sha256": "00bfac7ffcba95f94579aaff053f6a5005fd757200e56fea4e771dfda7344369"
     },
     {
       "key": "dance",
@@ -7075,8 +7075,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17113,
-      "sha256": "ac2a60f42eea77f9ce0dc08015a339d142f35112cdae732c14d80738f6f988cb"
+      "chars": 17065,
+      "sha256": "d436be5ae771779c2263952da3e0cc1b0286e462af57fdb4f1e1c94e65a93eaa"
     },
     {
       "key": "deal_qualification_frameworks",
@@ -7117,8 +7117,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25161,
-      "sha256": "b5a297868215b6ad1e763a612eeeb2142bf1ed1e731dbf3387d0fc2e257824ca"
+      "chars": 25110,
+      "sha256": "78002e2013cf2569a95e66f7d800371439d1cafeee11a324d8e5ecda92f478e3"
     },
     {
       "key": "debate",
@@ -7165,8 +7165,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15957,
-      "sha256": "dace4e2e3d210744f8afd729b78498d009b95d25db5f11d5fb7847feb08335e5"
+      "chars": 15909,
+      "sha256": "1dbf41b154c15a9e156dc7f0625d9c1a79d2431f9475077ac1b1afa38e3f2543"
     },
     {
       "key": "decision_science",
@@ -7242,8 +7242,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16977,
-      "sha256": "9a623451fdf34236fb31a6d9c232cd23a47e13176101dfc792f06d69d8e08d7a"
+      "chars": 16929,
+      "sha256": "096b9eeadb3424e2429a62a0c13a1506d33e2dd145e16c75197579ad7bc31b9e"
     },
     {
       "key": "demand_forecasting",
@@ -7270,8 +7270,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24766,
-      "sha256": "70712ad9a2b8fed6900272a04e73f55134df7d6ee7c539b8fbdd13a830443daf"
+      "chars": 24715,
+      "sha256": "c11ff061f91b9bae5b093d7eb0eed0c7d816f38ac1fc96728e9f3aaf2ada2379"
     },
     {
       "key": "demand_generation",
@@ -7318,8 +7318,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30736,
-      "sha256": "12d693d06cd57cdd0c204c8371b5a928e207ebc05f877f0d6f9935b55f3b1831"
+      "chars": 30688,
+      "sha256": "db0e4d2c0d9fa482f6c12b9f3dd093c873d9efd9a4deee8d176f49ebd758ac78"
     },
     {
       "key": "dental_hygiene",
@@ -7890,8 +7890,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15981,
-      "sha256": "ab581a3f495a52d80de027db77ab5892e403844c5025e125de83d72ad7473f4f"
+      "chars": 15933,
+      "sha256": "972d3a043441479f995bc2e213a972aa54384b5b72382ded305a82dbb036af7b"
     },
     {
       "key": "distributed_systems",
@@ -7912,8 +7912,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18061,
-      "sha256": "a07632eb5f2ba2efe6b03bb5fcab43b11c15494e7c8427ae0c55a067b069718e"
+      "chars": 18013,
+      "sha256": "1a036d5a2163e60709600dd5399634697873e2e8874b5941fb7f3a5098fb5139"
     },
     {
       "key": "dna_data_storage",
@@ -8031,8 +8031,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20150,
-      "sha256": "e238eaf7353839f8869a46a5ff8f5aa2d73a8b7ad6769293b748adc0507658e9"
+      "chars": 20099,
+      "sha256": "b264564ab6dbac6bda4bf7bd87a59a9b95f2f1f670692f64a6a2a78af196eadc"
     },
     {
       "key": "dropshipping",
@@ -8059,8 +8059,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20841,
-      "sha256": "eb0dbf067b9364e6822a992c56ce153157bd9f1fa841898b1327d7a01e3acc71"
+      "chars": 20790,
+      "sha256": "a7a7d6a5a868b1af253107e98f12ee29ff6d6fc82204951e55e63f783e24aa14"
     },
     {
       "key": "drums",
@@ -8086,8 +8086,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16286,
-      "sha256": "82fd00b0b968d93e97e0e3ef24e1119c986046650a692f7aee866fd5e9880ccf"
+      "chars": 16238,
+      "sha256": "72482588ac547db2bc6669961e2c28c91713302de5f7087fb89c38b24d30b144"
     },
     {
       "key": "due_diligence_research",
@@ -8203,8 +8203,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30876,
-      "sha256": "c54c34aff9b0a8905fec8e8e56a6ecfe7f6c94ff366179ac87d3a77710a219ef"
+      "chars": 30825,
+      "sha256": "e7bb86314c4fbddd4a5f67676388218df7e6fbb06c3d6aaec13465a73a8039fe"
     },
     {
       "key": "ecology",
@@ -8388,8 +8388,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29285,
-      "sha256": "33c0f1c054717173c226846fcb6cc63e47c153f7ea17247ba9e02e1fa3270515"
+      "chars": 29234,
+      "sha256": "56fe582895144e897e884ae0cf1c3554551061d6889dd92e95526b49c752a5b0"
     },
     {
       "key": "educational_psychology_ed",
@@ -8653,8 +8653,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15776,
-      "sha256": "b932bf6b45529c09143514b202e3e32e7d7550d8d97a56b1b8f65d51a2c89623"
+      "chars": 15728,
+      "sha256": "9fe6255e1018b46c479df89d9a7d789e8cb76f78bc2ad954c941f1dbbbad4994"
     },
     {
       "key": "endocrinology",
@@ -8823,8 +8823,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22984,
-      "sha256": "74a00ccf53395bbd529050461e90bb54c933b7ce0de1662705264e389610fb32"
+      "chars": 22933,
+      "sha256": "80408c4da2af73a4789c9da61a31e046139edc34cfd49580aa19462a4e9cade1"
     },
     {
       "key": "enterprise_b2b_selling",
@@ -8885,8 +8885,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16720,
-      "sha256": "fd857ebded877e9c088678c529536c6c05ba3466efa5c176161c0112cba32ab3"
+      "chars": 16672,
+      "sha256": "e457831743ebc25af5176cbdd35cd142e695148faa92dd57a8cc0d7144806ed9"
     },
     {
       "key": "environmental_economics",
@@ -9138,8 +9138,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15732,
-      "sha256": "77e0895e4d9cf2c73855627b2f4822285cc8cbbb11665830984bced738370348"
+      "chars": 15684,
+      "sha256": "67f593f1c9857d8e5cc889870876c64b6fa7ac740dc8c2514a6fc781f06a38e1"
     },
     {
       "key": "esl_teaching",
@@ -9207,8 +9207,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15819,
-      "sha256": "0723268f5ff5cc8883f1eb339c57b56a0608afa2891266e1520bf8841950a308"
+      "chars": 15771,
+      "sha256": "3ec40673025410dda1868d58be8aeaa277854f5c0a90c9156ba1cd75d571e6bf"
     },
     {
       "key": "esthetician",
@@ -9352,8 +9352,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27340,
-      "sha256": "a9674fb86c47758441f58235933474cf338c1faa2e7006416b12b5fdb4eaa5c7"
+      "chars": 27289,
+      "sha256": "3102b6d9be56eeb07465deea5758df67102e189afe6cfa5d8f8e59e4fe98a7e9"
     },
     {
       "key": "event_marketing",
@@ -9768,8 +9768,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27158,
-      "sha256": "874981f5362638c2e329002483865f02a11ed2787d910652772518ebaf33d73a"
+      "chars": 27107,
+      "sha256": "05d7e0b84f675312b97a70e61bb5ffc0ac584c3843a9935e92fa1d3bffc062d8"
     },
     {
       "key": "financial_literacy",
@@ -9969,8 +9969,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16517,
-      "sha256": "6fde88f44ec06fa05d0d751bb68b74292a28e1b8dd5ff93f05b7ae861d9167c2"
+      "chars": 16469,
+      "sha256": "ff373b4f221f395f97b17499dd12dce6fce60b03c52029a388137ccbce8a189f"
     },
     {
       "key": "flight_mechanics",
@@ -10032,8 +10032,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28818,
-      "sha256": "7d98b8f2ea231eead243b2328f0335fc39c4e97cf80abcf82acfb7cb4e4cd207"
+      "chars": 28767,
+      "sha256": "7a2fe83e49af69907b89b47865485ab1b9e0a41c27828fb250565db086805bdd"
     },
     {
       "key": "followup_systems",
@@ -10080,8 +10080,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24743,
-      "sha256": "dab7828856e36701f825b08ee1c739ed7ad07284d0a419f56f2023af663032e8"
+      "chars": 24692,
+      "sha256": "d7e565b2f77fef06b6153f067de7b01463aa2289c20db7c03806f740c0654ccb"
     },
     {
       "key": "food_safety",
@@ -10134,8 +10134,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15817,
-      "sha256": "9308512f0ff762c2ddffa8ff5188e140a0ff8c87e739818a9bacd6f30bd273f9"
+      "chars": 15769,
+      "sha256": "c4876ebec1f38f747843612485457f00312421bffa0e14d7c802c2292139216c"
     },
     {
       "key": "food_technology",
@@ -10346,8 +10346,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18142,
-      "sha256": "9b198424b1ee2c57707eac6e7fd89f24d0d7b799f419a5457950b48262cd02de"
+      "chars": 18094,
+      "sha256": "dc09caa7ac12c1ccc9b9bb03f9844711745bcf44ff00ce105b9424ae30c9308e"
     },
     {
       "key": "functional_analysis",
@@ -10475,8 +10475,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16635,
-      "sha256": "30e6f1b087a816a72152f899cbede33f69632b3f4f84dde7859344be5dbab97a"
+      "chars": 16587,
+      "sha256": "71871549ae2b4f678fa997c62c15ce3d149c7d14383f8bc8e7f030943fbcd8d3"
     },
     {
       "key": "futurism_futures_studies",
@@ -10523,8 +10523,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24789,
-      "sha256": "2e475beaa5b108f582050b66e3e48bde5cd7a3d72f104ea015dab07055d3636f"
+      "chars": 24738,
+      "sha256": "bada17ef25f7cf4332842907cb9d2d04271c0156645d9a71c6aa7bce3a685ca1"
     },
     {
       "key": "game_development",
@@ -10615,8 +10615,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15662,
-      "sha256": "362479fca17eaca4e89c2d68cf7923a3afe125d0dd2b12f1314f34dbb1282de5"
+      "chars": 15614,
+      "sha256": "5f677efceab82dec6286ad2dc47b4642b742ca2b5ee8a14eea257fc1bfdaac3c"
     },
     {
       "key": "gene_therapy",
@@ -10684,8 +10684,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15851,
-      "sha256": "16c99edde207662c80eca34822af90c7b56111e6cbe0b4ab5f275efb41434e25"
+      "chars": 15803,
+      "sha256": "4435e9acfcdcb23fc20d7c241122eb1d68784dd24af2212b45492704f4945648"
     },
     {
       "key": "geography",
@@ -10711,8 +10711,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16060,
-      "sha256": "1ea25acd10e91880b281e4c6d42503da3158be1d6924b53309884b78fb81b3e0"
+      "chars": 16012,
+      "sha256": "fafa5943918709d9b42ac18731c2bd6c239726ed16af7939c65f49354b9b7167"
     },
     {
       "key": "geology",
@@ -10919,8 +10919,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15776,
-      "sha256": "eab3cc7143b3cd331e4d6bafa3723a77c6bfa2554d7621827335feed6bb0e730"
+      "chars": 15728,
+      "sha256": "dfc0baa6fdda36ccfcdb97d68487a6a9f9297e1a27a5b7e22726b1416de429b3"
     },
     {
       "key": "gifted_education",
@@ -11070,8 +11070,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17913,
-      "sha256": "54d0ad581e51624161dff6e15316682caf1a1edd66306b19b88381fa892559bc"
+      "chars": 17865,
+      "sha256": "6a72eb5eac4eaff3b6ff62f682298d96e01090dc789fdfbbf99f2d6e826e444f"
     },
     {
       "key": "graphic_design",
@@ -11237,8 +11237,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 21006,
-      "sha256": "8dcb416470ecddf85e93a5787d8869e90e1c35c9e6a67c1ecc23bfc65730d8e0"
+      "chars": 20955,
+      "sha256": "f00b6c5f3b90c13c5ffe4ab3cb21d355914deb74ca3730e9e7a5cc82728020cc"
     },
     {
       "key": "health_economics",
@@ -11345,8 +11345,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17918,
-      "sha256": "fb3ff05ab260b5f1ff06c8afabbfa5dec59544b393f1e2b427017934bf717c88"
+      "chars": 17870,
+      "sha256": "ba07c93d6423bea7abf0e17578e7086e3000e8e188f533d8a720f3975a1c9d11"
     },
     {
       "key": "hematology",
@@ -11415,8 +11415,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16527,
-      "sha256": "90a82b33083b07e72900db4a12b0c49eab7fec031256782b7dc9138aed0e0fd7"
+      "chars": 16479,
+      "sha256": "6c7ca068a3cb13f951475ef22c93aece7fdc7dc25dbfb3ba99741be82691b77c"
     },
     {
       "key": "higher_education_admin",
@@ -11521,8 +11521,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 31175,
-      "sha256": "84f509366ef78ed08f17815170fd474d53084ffba6241ef182ae808ed091bfea"
+      "chars": 31124,
+      "sha256": "4b463c147bd2bea69ceee129d2371cac20a08a89107bfc388cbba1b7a0995939"
     },
     {
       "key": "history_american",
@@ -11542,8 +11542,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19665,
-      "sha256": "7772b771f5edf3f6738075c4cb624bb31f4056630169bd7bfc8935c1db265228"
+      "chars": 19614,
+      "sha256": "5c21a9c9dee6a8407fbc55a4b3bdb80d561b2103686734337fe832b920705af9"
     },
     {
       "key": "history_ancient",
@@ -11585,8 +11585,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28678,
-      "sha256": "ba5c33db9d8f2cdb4116806a2510c7de50467fe3a09ed4c40c0c3a247350b0e8"
+      "chars": 28627,
+      "sha256": "9edb0755d65ef238d8f7a5a05475c3e12748d4ba84b5fbf8491d6cef25e6c46f"
     },
     {
       "key": "history_asian",
@@ -11704,8 +11704,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29137,
-      "sha256": "18d3db3416022b2ddff8fc980e92c1e9d3075c15e8fc277bdb5bc83ccbd58d0e"
+      "chars": 29086,
+      "sha256": "2e635877a48716a79e56e765cd28c2a546bc21afc8ae0ced7e3101138544da75"
     },
     {
       "key": "history_modern",
@@ -11724,8 +11724,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29664,
-      "sha256": "a24ef1c81ca1e9fc20aa9c5310f3b67b66cb20e7ee453006b0c2b9880ad94951"
+      "chars": 29613,
+      "sha256": "625e0bc0db582dd5569f76741ef6e98659d69fd4b653174c6953986b60f1e227"
     },
     {
       "key": "history_renaissance",
@@ -11772,8 +11772,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27937,
-      "sha256": "2416055a4e59ae8feb4ed28abfcbfd891cb92b0fc07395786d49ed567f93447c"
+      "chars": 27886,
+      "sha256": "b3a3a42b1f9df5719eb63fb52eddc07cabd71595e526ee5ee29b4cf4c64b7c98"
     },
     {
       "key": "history_world",
@@ -11864,8 +11864,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16759,
-      "sha256": "e91a5b14177e799a9abefcc983f95dd2f5e8d5c161b16da64c56fa5de6d67c80"
+      "chars": 16711,
+      "sha256": "ef1f6834655dda992df9f5bd1e0d671541abd55bbb2298e8b99556c07d3f8d0b"
     },
     {
       "key": "horticulture",
@@ -12034,8 +12034,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20661,
-      "sha256": "fb3e513883040ddd9cda9e6767bda1cf05a92be6a52eb605e92758feabeaad4b"
+      "chars": 20610,
+      "sha256": "48a35d10304fdc11e9b2da8e1de8fd5b5581888f33ea57415980ab0bc0903998"
     },
     {
       "key": "human_factors_aviation",
@@ -12173,8 +12173,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17001,
-      "sha256": "8a6563b114a5a981581f27ca39af4d7058dcfef91a8462567ed3246bd5970532"
+      "chars": 16953,
+      "sha256": "1ba900bf4de6756e74b080e87577a0b0c378003130695828ab780dd90ad33548"
     },
     {
       "key": "hypersonics",
@@ -12394,8 +12394,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26304,
-      "sha256": "1f6e6430e09dce40162765e85d3666c3d2f8717a16dc2db8af304662c23542d9"
+      "chars": 26253,
+      "sha256": "3f6a90582200129e9d96945c1a493da3c52e096beb9072550e55ef7f05df8442"
     },
     {
       "key": "industrial_design",
@@ -12526,8 +12526,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17388,
-      "sha256": "14ec7f336c0236f1f9674d02b6af200e4c97759c1034c31568b68ff77518aba8"
+      "chars": 17340,
+      "sha256": "2bef051bc74a47fc294242439a923191d4c7dd7256cf6e8acab826e311605bba"
     },
     {
       "key": "information_security",
@@ -12632,8 +12632,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15825,
-      "sha256": "99da92680dea51259162b910cb7f113a40f8781047317e73676883c2b5469ad5"
+      "chars": 15777,
+      "sha256": "8b33a0243e6d7dae4da603040dfa0d4e0d7a85ac87795db9c86416de476dd358"
     },
     {
       "key": "insurance_finance",
@@ -12873,8 +12873,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30053,
-      "sha256": "06b51e066bb4b63c8a9b2612f97e559f7aeec49b193095feabdde405e58b454d"
+      "chars": 30002,
+      "sha256": "8e8b16a41dec668d23b7739e01e78e58974da9d94f28cb0e80ad0cc33f94151d"
     },
     {
       "key": "international_relations",
@@ -13008,8 +13008,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17393,
-      "sha256": "64e9501efb0eb72c96ee2c3169b116cb359f11f8b1f14880941315ae0e39d3ec"
+      "chars": 17345,
+      "sha256": "b9b17dea47b3a25cd24408b96eeb1901850027c542d0b348eaf2cec2ae4bd1e2"
     },
     {
       "key": "irrigation_engineering",
@@ -13035,8 +13035,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15961,
-      "sha256": "ef2a297b715c800547133ed45e64e39547cba384201268f4058864d3355d1fe1"
+      "chars": 15913,
+      "sha256": "2ef5f813b4e6b5a9356a507d721ffaabf6dda992ba93425310afccf2a74a3950"
     },
     {
       "key": "irrigation_science",
@@ -13125,8 +13125,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17009,
-      "sha256": "491b15b374074a054d8edaf1c643f634f8c760f339dc4d32945dbfaacbdd18d1"
+      "chars": 16961,
+      "sha256": "e24af08e6c26d107284084fd38954e62ce05793b0e506b1745cbcd9a1678a816"
     },
     {
       "key": "java",
@@ -13168,8 +13168,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15961,
-      "sha256": "4da0d02b04a2774e92a86ef88b6e1b12ee1e0bc8af9e750f0f922a7bf3f54833"
+      "chars": 15913,
+      "sha256": "b53d5656abf600a1b40fdb6c66662f319de81429a574e1b4758f4e080a31a8c6"
     },
     {
       "key": "journalism",
@@ -13217,8 +13217,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16966,
-      "sha256": "d5146d849a28aaf7cd95351a61b6a9e17137ddd75c92ecdf347580962807f7ed"
+      "chars": 16918,
+      "sha256": "84cb11beea2a20f8a8bcc7bb1297b1d2cf3d723cfe3d5c374558e1daf577cdee"
     },
     {
       "key": "kinesiology",
@@ -13285,8 +13285,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17086,
-      "sha256": "478d2c58fb307f3dfed7ab19f8924a0c6538264698aa62f8c5d7614f32868e24"
+      "chars": 17038,
+      "sha256": "c1f679d76b14951ad6bc5f4c064144e1e2b3b2c803b7dbe80fef3599442023b7"
     },
     {
       "key": "kotlin",
@@ -13464,8 +13464,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16275,
-      "sha256": "13bb84f050fc15976c07dbc654dcc385c0b08799cc61c034dad8475ce253dd01"
+      "chars": 16227,
+      "sha256": "8cf53d81ff4b2f1f4d66c28b22981cba11e5c26f081314caa36cfe2e1ad2f2cb"
     },
     {
       "key": "langlands_program",
@@ -13748,8 +13748,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17289,
-      "sha256": "d0e93f9b1bbbef03a6b5f978d787eafb721afd5193875d47139e22b03d5d21c7"
+      "chars": 17241,
+      "sha256": "2b92e2160662a6f70efbfe9c320a3f84ceb1e944f2c97aea401354ec73a8bf4a"
     },
     {
       "key": "lifecycle_marketing",
@@ -13790,8 +13790,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25886,
-      "sha256": "64b28fd3f34797f70a5fd0f2aa0c7a244217f21566ecaa6bc57893a344fe54af"
+      "chars": 25835,
+      "sha256": "d94d8d9073f0fc68a1b81cd1b45405499906d3f190950bcd6f556e09550fa06d"
     },
     {
       "key": "linguistics",
@@ -13995,8 +13995,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16298,
-      "sha256": "ce5deba14247b61dbe5c24e0beec63b7b1e7b20bbd30615476778bbfc9db31dc"
+      "chars": 16250,
+      "sha256": "c2dc338ed977ee628b7921b4dfd65b24c188d0d079cabbb3a9be40f26ea44f00"
     },
     {
       "key": "loop_quantum_gravity",
@@ -14023,8 +14023,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17925,
-      "sha256": "6e7fb03ab4bed660d5c582b82bff00bd506e502f74bdde08a3dd867edb856ff2"
+      "chars": 17877,
+      "sha256": "1c12d028e1e555bfc9bf73dd0ebbac38d44c4f5625a9224405ec0d12061f18a3"
     },
     {
       "key": "ltv_modeling",
@@ -14108,8 +14108,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15867,
-      "sha256": "238627c6f7f0ef94912fa8054624cfa685145c80c545f1587990d36a057777e9"
+      "chars": 15819,
+      "sha256": "c3a5c2fa778d950636b20c944c3a8192ad674cbbafa3b9215c6afe08868649c0"
     },
     {
       "key": "macroeconomics",
@@ -14211,8 +14211,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18311,
-      "sha256": "0660737e2bc69770fc83c69cd4923f3ae1b03890796a7ccba903f988c04c941f"
+      "chars": 18263,
+      "sha256": "58b6ea1d51422eeb4b07993b127d942e0b30415890998176201f50376f916aa3"
     },
     {
       "key": "manufacturing_engineering",
@@ -14301,8 +14301,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24806,
-      "sha256": "24a794a9b5b651f90126cdafe9bf7099cbe7be0a1e82168e69c37daa47bfed82"
+      "chars": 24755,
+      "sha256": "1ff63b327ffe339d43fa70affcfd33705a8286b6ba1819f8ca0c6b3e474a0c79"
     },
     {
       "key": "marine_operations",
@@ -14573,8 +14573,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26806,
-      "sha256": "8984ac174afc5e8c50927b6e1e4636c7eea655d5f367afd6d3f9bcad6cebb92b"
+      "chars": 26755,
+      "sha256": "4bf02d0bbffd8daab4d204b0ab44e39641c0e7f2eb33f10916b3ed91ab444191"
     },
     {
       "key": "mathematical_modeling",
@@ -14594,8 +14594,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 23909,
-      "sha256": "fff0da5c1ebff56d895a8bb0c85ef09f49b7ce66c1c6adb7b539d6bdaa1fdc10"
+      "chars": 23858,
+      "sha256": "4016af6d46999875f4a2ca4a3b737949aa5e8ed9754201b8fb71fc8b46c40fd9"
     },
     {
       "key": "measure_theory",
@@ -14620,8 +14620,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16104,
-      "sha256": "72ee71aa095ed02b32fbe361dcc1b75cd688958f1f55bdb2959553fd59483773"
+      "chars": 16056,
+      "sha256": "6941ccdbb89cadbb28a7a81e7ca6199c83be9de6d986634f3158961f07e2add7"
     },
     {
       "key": "mechanical_engineering",
@@ -14641,8 +14641,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25499,
-      "sha256": "527dadc973639b87977eae59efa76921e201f416ee174ffef33868e87ad040a9"
+      "chars": 25448,
+      "sha256": "442b2f6eeaa54103f743c770b37e6d6de76ca0670317736f5c0cd3aa366369dc"
     },
     {
       "key": "mechanistic_interpretability",
@@ -14732,8 +14732,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27461,
-      "sha256": "1dff6f9e4c6b14c2d151cde00254dbd493cee9a23ab28a07b36aa6f98789fedb"
+      "chars": 27410,
+      "sha256": "ede21ab46be36771528791b41ee7ec0a548d590531a3a5250c89342692c9a1e7"
     },
     {
       "key": "media_law",
@@ -14781,8 +14781,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26797,
-      "sha256": "ec2637ff1ee32770dd7f0e7c1e0e55edfb317e4238b63d9438169068c6d86094"
+      "chars": 26746,
+      "sha256": "ee694ff69f13c64caf900e19a50eae02059357135763705107385fe4e670ca6e"
     },
     {
       "key": "mediation_arbitration",
@@ -14893,8 +14893,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22578,
-      "sha256": "94132c09925a6c9579792702ccf4b697f553b35f3ab0a6e16b44bec2de70258d"
+      "chars": 22527,
+      "sha256": "b6e988861e20007279bbfb795cac6c11a7e6a9e58f53097f5dede8877d4368e2"
     },
     {
       "key": "mems_nems",
@@ -15052,8 +15052,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17475,
-      "sha256": "a4067d0e6af529c84cda5eef4b4b3a47899403bd2202e39753b2db2d7a5925be"
+      "chars": 17427,
+      "sha256": "2112e277d4ffb7474d33343f47f70d22102f9f2dff9682134d660bdce2103ad0"
     },
     {
       "key": "meteorology",
@@ -15206,8 +15206,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29852,
-      "sha256": "27a293d9150244f34ff19535039183db19a116c4548d28cb60dd36078f505c33"
+      "chars": 29801,
+      "sha256": "a2647816786c79347fc3879767fb2c95f0cf7b4d52abe90d4784d125e1fc2e7a"
     },
     {
       "key": "military_law",
@@ -15288,8 +15288,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 32611,
-      "sha256": "efa006bcc540d52776e1c56c05f54a742a420355dd86097a9694e63b0bdaad2a"
+      "chars": 32560,
+      "sha256": "f1b7e90dfd216928be8f80cb6ec8f28dd4c0a4c4d4330464ed1d609f38e1ab96"
     },
     {
       "key": "military_tactics",
@@ -15308,8 +15308,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25857,
-      "sha256": "ef94e4f57f858bd02977adc2782d5ad33077963f0b61e8944676d12c163d896a"
+      "chars": 25806,
+      "sha256": "99841cee6e5766b29bcccb2c4a1d4b9a85e4ec89baa060a248b53fca1781d861"
     },
     {
       "key": "mindfulness_meditation",
@@ -15499,8 +15499,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25196,
-      "sha256": "4b6b30c4b96c45dd09f90a07538fcf65bd265751dad6f64012e266fb12d35bde"
+      "chars": 25145,
+      "sha256": "96e023d237f5a87dce9fa514101f82b25c6a8b9ca16ef6b868d9ecbb21ea0b08"
     },
     {
       "key": "monetary_policy",
@@ -15684,8 +15684,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18509,
-      "sha256": "90c69537fa669d61eaf2f19fe61c1e82b2c178779fabe6999b5ba65238f19185"
+      "chars": 18461,
+      "sha256": "3e5f234c76b04f117059d6c47ad64cd62855f63aea65e66e32ac7fb75662ead6"
     },
     {
       "key": "music_production",
@@ -15738,8 +15738,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15739,
-      "sha256": "88f453396aee3aa9596a3d2fdac37ae789c73516b4512b3816610f575b3159da"
+      "chars": 15691,
+      "sha256": "f074f713e83fb82831ab20e6b4c511d553acf0aafc204a3f95b13093433bc7e1"
     },
     {
       "key": "mvp_design",
@@ -15959,8 +15959,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18264,
-      "sha256": "ff9395bc5d732ee98d6437595f5910756c0ec92dd293c035699f52588c185ced"
+      "chars": 18213,
+      "sha256": "bfebb52619b9137aa748f5cc4fd740efd6f42f20ab6a81cb3d65e5a9f9e95a8c"
     },
     {
       "key": "nephrology",
@@ -16174,8 +16174,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19246,
-      "sha256": "e6ec50ab5ba20c2ba0a34ef87d88a4265dec624a4c0b4c9d2def2e2220309198"
+      "chars": 19195,
+      "sha256": "e86dfea8bb1e2025534647d093baaf23defa72e08a8dc8050edfc6f383d92387"
     },
     {
       "key": "nodejs",
@@ -16288,8 +16288,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17153,
-      "sha256": "a69eb27feb90b995bc83086378551370adc925a744e2313798d1b82e93189948"
+      "chars": 17105,
+      "sha256": "58d8ce605b4bbbc2d3e3efba99587262a6d136572c470c1742e65d8c25201d62"
     },
     {
       "key": "numerical_analysis",
@@ -16329,8 +16329,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26691,
-      "sha256": "4aecfdc881e183d239d0ca72669a8ae096dfb0dbe39c819902eaa259936ddff5"
+      "chars": 26640,
+      "sha256": "26fd0849c0f8f8a9608d4f7c544f4cf1b51b7571fa7c743e7fa16f029bf74333"
     },
     {
       "key": "nursing",
@@ -16351,8 +16351,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 27644,
-      "sha256": "8652f7c4f3711c509707c58fb9f37bfdce3737163b7006edfba4b86230ac80e2"
+      "chars": 27593,
+      "sha256": "faa4cdf5df5216ebbebf1052dd87c471b62e18da264e55ec279b2853cdb5a56e"
     },
     {
       "key": "nutrition_medical",
@@ -16399,8 +16399,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15690,
-      "sha256": "a91cf49deb504bd412cbc99c5c8f56183a081c143fed742ebd49ce2a8c4a32f3"
+      "chars": 15642,
+      "sha256": "6080d2ffaa599816750633e6cb1d67de7186f57560786dc9dfee71c1793a1941"
     },
     {
       "key": "nutrition_wellness",
@@ -16545,8 +16545,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 23822,
-      "sha256": "bc8d9cd5b4b3d4cfa6cb09b830ae4a0f4db1120afdc764e7d84af9935c64efa2"
+      "chars": 23771,
+      "sha256": "481004afd99dbca39275ff2cdcb160d1bc90e09230670edccdd0b9490007ebe2"
     },
     {
       "key": "oceanography",
@@ -16572,8 +16572,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16963,
-      "sha256": "08a4e0f22d65b64588bfe82c6ad54b4a146187aa2c5c62822c7cda763db12393"
+      "chars": 16915,
+      "sha256": "5570ff45d8715bdc0b4881ab9bc1656b9856985a36dbbf3f749873e462a4bcf1"
     },
     {
       "key": "okr_goal_systems",
@@ -16688,8 +16688,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17545,
-      "sha256": "15236c75917f96fb6099bb701a4e1fe1650253d8292733e139ba19a43357010c"
+      "chars": 17497,
+      "sha256": "0bd04cfc867d7467d4027e4f99daf2daa59daed2dfbfa3d023c25c346b138025"
     },
     {
       "key": "operations_research",
@@ -16716,8 +16716,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17511,
-      "sha256": "fd15bdd1df6cfaa2e08e03bb7c18f7da0f0af42e36430721e16ace142b06a424"
+      "chars": 17463,
+      "sha256": "c948ded0e217448ad807f8db63d7aa245847917da5038046fa23e9865136c795"
     },
     {
       "key": "operator_algebras",
@@ -16833,8 +16833,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24904,
-      "sha256": "6ae5fa8c08781ea5e5c54006f384d6f1a8786993c7528af013dccb85511d026e"
+      "chars": 24853,
+      "sha256": "25bb7ac0371ad8597c935d81a0d6aea59fea9f8656cea2bcd2bf154b5d3d3e32"
     },
     {
       "key": "orchestration",
@@ -16950,8 +16950,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16652,
-      "sha256": "d7fce5350a78c90e0e2ba226479f2d834ed2ede1ef3cde56d5056b833de20b8c"
+      "chars": 16604,
+      "sha256": "ad3930d496d5a6950a8f5653b47a30a7063f06abe7e9d1f3d7d9e171f2d7d8ff"
     },
     {
       "key": "ornithology",
@@ -17111,8 +17111,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16068,
-      "sha256": "cef9266be81f8dfb6af8631a038c47e2e4519c506ce5a3f72359bcdf8d98c795"
+      "chars": 16020,
+      "sha256": "bdc5eb4cb1e1e94c84d37417fcd53a7ff47bd0934ede304bdb294eadb8443a0a"
     },
     {
       "key": "painting_trades",
@@ -17138,8 +17138,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16015,
-      "sha256": "fef012383ec881189f96858f2abe7dc77070a04b45ce4da749b4a781c7e84b92"
+      "chars": 15967,
+      "sha256": "cf03b8132c00740cfb5ca6e18f295813d02a42eefeb10ee860da8743103bc8dc"
     },
     {
       "key": "paleontology_fossils",
@@ -17159,8 +17159,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22445,
-      "sha256": "cfc5302b3bb4d695d2d47e86acebc4919f3937ce0e48f809976f5fade61728d7"
+      "chars": 22394,
+      "sha256": "891e7d6f9a91de23bc607680d993ae97d72dc393bc10d3989fe8a993d10a7925"
     },
     {
       "key": "palliative_care",
@@ -17547,8 +17547,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19746,
-      "sha256": "e4c716964ff8607c634dd09649df54ac5e5e9e338cca457b9b3b648d20cef6d3"
+      "chars": 19695,
+      "sha256": "9ffa9fa4b56e745ba60357772d51003ad05bbfd0605e4a0c2dec93348cef89c8"
     },
     {
       "key": "pharmacology",
@@ -17806,8 +17806,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16044,
-      "sha256": "0f32beb1a105080338bbf7efb2f516709a2e2aea74613138c12b1caebce7421c"
+      "chars": 15996,
+      "sha256": "08a6b0805c5adf4a333f053936aaa62c41ab6c32af71c7ba253d48bbb08aa632"
     },
     {
       "key": "photojournalism",
@@ -17880,8 +17880,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17062,
-      "sha256": "8815bbdb6d613c4d7901b2aa19bb3ffbcbf016d2f5f249b4e031420ae718a638"
+      "chars": 17014,
+      "sha256": "eb0d565dc789066227867144a44fafa72ff2c0825987be37df110272e1bd6a3c"
     },
     {
       "key": "php",
@@ -18085,8 +18085,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16366,
-      "sha256": "68f4d27188fee4123472bbe4a374fb82bbb19e85c856ce8ffe2c782eaeb8d3ce"
+      "chars": 16318,
+      "sha256": "7fb68aaf901b9120c5e4b24ee5903146de409b9105f94db90c30abb9ff0ad223"
     },
     {
       "key": "physics_waves",
@@ -18113,8 +18113,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15767,
-      "sha256": "c9b75bdf97bb8614aba52d7c552dca2e9ea0dfcb3a2b9d383c0f80f8aa4bd88f"
+      "chars": 15719,
+      "sha256": "deba45c6242c6735d3108fecab27e85c141c6b8596c591b6d553f1bf23c69784"
     },
     {
       "key": "piano",
@@ -18140,8 +18140,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16000,
-      "sha256": "f259ccb265505583778ce56b2001ef6e0767ca29b05168f1cab057212aacc829"
+      "chars": 15952,
+      "sha256": "f949ab451f1417900cb00421471b9f90d8899388fd460d0e8b1bf2273240dd61"
     },
     {
       "key": "pipeline_management",
@@ -18331,8 +18331,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24444,
-      "sha256": "09a5fd8dac14257b1b7c9901cd49cf6cd3106d739f6f52cc0b104e24f37a1b4f"
+      "chars": 24393,
+      "sha256": "a947f358026928ecd99c11e600e2b657583f1e29a2c6f8c542c07e949111a9d4"
     },
     {
       "key": "poetry_poetics",
@@ -18501,8 +18501,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28074,
-      "sha256": "b55f265a30e08a521a2383daf544d795b21119d1a410dab4635c78b31a207f86"
+      "chars": 28023,
+      "sha256": "1ec4bd15cf7415212dff7627dfa1955ed62b94aed53cde5e35634e25760c0054"
     },
     {
       "key": "poultry_science",
@@ -18591,8 +18591,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17738,
-      "sha256": "750938d3f8cc8f5cf0ab1ca80420fefd01fa4f948feeb72055613311949c446f"
+      "chars": 17690,
+      "sha256": "efb6df0e9774a4e314f87a428dd030134f0d6106ce8a912b7bc382ed7cb3895a"
     },
     {
       "key": "precision_agriculture",
@@ -18678,8 +18678,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16476,
-      "sha256": "91c7e59c634c5912a896f9d0088ab86047015e0615187fe7b6f4f93b98bb44b5"
+      "chars": 16428,
+      "sha256": "df046d8ee984fa671edc339915a3188929c93ee9478a5740b7d0bdb7dc707d4e"
     },
     {
       "key": "price_elasticity_analysis",
@@ -18816,8 +18816,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16016,
-      "sha256": "850dbe6bb7153d1f5651cd94f6124073da7009be6c70e4dedf1617a9a64e4efc"
+      "chars": 15968,
+      "sha256": "81c6c502f30792051aa3754146040611de050bc265dbabae844022d987441653"
     },
     {
       "key": "probability",
@@ -19101,8 +19101,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28322,
-      "sha256": "bea58b17ee68001f5c4223d682f069280f97fbde8e07c84e61c6dbce0ff584bc"
+      "chars": 28271,
+      "sha256": "c0bcd8a0967c7a09197652c1596378401841800c1860da823c0af1653b5aa695"
     },
     {
       "key": "prompt_design_for_revenue_teams",
@@ -19157,8 +19157,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16144,
-      "sha256": "1e7495bbc1f9d333886860acc45388605be160aa541efcdda3fb8af384e191d4"
+      "chars": 16096,
+      "sha256": "e001e270327ba33a5ec3c25c22539d48ef6581d648f73369863b97e2f45c7d4e"
     },
     {
       "key": "prompt_engineering_for_sales",
@@ -19199,8 +19199,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25742,
-      "sha256": "771b2f9c3643c7ec7d507a61b079fc6bef1b7b8c34428c56ebc373aa1b848c30"
+      "chars": 25691,
+      "sha256": "641514abaa889551df9caadf7c7229f950cb9946121c05f1c06b35b8ef829cf1"
     },
     {
       "key": "property_management",
@@ -19316,8 +19316,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29155,
-      "sha256": "55ceda088fb8d090f5cc8ca2adb117bc4dadfaa610f8bfc6ac22c32f69f9a5e9"
+      "chars": 29104,
+      "sha256": "95c17905dd30be34a696782c60ff81646c492fd7a3c23c1d09402622d1d6462c"
     },
     {
       "key": "psycholinguistics",
@@ -19643,8 +19643,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16019,
-      "sha256": "dc77fb912ce79739c7e94a8ca22d1b723265916c78c7f3bca523cd9add8a3b8a"
+      "chars": 15971,
+      "sha256": "b48e437f10aec118f2d52ee9148f0580b07c22f0b68956ac28d918ae1cc16e46"
     },
     {
       "key": "quantum_error_correction",
@@ -19669,8 +19669,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16379,
-      "sha256": "64e376a60ab528be78c53f085e4b4b4d85d706a1cdf4e8367efd6946b504e3e8"
+      "chars": 16331,
+      "sha256": "7d5e4ffc5a14e9449cea4c129a0da68799c24870ea5bf26def9803ecfd20064d"
     },
     {
       "key": "quantum_field_theory",
@@ -19757,8 +19757,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 23889,
-      "sha256": "4e0475a7f37d9e81f0543c1fa945b6600e2df58ca79b9dce2bbebff540f1f4c3"
+      "chars": 23838,
+      "sha256": "05798d0b4b89f578004edf5f4451e3488893d36fa8e95e6e516800b5e8099e14"
     },
     {
       "key": "quantum_mechanics",
@@ -19783,8 +19783,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18470,
-      "sha256": "610bdbb844b1612c122e345355b8eb49bb98edb374580305cbfcb8c8492d1d33"
+      "chars": 18422,
+      "sha256": "7e32361a4c126531b89046b6feee10ee646c96eecac6a74b6f428f075291f4db"
     },
     {
       "key": "quantum_optics",
@@ -19832,8 +19832,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17543,
-      "sha256": "d14d52fa1d9f5ed52ff72109897701dbbdf27b2907163014d81dfc4cec4a0629"
+      "chars": 17495,
+      "sha256": "3d1003fbf8a34cac4bed44df13b224ed573ba6f537b721ca7a1862a6cf0af689"
     },
     {
       "key": "radiogenomics",
@@ -19977,8 +19977,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25962,
-      "sha256": "8206830eb8793c77511c4ba9e6b50ac32e4a776ede5cb7a814ec7fb5a13e36bb"
+      "chars": 25911,
+      "sha256": "4e9018b108fef1046f65968f4f682e7b1ff488a573419f096aeee54b19e6a9cb"
     },
     {
       "key": "real_analysis",
@@ -19998,8 +19998,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28170,
-      "sha256": "7a049a12ad7b6f6e3273ed5d360d285783f9c2ddaa2baff4b388a176e373ac99"
+      "chars": 28119,
+      "sha256": "e97c278cff0ec703c2c2cd892144a26bff4111e0965d4c8ccf9e2f7047c187f0"
     },
     {
       "key": "real_estate",
@@ -20294,8 +20294,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15785,
-      "sha256": "54cd65a6f5c26f7ff2eb9a32c918aa5302c0a0a0b2c914dac2e3c708a3005069"
+      "chars": 15737,
+      "sha256": "807a705419f9345bf34e47a73915d0860f01544fde57d854ec97aa132c37ab19"
     },
     {
       "key": "rehabilitation",
@@ -20437,8 +20437,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 34727,
-      "sha256": "5eb78844ccba52fa168c2db9f26fd0f3d40a173f8566751223fb9cb1ab74ca8c"
+      "chars": 34676,
+      "sha256": "89bb754feb95e6cfaa2877e263fc951902489925601a4337b72c7ce648a6065d"
     },
     {
       "key": "renaissance_studies",
@@ -20464,8 +20464,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 18341,
-      "sha256": "c35d3295c2ffc9f571815e65e4c29d1f88a77db610c49892c933f7a25bade4f1"
+      "chars": 18293,
+      "sha256": "4bd0301650dd7ac825f711b664b2c4f56ec1dd0bade45e7a6127f65a28770d92"
     },
     {
       "key": "renewable_energy",
@@ -20591,8 +20591,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20861,
-      "sha256": "76af4b444956bb11864784663cd60efa617dea387bddf119c51deab5fb017a1b"
+      "chars": 20810,
+      "sha256": "17b83f24ea2818790bbb4a96fe6f96405f49d465797850132e4def2244f795e3"
     },
     {
       "key": "restaurant_management",
@@ -20745,8 +20745,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17233,
-      "sha256": "7472313bc140f7285d9fcd31d04e3fe998c167a0a17a39b735197ffa6241bcbc"
+      "chars": 17185,
+      "sha256": "b7ecbf73ef4db97439bf6cc7c4feab30d1a4409917eb2191d66d0933867da619"
     },
     {
       "key": "risk_management",
@@ -20766,8 +20766,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16693,
-      "sha256": "e2fd62a0f04da41320fee103824805c59674b7a79b894520d1aba05a510e8dc2"
+      "chars": 16645,
+      "sha256": "c3136d360f0c52926450caf64a5486a964fd4f5bd406b8bda5e0e68bf1f44666"
     },
     {
       "key": "robotics_engineering",
@@ -20848,8 +20848,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16363,
-      "sha256": "0b885fe7cd1a60cb7af7e145fc2d353dcd3d3b3bd8956c942d7ae94e33614ba1"
+      "chars": 16315,
+      "sha256": "691949e38141f9def1329458a2d13b62488866c2f0d00a6c18ecbddd5363a51d"
     },
     {
       "key": "roman_civilization",
@@ -20869,8 +20869,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19285,
-      "sha256": "8ec3833d989b597b5d486aee9574e966f23400934bf249719e70f9322398f817"
+      "chars": 19234,
+      "sha256": "bba04077e9ab051ee59307df602260080ebf13d23c083cc9ac7aa0389cc9b0de"
     },
     {
       "key": "roofing",
@@ -20923,8 +20923,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15705,
-      "sha256": "998ad3ad3dfd46d0339f79609c28fd683a0245b0e6c7cc4aba339697e3737272"
+      "chars": 15657,
+      "sha256": "e4581ebd8a47c63f0f5b255637bc0a411c6e69e513241cd35ad92f7c14054d4f"
     },
     {
       "key": "russian",
@@ -20950,8 +20950,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15978,
-      "sha256": "c48a6db281069700e069e364c53cd0238ed1ada4c3891e19c7a444e7a9a83e27"
+      "chars": 15930,
+      "sha256": "ec756ea6564d5ee1b0c1aa1ccdb670d0e4481e379b8a66b5fa718bc900b2f026"
     },
     {
       "key": "rust",
@@ -20978,8 +20978,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16009,
-      "sha256": "01cede5839c484ab853d051d0aa282f04d4b084e0aa69d31cd8c1bbc8bfd5b30"
+      "chars": 15961,
+      "sha256": "a53790df74218500116b672e05e828d1dbecd2dab0e4374c9729ff6b1fe40235"
     },
     {
       "key": "saas_metrics",
@@ -21074,8 +21074,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26597,
-      "sha256": "f5541678ff255da9882af3f8a1889c2e018b59448b3c82d529fcf57712ba36f7"
+      "chars": 26546,
+      "sha256": "3b831e5e1618c79c74020dff93ccccc6dc4ba4809966acf9a75728d6008215f8"
     },
     {
       "key": "sales_negotiation_tactics",
@@ -21122,8 +21122,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15665,
-      "sha256": "fd9494e3b1c8815cb182757102f0a89656628df9ce19d54124d9bde57e557e1b"
+      "chars": 15614,
+      "sha256": "1da76dc4115d2e77d6db03c05d25ab9945b7eb414d283f3f1b55c0bfce38e0e1"
     },
     {
       "key": "sales_scripting",
@@ -21235,8 +21235,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 24792,
-      "sha256": "b53767c396dfc5dbc34d5689edb0710c1b710ed84dba5af6f7a48a62eef71593"
+      "chars": 24741,
+      "sha256": "18e2d01dbe8d23a2de53c6162b6d8db2b8d13106814c85ecdb314b302fa220ab"
     },
     {
       "key": "sculpture",
@@ -21393,8 +21393,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16190,
-      "sha256": "a20ce536aef34db0273c5e4fe6dd407e5f34b61c3e9d3bf25becef15ebfadd41"
+      "chars": 16142,
+      "sha256": "9e54e95fde8407f449fdb2cdc661a8c128e2c329efbaf62a1fe3dcdca9dafb0a"
     },
     {
       "key": "seo",
@@ -21420,8 +21420,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16053,
-      "sha256": "6ab6f78233d456355f054f146688074914d57634975cd260d6e76e8a5bb2eb0b"
+      "chars": 16005,
+      "sha256": "d13bffd7bec2201dadf404f405c42fb28f37396f52486f67c700175839d34e15"
     },
     {
       "key": "set_theory",
@@ -21545,8 +21545,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17794,
-      "sha256": "e4d6fad4e556a8078f06cb36e87842e9b41b9aa1469c541212a60446b5aa5ec5"
+      "chars": 17743,
+      "sha256": "1e9175acd2010b0cc0165e6d76e738c401cc386d2a13f04cedfb64c2ddc54c95"
     },
     {
       "key": "single_cell_genomics",
@@ -21989,8 +21989,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29020,
-      "sha256": "d6fbe62d6120201624eedc8f4c6d674a3309ca8db9237c11a230f936794fab81"
+      "chars": 28969,
+      "sha256": "ddd1b2969c2ca34e9a61115c329da94729ff0c45cb2a40ad9f078c70ec8edff9"
     },
     {
       "key": "space_systems_engineering",
@@ -22132,8 +22132,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20937,
-      "sha256": "0db495a1d782bf554b42a4d626e1af7e0e6cad1ef7e7366d6876088d9d0cb6d5"
+      "chars": 20886,
+      "sha256": "d5776176d29322fa429675b1fbf30e1e5c462dfcb12f99a3d3cfce807b50b627"
     },
     {
       "key": "speed_reading",
@@ -22159,8 +22159,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16407,
-      "sha256": "9be6966aa1a2943960aa42e50b31bb859bc52197a6bf3c4bfa3b89131378b1bb"
+      "chars": 16359,
+      "sha256": "275eb3b937e937627d9cc64b779d9664a370dff89a6c5dd99e610b96486273c1"
     },
     {
       "key": "spiking_neural_networks",
@@ -22347,8 +22347,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 31047,
-      "sha256": "1733b842e7fb4d6340fb69f1055d8774edab2cb6963943b2e8d5671be4fbf09e"
+      "chars": 30996,
+      "sha256": "962247c9b06b7d00a3d28bb8a0e3128b9bcdc5bda90517a4cafdb3f5b2590f0d"
     },
     {
       "key": "sports_nutrition",
@@ -22374,8 +22374,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25884,
-      "sha256": "0eb0146c5a804d9727fc9cb4ffb5a39a3f17aa655eb6a485dfde0971501d8a9f"
+      "chars": 25833,
+      "sha256": "3f0c06b1f62008b56144892a1c51c1283399612d76a9efa4afd3f9ab0876a979"
     },
     {
       "key": "sports_psychology",
@@ -22490,8 +22490,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 30032,
-      "sha256": "507a9186bdb4388301fecf916523b8b1aaff91028b69a33d5237f2ab6696fea3"
+      "chars": 29981,
+      "sha256": "dc922561d7d6c929e5d77bedaaa6e55c982c33b009fca883730e956ca1fe1439"
     },
     {
       "key": "statistics",
@@ -22546,8 +22546,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 36991,
-      "sha256": "9308ca21adbcf023b539ed938b761c3aad776e2db0343feddbc4f83e1b2da6f2"
+      "chars": 36943,
+      "sha256": "30107c5aa18f7686fdfc207707ca509d702e913fea5c28c8c17b3970e246b1ed"
     },
     {
       "key": "stochastic_analysis",
@@ -22566,8 +22566,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 29693,
-      "sha256": "ca837fb53fb446ff6aff5e1a84e4a4cb4eb6598a1f26a2f9262c2d15ed82e273"
+      "chars": 29642,
+      "sha256": "e16de63330c81cefcee703ad5b6e91edf44b911379ad5e18ce55fb9b1abc1c89"
     },
     {
       "key": "stock_market",
@@ -22622,8 +22622,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15937,
-      "sha256": "ac0e9da8171b5dcd431992c267365f411c63122dd9bc6a2214160c81ac400955"
+      "chars": 15889,
+      "sha256": "3dc9c4c89a471502a1cc61d7d4773764b5ffa670b9717cfe695fbb55ddd248e7"
     },
     {
       "key": "strategic_intelligence",
@@ -22692,8 +22692,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15857,
-      "sha256": "50129487e2d85428a5fbf5bc1d1ec843ea681604db7aad15dd7f8c2d9f4a4850"
+      "chars": 15809,
+      "sha256": "fcd8f9ed8630642fa3214ac4069b5db79aaf6e64be8e8dc5153a6c90c2bf8803"
     },
     {
       "key": "stress_management",
@@ -22720,8 +22720,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17327,
-      "sha256": "62fa90361d5db89ea860b5b368cfad543585f36229bdeab79577d8772030b117"
+      "chars": 17279,
+      "sha256": "cb13d59d12a5065c3d2963ca2839bd8e2fb12511578de1e5126d968c410972e3"
     },
     {
       "key": "string_theory",
@@ -22768,8 +22768,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 28228,
-      "sha256": "e4a87f6c2334ddfedef75bbcf95e484936c033eb1ce6031fa3d357b805b9fa86"
+      "chars": 28177,
+      "sha256": "79e6d20ecfac7061faabb9bf49ee2b3a2316f189bd6b1ce260657c8a6bdb4015"
     },
     {
       "key": "structural_engineering",
@@ -23170,8 +23170,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16558,
-      "sha256": "ffeb06bcbbe9694818886a686d26061336b8afb6838669fb38c3aab5f5237039"
+      "chars": 16510,
+      "sha256": "79efefe3c76f7218dae8724da80ddb0c039344dc53f38be5188fa30f01388f9b"
     },
     {
       "key": "swift",
@@ -23261,8 +23261,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 26090,
-      "sha256": "5c585c9759993ed37b9ebb5e19f6ea45d6ccec542b9183612f41e79b3e52902f"
+      "chars": 26039,
+      "sha256": "7168fdc108eef17115332821487f2fc71a0c8ea9519b167feba113143277ae68"
     },
     {
       "key": "system_design",
@@ -23770,8 +23770,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22837,
-      "sha256": "b9c672f45b6fbfe03526177d61b978c977cfaf50d061f6c6ba3e91f073eab85d"
+      "chars": 22786,
+      "sha256": "4d9f7cfcd3afcacf672a323613cd5140128c5b566e321e1e8c45f613d7bd46e5"
     },
     {
       "key": "tissue_engineering",
@@ -23818,8 +23818,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22162,
-      "sha256": "9df5053444b382d41259b5e0ccf0483e05406d60dccb6227ab77dc6ed1867c6f"
+      "chars": 22111,
+      "sha256": "ad5a5b163c64080fb1c97da90b82afdfa7dd3a64c0102af628929736383758ca"
     },
     {
       "key": "tonality_and_voice",
@@ -24058,8 +24058,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17265,
-      "sha256": "570f6d2ec2acd81182e46e687c7e8510638967a1ac4172131308ec1e9e122f30"
+      "chars": 17217,
+      "sha256": "4c6423123c9ee4643a99229e1986469b4e8a40dd103738eca313091c88639571"
     },
     {
       "key": "transportation_management",
@@ -24154,8 +24154,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16009,
-      "sha256": "2d463a76aa2fb9d74adaeab6be95984e278730300e859aef813785070080e002"
+      "chars": 15961,
+      "sha256": "57506f884485658b274070289bc310162ef02076b3e703bfcbe554df68944f73"
     },
     {
       "key": "tropical_geometry",
@@ -24201,8 +24201,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16146,
-      "sha256": "9684e6f32466e3d316a9fbeebcd4a01163cc2112d4731b8eeadcb94804af4063"
+      "chars": 16098,
+      "sha256": "16125511f97c20994a3ffad340d2dc02358fbfb07b1b512cb735e13655cbd14c"
     },
     {
       "key": "type_theory",
@@ -24224,8 +24224,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 19226,
-      "sha256": "72df6199b515de8ffeda20de1136ad3857575a650d250a83390d0dd795073378"
+      "chars": 19175,
+      "sha256": "263aa234649a3764f5a23fba733b1cdef461ac72abb9cc0da95e650ed3cb5eda"
     },
     {
       "key": "typescript",
@@ -24251,8 +24251,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16158,
-      "sha256": "1af3b1ea1cfa0efeb240054e3611c17b32dc81eea128a2a2b67c78bf42f607d6"
+      "chars": 16110,
+      "sha256": "5b6adbe608cbd077c0768605357788d302936f7ec32156a3449ddf79bcd1aaa2"
     },
     {
       "key": "typography",
@@ -24332,8 +24332,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 22929,
-      "sha256": "380b8d836a5b26786424b4566f4f1d9d2dd07707f9a57490d5d770ead64340ae"
+      "chars": 22878,
+      "sha256": "8745a9a47e2a1ed0f031c876a3121596520fbbfac0ae6d95b5515c23468b9838"
     },
     {
       "key": "unmanned_aerial_systems",
@@ -24441,8 +24441,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15923,
-      "sha256": "218a436058ecc63a80e8d910e6cb546ded5f67a7a7fb2ceb2dcb901b3251e364"
+      "chars": 15875,
+      "sha256": "d3247fadce7d3db035391045d4222afa80f1a191c8af38e83512a08265ef3a15"
     },
     {
       "key": "urban_sustainability",
@@ -24683,8 +24683,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25922,
-      "sha256": "5d8e96567460b521c0bec7bbd9d1628a413c19797c2159d04daed0f218446295"
+      "chars": 25871,
+      "sha256": "256c747449cd2daead91ba540b1c4aa15d2350640a77838300dc075c98dbf7ec"
     },
     {
       "key": "veterinary_technician",
@@ -24788,8 +24788,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 17958,
-      "sha256": "7401eb945cdfe15d6f441e29b4642fc2b20b3cf285b7a3b5ee6dd2e78bcab072"
+      "chars": 17910,
+      "sha256": "db1d51626a62aee8aad34d66f83a1914d2fd73f003bdd172e7d8624cd6c33d86"
     },
     {
       "key": "virology",
@@ -24952,8 +24952,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 25161,
-      "sha256": "1d303119fa8ecc7ff0e5bb23926a813d8295dc6407ce4bb9bd43b8a8afecf2a4"
+      "chars": 25110,
+      "sha256": "6a553fa2fb6f36da6ac8dd9c45474b7aca1a29d9cd050f00480acffbd4e82b91"
     },
     {
       "key": "waste_management",
@@ -25002,8 +25002,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 16552,
-      "sha256": "06585ad1cd09ab88ef31b351bf27ffc9d5538921048a43f58464df2fa08e17e1"
+      "chars": 16504,
+      "sha256": "40b3aead167c7d0c61b4fcdd143e5f0c7515b800b92f4b9317332616ec27ad82"
     },
     {
       "key": "water_treatment",
@@ -25023,8 +25023,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15808,
-      "sha256": "3f580f881de555ce7aed3ec55bdff61a543e2d7932198fd979f0546fd89e8a9e"
+      "chars": 15760,
+      "sha256": "8e74b59a387c02b55156d84b51e041d720d014e49dc1644f68f99078ea19e91d"
     },
     {
       "key": "wealth_management",
@@ -25121,8 +25121,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 20089,
-      "sha256": "05521ff9b59192610eeb290de1846be7a8600e87de7b13bbe85b7db2c5b77b1c"
+      "chars": 20038,
+      "sha256": "94b63fcfbe59fa346dd93e112183dc84652af52212c283da4a9769e8744838ba"
     },
     {
       "key": "webhook_architecture",
@@ -25259,8 +25259,8 @@
         "COMMON ERRORS",
         "ADVANCED"
       ],
-      "chars": 15873,
-      "sha256": "57916824317378b318c42c6647a08b794e6855dbb0baa8fd1df009b775ff91b5"
+      "chars": 15825,
+      "sha256": "51d20382568face2bf91790d59ccc5808714234439cdaf3e9b863ccf8461ae1c"
     },
     {
       "key": "wine_viticulture_enology",

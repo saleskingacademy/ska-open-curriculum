@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Military Strategy
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Classical Theory
 
 Sun Tzu (Art of War: know yourself and enemy, deception, terrain, winning without fighting). Clausewitz (On War: war as politics by other means, fog of war, friction, center of gravity, culminating point). Jomini (interior/exterior lines, concentration of force). PRINCIPLES OF WAR: Objective, offensive, mass, economy of force, maneuver, unity of command, security, surprise, simplicity. MODERN DOCTRINE: AirLand Battle, maneuver warfare, effects-based operations. COIN (counterinsurgency: protect population, political solution). Multi-domain operations (land, sea, air, space, cyber). LEVELS OF WAR: Strategic (national/theater objectives), operational (campaigns, major operations), tactical (battles, engagements). NUCLEAR STRATEGY: Deterrence, mutually assured destruction (MAD), second-strike capability. Escalation ladder (Kahn). Arms control: NPT, START treaties.

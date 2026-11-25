@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Food Beverage Management
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Food and Beverage Management (FBM) is the strategic oversight and operational control of all activities related to the procurement, production, service, and profitability of food and beverage offerings within hospitality enterprises. It integrates principles from supply chain logistics, culinary arts, service management, financial accounting, and marketing to optimize guest satisfaction and enterprise profitability. Core first principles include:  

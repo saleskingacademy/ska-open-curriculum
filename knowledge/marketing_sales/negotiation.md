@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Negotiation
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Overview
 
 NEGOTIATION — COMPLETE CURRICULUM

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Transportation Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Transportation engineering is the discipline focused on the planning, design, operation, and management of transportation systems to ensure safe, efficient, sustainable movement of people and goods. Rooted in civil engineering, it integrates principles from traffic flow theory, infrastructure design, human factors, and systems optimization. The core first principles include conservation of flow (vehicles, passengers), capacity constraints, demand modeling, and safety analysis. Transportation systems are modeled as networks with nodes (intersections, terminals) and links (roads, rails), governed by fundamental relationships such as the fundamental diagram of traffic flow (relating speed, flow, and density), and queuing theory for delay estimation. The discipline balances mobility, accessibility, environmental impact, and economic cost, leveraging quantitative methods for design and policy.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Quantum Mechanics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Quantum mechanics is the fundamental theoretical framework describing physical phenomena at atomic and subatomic scales, where classical mechanics fails. It postulates that physical systems are represented by state vectors \(|\psi\rangle\) in a complex Hilbert space \(\mathcal{H}\), evolving unitarily via the Schrödinger equation \(i\hbar \frac{\partial}{\partial t}|\psi(t)\rangle = \hat{H}|\psi(t)\rangle\), where \(\hat{H}\) is the Hermitian Hamiltonian operator encoding total energy. Observables correspond to self-adjoint operators \(\hat{A}\) on \(\mathcal{H}\), with measurement outcomes given by eigenvalues \(a_n\) and probabilities \(|\langle a_n|\psi\rangle|^2\). The theory is inherently probabilistic and non-deterministic, incorporating wave-particle duality, superposition, and entanglement as core principles. The canonical commutation relations \([\hat{x}, \hat{p}] = i\hbar\) embody the uncertainty principle, limiting simultaneous knowledge of conjugate variables.

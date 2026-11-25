@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Quantum Thermodynamics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Quantum thermodynamics (QTD) is the study of thermodynamic laws and phenomena within quantum systems, integrating quantum mechanics with statistical mechanics to describe energy, entropy, and information flow at the nanoscale and beyond. It extends classical thermodynamics by accounting for quantum coherence, entanglement, and discrete energy spectra, challenging classical notions such as work, heat, and irreversibility. The core principles rest on the density operator \(\rho\), unitary and non-unitary quantum dynamics, and the von Neumann entropy \(S(\rho) = -\mathrm{Tr}(\rho \log \rho)\), which generalizes classical entropy. Central to QTD is the reconciliation of the second law with quantum fluctuations and the emergence of thermalization from unitary evolution, often formalized via open quantum systems and completely positive trace-preserving (CPTP) maps.

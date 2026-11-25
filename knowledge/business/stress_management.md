@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Stress Management
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Stress management is the systematic application of cognitive, behavioral, and physiological strategies to regulate the psychophysiological response to external or internal stressors, thereby optimizing homeostasis and functional capacity. At its core, stress is a multidimensional construct involving the hypothalamic-pituitary-adrenal (HPA) axis activation, sympathetic nervous system arousal, and subsequent cortisol release, which modulates energy mobilization and neuroplasticity. Effective stress management requires understanding the transactional model of stress (Lazarus & Folkman, 1984), which posits that stress arises from the appraisal of environmental demands exceeding perceived coping resources. Thus, interventions target either the stressor, appraisal, or response components to restore equilibrium and prevent maladaptive allostatic load.

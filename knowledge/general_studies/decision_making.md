@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Decision Making
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Decision making is the cognitive process of selecting a course of action from multiple alternatives based on preferences, beliefs, and available information. At its core, decision making involves evaluating uncertain outcomes to maximize utility or achieve predefined objectives. The foundational principles derive from expected utility theory (von Neumann & Morgenstern, 1944), Bayesian inference for updating beliefs, and bounded rationality (Simon, 1957), which recognizes cognitive and informational constraints. Decisions can be normative (how decisions should be made optimally), descriptive (how decisions are actually made), or prescriptive (how to improve decision making). Key dimensions include risk (known probabilities), uncertainty (unknown probabilities), time preference (discounting future outcomes), and multi-criteria trade-offs.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Database Design
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Database design is the systematic process of structuring data according to a conceptual model to optimize storage, retrieval, integrity, and scalability within a Database Management System (DBMS). At its core, it involves translating real-world entities and relationships into a formal schema that supports efficient querying and transactional consistency. The foundational principles include data abstraction (external, conceptual, internal levels), normalization (to eliminate redundancy and anomalies), and integrity constraints (entity, referential, domain). The design must balance normalization with denormalization trade-offs, indexing strategies, and physical storage considerations to meet performance and maintainability goals.

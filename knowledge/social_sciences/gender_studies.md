@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Gender Studies
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Gender Studies is an interdisciplinary field analyzing how gender identities, roles, and relations are socially constructed, performed, and institutionalized across cultures and historical periods. Rooted in feminist theory, queer theory, and critical race studies, it interrogates the power dynamics embedded in gender norms and their intersections with race, class, sexuality, and ability. Core principles include the social construction of gender (Judith Butler’s performativity), intersectionality (Kimberlé Crenshaw), and the critique of binary gender systems. The field employs qualitative and quantitative methodologies to deconstruct normative assumptions and reveal mechanisms of gendered oppression and resistance.

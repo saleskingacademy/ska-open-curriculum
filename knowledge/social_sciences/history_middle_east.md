@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History Middle East
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Historical Context
 
 Major events, causes, and consequences in History Middle East. Timeline of key developments. Primary source analysis. FIGURES: Key historical actors, their motivations, decisions, and impact. Multiple perspectives on contested events. ANALYSIS: Political, economic, social, and cultural factors. Long-term consequences and legacy. Historiographical debates and competing interpretations. CONNECTIONS: Links to broader global trends, comparative analysis with similar events/periods.

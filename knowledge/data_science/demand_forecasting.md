@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Demand Forecasting
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Demand forecasting is the quantitative and qualitative process of estimating future customer demand for a product or service over a specified time horizon, leveraging historical data, market intelligence, and statistical or machine learning models. Rooted in the first principles of time series analysis, causal inference, and behavioral economics, demand forecasting aims to minimize forecast error and optimize inventory, capacity planning, and supply chain decisions. The fundamental challenge is to model the underlying demand-generating process, which is often non-stationary, noisy, and influenced by exogenous variables such as price, promotions, seasonality, and macroeconomic factors. Accurate demand forecasts enable firms to reduce stockouts, minimize holding costs, and improve customer satisfaction, directly impacting revenue and operational efficiency.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Screenwriting
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Screenwriting is the craft of constructing a cinematic narrative through a written script that delineates dialogue, action, character, and scene direction. At its core, it translates story into a blueprint for visual storytelling, balancing economy of language with dramatic impact. The first principles rest on the triad of Structure, Character, and Conflict: Structure organizes narrative progression; Character drives motivation and emotional resonance; Conflict generates tension and stakes. Screenplays are formatted to industry standards—Courier 12-point font, approximately one page per minute of screen time—enabling clear communication among directors, actors, and production teams. The screenplay’s primary function is to serve as a production document while simultaneously engaging readers as a compelling story.

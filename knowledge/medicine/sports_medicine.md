@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Sports Medicine
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Sports medicine is a multidisciplinary field focused on the prevention, diagnosis, treatment, and rehabilitation of injuries and illnesses related to athletic activity and physical exercise. It integrates principles from orthopedics, exercise physiology, biomechanics, nutrition, psychology, and pharmacology to optimize athlete health and performance. Core first principles include understanding tissue healing phases (inflammatory, proliferative, remodeling), the kinetic chain concept, energy system specificity (ATP-PCr, glycolytic, oxidative), and load management to balance training stress and recovery. The field demands evidence-based application of clinical assessment tools, biomechanical analysis, and individualized intervention protocols tailored to sport-specific demands.

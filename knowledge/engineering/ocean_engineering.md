@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Ocean Engineering
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Ocean engineering is the multidisciplinary application of engineering principles to the analysis, design, construction, and operation of systems operating within the marine environment. Its first principles dictate that any marine system must withstand a highly corrosive, stochastic, and dynamic fluid medium. The core governing physics couple fluid-structure-soil interactions under hydrostatic and hydrodynamic forces. Key governing equations include the Navier-Stokes equations for fluid flow, potential flow theory for wave-structure interaction, and the equations of motion for rigid/flexible floating bodies subjected to wind, wave, current, and ice loads.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Loop Quantum Gravity
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Loop Quantum Gravity (LQG) is a non-perturbative, background-independent approach to quantum gravity that seeks to reconcile General Relativity (GR) with Quantum Mechanics (QM) by quantizing spacetime geometry itself. It is grounded in the canonical quantization of GR reformulated in terms of Ashtekar variables—an SU(2) gauge connection \( A^i_a \) and its conjugate densitized triad \( E^a_i \). The fundamental premise is that spacetime is discrete at the Planck scale (\( \ell_P = \sqrt{\hbar G / c^3} \approx 1.616 \times 10^{-35} \) m), with geometry quantized into spin networks whose edges carry quanta of area and nodes quanta of volume. LQG eschews any fixed background metric, treating geometry dynamically and quantum mechanically from first principles.

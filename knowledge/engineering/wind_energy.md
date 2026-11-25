@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Wind Energy
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Wind energy is the conversion of kinetic energy from atmospheric airflows into usable mechanical or electrical energy. Fundamentally, it exploits the principle that moving air masses possess momentum and kinetic energy proportional to their mass flow rate and velocity squared (E_k = ½ m v²). The core physical framework rests on fluid dynamics and energy conversion laws, particularly Betz’s Law, which states that no wind turbine can capture more than 59.3% of the kinetic energy in wind. Wind energy systems harness this energy via aerodynamic rotor blades that induce torque on a shaft connected to a generator, converting mechanical power into electricity. The power available in wind per unit area is given by P = ½ ρ A v³, where ρ is air density (~1.225 kg/m³ at sea level), A is the swept rotor area (πr²), and v is wind velocity. This cubic dependence on velocity underscores the critical importance of siting and wind resource assessment.

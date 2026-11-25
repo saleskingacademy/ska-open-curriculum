@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Speed Reading
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Speed reading is the systematic enhancement of reading velocity while maintaining or improving comprehension and retention. Rooted in cognitive psychology, it leverages the optimization of eye movements, perceptual span, and linguistic processing to transcend the average adult reading speed (~200-300 wpm). The core principle is minimizing subvocalization and regressions (backward eye movements) while maximizing chunking and previewing strategies. Speed reading is not mere skimming; it is a calibrated balance between rapid visual intake and semantic integration, grounded in the neurophysiology of the visual cortex and working memory constraints (Miller’s Law: 7±2 chunks). Effective speed reading exploits the perceptual span—typically 7-9 characters left and 15-20 characters right of fixation in English—by training the reader to expand this window and reduce fixation duration (~200-250 ms per fixation in average readers).

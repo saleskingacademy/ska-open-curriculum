@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Roman Civilization
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Founding To Republic (753-27 Bce)
 
 Legendary founding by Romulus (753 BCE). Etruscan kings expelled (509 BCE). Republic: Senate + consuls + tribunes. Twelve Tables (450 BCE) — first written Roman law. PUNIC WARS: vs Carthage. First (264-241 — Sicily). Second (218-201 — Hannibal crosses Alps with elephants, Cannae disaster, Scipio Africanus wins at Zama). Third (149-146 — Carthage destroyed, salted). EXPANSION: Greece (146 BCE), Gaul (58-50 BCE, Caesar), Egypt (30 BCE), Britain (43 CE). Peak territory 117 CE under Trajan — 5M km², 70M people. ENGINEERING: Roads (80,000+ km, lasted 2000 years), aqueducts (11 serving Rome, 500km+ total), concrete (opus caementicium — Pantheon dome still largest unreinforced concrete dome), Colosseum (50,000 capacity), sewers (Cloaca Maxima). LAW: Ius civile, ius gentium, ius naturale. Jurisprudence (Gaius, Ulpian, Justinian's Corpus Juris Civilis 529 CE — foundation of Western legal systems). EMPIRE (27 BCE-476 CE): Augustus (Pax Romana), Nero, Trajan, Hadrian, Marcus Aurelius. Crisis of Third Century. Constantine (Christianity legalized 313, Constantinople 330). Theodosius (Christianity state religion 380). FALL: Multiple causes — economic (inflation, taxation), military (Germanic invasions, Visigoths sack Rome 410, Vandals 455), political (corruption, civil wars), social (population decline, plagues). Last Western emperor Romulus Augustulus deposed 476 CE. Eastern Empire (Byzantine) continues to 1453.

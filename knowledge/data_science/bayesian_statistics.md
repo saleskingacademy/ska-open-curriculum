@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Bayesian Statistics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Bayesian statistics is a paradigm of statistical inference grounded in Bayes’ theorem, which updates the probability estimate for a hypothesis as additional evidence is acquired. Formally, for hypothesis \(H\) and data \(D\), the posterior distribution is  

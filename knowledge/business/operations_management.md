@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Operations Management
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Operations Management (OM) is the systematic design, execution, and control of processes that transform inputs (materials, labor, capital, information) into finished goods and services, optimizing efficiency, quality, and responsiveness to meet organizational objectives. Rooted in the principles of systems theory, queuing theory, and statistical process control, OM integrates capacity planning, supply chain coordination, inventory control, and continuous improvement to balance cost, quality, speed, and flexibility. The core first principles include:  

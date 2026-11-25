@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Number Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Number theory is the branch of pure mathematics devoted to the properties and relationships of integers (ℤ). At its core lies the study of divisibility, prime numbers, congruences, and the structure of the integers under addition and multiplication. The fundamental theorem of arithmetic states that every integer greater than 1 can be uniquely factored into primes, establishing primes as the "atoms" of number theory. The discipline bifurcates into elementary number theory, analytic number theory, algebraic number theory, and computational number theory, each employing distinct methodologies but unified by the discrete nature of integers. Central first principles include divisibility (a|b iff ∃k ∈ ℤ such that b = ak), the Euclidean algorithm for gcd, modular arithmetic (congruences modulo n), and the concept of arithmetic functions such as Euler’s totient φ(n).

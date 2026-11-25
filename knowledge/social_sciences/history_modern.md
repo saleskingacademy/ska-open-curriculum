@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History Modern
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Modern history is the study of the structural, epistemic, and material transformations that occurred globally from approximately 1500 CE to the present, characterized by the transition from organic to mineral-based energy regimes, the rise of the nation-state, capitalist world-systems, and accelerated global integration. Its first principles dictate that historical change is non-linear, contingent, and multi-causal. Historians must reject teleological narratives (e.g., inevitable progress) and instead analyze past events through the dual lenses of diachronic change (evolution over time) and synchronic context (the systemic relationships within a specific historical moment). The discipline relies on rigorous source criticism (*Quellenkritik*), separating primary traces into external authenticity checks and internal hermeneutic interpretation, while remaining cognizant of the power dynamics inherent in archive creation and preservation.

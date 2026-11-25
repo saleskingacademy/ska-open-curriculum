@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Urban Studies
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Urban Studies is an interdisciplinary field examining the spatial, social, economic, political, and environmental dynamics of cities and metropolitan regions. Rooted in sociology, geography, economics, planning, and political science, it interrogates urbanization processes, governance, infrastructure, and lived experiences. First principles include the recognition of cities as complex adaptive systems characterized by multi-scalar interactions, path dependency, and socio-spatial inequalities. The field employs both qualitative and quantitative methods to analyze urban form, function, and change over time, emphasizing the dialectic between structure and agency within urban contexts.

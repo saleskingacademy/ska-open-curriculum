@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Operations Research
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Operations Research (OR) is a discipline applying advanced analytical methods—mathematical modeling, statistical analysis, and optimization—to aid decision-making in complex systems. Originating during WWII for military logistics and strategy, OR formalizes the systematic study of resource allocation, scheduling, and risk under constraints. Its first principles rest on:  

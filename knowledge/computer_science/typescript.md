@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Typescript
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 TypeScript is a statically typed superset of JavaScript developed by Microsoft, designed to add optional type annotations and compile-time type checking to the dynamic JavaScript language. At its core, TypeScript introduces a structural type system based on gradual typing, enabling developers to catch errors early and improve code maintainability without sacrificing JavaScript’s flexibility. The compiler (tsc) transpiles TypeScript (.ts) into plain JavaScript (.js), compatible with all ECMAScript targets. Key first principles include: static type inference, type erasure at runtime, structural typing (duck typing), and support for modern ECMAScript features plus additional constructs like interfaces, enums, generics, and namespaces.

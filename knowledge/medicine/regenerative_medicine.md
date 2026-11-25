@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Regenerative Medicine
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Regenerative medicine is an interdisciplinary field focused on the repair, replacement, or regeneration of damaged tissues and organs to restore normal function. It integrates principles from cell biology, molecular biology, materials science, and clinical medicine to harness the body’s intrinsic healing capacities or to engineer biological substitutes. At its core, regenerative medicine operates on three first principles: (1) cellular plasticity—stem cells’ ability to differentiate into multiple lineages; (2) tissue microenvironment—the extracellular matrix (ECM) and signaling milieu that guide cell behavior; and (3) biomaterial scaffolding—engineered matrices that provide structural and biochemical cues for tissue formation. The ultimate goal is to achieve functional restoration beyond mere symptom management or prosthetic replacement.

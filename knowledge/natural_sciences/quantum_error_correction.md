@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Quantum Error Correction
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Quantum error correction (QEC) is the theoretical and practical framework designed to protect quantum information against decoherence and operational errors inherent in quantum systems. Unlike classical error correction, QEC must contend with the no-cloning theorem and the continuous nature of quantum states, requiring indirect syndrome measurements and entanglement to detect and correct errors without collapsing the encoded quantum information. At its core, QEC encodes logical qubits into highly entangled states of multiple physical qubits, enabling the identification and reversal of errors modeled as quantum noise channels—typically Pauli errors (X, Y, Z) or general CPTP maps—via syndrome extraction and recovery operations. The foundational principle is that errors map the code space to orthogonal error subspaces, allowing projective measurements to reveal error syndromes without disturbing the logical subspace.

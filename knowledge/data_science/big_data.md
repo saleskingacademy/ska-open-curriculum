@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Big Data
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Big Data denotes datasets whose volume, velocity, and variety exceed the capacity of traditional relational database systems to capture, store, manage, and analyze within a tolerable elapsed time. The foundational “3Vs” model, introduced by Doug Laney (2001), remains seminal:  

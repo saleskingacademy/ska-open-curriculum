@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # History Art
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Art history is the systematic study of visual objects as historical documents, aesthetic expressions, and active agents in cultural production. Its foundational axiom is that visual form is never neutral; it is a coded site of historical, ideological, and material processes. The discipline operates on three first principles: Materiality (the physical substrate, medium, and technical execution of the object), Contextuality (the socio-political, economic, and intellectual conditions of its creation and reception), and Formalism (the autonomous visual language of line, color, space, and composition). The ultimate goal of art historical inquiry is to reconstruct the "period eye"—the culturally specific cognitive and visual habits of a given historical moment—to decode how images generate meaning and exercise power.

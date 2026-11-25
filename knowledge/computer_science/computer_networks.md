@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Computer Networks
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Computer networks are structured systems enabling data exchange among interconnected computing devices through communication channels. At their core, networks rely on layered abstractions—most notably the OSI and TCP/IP models—to modularize functions such as physical signaling, data framing, routing, and application-level protocols. The fundamental principles include addressing (unique identification via IP/MAC), routing (path determination via algorithms like Dijkstra’s or Bellman-Ford), switching (frame forwarding in LANs), and reliable data delivery (error detection/correction, flow and congestion control). Packet switching, the dominant paradigm, segments data into discrete packets, enabling statistical multiplexing and dynamic resource sharing, contrasting with circuit switching. Protocols define syntax, semantics, and timing of communication, ensuring interoperability across heterogeneous systems.

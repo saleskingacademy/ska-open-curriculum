@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Computer Vision Ai
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Fundamentals
 
 Image as matrix of pixel values. Color spaces (RGB, HSV, LAB). Convolutions — sliding filter kernels extract features (edges, textures, shapes). Pooling — dimensionality reduction. ARCHITECTURES: LeNet (1998 — handwriting), AlexNet (2012 — ImageNet breakthrough), VGG (depth), GoogLeNet/Inception (width), ResNet (2015 — skip connections, 152 layers), EfficientNet (scaling), Vision Transformer/ViT (2020 — transformers for images). TASKS: Classification (what is this?), Object detection (where are things? — YOLO, Faster R-CNN, DETR), Semantic segmentation (pixel-level classification), Instance segmentation (Mask R-CNN), Pose estimation, Depth estimation, OCR, Face recognition. SELF-SUPERVISED: DINO, MAE (Masked Autoencoder), CLIP (contrastive language-image pre-training — connects text and images). Foundation models for vision. GENERATIVE: GANs (2014 — generator vs discriminator), StyleGAN (photorealistic faces), Diffusion models (2020+ — DDPM, Stable Diffusion), Neural radiance fields (NeRF — 3D from 2D images). MULTIMODAL: GPT-4V, Gemini, LLaVA — models that see AND understand. Visual question answering. Image captioning. Document understanding. APPLICATIONS: Autonomous driving (perception stack), medical imaging (radiology AI — FDA-approved), satellite imagery analysis, retail (visual search, try-on), manufacturing (defect detection), agriculture (crop monitoring), security (surveillance, but ethical concerns). APPLIED: Computer vision is the most commercially deployed AI subfield. Camera + model = intelligence anywhere.

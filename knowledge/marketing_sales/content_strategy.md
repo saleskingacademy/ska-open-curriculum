@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Content Strategy
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Content strategy is the disciplined practice of planning, developing, and managing content—written, visual, or multimedia—to meet specific business objectives and user needs. Rooted in information architecture, user experience (UX), marketing, and editorial principles, it ensures content is purposeful, consistent, and sustainable across channels. The core definition hinges on the alignment of content with organizational goals, audience intent, and measurable outcomes. First principles include: understanding user personas and journeys; defining content purpose and KPIs; establishing governance and workflows; optimizing for findability and accessibility; and enabling scalability and reuse. Content strategy is not mere content creation but a systemic approach to content lifecycle management, from ideation through retirement.

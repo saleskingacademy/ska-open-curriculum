@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Cryptography Math
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Cryptography math is the rigorous application of number theory, algebra, and probability to secure communication and data integrity. At its core, cryptography transforms plaintext into ciphertext and vice versa via deterministic or probabilistic algorithms grounded in mathematical hardness assumptions. The foundational principle is computational infeasibility: certain problems (e.g., integer factorization, discrete logarithm) are easy to verify but hard to solve without secret knowledge. This asymmetry enables confidentiality, authentication, and non-repudiation. Cryptographic primitives rely on modular arithmetic, finite fields, elliptic curves, and complexity theory, ensuring that cryptosystems resist known polynomial-time attacks under standard models.

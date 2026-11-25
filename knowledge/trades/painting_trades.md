@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Painting Trades
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Painting trades encompass the specialized craft and industrial practice of surface coating, involving preparation, application, and finishing of protective and decorative paints, coatings, and related materials on substrates such as metals, wood, concrete, and composites. Core principles derive from material science, chemistry of binders and pigments, surface engineering, and environmental controls. The trade integrates knowledge of substrate condition assessment, coating system selection based on service environment (corrosion, UV, abrasion), and application technology (brush, roller, spray, powder coating). Success hinges on adhesion science (surface energy, cleanliness, profile), film formation kinetics (drying, curing), and durability prediction via standards (ISO, SSPC, NACE).

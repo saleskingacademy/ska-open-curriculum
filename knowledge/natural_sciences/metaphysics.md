@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Metaphysics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Metaphysics is the foundational branch of philosophy concerned with the nature, structure, and principles of reality beyond empirical observation. It addresses questions of being (ontology), causality, identity, time, space, and possibility. The core definition, tracing back to Aristotle’s *ta meta ta physika* (“that which comes after physics”), frames metaphysics as the inquiry into *first principles*—the ultimate constituents and laws underlying all that exists. Central to metaphysics is the distinction between *substance* (ousia) and *accidents*, *potentiality* and *actuality*, and the nature of *universals* versus *particulars*. Its methodology involves rigorous conceptual analysis, logical deduction, and often a priori reasoning, distinguishing it from empirical sciences.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Comparative Religion
 
-> name heuristic. unparsed reply: [object Object]
-
 ## World Religions
 
 Christianity (2.4B — Trinity, salvation, Bible), Islam (1.9B — Five Pillars, Quran, Sharia), Hinduism (1.2B — Brahman, karma, dharma, moksha), Buddhism (500M — Four Noble Truths, Eightfold Path, nirvana), Judaism (15M — Torah, covenant, mitzvot). EASTERN: Taoism (Tao Te Ching, wu wei), Confucianism (ren, li, filial piety), Shinto (kami, purification). METHODOLOGY: Phenomenology of religion, comparative method (Smart's 7 dimensions: ritual, narrative, experiential, social, ethical, doctrinal, material). THEMES: Creation myths, afterlife concepts, soteriology, theodicy, mysticism, scripture/revelation. MODERN: Secularization thesis, religious pluralism, interfaith dialogue, new religious movements.

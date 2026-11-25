@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Air Force Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Air Force Science is the multidisciplinary study and application of aerospace power principles, technologies, and operational art to achieve strategic, operational, and tactical objectives in air, space, and cyber domains. Rooted in Clausewitzian theory adapted for airpower, it synthesizes aerodynamics, avionics, command and control (C2), logistics, and human factors to optimize force projection and deterrence. The foundational principles derive from the tenets of air superiority, strategic bombing, rapid global mobility, ISR (intelligence, surveillance, reconnaissance), and integrated joint operations. Core first principles include the control of the air domain to enable freedom of maneuver, the concentration of force at decisive points, and the economy of force through precision engagement.

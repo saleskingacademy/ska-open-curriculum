@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Advertising
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Advertising is the strategic communication process by which organizations create, deliver, and manage persuasive messages to influence target audiences’ attitudes, beliefs, and behaviors, primarily to drive commercial objectives such as brand awareness, preference, and sales. Rooted in principles of psychology, economics, and communication theory, advertising operates through controlled media channels to achieve measurable impact. At its core, advertising balances creativity and data-driven targeting to optimize message resonance and ROI, leveraging the AIDA model (Attention, Interest, Desire, Action) as a foundational behavioral pathway. It is distinct from other marketing communications by its paid, non-personal, and identified sponsor characteristics.

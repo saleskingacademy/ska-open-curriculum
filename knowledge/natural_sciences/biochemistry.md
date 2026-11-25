@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Biochemistry
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Biochemistry is the quantitative and mechanistic study of the molecular basis of life, integrating principles from chemistry, biology, and physics to elucidate the structure, function, and dynamics of biomolecules. At its core, biochemistry examines the chemical processes underpinning cellular function, including enzyme catalysis, metabolic pathways, genetic information flow, and molecular signaling. The discipline rests on first principles such as thermodynamics (ΔG = ΔH – TΔS), chemical kinetics (rate = k[A]^m[B]^n), molecular recognition (lock-and-key and induced fit models), and the central dogma of molecular biology (DNA → RNA → Protein). Biomolecules—proteins, nucleic acids, lipids, and carbohydrates—are studied in terms of their atomic composition, stereochemistry, and intermolecular interactions (hydrogen bonding, van der Waals forces, ionic interactions). Quantitative frameworks such as Michaelis-Menten kinetics, Henderson-Hasselbalch equation, and Nernst equation provide predictive power for enzymatic activity, acid-base equilibria, and membrane potential, respectively.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Judaism Studies
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Judaism is a monotheistic Abrahamic religion rooted in the covenantal relationship between God (YHWH) and the Israelites, as codified in the Torah (the Pentateuch). Its foundational text is the Tanakh (Hebrew Bible), comprising Torah (Law), Nevi’im (Prophets), and Ketuvim (Writings). Central to Judaism is halakhah (Jewish law), derived from the Written Torah and Oral Torah (Mishnah and Talmud), which governs religious practice, ethics, and communal life. Jewish identity combines ethnic, religious, cultural, and legal dimensions, evolving over millennia through exilic dispersion, rabbinic interpretation, and modern denominational developments. The study of Judaism (Judaic Studies) integrates philology, history, theology, law, and philosophy, employing critical, historical, and hermeneutic methodologies.

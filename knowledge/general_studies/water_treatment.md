@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Water Treatment
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Water treatment is the systematic process of improving water quality to render it suitable for a specific end-use, such as drinking, industrial applications, irrigation, or ecological sustainability. Rooted in principles of physical, chemical, and biological engineering, water treatment removes contaminants—particulates, pathogens, dissolved organics, inorganics, and radionuclides—via unit operations and unit processes. The fundamental objectives are to ensure safety (microbial and chemical), aesthetic acceptability (taste, odor, turbidity), and regulatory compliance. Core first principles include mass balance equations, reaction kinetics, fluid dynamics, and thermodynamics governing phase transfer, adsorption, oxidation-reduction, and biological metabolism.

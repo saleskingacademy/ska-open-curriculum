@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Property Law
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Legal Framework
 
 Key statutes, regulations, and case law governing Property Law. Jurisdiction considerations and enforcement mechanisms. PRACTICE: Standard procedures, filing requirements, deadlines, and documentation. Due diligence obligations. Compliance requirements and audit procedures. Client/stakeholder rights and obligations. CASE LAW: Landmark decisions establishing precedent. Circuit splits and evolving interpretations. Statutory construction principles. PROFESSIONAL: Ethical obligations under relevant codes of conduct. Conflict of interest rules. Confidentiality and privilege. REMEDIES: Available legal remedies, damages calculations, equitable relief. Alternative dispute resolution (mediation, arbitration). Enforcement mechanisms.

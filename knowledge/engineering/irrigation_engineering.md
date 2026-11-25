@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Irrigation Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Irrigation engineering is the branch of civil and agricultural engineering concerned with the artificial application of water to soil for crop production, landscape maintenance, and environmental management. It integrates hydrology, hydraulics, soil science, and agronomy to optimize water distribution efficiency, crop yield, and resource sustainability. Core principles include water balance (input-output), conveyance hydraulics, soil-water-plant relationships, and system design under constraints of water availability, topography, and economics. The fundamental governing equations stem from Darcy’s law for infiltration, Manning’s equation for flow in channels, and the soil water retention curve from Richards’ equation for unsaturated flow. The objective is to design irrigation systems that maximize uniformity and efficiency while minimizing losses (evaporation, deep percolation, runoff).

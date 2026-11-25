@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Art History
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Art history is the interdisciplinary study of visual culture through time, analyzing artworks as artifacts embedded within specific socio-political, economic, and cultural contexts. It synthesizes formal analysis, iconography, provenance research, and theoretical critique to interpret meaning, function, and reception. Rooted in the Enlightenment’s empirical cataloging (Winckelmann, 18th c.), art history evolved from connoisseurship and stylistic periodization into a critical humanities discipline incorporating semiotics, feminism, postcolonialism, and digital methodologies. Its first principles include: 1) formal analysis (line, color, composition, medium), 2) contextualization (historical, cultural, patronage), 3) iconography/iconology (Panofsky’s three levels: pre-iconographical description, iconographical analysis, iconological interpretation), and 4) historiography (the discipline’s own history and biases).

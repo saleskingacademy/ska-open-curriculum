@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Hvac
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 HVAC (Heating, Ventilation, and Air Conditioning) is the integrated technology and engineering discipline focused on indoor environmental comfort and air quality control through thermal regulation, humidity management, and air circulation. Rooted in thermodynamics, fluid mechanics, and heat transfer, HVAC systems condition air by modulating sensible and latent heat loads while ensuring adequate ventilation to maintain occupant health and energy efficiency. The core principles involve the first law of thermodynamics (energy conservation), psychrometrics (moist air properties), and fluid flow dynamics, applied to optimize HVAC system design, operation, and control.

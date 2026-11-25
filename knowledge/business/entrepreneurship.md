@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Entrepreneurship
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Entrepreneurship is the disciplined process of identifying, evaluating, and exploiting market opportunities through the creation and scaling of innovative ventures under conditions of uncertainty. At its core, entrepreneurship synthesizes opportunity recognition, resource orchestration, risk management, and value creation. First principles include: (1) Opportunity Recognition — discerning unmet needs or inefficiencies; (2) Resource Mobilization — assembling capital, talent, and technology; (3) Value Creation — delivering superior products/services; (4) Risk and Uncertainty Management — navigating incomplete information and volatile environments; (5) Scalability — designing for growth and sustainability. Entrepreneurship is inherently iterative, combining effectuation (leveraging means at hand) and causation (goal-driven planning), and requires balancing exploration (discovery) with exploitation (execution).

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Distributed Systems
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Distributed systems are collections of independent computers that appear to users as a single coherent system. Their core principle is **concurrency of components**, **lack of a global clock**, and **independent failures**, which necessitate algorithms for coordination, consistency, fault tolerance, and scalability. At the heart lies the **CAP theorem** (Brewer’s theorem, 2000), stating that a distributed system can simultaneously guarantee only two of Consistency, Availability, and Partition tolerance. Distributed systems leverage **message passing** over unreliable networks, requiring protocols for **consensus**, **replication**, and **failure detection**. The **happens-before relation** (Lamport, 1978) formalizes event ordering without a global clock, enabling causal consistency models. Key challenges include **partial failures**, **network partitions**, and **heterogeneity**.

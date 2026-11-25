@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Pharmacogenomics
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Pharmacogenomics is the interdisciplinary field that elucidates how an individual’s genomic makeup influences drug response, encompassing pharmacokinetics (absorption, distribution, metabolism, excretion - ADME) and pharmacodynamics (drug-target interactions). It integrates genomics, molecular biology, and clinical pharmacology to optimize therapeutic efficacy and minimize adverse drug reactions (ADRs). The foundational principle is that genetic polymorphisms—single nucleotide polymorphisms (SNPs), copy number variations (CNVs), insertions/deletions—modulate enzyme activity, transporter function, receptor sensitivity, and downstream signaling pathways, thereby altering drug metabolism and effect. This enables precision medicine through genotype-guided drug selection and dosing.

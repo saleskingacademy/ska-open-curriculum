@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Counterterrorism
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Counterterrorism (CT) is the strategic, operational, and tactical framework designed to prevent, deter, and respond to terrorism—defined as politically motivated violence targeting civilians to instill fear and achieve ideological aims. Rooted in the principles of risk management, intelligence fusion, and interagency coordination, CT integrates kinetic and non-kinetic measures to disrupt terrorist networks, degrade capabilities, and mitigate attack consequences. The foundational paradigm is the “Prevention-Protection-Response-Recovery” cycle, emphasizing proactive disruption over reactive measures. CT’s epistemology balances civil liberties with security imperatives, operating under the legal frameworks of international humanitarian law, human rights law, and domestic statutes.

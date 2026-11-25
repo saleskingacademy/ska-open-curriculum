@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Animal Husbandry
 
-> name heuristic - model placement unavailable
-
 ## Cattle
 
 Breeds (beef: Angus, Hereford; dairy: Holstein, Jersey). Nutrition: TDN, crude protein, mineral supplementation. Reproduction: AI, estrus synchronization, gestation (283 days). Health: BVD, IBR, clostridial diseases, parasite management. SWINE: Breeds (Yorkshire, Duroc, Hampshire). Farrowing, weaning. Feed conversion ratio. Porcine diseases (PRRS, PED). POULTRY: Broiler vs layer management. Lighting programs, ventilation. Avian influenza, Newcastle disease. SMALL RUMINANTS: Sheep (wool, meat breeds), goats (dairy, meat, fiber). Rotational grazing. FACILITIES: Ventilation (natural, mechanical), waste management (lagoons, composting). Animal welfare (Five Freedoms).

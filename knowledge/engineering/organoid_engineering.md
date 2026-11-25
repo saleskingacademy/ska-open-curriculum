@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Organoid Engineering
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Organoid engineering is the interdisciplinary discipline focused on the in vitro generation, manipulation, and functional maturation of three-dimensional (3D) multicellular structures—organoids—that recapitulate key architectural, cellular, and physiological features of native organs. Rooted in stem cell biology, developmental biology, and bioengineering, organoid engineering leverages pluripotent stem cells (PSCs), adult stem cells (ASCs), or progenitor populations cultured under precisely defined biochemical and biophysical conditions to self-organize into miniaturized, organ-like structures. The core principle is the recapitulation of organogenesis via controlled microenvironmental cues, including morphogen gradients, extracellular matrix (ECM) mechanics, and cell-cell signaling, enabling modeling of development, disease, and therapeutic screening. Quantitative frameworks integrate morphogen concentration thresholds (e.g., TGF-β, Wnt, BMP pathways), ECM stiffness parameters (0.1–10 kPa), and spatiotemporal patterning to direct lineage specification and 3D architecture formation.

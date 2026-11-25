@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Futures Trading
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Futures trading is the practice of entering standardized contracts obligating the buyer to purchase, and the seller to deliver, a specified quantity of an underlying asset at a predetermined price on a future date. These contracts are exchange-traded, highly liquid derivatives primarily used for hedging, speculation, and arbitrage. The foundational principle is price discovery through the convergence of futures prices (F) and spot prices (S) at contract expiration, governed by the cost-of-carry model:  

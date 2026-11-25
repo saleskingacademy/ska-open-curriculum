@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Fitness Programming
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Fitness programming is the systematic design and periodization of exercise variables to optimize physiological adaptations, performance outcomes, and injury resilience. Rooted in exercise science, it integrates principles from biomechanics, physiology, and motor learning to manipulate training intensity, volume, frequency, and specificity. The core first principles include the SAID principle (Specific Adaptation to Imposed Demands), progressive overload, recovery, individualization, and variation. Effective programming balances stress and recovery to elicit supercompensation, leveraging acute and chronic training loads quantified via metrics like Training Stress Score (TSS) and session RPE. The ultimate goal is to engineer stimulus-response cycles that align with an athlete’s goals, capacities, and constraints across macro-, meso-, and microcycles.

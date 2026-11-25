@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Marine Engineering
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Marine engineering is the discipline that applies engineering principles to the design, construction, operation, and maintenance of shipboard and offshore marine systems. It encompasses propulsion, power generation, auxiliary machinery, structural integrity, and environmental control within the maritime domain. First principles derive from fluid mechanics, thermodynamics, materials science, and control theory, integrated to optimize vessel performance, safety, and sustainability. Central to marine engineering is the management of energy conversion processes—transforming fuel into mechanical and electrical power—while ensuring compliance with international maritime regulations (IMO, SOLAS, MARPOL).

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Music Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Music theory is the systematic study of the language and practices of music, encompassing the analysis, composition, and performance of sound organized in time. At its core, it deciphers the relationships between pitch, rhythm, harmony, melody, texture, and form. The first principles include the division of sound into discrete pitches (frequencies), the temporal structuring of these pitches into rhythm, and the hierarchical organization of pitches into scales and chords. The octave (frequency ratio 2:1) serves as the fundamental interval, underpinning pitch equivalence and scale construction. Intervals are measured in semitones (half steps), with the chromatic scale comprising 12 equal-tempered semitones per octave. Tonality arises from hierarchical pitch relationships centered on a tonic, defined by functional harmony. Rhythm is subdivided into meters, typically duple or triple, with beat subdivisions governed by time signatures.

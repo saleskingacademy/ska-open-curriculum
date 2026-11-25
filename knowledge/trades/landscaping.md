@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Landscaping
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Landscaping is the multidisciplinary practice of modifying the visible features of an outdoor environment to achieve aesthetic, functional, ecological, and socio-cultural objectives. Rooted in landscape architecture, horticulture, ecology, and civil engineering, it integrates spatial design, plant science, soil management, hydrology, and environmental psychology. At its core, landscaping is the orchestration of biotic and abiotic elements—topography, vegetation, water, structures—to create coherent, sustainable, and contextually responsive outdoor spaces. The first principles emphasize site analysis (climate, soil, hydrology, microclimate), design intent (function, aesthetics, maintenance), and ecological compatibility (native species, biodiversity, resilience). Quantitative metrics such as soil pH (optimal 6.0-7.5 for most ornamentals), evapotranspiration rates, and slope gradients (<15% for ease of maintenance) underpin decision-making.

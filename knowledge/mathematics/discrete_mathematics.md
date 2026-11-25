@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Discrete Mathematics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Discrete Mathematics is the branch of mathematics dealing with countable, distinct, and often finite structures, as opposed to continuous mathematics. It underpins theoretical computer science, combinatorics, graph theory, logic, and number theory. At its core, discrete math studies sets, relations, functions, algorithms, and structures that are fundamentally discrete rather than continuous. The first principles include the axioms of set theory (ZFC), principles of mathematical induction, and formal logic (propositional and predicate calculus). Discrete structures are characterized by elements that can be enumerated, enabling algorithmic manipulation and combinatorial reasoning.

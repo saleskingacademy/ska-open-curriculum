@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Semantics Pragmatics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Semantics and pragmatics constitute two interrelated subfields of linguistic meaning. Semantics studies the systematic, context-independent aspects of meaning encoded by linguistic expressions—their truth conditions, reference, and compositional interpretation. Pragmatics investigates how context, speaker intentions, and conversational dynamics modulate or enrich semantic content to yield actual utterance meaning. The foundational principle is that semantics provides a stable, conventional meaning base (literal meaning), whereas pragmatics accounts for meaning in use, including implicatures, presuppositions, indexicality, and speech acts. Semantics is often formalized via model-theoretic truth-conditional frameworks (Montague Grammar, 1970s), while pragmatics employs inferential models (Gricean maxims, relevance theory) and dynamic frameworks (Discourse Representation Theory). The boundary is fluid: phenomena like presupposition projection and scalar implicature demonstrate the interplay of encoded meaning and contextual enrichment.

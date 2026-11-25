@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Mandarin Chinese
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Mandarin Chinese (普通话, Pǔtōnghuà) is the standardized form of spoken Chinese based on the Beijing dialect, serving as the official language of the People’s Republic of China, Taiwan, and one of the four official languages of Singapore. It belongs to the Sino-Tibetan language family, specifically the Sinitic branch. Mandarin is a tonal analytic language with a predominantly subject-verb-object (SVO) syntax, characterized by monosyllabic morphemes, extensive use of compounding, and a logographic writing system (Chinese characters, 汉字). Its phonology consists of approximately 21 consonantal initials, 35 finals (vowels and codas), and four lexical tones plus a neutral tone, which are essential for semantic differentiation. Morphologically, Mandarin is isolating, relying on word order and particles rather than inflection. The writing system employs simplified characters (简体字) in Mainland China and Singapore, and traditional characters (繁體字) in Taiwan and Hong Kong. Mastery requires simultaneous acquisition of phonology, lexicon, syntax, semantics, pragmatics, and script.

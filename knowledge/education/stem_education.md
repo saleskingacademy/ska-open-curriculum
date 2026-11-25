@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Stem Education
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 STEM education—an interdisciplinary pedagogical approach—integrates Science, Technology, Engineering, and Mathematics to cultivate analytical reasoning, problem-solving, and innovation skills essential for 21st-century challenges. Rooted in constructivist and inquiry-based learning theories, STEM transcends siloed content delivery by emphasizing real-world applications and cross-disciplinary synthesis. Its first principles include: (1) Conceptual integration—linking STEM domains to foster holistic understanding; (2) Active learning—engagement through experimentation and design; (3) Iterative problem-solving—embracing hypothesis, testing, failure, and refinement cycles; (4) Computational thinking—algorithmic decomposition and abstraction; (5) Equity and access—ensuring diverse participation to democratize STEM literacy.

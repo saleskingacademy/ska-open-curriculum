@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Information Science
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Information Science is the interdisciplinary study of the collection, classification, manipulation, storage, retrieval, and dissemination of information. Rooted in the convergence of computer science, library science, cognitive psychology, and communication theory, it formalizes how data is transformed into meaningful knowledge within socio-technical systems. At its core, Information Science investigates the lifecycle of information artifacts and the human and machine agents interacting with them, guided by principles such as Shannon’s Information Theory (entropy \(H = -\sum p_i \log_2 p_i\)), the DIKW hierarchy (Data → Information → Knowledge → Wisdom), and the socio-technical feedback loops that govern information ecosystems.

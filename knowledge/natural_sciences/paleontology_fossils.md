@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Paleontology Fossils
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Fossil Formation
 
 Mineralization (mineral replacement of organic tissue), permineralization (minerals fill pores), carbonization (compression leaves carbon film), amber preservation, frozen preservation (woolly mammoths), trace fossils (footprints, burrows, coprolites). Only ~1 in 10,000 organisms fossilizes. GEOLOGICAL TIME: Precambrian (4.6B-541M), Cambrian Explosion (541M — most major animal phyla appear in ~20M years), Ordovician, Silurian, Devonian (Age of Fishes), Carboniferous (coal forests), Permian (reptile rise). MASS EXTINCTIONS: End-Ordovician (445M, 85% species), Late Devonian (375M), Permian-Triassic (252M, "Great Dying" — 96% marine, 70% terrestrial), Triassic-Jurassic (201M), Cretaceous-Paleogene (66M — asteroid Chicxulub, dinosaurs). DINOSAURS: Triassic origin (~230M). Theropods (T. rex, Velociraptor — ACTUALLY turkey-sized with feathers), Sauropods (Argentinosaurus — 70+ tons), Ceratopsians (Triceratops). BIRDS ARE DINOSAURS: Archaeopteryx (150M), feathered dinosaurs (Sinosauropteryx 1996 — first confirmed feathered non-avian dinosaur). Birds are living theropod dinosaurs. HUMAN EVOLUTION: Ardipithecus (4.4M), Australopithecus (Lucy 3.2M), Homo habilis (2.4M), Homo erectus (1.9M), Homo sapiens (300K). Coexisted with Neanderthals, interbred (2-4% DNA in non-African humans). MODERN: CT scanning of fossils, ancient DNA extraction (Denisovans identified from ONE finger bone), molecular clock dating, synchrotron imaging. APPLIED: Deep time perspective on life's resilience and fragility. Mass extinctions show life recovers but takes 5-10M years.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Machining
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Machining is a subtractive manufacturing process involving controlled removal of material from a workpiece to achieve desired geometry, surface finish, and dimensional accuracy. It operates on the principles of material deformation and fracture under mechanical action, typically via cutting tools that induce shear stresses exceeding the material’s yield strength. The fundamental mechanics involve chip formation governed by orthogonal or oblique cutting models, friction at tool-chip and tool-work interfaces, and thermal effects influencing tool wear and workpiece integrity. Machining encompasses turning, milling, drilling, grinding, and related operations, each defined by tool geometry, kinematics, and cutting parameters (cutting speed \( V_c \), feed rate \( f \), depth of cut \( a_p \)). The process efficiency and quality are governed by the interplay of tool material/coating, workpiece metallurgy, cutting fluid application, and machine tool rigidity.

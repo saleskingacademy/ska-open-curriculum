@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Renaissance Studies
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Renaissance Studies is an interdisciplinary field dedicated to the critical examination of the Renaissance period (circa 1300–1650), emphasizing the cultural, intellectual, artistic, and socio-political transformations originating in Italy and diffusing across Europe. It rests on the first principles of historicism, philology, art historical analysis, and contextual hermeneutics, integrating primary source exegesis with material culture studies. The field interrogates the complex interplay between humanism, scientific inquiry, religious reform, and political power structures, employing methodologies that balance diachronic historical narrative with synchronic cultural analysis. Central to Renaissance Studies is the concept of *ad fontes* ("to the sources"), advocating return to original texts and artifacts to reconstruct authentic Renaissance mentalities and practices.

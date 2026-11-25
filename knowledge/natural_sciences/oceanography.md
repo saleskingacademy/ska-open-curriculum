@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Oceanography
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Oceanography is the interdisciplinary scientific study of the ocean’s physical, chemical, biological, and geological processes. It integrates principles from fluid dynamics, thermodynamics, geochemistry, and ecology to understand the ocean as a complex, dynamic system. At its core, oceanography examines the interactions between the ocean and atmosphere, seafloor, and biosphere, governed by fundamental laws such as the Navier-Stokes equations for fluid flow, conservation of mass and energy, and chemical equilibria. The ocean covers 71% of Earth’s surface, with an average depth of ~3,700 m, playing a pivotal role in climate regulation, biogeochemical cycles, and supporting vast biodiversity. Key first principles include the Coriolis effect influencing ocean currents, thermohaline circulation driven by density gradients, and the role of solar radiation in stratification and primary productivity.

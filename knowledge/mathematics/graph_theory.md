@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Graph Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Graph theory is the mathematical study of graphs, defined as ordered pairs \( G = (V, E) \) where \( V \) is a finite set of vertices (nodes) and \( E \subseteq V \times V \) is a set of edges (links). Edges may be undirected (unordered pairs) or directed (ordered pairs), yielding undirected or directed graphs (digraphs). Graph theory abstracts relationships and connectivity, foundational in combinatorics, computer science, and discrete mathematics. Key first principles include adjacency, incidence, degree (number of incident edges per vertex), paths, cycles, connectivity, and subgraphs. Graphs may have loops or multiple edges (multigraphs), but simple graphs exclude these. Central problems involve traversal, coloring, matching, and optimization.

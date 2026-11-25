@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Genetics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Genetics is the branch of biology focused on the study of genes, heredity, and genetic variation in organisms. At its core, genetics examines how traits are transmitted from parents to offspring through discrete units called genes, composed of DNA sequences. The foundational principles arise from Mendel’s laws of inheritance—segregation and independent assortment—which describe allele distribution during gamete formation. Molecular genetics elucidates the structure and function of genes at the nucleotide level, incorporating the central dogma (DNA → RNA → Protein). Population genetics extends these concepts to allele frequency dynamics under evolutionary forces (selection, drift, mutation, migration). Modern genetics integrates genomics, epigenetics, and bioinformatics to decode complex traits and gene-environment interactions.

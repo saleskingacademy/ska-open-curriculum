@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Rhetoric
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Rhetoric is the art and science of effective persuasion through language, encompassing spoken, written, and visual modalities. Rooted in classical antiquity, rhetoric’s core definition—per Aristotle—is “the faculty of observing in any given case the available means of persuasion.” Its first principles rest on the triadic interplay of ethos (speaker credibility), pathos (emotional appeal), and logos (logical argument). Rhetoric transcends mere ornamentation; it is a disciplined methodology for shaping discourse to influence belief, decision, and action. Central to rhetoric is the situational context (kairos), the audience’s predispositions, and the medium’s affordances. Mastery requires not only command of linguistic resources but also strategic deployment aligned with purpose and audience.

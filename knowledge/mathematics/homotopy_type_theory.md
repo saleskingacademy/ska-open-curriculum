@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Homotopy Type Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Homotopy Type Theory (HoTT) is a foundational framework synthesizing intensional Martin-Löf Type Theory (MLTT) with concepts from homotopy theory and higher category theory. It reinterprets types as spaces (homotopy types), terms as points, and equalities as paths, thereby internalizing homotopical notions into type theory. The core innovation is the Univalence Axiom (Voevodsky, 2013), which states that equivalences between types correspond to identifications, collapsing equivalence and equality. This elevates identity types (Id-types) from mere propositional equalities to structured path spaces, enabling the encoding of ∞-groupoid structures within type theory. The foundational syntax includes dependent types, Π-types (dependent function types), Σ-types (dependent pair types), identity types, and universes (types of types), with intensional identity types supporting higher inductive types (HITs) to construct spaces like spheres and suspensions. HoTT thereby provides a computationally amenable language for synthetic homotopy theory and a new paradigm for foundations of mathematics.

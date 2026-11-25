@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Addiction Science
 
-> name heuristic. unparsed reply: [object Object]
-
 ## Foundations
 
 Addiction science is the interdisciplinary study of the neurobiological, psychological, and sociocultural mechanisms underlying compulsive substance use and behavioral engagement despite adverse consequences. At its core, addiction is conceptualized as a chronic, relapsing disorder characterized by dysregulation of brain reward circuitry, executive function, and stress systems. The foundational principle is the allostatic model (Koob & Le Moal, 2001), which posits that addiction arises from a progressive shift in hedonic set points driven by neuroadaptive changes in mesolimbic dopamine pathways and extended amygdala stress circuits. Addiction science integrates molecular genetics, neuropharmacology, behavioral psychology, and epidemiology to elucidate vulnerability, maintenance, and recovery processes.

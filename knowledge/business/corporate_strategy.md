@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Corporate Strategy
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Corporate strategy defines the overarching plan and scope of a diversified organization to create value across multiple business units and markets. Unlike business-level strategy, which focuses on competing within a single industry, corporate strategy addresses the question: “In which industries and markets should the firm compete, and how should resources be allocated among these?” Its first principles include: portfolio management (optimizing the mix of business units), synergy realization (leveraging cross-unit capabilities), and growth path selection (organic, M&A, alliances). The goal is to maximize corporate value beyond the sum of individual businesses, balancing risk, capital efficiency, and strategic coherence.

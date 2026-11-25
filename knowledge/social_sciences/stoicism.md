@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Stoicism
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Stoicism is a Hellenistic philosophical system founded in Athens by Zeno of Citium circa 300 BCE, emphasizing rationality, virtue as the sole good, and the cultivation of apatheia (freedom from passions) through alignment with Nature’s Logos (universal reason). Its core ontology posits a deterministic cosmos governed by divine reason, where human flourishing (eudaimonia) is achieved by living in accordance with virtue (aretē), defined as wisdom, courage, justice, and temperance. Stoicism distinguishes between what is within our control (prohairesis: judgments, desires, aversions) and what is not (externals: health, wealth, reputation), prescribing rigorous mental discipline to maintain equanimity regardless of external circumstances.

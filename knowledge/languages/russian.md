@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Russian
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Russian (русский язык) is an East Slavic language within the Indo-European family, primarily spoken in the Russian Federation and recognized as a lingua franca across Eurasia. It employs the Cyrillic script, standardized since the 18th century reforms under Peter the Great and further codified by the 20th-century orthographic reforms (1918, 1956). Core linguistic features include a rich inflectional morphology with six grammatical cases (nominative, genitive, dative, accusative, instrumental, prepositional), three genders (masculine, feminine, neuter), and two aspects in verbs (imperfective and perfective). Phonologically, Russian is characterized by palatalization contrasts, a system of vowel reduction in unstressed syllables, and a fixed stress system that is lexically unpredictable. Syntax is predominantly SVO but flexible due to morphological marking, allowing topicalization and focus through word order variation.

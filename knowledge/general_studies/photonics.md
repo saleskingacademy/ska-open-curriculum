@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Photonics
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Photonics is the science and technology of generating, controlling, and detecting photons, particularly in the visible and near-infrared spectrum. It encompasses the study of light-matter interactions, optical wave propagation, and the quantum and classical properties of electromagnetic radiation. Fundamentally, photonics rests on Maxwell’s equations, which describe the behavior of electromagnetic fields, and quantum electrodynamics (QED) for photon-matter interactions at the quantum scale. The core principle is the manipulation of photons as information carriers, energy quanta, or probes, enabling applications ranging from optical communication to quantum computing. Photons, massless bosons with spin-1, exhibit wave-particle duality, coherence, polarization, and entanglement, which are exploited in photonic systems.

@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Higher Category Theory
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 Higher category theory generalizes classical category theory by encoding not only objects and morphisms but also morphisms between morphisms (2-morphisms), morphisms between 2-morphisms (3-morphisms), and so forth, up to n-levels or even infinitely many levels. Formally, an (∞,n)-category is a structure with morphisms defined up to level n that are invertible above level n, capturing homotopical and coherence data simultaneously. The foundational insight is that strict associativity and identity laws of 1-categories are replaced by coherent higher homotopies, leading to weak n-categories or ∞-categories. Key foundational models include simplicial categories, Segal spaces, complete Segal spaces, and quasi-categories, each encoding higher categorical data via combinatorial or homotopical methods. The homotopy hypothesis posits an equivalence between ∞-groupoids and homotopy types, grounding higher categories in topology.

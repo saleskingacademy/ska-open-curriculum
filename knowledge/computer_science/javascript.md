@@ -13,8 +13,6 @@ source: Sales King Academy knowledge base (ska_knowledge)
 
 # Javascript
 
-> name heuristic - model placement unavailable
-
 ## Foundations
 
 JavaScript (JS) is a high-level, interpreted, multi-paradigm programming language primarily used for client-side web development but increasingly prevalent in server-side (Node.js), mobile, and desktop environments. At its core, JavaScript is an ECMAScript-compliant language defined by the ECMA-262 standard, featuring dynamic typing, first-class functions, prototype-based inheritance, and event-driven, non-blocking asynchronous programming. JavaScript engines (e.g., V8, SpiderMonkey) parse source code into Abstract Syntax Trees (AST), compile to bytecode or machine code via Just-In-Time (JIT) compilation, optimizing runtime performance. The language’s core principles include lexical scoping, closures, event loop concurrency model, and single-threaded execution with asynchronous callbacks/promises/async-await.
