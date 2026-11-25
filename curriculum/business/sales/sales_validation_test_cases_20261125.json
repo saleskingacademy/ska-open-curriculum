@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "status": "DRAFT_TEST_FIXTURES",
+  "description": "Machine-checkable numerical claims from Sales lessons; not a complete validation suite",
+  "cases": [
+    {
+      "id": "FOUND-01",
+      "expression": "72/240*100",
+      "expected": 30,
+      "unit": "percent"
+    },
+    {
+      "id": "FOUND-02",
+      "expression": "24/72*100",
+      "expected": 33.3333333333,
+      "unit": "percent",
+      "tolerance": 0.000001
+    },
+    {
+      "id": "FOUND-03",
+      "expression": "6/24*100",
+      "expected": 25,
+      "unit": "percent"
+    },
+    {
+      "id": "FOUND-04",
+      "expression": "6/240*100",
+      "expected": 2.5,
+      "unit": "percent"
+    },
+    {
+      "id": "PROS-01",
+      "expression": "320/500*100",
+      "expected": 64,
+      "unit": "percent"
+    },
+    {
+      "id": "PROS-02",
+      "expression": "200/320*100",
+      "expected": 62.5,
+      "unit": "percent"
+    },
+    {
+      "id": "PROS-03",
+      "expression": "120/500*100",
+      "expected": 24,
+      "unit": "percent"
+    },
+    {
+      "id": "SOL-01",
+      "expression": "1800*3-700*3-900",
+      "expected": 2400,
+      "unit": "USD"
+    },
+    {
+      "id": "FCST-01",
+      "expression": "12000*.25+24000*.5+18000*.75",
+      "expected": 28500,
+      "unit": "USD"
+    },
+    {
+      "id": "FCST-02",
+      "expression": "(.04+.16+.49+.01)/4",
+      "expected": 0.175,
+      "unit": "Brier"
+    },
+    {
+      "id": "RET-01",
+      "expression": "(20000-2000+2500-500)/20000*100",
+      "expected": 100,
+      "unit": "percent"
+    },
+    {
+      "id": "RET-02",
+      "expression": "45/50*100",
+      "expected": 90,
+      "unit": "percent"
+    },
+    {
+      "id": "CAP-01",
+      "expression": "2499-950",
+      "expected": 1549,
+      "unit": "USD"
+    },
+    {
+      "id": "CAP-02",
+      "expression": "2499*.85-950",
+      "expected": 1174.15,
+      "unit": "USD"
+    },
+    {
+      "id": "CAP-03",
+      "expression": "1549+899-1300",
+      "expected": 1148,
+      "unit": "USD"
+    }
+  ],
+  "rules": {
+    "precision": "decimal arithmetic preferred",
+    "provenance": "each test ID must map to source text and commit",
+    "pass_gate": "all fixtures passing plus complete source coverage; fixtures alone cannot certify subject"
+  }
+}
