@@ -1,0 +1,26 @@
+name: Sales curriculum arithmetic validation
+on:
+  pull_request:
+    paths:
+      - 'curriculum/business/sales/**'
+      - '.github/workflows/sales-curriculum-arithmetic.yml'
+  push:
+    branches:
+      - curriculum/advanced-sales-mastery-20261125
+    paths:
+      - 'curriculum/business/sales/**'
+      - '.github/workflows/sales-curriculum-arithmetic.yml'
+permissions:
+  contents: read
+jobs:
+  arithmetic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run Sales arithmetic regression
+        run: python3 -m unittest discover -s curriculum/business/sales -p 'test_sales_arithmetic.py' -v
