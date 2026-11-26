@@ -1,0 +1,14 @@
+name: Withdraw training-data release
+# One-off (2026-11-25): the SAT training pairs moved to the private platform repo.
+# Deletes the public `training-data` release and its tag. Run once, then delete this file.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  withdraw:
+    runs-on: ubuntu-latest
+    steps:
+      - env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          gh release delete training-data --repo "$GITHUB_REPOSITORY" --cleanup-tag --yes || echo "already gone"
