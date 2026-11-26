@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-13. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: whole-number place value from Lesson 3; [addition meaning](lesson_11_meaning_of_addition.md) and [addition facts](lesson_12_addition_facts.md); [estimation](lesson_07_estimation.md).
 Next: Lesson 14, Mental addition, in [the sequence](../arithmetic_zero_to_advanced.md).
-Education-16 and Symbol256: deferred until source and assessment validation.
+Catalog placement and topic tags: deferred until source and assessment validation.
 
 ## Entry check and learning outcomes
 

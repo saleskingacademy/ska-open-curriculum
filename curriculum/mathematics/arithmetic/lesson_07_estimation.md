@@ -3,7 +3,7 @@
 Canonical ID: AR-L01-07. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: Lessons 1–5, particularly quantity, place value, comparison, and number lines; [Lesson 6](lesson_06_zero_and_negatives.md) for distinguishing a measured zero from missing information.
 Next: [Lesson 8](lesson_08_rounding.md).
-Education-16 and Symbol256: deferred pending academic, taxonomy, prerequisite, and assessment validation.
+Catalog placement and topic tags: deferred pending academic, taxonomy, prerequisite, and assessment validation.
 
 ## Entry check and outcomes
 

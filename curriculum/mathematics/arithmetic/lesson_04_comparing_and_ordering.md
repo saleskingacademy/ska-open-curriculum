@@ -2,7 +2,7 @@
 
 Canonical ID: AR-L01-04. Established mathematics; Arithmetic.
 Read [existing Lesson 4](level_01_lessons_01_05.md#lesson-4-comparing-and-ordering) with this companion. Prerequisite: [place value](lesson_03_place_value.md) and quantity comparison. Next: [Lesson 5](lesson_05_number_lines.md).
-Education-16 and Symbol256: deferred until validation. Negative comparison is introduced through position; full negative interpretation follows in Lesson 6.
+Catalog placement and topic tags: deferred until validation. Negative comparison is introduced through position; full negative interpretation follows in Lesson 6.
 
 ## Learning outcomes, vocabulary, and notation
 

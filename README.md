@@ -35,8 +35,8 @@ This repository is being populated from the educational portions of the private 
 ## Knowledge base (`knowledge/`)
 
 The knowledge corpus currently contains 1,118 indexed subject records across the public program tree. The textbook map currently evaluates 1,117 subject records; legacy curriculum identifiers remain separately tracked and are not treated as proof that every calculated lesson target is populated. One Markdown file per subject: `knowledge/<program>/<subject>.md`.
-Each file's header carries the subject's DNA-16, L4 address and Chain256 anchor, so every
-subject has a permanent address. `knowledge/index.json` lists every subject with its path,
+Each file's header carries the subject's permanent key, program, level and license, so every
+subject has a stable identity. `knowledge/index.json` lists every subject with its path,
 sections, size and SHA-256; `knowledge/paths.json` is the slim key-to-path map the website uses.
 
 Cleaning applied on export: exact duplicate paragraphs removed, and corrupted model output

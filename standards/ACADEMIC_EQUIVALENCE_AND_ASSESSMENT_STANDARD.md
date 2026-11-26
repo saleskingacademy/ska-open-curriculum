@@ -24,7 +24,7 @@ Every complete subject must contain:
 17. source/provenance notes for externally verifiable or changing factual material;
 18. computational and AI-augmented practice where relevant;
 19. accessibility and alternative demonstration considerations;
-20. Education-16 placement and Symbol256 metadata after academic/taxonomy validation.
+20. Catalog-number placement and topic-tag metadata after academic/taxonomy validation.
 
 ## Assessment blueprint
 Assessments must sample the declared outcomes rather than merely repeat lesson wording. A complete course should measure:

@@ -3,9 +3,6 @@ key: crypto_compliance_and_risk
 title: "Crypto Compliance And Risk"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 6"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -371,47 +368,28 @@ Lumen chooses the processor that can show current licences in its main markets a
 
 The case illustrates proportionality. The right compliance answer for a small retailer is often to keep risky activities with a specialist that is equipped and licensed to handle them, and to keep its own exposure small.
 
-## SKA Field Case Study: One filter for what users can see
+## Field Case Study: One control point for what leaves the system
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns two controls that every compliance programme depends on: protecting what customers can see, and keeping records that can be restored.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy runs 26 specialist AI agents, a curriculum of 1,119 subjects, a CRM, automations and a prepaid credit system called Beats (1 Beat equals 1 US dollar, with a minimum purchase of 10 Beats). Beats are a prepaid platform credit, not a cryptocurrency or an investment. Internally, the platform links its records with identifiers and internal chain numbers that help it organise data. Its stated privacy rule is that a user sees only their own DNA-16 identifier, their usage and their Beats balance, and nothing else from the internal structure.
+Harborline's payments portal shows each customer their account, usage and invoices. Behind the scenes its services pass many internal values between them: database keys, routing codes and trace identifiers. The written policy said users should see only their own account details, usage and balance.
 
 ### The problems it caused
 
-On 7 October 2026, an audit found that internal chain numbers were appearing in API responses and on screens that users could see. The rule existed, but it was not being enforced everywhere data left the system. Each screen and each response had been built separately, and some of them passed internal values through.
-
-This is a common pattern in compliance failures. A policy is written, and enforcement is left to many separate places, each of which must remember to apply it. Every new feature becomes another chance to forget. A month earlier, on 7 September, the platform had also lost a large share of its deterministic knowledge rows and had to recover them from nightly database backups kept in a separate, access-controlled backup location. Taken together, the two incidents tested both halves of record governance: controlling what leaves the system, and being able to rebuild what is inside it.
+A compliance review found two gaps. Wallet-to-wallet transfers above the reporting threshold sometimes went out without the originator and beneficiary details that the FATF Travel Rule (Recommendation 16) requires virtual-asset service providers to pass along, and some transaction pages exposed internal routing codes and ledger keys to customers. Each product team had been expected to handle both in its own code, and the newest payment routes had not. Missing Travel Rule data is a regulatory breach; leaked internal codes help an attacker map the system.
 
 ### What was done
 
-The privacy fix did not patch each screen one at a time. Instead, a single outgoing filter was put in place that strips internal chain numbers from everything leaving the platform, so users see only their DNA-16, their usage and their Beats. Because every response passes through that one point, a new screen or response is covered automatically.
-
-For the data loss, recovery used the nightly backups stored outside the main database. Because they were taken every night and kept in a separate place, the platform could restore from a recent copy rather than rebuilding from nothing.
+Instead of patching each payment route and screen, Harborline put one **policy enforcement point** in front of everything that leaves the platform, the pattern standardised in access-control models such as XACML. Every outgoing transfer now passes one service that attaches the Travel Rule data, screens the counterparty wallet against sanctions lists, and requires a second approver above a set amount (**segregation of duties**). Every customer-facing response passes one filter that allows only the fields customers may see. Both have their own tests, and new payment routes inherit them automatically.
 
 ### What it shows
 
-1. **Enforce rules at a choke point.** Section 9 recommended applying privacy controls where data leaves a system. The same logic applies to sanctions screening (one screening step that every outgoing payment must pass) and to approvals (one signing service that every transfer must use). A single point of enforcement is easier to test, audit and trust than many scattered ones.
-2. **Audit what users actually see.** The policy was correct; the outputs did not match it. Compliance testing has to examine real outputs, not only written policies.
-3. **Records must be restorable, not just stored.** A compliance programme that cannot produce its records after a failure cannot demonstrate compliance. Off-site, regular backups are the minimum; tested restores and integrity checks make them reliable.
-4. **Data minimisation reduces risk.** Showing users only what they need limits the damage of any leak and keeps the platform's internal structure out of view.
-
-### What remains open
-
-- How long internal chain numbers had been visible before the 7 October audit: **[founder figure: exposure period]**
-- How many responses or screens were affected: **[founder figure: number of affected endpoints]**
-- Whether an automated test now checks every response for internal numbers on each release: **[founder figure: automated output test in place]**
-- The share of knowledge rows lost and recovered in September: **[founder figure: rows lost and recovered]**
-
-A remaining design question is how to prove the filter keeps working as the platform grows. The general answer is a recurring automated test that sends sample requests and fails the release if any internal value appears in the output.
-
-### Discussion questions
-
-1. Why is a single outgoing filter more reliable than fixing each screen separately?
-2. How would you apply the choke-point principle to sanctions screening in a business that sends payments from several different systems?
-3. What evidence would you want to see before telling a regulator, or a customer, that the privacy problem is fixed?
+1. **Enforce rules at a choke point.** One screening step for every payment and one filter for every response are easier to test, audit and trust than many scattered checks.
+2. **Audit what users actually see.** Compliance testing must examine real outputs, not just policies.
+3. **Allow-lists over block-lists.** Approve what may leave; block everything else by default.
+4. **Design for the next feature.** A central control protects screens and payment types that do not exist yet.
 
 ## SKA Lab: Test grounded and reasoned answers to compliance questions
 
@@ -426,7 +404,7 @@ In this lab you use the live Sales King Academy platform to ask compliance quest
 5. **Test it with a hedged premise.** Ask: "Businesses that hold customer funds usually need a licence. Our business holds customer funds. Do we need a licence?" Record whether the answer presents the conclusion as certain or as "most likely", and whether it advises confirming with counsel.
 6. **Ask Ledger a tax calculation.** Open the Ledger agent and ask: "We received 0.05 bitcoin worth 60,000 dollars per bitcoin and later sold it at 54,000 dollars with a 15-dollar fee. What were the income and the gain or loss?" Compare the result with Worked example 3.
 7. **Ask a live question.** Ask Statute: "What recent news is there about crypto travel rule enforcement?" Record the source badge and any sources named, and note how you would check them.
-8. **Check what the platform shows you.** Open your account or wallet view. List the identifiers and figures shown about you. Compare them with the platform's rule that a user sees only their DNA-16, usage and Beats.
+8. **Check what the platform shows you.** Open your account or wallet view. List the identifiers and figures shown about you. Compare them with the rule that a user should see only their own account details, usage and balance.
 
 ### Record your results
 
@@ -502,7 +480,7 @@ Consumer protection requires clear communication of risks and fees, protection o
 12. Why can the choice of lot-selection method change the reported gain on the same sale, and why can a business not choose freely after the fact?
 13. What custody controls reduce the risk of key theft by an outsider or an insider?
 14. In Worked example 5, why did incomplete tax records score higher than a sanctions breach?
-15. In the SKA field case, why was a single outgoing filter chosen instead of fixing each screen?
+15. In the field case, why was a single control point chosen instead of fixing each screen and payment route?
 
 ## Answer key
 
@@ -520,7 +498,7 @@ Consumer protection requires clear communication of risks and fees, protection o
 12. Different lots have different cost bases, so selecting different units changes the basis subtracted from the same proceeds. Tax systems regulate the permitted methods and require records made at the time, so a business must apply its permitted method consistently.
 13. Keeping most assets in cold storage, requiring several approvals through multisig or multi-party computation, separating duties, using address allow-lists and transfer limits, and recording and testing key procedures.
 14. Without a system, incomplete records were almost certain to occur and affect every transaction (likelihood 4, impact 3, score 12), whereas a sanctions breach was less likely (likelihood 2) despite its maximum impact (score 10).
-15. A single point that every response passes through covers every existing and future screen automatically, is easier to test, and does not depend on each separate feature remembering to apply the rule.
+15. A single point that every response and payment passes through covers every existing and future route automatically, is easier to test and audit, and does not depend on each feature remembering the rule.
 
 ## Further reading
 

@@ -3,9 +3,6 @@ key: blockchain_fundamentals_for_business
 title: "Blockchain Fundamentals For Business"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 5"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # Blockchain Fundamentals for Business
 
-This chapter explains how blockchains actually work and what they are genuinely good for in commerce. You will learn the building blocks one at a time: cryptographic hashes, blocks and the chain that links them, the consensus methods that let strangers agree on a single history, the key pairs and wallets that control assets, and the smart contracts that run on some networks. With those pieces in place, the chapter turns to business judgment: where a shared ledger removes a real cost, where an ordinary database is the better choice, and how to plan custody so that a lost key does not become a lost business. The chapter is education, not investment advice. It makes no predictions about prices, and every figure in the worked examples is an illustration chosen to make the arithmetic clear. It closes with a field case from the Sales King Academy platform and a lab you complete on the live site.
+This chapter explains how blockchains actually work and what they are genuinely good for in commerce. You will learn the building blocks one at a time: cryptographic hashes, blocks and the chain that links them, the consensus methods that let strangers agree on a single history, the key pairs and wallets that control assets, and the smart contracts that run on some networks. With those pieces in place, the chapter turns to business judgment: where a shared ledger removes a real cost, where an ordinary database is the better choice, and how to plan custody so that a lost key does not become a lost business. The chapter is education, not investment advice. It makes no predictions about prices, and every figure in the worked examples is an illustration chosen to make the arithmetic clear. It closes with a field case study and a lab you complete on the live site.
 
 ## Learning objectives
 
@@ -337,57 +334,28 @@ A business considering any blockchain project, whether it uses a public network,
 
 **Ledger-to-reality gap.** A blockchain records what it is told. Fraud, mistakes and false sensor readings recorded at the edge become permanent, shared falsehoods. Physical controls, audits and accountability for each entry's author remain essential.
 
-## SKA Field Case Study: Restoring records you can trust
+## Field Case Study: Restoring records you can trust
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It is not about a public blockchain. It is about the question at the heart of every ledger: when you restore or inspect a record, how do you know it is the record you wrote?
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy runs its website, its 26 specialist AI agents and its curriculum on Cloudflare's serverless platform, with its data held in hosted databases. One of the most important data sets is its store of deterministic knowledge: verified answers that the platform's agents return word for word in Deterministic mode, and use first in Auto mode. Every unit of the platform's educational material carries its own 16-digit DNA-16 identifier, so each record can be addressed and referred to precisely.
-
-The platform kept nightly database backups and stored them in a separate, access-controlled backup location. Storing backups outside the main hosting provider means that a failure in one place does not destroy both the live data and its copies.
+Harborline keeps an audit log of contract approvals. After a storage failure, it restored the log from backups and needed to prove that the restored records had not been altered.
 
 ### The problems it caused
 
-On 7 September 2026, a large share of the deterministic knowledge rows was lost. Because the platform's agents depend on those rows to answer from verified material, the loss directly affected what students and customers could be told with confidence. Answers that should have been looked up exactly now had less verified material behind them.
-
-The loss raised three questions that any record keeper, with or without a blockchain, must be able to answer:
-
-1. **Is there a copy?** A backup that was never taken, or that sits on the same system that failed, is no backup.
-2. **Can the copy actually be restored?** Many organisations discover during an emergency that their backups are incomplete, unreadable or in a format they no longer know how to load.
-3. **Is the restored copy the same as the original?** A restore that silently drops or alters rows can be worse than none, because it looks complete.
+A plain copy proves nothing about integrity: a backup could have been corrupted, or a record changed, and the restored log would look the same.
 
 ### What was done
 
-Recovery used the nightly backups kept in a separate, access-controlled backup location. Because the backups existed outside the live database and were taken every night, the platform had a recent copy from which to restore the lost rows, rather than having to rebuild its knowledge from scratch.
-
-The incident also showed the value of stable identifiers. Because each unit of material is labelled with its own DNA-16 identifier, restored material can be matched to the subjects and units it belongs to, rather than being an anonymous pile of rows.
+Harborline had built the log as a **hash chain**: each entry stores the cryptographic hash of the entry before it, the technique Haber and Stornetta proposed in 1991 for time-stamping documents. Periodically, the hash of the latest entry was published to a separate system. After restoring, the team recomputed every hash; the chain matched the published values, proving no entry had been changed or removed. Larger systems use **Merkle trees** for the same purpose, as in Certificate Transparency logs (RFC 6962).
 
 ### What it shows
 
-The case connects directly to the ideas in this chapter:
-
-1. **Many copies in independent places are the foundation of integrity.** A blockchain is trustworthy because many parties hold copies. A backup strategy works for the same reason: the copy must live somewhere the original's failure cannot reach.
-2. **Integrity needs a check, not just a copy.** Section 2 showed that a hash detects any change to a record. Recording a hash of each backup when it is created, and of each important record, gives a business a way to prove that what it restored is what it saved. Counting the rows before and after a restore is the simplest form of the same check.
-3. **Identifiers make records verifiable.** Just as a block's hash identifies it uniquely, a stable identifier for each unit of content lets you say exactly which records are present, missing or changed.
-4. **Most businesses need a well-run database, not a blockchain.** The platform's records are written by one organisation. The decision test in Section 8 says that, for such records, good backups, identifiers and hashes deliver the integrity a business needs at far lower cost than a distributed ledger.
-
-### What remains open
-
-Some questions in this case can only be answered by the founder, and are left blank rather than estimated:
-
-- Share of deterministic knowledge rows lost on 7 September: **[founder figure: share of rows lost]**
-- Share of those rows recovered from the backups: **[founder figure: share of rows recovered]**
-- Time from discovering the loss to completing the restore: **[founder figure: time to restore]**
-- Whether restored backups are now checked automatically, for example by comparing row counts or hashes against the values recorded when each backup was made: **[founder figure: backup verification method]**
-
-A further open question is how often backups should be test-restored, not just taken. The general answer for any business is: on a fixed schedule, into a separate environment, with the result compared to the original.
-
-### Discussion questions
-
-1. Which of the three questions in "The problems it caused" would a blockchain answer, and which would it not?
-2. How could the platform use SHA-256 hashes to prove that a restored backup matches the one taken on a given night?
-3. The decision test in Section 8 suggests a database fits this case better than a blockchain. Do you agree? What would have to change about who writes the records for that conclusion to change?
+1. **Many copies in independent places are the foundation of integrity.** A copy must live where the original's failure cannot reach.
+2. **Integrity needs a check, not just a copy.** Hashes reveal any change to a record.
+3. **Chain the records.** Linking each entry to the previous one makes silent edits detectable.
+4. **Publish an anchor.** A hash kept somewhere independent lets anyone verify the log later.
 
 ## SKA Lab: Compare grounded, live and generated answers about blockchains
 
@@ -429,7 +397,7 @@ Public-key cryptography lets owners sign transactions with private keys, and who
 
 Smart contracts are programs that run on a ledger and are strong at precise rules about on-chain assets and weak at anything requiring outside facts or judgement. Oracles, bugs and the legal status of code are their main weak points.
 
-Ledgers can be public, permissioned or private. Fees, throughput, privacy and governance differ between them. The most important business skill is the decision test: use a blockchain only when several parties must write to a shared record, no party is trusted by all to keep it, and removing an intermediary saves real cost. Otherwise, a database with hashing, signatures, audit logs and tested backups, as the Sales King Academy field case shows, gives the integrity a business needs at lower cost.
+Ledgers can be public, permissioned or private. Fees, throughput, privacy and governance differ between them. The most important business skill is the decision test: use a blockchain only when several parties must write to a shared record, no party is trusted by all to keep it, and removing an intermediary saves real cost. Otherwise, a database with hashing, signatures, audit logs and tested backups, as the field case shows, gives the integrity a business needs at lower cost.
 
 ## Key terms
 
@@ -469,7 +437,7 @@ Ledgers can be public, permissioned or private. Fees, throughput, privacy and go
 9. What is an oracle, and why is it a weak point for smart contracts?
 10. What are the first three questions of the decision test for using a blockchain?
 11. In the Harbor Grain case, why did a shared database run by the cooperative fail where a permissioned ledger succeeded?
-12. In the SKA field case, why does a backup need a check such as a hash or row count, not just a copy?
+12. In the field case, why does a restored log need its hash chain checked, not just copied back?
 
 ## Answer key
 
@@ -484,7 +452,7 @@ Ledgers can be public, permissioned or private. Fees, throughput, privacy and go
 9. An oracle is a service that writes outside information onto the blockchain. Smart contracts cannot see the outside world, so they act on whatever the oracle reports; a wrong or manipulated oracle causes the contract to pay out correctly by its code but wrongly in reality.
 10. Do several parties need to write to the same record? Do they lack a party they all trust to keep it? Would a trusted intermediary be costly, slow or risky?
 11. Two of the four buyers would not accept a record controlled by the cooperative, their counterparty. A permissioned ledger with a node for each buyer meant no single party could rewrite entries, which made the buyers willing to join.
-12. A copy may be incomplete or altered without anyone noticing. A hash or row count recorded when the backup was made lets the business prove that what it restored is exactly what it saved.
+12. A copy may be incomplete or altered without anyone noticing. Recomputing the hash chain and comparing it with the published anchor proves the restored log is exactly what was saved.
 
 ## Further reading
 

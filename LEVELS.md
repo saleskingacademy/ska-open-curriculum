@@ -36,7 +36,7 @@ proposals; no paper text is reproduced.
 
 ## Addressing
 
-Each level's material gets its own Education-16 level digit (1-8) and its own spent-memory address
-(`EDU16.md`). Level 0 is the core textbook body built today.
+Each level's material gets its own level digit (1-8) in the course number, the way a university
+catalog numbers 100-level through 800-level courses. Level 0 is the core textbook body built today.
 
 Copyright (c) 2026 Sales King Academy LLC. All rights reserved.

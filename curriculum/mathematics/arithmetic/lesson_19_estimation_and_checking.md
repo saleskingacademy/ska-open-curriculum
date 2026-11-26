@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-19. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [estimation](lesson_07_estimation.md), [rounding](lesson_08_rounding.md), and [signed operations](lesson_18_signed_addition_subtraction.md).
 Next: [operations mastery](lesson_20_operations_mastery.md).
-Education-16 and Symbol256: new lesson mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Entry check and outcomes
 

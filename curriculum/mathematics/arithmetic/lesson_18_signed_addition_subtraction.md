@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-18. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [zero and negatives](lesson_06_zero_and_negatives.md), [subtraction meaning](lesson_15_meaning_of_subtraction.md), and [multi-digit subtraction](lesson_17_multi_digit_subtraction.md).
 Next: [estimation and checking](lesson_19_estimation_and_checking.md).
-Education-16 and Symbol256: new lesson mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Entry check and outcomes
 

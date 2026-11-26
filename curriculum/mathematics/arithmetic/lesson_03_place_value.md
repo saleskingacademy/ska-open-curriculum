@@ -2,7 +2,7 @@
 
 Canonical ID: AR-L01-03. Established mathematics; Arithmetic.
 Read [existing Lesson 3](level_01_lessons_01_05.md#lesson-3-place-value) and its decimal examples with this companion. Prerequisite: [Lesson 2](lesson_02_numerals_and_symbols.md), counting and grouping tens. Next: [Lesson 4](lesson_04_comparing_and_ordering.md).
-Education-16 and Symbol256: deferred until validation. Decimal representation is introduced conceptually here; decimal calculation procedures are later.
+Catalog placement and topic tags: deferred until validation. Decimal representation is introduced conceptually here; decimal calculation procedures are later.
 
 ## Outcomes, vocabulary, and symbols
 

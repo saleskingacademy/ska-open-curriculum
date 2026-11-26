@@ -33,7 +33,7 @@ Source review checked quiz/problem/answer coherence, units, boundaries, stated r
 
 Corrected: unsupported legacy Arithmetic accreditation/percentage claim; misleading map status; missing full packages for the populated foundation path; ambiguity about tie rules and capacity rounding; inaccurate assumption that carry is always one; and unsupported diagnosis of a particular wrong multi-digit result. Useful legacy instructional material is preserved.
 
-Open: legacy Arithmetic study prompts need item-by-item semantic/taxonomy review; the separate generic mathematics lesson dataset overstates prime factorization as applying to every integer; unrelated legacy level-equivalence claims need evidence review; Lessons 14–80 and later module exams remain unpopulated in this path; mid-course/final exams, alternate course tests and full capstone remain pending; advanced prerequisites and taxonomy require closure review. No Education-16 or Symbol256 mapping/training was performed. Full packages are not the same as independently validated courses.
+Open: legacy Arithmetic study prompts need item-by-item semantic/taxonomy review; the separate generic mathematics lesson dataset overstates prime factorization as applying to every integer; unrelated legacy level-equivalence claims need evidence review; Lessons 14–80 and later module exams remain unpopulated in this path; mid-course/final exams, alternate course tests and full capstone remain pending; advanced prerequisites and taxonomy require closure review. No catalog placement, topic tagging or model training was performed. Full packages are not the same as independently validated courses.
 
 ## Exact continuation point
 

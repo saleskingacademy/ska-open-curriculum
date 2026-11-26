@@ -38,8 +38,8 @@ Expansion is competency-first, not word-count-first. Existing content is preserv
 6. cumulative mastery examinations/projects;
 7. computational and AI-augmented modules where relevant;
 8. provenance and epistemic labeling;
-9. Education-16 placement;
-10. Symbol256 rebuild only after content/taxonomy validation.
+9. catalog-number placement;
+10. topic-index rebuild only after content/taxonomy validation.
 
 ## Priority waves
 Wave A — foundational dependencies: mathematics, English/literacy, critical thinking, communication, study skills, computing/programming, statistics, research methods.

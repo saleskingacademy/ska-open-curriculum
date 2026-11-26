@@ -8,8 +8,8 @@ Expansion is paused while this gate is RED. It becomes GREEN only when all block
 2. **Taxonomy integrity** — every catalogue topic maps to exactly one canonical subject unless an explicit cross-domain alias is documented; no accidental duplicate ownership.
 3. **Prerequisite integrity** — declared beginner units have no hidden prerequisite; dependency references resolve; no dependency cycle exists in machine-readable curriculum graphs.
 4. **Assessment integrity** — newly declared COMPLETE/VALIDATED courses satisfy the Academic-Equivalent Instruction and Assessment Standard: meaningful lesson assessment, module/cumulative/final assessment, solutions/rubrics, remediation/reassessment, and appropriate capstone evidence.
-5. **Address integrity** — EDU16 registry remains append-only; existing EDU16 values are not renumbered; regenerated source hashes and T16/Chain256 attachments match the corrected source revision.
-6. **Symbol routing integrity** — Symbol256 build completes; collisions remain address-resolvable; Locator16 remains a physical locator rather than canonical identity; EDU16 crosswalk entries, where present, match content hashes.
+5. **Catalog integrity** — the course-number registry remains append-only (as in a university course catalog, a retired number is never reissued); existing numbers are not renumbered; regenerated SHA-256 source hashes match the corrected source revision.
+6. **Topic index integrity** — the topic index build completes; duplicate topic tags still resolve to one course number; a file path remains a locator rather than the canonical identity; crosswalk entries, where present, match content hashes.
 7. **Security boundary** — public repository contains publishable education/build metadata only. No production secrets, private user/session state, privileged agent logic, private databases, or private runtime configuration are introduced.
 8. **Build integrity** — public training/education build completes from a clean checkout and its generated manifests are internally consistent.
 
@@ -26,4 +26,4 @@ Bulk educational expansion may resume when checks 1, 2, 5, 6, 7, and 8 are GREEN
 After the gate turns GREEN, expansion resumes in dependency waves:
 A foundations -> B core disciplines -> C technical/professional -> D specializations -> E computational/AI/frontier extensions.
 
-Every subsequent expansion batch must rerun the gate before derived EDU16/Symbol256 artifacts are promoted.
+Every subsequent expansion batch must rerun the gate before derived catalog and topic-index artifacts are promoted.

@@ -3,7 +3,7 @@
 Canonical ID: AR-L01-08. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: Lessons 3–5 for place value, comparison, and number lines; [Lesson 7](lesson_07_estimation.md) for approximation and purpose.
 Next: [Lesson 9](lesson_09_mathematical_language.md).
-Education-16 and Symbol256: source mapping deferred until the validation gates pass.
+Catalog placement and topic tags: assignment deferred until the validation gates pass.
 
 ## Entry check and objectives
 

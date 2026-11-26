@@ -3,7 +3,7 @@
 Canonical ID: AR-L01-09. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: Lessons 1–5 for quantities, numerals, equality, comparison, and lines; [Lesson 6](lesson_06_zero_and_negatives.md), [Lesson 7](lesson_07_estimation.md), and [Lesson 8](lesson_08_rounding.md).
 Next: [Lesson 10](lesson_10_foundation_mastery.md).
-Education-16 and Symbol256: mappings deferred until instructional and assessment validation; notation never overrides the intended quantity or taxonomy.
+Catalog placement and topic tags: assignment deferred until instructional and assessment validation; notation never overrides the intended quantity or taxonomy.
 
 ## Entry check, objectives, and study method
 

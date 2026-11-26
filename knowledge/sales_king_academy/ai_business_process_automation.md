@@ -3,9 +3,6 @@ key: ai_business_process_automation
 title: "AI Business Process Automation"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 1"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -277,7 +274,7 @@ A rule gives the same output for the same input every time. An AI model may not,
 
 ### Safe repetition and failures
 
-Automated steps fail: a system is briefly unavailable, a request times out, a quota is reached. A good design distinguishes two kinds of step. A step that only reads, such as looking up a supplier, can safely be **retried**. A step that changes something, such as scheduling a payment, must be **idempotent**, meaning that repeating it has the same effect as doing it once, usually because each action carries a unique identifier and the receiving system ignores duplicates. Without idempotency, a retried payment step can pay a supplier twice. This principle appears again in the Sales King Academy field case later in this chapter, where repeatable restores mattered as much as the backups themselves.
+Automated steps fail: a system is briefly unavailable, a request times out, a quota is reached. A good design distinguishes two kinds of step. A step that only reads, such as looking up a supplier, can safely be **retried**. A step that changes something, such as scheduling a payment, must be **idempotent**, meaning that repeating it has the same effect as doing it once, usually because each action carries a unique identifier and the receiving system ignores duplicates. Without idempotency, a retried payment step can pay a supplier twice. This principle appears again in the field case later in this chapter, where a restore had to be safe to repeat.
 
 ## 7. Exception handling and confidence thresholds
 
@@ -468,50 +465,29 @@ A simple routine keeps automations healthy:
 
 The exception queue is the best source of improvement ideas. If 30 percent of exceptions come from one supplier's format, ask that supplier to send structured invoices. If many come from a missing purchase order, fix the purchasing process upstream. Each fix removes a class of exception permanently, which raises the share of items processed automatically without lowering the threshold or accepting more errors. Over time, the best automations improve not because the AI gets cleverer but because the process around it gets cleaner.
 
-## SKA Field Case Study: Recovering lost knowledge from automated backups
+## Field Case Study: Recovering lost knowledge from automated backups
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns one of the least glamorous automated processes any business runs, the nightly backup, and shows why an automation is only as good as the process that tests it.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy runs its website, its 26 specialist AI agents, its course catalogue, its CRM, its Automations hub and its Beats wallet on Cloudflare's serverless platform, operated by a single founder. A central asset is its store of **deterministic knowledge**: verified question-and-answer records that the platform's Deterministic answer mode draws on, so that the same question receives the same verified answer every time. In Auto mode, too, verified knowledge is used first. When a student asks a question that the stored knowledge covers, the chat shows a source badge saying the answer came from deterministic recall or verified knowledge rather than from a generated reply.
-
-Alongside the live database, an automated process ran every night: it exported the database and stored the backup in a separate, access-controlled location. Like most backups, it ran quietly and nobody needed it, until they did.
+Harborline runs a customer-support knowledge base of about 20,000 articles in one database. A nightly job copies the database to separate, access-controlled storage, following the widely taught **3-2-1 rule**: three copies of the data, on two different kinds of storage, with one copy kept off the main system.
 
 ### The problems it caused
 
-On 7 September 2026, a large share of the deterministic knowledge rows was lost. The exact count is a figure only the founder holds: **[founder figure: number and share of knowledge rows lost]**.
-
-The loss struck at the platform's most trusted layer. With knowledge rows missing, questions that should have been answered word for word from verified material would instead fall through to other answer paths, or would have nothing verified to draw on. For a platform that sells consistency and visible sourcing, losing that layer is a direct hit on what customers are paying for.
-
-A few days later a second, separate pressure arrived. On 10 September the platform moved to Cloudflare's free plan, which disabled R2 file storage and tightened database limits. Operating inside tighter limits is the background against which recovery and normal running had to work, until the platform returned to the Workers paid plan, at $5 a month, on 6 October.
+A faulty clean-up script deleted most of the articles in production. Because the script ran under an account allowed to delete, nothing stopped it, and the loss was noticed only when agents reported empty search results the next morning. The team had to answer two standard questions: how much data could they afford to lose (the **recovery point objective, RPO**) and how long could the service be degraded (the **recovery time objective, RTO**)?
 
 ### What was done
 
-Recovery used the nightly database backups kept in a separate, access-controlled backup location. Because the backup process had been automated and its output stored outside the live database, there was something to restore from. The time taken to restore, and the share of rows recovered, are founder figures: **[founder figure: time from discovery to restored service]**, **[founder figure: share of lost rows recovered from backups]**.
-
-The tightening of limits on the free plan was handled separately: the platform had to fit its work within the plan's limits for nearly a month, and the decision to return to the paid plan on 6 October is itself a business-case decision of the kind taught in Section 9, setting a modest fixed monthly cost against the risk and effort of operating inside hard limits.
+The team restored the most recent nightly copy into a separate database, compared article counts and checksums against the copy's manifest, and only then switched production over. Articles written after the last backup were rebuilt from the editing system's change log. They then added three controls: the clean-up account lost delete rights, backups gained an automatic weekly **restore test**, and a count check now alerts when the article total drops sharply.
 
 ### What it shows
 
-The case illustrates five points from this chapter:
-
-1. **Automate the dull safeguards.** The nightly backup is a textbook automation candidate: high frequency, fully defined, no judgment needed, and catastrophic if forgotten. It is exactly the kind of process a person will skip on a busy day and a schedule will not.
-2. **Store the safeguard away from what it protects.** The backups lived in a separate, access-controlled backup location, so the event that damaged the database did not damage them. A backup in the same place as the original protects against much less.
-3. **A backup is only as good as a tested restore.** The lesson the platform drew from this event was about backups you can actually restore, and verifying them. A backup that has never been restored is a hope, not a control. Section 8 lists tested backups among the controls every automation needs, because automations change data at speed.
-4. **Platform limits shape operations.** The move to the free plan removed a storage service and tightened database limits. Any automation designed for one set of limits must be checked against new ones, as Section 11 describes under drift.
-5. **Measures make the story complete.** The founder blanks above are not a gap in the lesson; they are the lesson. Without measured recovery time and recovery share, a business cannot say how good its backup process really is.
-
-### What remains open
-
-Several questions remain for the platform and are good practice for any business. How often should a restore be rehearsed, and who checks that the restored data is complete and correct, not merely present? Should the backup process verify each night's export automatically, for example by restoring it to a scratch database and counting rows against the live one? How long can the business tolerate between the last good backup and a loss, a measure usually called the **recovery point objective**, and how long can it tolerate before service is restored, the **recovery time objective**? Results for the founder to add: **[founder figure: recovery point objective set after the event]**, **[founder figure: restore rehearsals run since the event]**.
-
-### Discussion questions
-
-1. Using the five selection criteria from Section 3, score the nightly backup as an automation candidate. Why does it score so highly even though it saves very little staff time?
-2. What automatic check would turn "a backup exists" into "a backup has been shown to restore correctly"?
-3. Why is it important that the backups were stored outside the database they protected?
-4. How would you build a business case, in the style of Worked example 4, for staying on a paid hosting plan rather than a free one?
+1. **Automate the dull safeguards.** A nightly backup is a textbook automation candidate: frequent, fully defined and catastrophic if forgotten.
+2. **Store the safeguard away from what it protects.** The 3-2-1 rule exists so that one failure cannot destroy both the data and its copy.
+3. **A backup is only as good as its restore.** Untested backups are an assumption; a scheduled restore test turns them into a fact.
+4. **Least privilege limits the blast radius.** A script that only needs to read should not be able to delete.
+5. **Monitor outcomes, not just jobs.** "The job ran" is not the same as "the data is there"; a count check watches the result.
 
 ## SKA Lab: Design, build and test an automation on the live platform
 
@@ -527,7 +503,7 @@ In this lab you apply the chapter's method to a small process of your own, using
 6. **Build the automation.** Open the Automations hub. Review the triggers and actions it offers and record them in your results table; do not assume any option exists until you have seen it. Build the closest automation the hub supports to one step of your redesigned process, such as a follow-up for contacts at a given pipeline stage. Run it against your test contacts only.
 7. **Build an AI step with Agent Builder.** Open Agent Builder and create an agent on top of a suitable base agent, for example Closer for sales follow-ups or Ledger for invoice and finance questions. Give it short, specific instructions for one AI step in your process, such as classifying an incoming request into one of four named categories and replying "unsure" when none fits.
 8. **Test it like a professional.** Write a test set of ten realistic inputs with the correct category for each, written before you run the agent. Include at least three messy or ambiguous cases. Run all ten and score how many it got right and how many times it correctly said "unsure".
-9. **Note the cost.** If your session used Beats, check your usage on your account. Usage is metered by seconds of compute, and only full seconds are charged; 1 Beat equals 1 US dollar. Record what the test run cost, or record that it used only free allowance.
+9. **Note the cost.** If your session used Beats, check your usage on your account. 1 Beat equals 1 US dollar. Record what the test run cost, or record that it used only free allowance.
 
 ### Record your results
 
@@ -555,7 +531,7 @@ Candidates are chosen by scoring volume, effort, stability, data readiness and r
 
 AI steps need structured outputs, validation checks, calibrated confidence and consistent settings, and actions must be safe to repeat. Exception handling routes uncertain cases to a named owner with context, and the confidence threshold is chosen by comparing the cost of errors with the cost of review on a real test set. Rollout proceeds from shadow mode to suggest-and-approve to high-confidence action to monitored operation, under controls including audit trails, limits, segregation of duties, a kill switch, change control and tested backups.
 
-Value is proved with a business case of monthly saving, payback and return, tested with sensitivity analysis and checked after go-live. Data protection, fairness, security, record-keeping and the effect on people are part of the design. Automations decay through drift and need a regular operating routine. The Sales King Academy field case showed an automated nightly backup, stored outside the system it protected, making recovery possible after a serious data loss, and showed why a restore that has been tested is the real control.
+Value is proved with a business case of monthly saving, payback and return, tested with sensitivity analysis and checked after go-live. Data protection, fairness, security, record-keeping and the effect on people are part of the design. Automations decay through drift and need a regular operating routine. The field case showed an automated nightly backup, kept apart from the system it protects and proved by restore tests, turning a destructive script into a recoverable incident.
 
 ## Key terms
 
@@ -612,7 +588,7 @@ Value is proved with a business case of monthly saving, payback and return, test
 12. An automation costs $18,000 to build and saves $3,000 a month. What is its payback period, and what is its first-year ROI?
 13. Why must a request to change a supplier's bank details always go to a person?
 14. Name three causes of drift in a running automation.
-15. In the SKA field case, why did it matter that the nightly backups were kept in a separate, access-controlled backup location rather than in the live database?
+15. In the field case, why did it matter that the nightly backups were kept in separate, access-controlled storage rather than alongside the live database?
 
 ## Answer key
 
@@ -630,7 +606,7 @@ Value is proved with a business case of monthly saving, payback and return, test
 12. Payback is $18,000 ÷ $3,000 = 6 months. First-year savings are 12 × $3,000 = $36,000, so ROI = ($36,000 − $18,000) ÷ $18,000 = 1.0, or 100 percent.
 13. Changed bank details are a common route for invoice fraud, and a single error can send a large payment to a criminal, so the change must be confirmed through a separately known contact.
 14. Any three of: changing inputs, changing business rules, updated or retired AI models, changes in connected systems such as retired APIs or expired credentials, and changes in platform plans or limits.
-15. Because the backups were separate from the database that suffered the loss, the event that damaged the live data did not damage the backups, so there was something to restore from.
+15. Because the 3-2-1 rule keeps a copy where the original's failure cannot reach it: the script that deleted the live articles could not touch the separate copy, so there was something to restore from.
 
 ## Further reading
 

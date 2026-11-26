@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-12. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [Lesson 11](lesson_11_meaning_of_addition.md), counting and place value from the foundation lessons.
 Next: [Lesson 13](lesson_13_multi_digit_addition.md).
-Education-16 and Symbol256: deferred until source content and assessment gates pass.
+Catalog placement and topic tags: deferred until source content and assessment gates pass.
 
 ## Entry check and objectives
 

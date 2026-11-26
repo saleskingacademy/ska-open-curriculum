@@ -12,7 +12,7 @@ Use the existing state progression: SKELETON, SEQUENCED, INSTRUCTIONALLY POPULAT
 
 ## Preserve source and make progress reproducible
 
-Expand useful material in place or with clearly linked companions. Correct demonstrable errors narrowly; preserve unrelated working explanations. Separate original source instruction from generated study/mapping derivatives. Education-16 and Symbol256 follow academic, taxonomy, prerequisite and assessment validation. Established knowledge, SKA-defined frameworks and experimental hypotheses remain distinct.
+Expand useful material in place or with clearly linked companions. Correct demonstrable errors narrowly; preserve unrelated working explanations. Separate original source instruction from generated study/mapping derivatives. Catalog placement and topic tagging follow academic, taxonomy, prerequisite and assessment validation. Established knowledge, SKA-defined frameworks and experimental hypotheses remain distinct.
 
 Inventories should report word counts with a documented method, populated/planned lessons, actual assessment forms and solution coverage, projects, prerequisite and validation states, and the exact next instructional task. Report percentages separately for declared lesson/outcome coverage; do not invent a single percentage for an undefined programme scope. Older word-target reports remain historical planning artifacts and do not impose current completion requirements.
 

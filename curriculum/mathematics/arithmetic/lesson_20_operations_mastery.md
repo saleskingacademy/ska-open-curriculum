@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-20. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: Lessons 11–19, culminating in [estimation and checking](lesson_19_estimation_and_checking.md).
 Next: Lesson 21, Meaning of multiplication, in [the canonical sequence](../arithmetic_zero_to_advanced.md).
-Education-16 and Symbol256: new lesson mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Purpose, entry and outcomes
 

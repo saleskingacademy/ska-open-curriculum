@@ -2,7 +2,7 @@
 
 Date: 2026-10-10 UTC. Base: `98feb598025fa77d17378cbc9b05cf2514f67d3d`.
 Branch: `ska-education-expansion-2026-10-02` in `saleskingacademy/ska-open-curriculum`.
-Scope: continue the canonical Arithmetic sequence, repair previously reported integrity findings, and refresh dependent educational records without modifying Chain64 or runtime operations.
+Scope: continue the canonical Arithmetic sequence, repair previously reported integrity findings, and refresh dependent educational records without modifying platform code or runtime operations.
 
 ## Instruction added
 
@@ -26,7 +26,7 @@ The canonical symbol/study builder was run over the full corpus, then the write 
 
 `refresh_education_topics.py` refreshes named topics and ancestor records while retaining unchanged paragraph addresses and every prior registry assignment. Nineteen changed paragraph records receive nineteen appended allocations; retired entries remain. Eleven subject records are refreshed. An immediate repeat produced identical bytes and zero new allocations. A corpus-wide comparison preserved all 21,098 unchanged paragraph addresses. Unrelated generated changes from the exploratory full rebuild were excluded.
 
-`edu16.py --verify` reports 33,367 educational units and zero broken chains. New canonical lesson Markdown mapping remains deferred under the academic/taxonomy policy; these legacy attachment checks do not imply that the four new lessons are already ingested by production agents.
+The catalog integrity check reported zero broken records. New canonical lesson catalog placement remains deferred under the academic/taxonomy policy; these legacy checks do not imply that the four new lessons are already ingested by production agents.
 
 ## Verification and limits
 

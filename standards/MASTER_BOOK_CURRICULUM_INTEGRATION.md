@@ -12,7 +12,7 @@ Purpose: prevent duplicate curriculum while progressively integrating the Sales 
 5. Preserve dependency order: zero-entry literacy -> foundations -> application -> analysis -> synthesis -> professional/computational practice -> AI-augmented practice -> frontier/research literacy.
 6. Existing useful material is preserved unless incorrect, duplicated, misplaced, unsafe, or below the declared instructional standard.
 7. Established knowledge, current sourced facts, active research, SKA-defined frameworks, and speculation must remain epistemically distinct.
-8. Education-16/Symbol256 derivatives follow academic and taxonomy validation; they do not determine curriculum truth.
+8. Catalog and topic-index derivatives follow academic and taxonomy validation; they do not determine curriculum truth.
 
 ## Book chapters mapped so far
 

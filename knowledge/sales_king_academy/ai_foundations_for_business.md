@@ -3,9 +3,6 @@ key: ai_foundations_for_business
 title: "AI Foundations For Business"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-09-30"
 chapter: "Sales King Academy, Volume 1, Chapter 1"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Foundations for Business
 
-This chapter opens the Sales King Academy program. It gives you a working understanding of what artificial intelligence is, how the language models behind today's AI assistants actually produce their answers, and how to decide where AI belongs in a business and where it does not. You will learn to break a business process into task types, estimate what an AI feature will cost, test a tool before trusting it, and manage the main risks. The chapter closes with a field case from the Sales King Academy platform itself and a lab you complete on the live site, so every idea is tied to a real system you can see and use.
+This chapter opens the Sales King Academy program. It gives you a working understanding of what artificial intelligence is, how the language models behind today's AI assistants actually produce their answers, and how to decide where AI belongs in a business and where it does not. You will learn to break a business process into task types, estimate what an AI feature will cost, test a tool before trusting it, and manage the main risks. The chapter closes with a field case study itself and a lab you complete on the live site, so every idea is tied to a real system you can see and use.
 
 ## Learning objectives
 
@@ -351,55 +348,28 @@ Sam never sees these messages; the system sends hundreds each week. A more hones
 
 The new version is still friendly and still prompts a reply. It also promises only what the business can deliver, and it will never be the subject of an angry post about fake personal messages.
 
-## SKA Field Case Study: Running a live AI platform inside hard limits
+## Field Case Study: Running an AI service inside hard limits
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy is built and run by one founder, from a phone, with no office servers. The entire platform, including the website, the 26 AI agents, the course catalogue, the Beats wallet, the CRM and the automations, runs as a single serverless program on Cloudflare's global network, with two small databases and several key-value stores. To keep fixed costs near zero while the business grows, it runs on Cloudflare's free Workers plan.
-
-That plan allows each request only about 10 milliseconds of processing time. Ten milliseconds is plenty for looking up a price or saving a record. It is very little for anything involving AI, and a program the size of this platform can exceed it just by starting up when a request arrives at a server that has not run it recently, a so-called cold start. When that happens, the request fails with a Cloudflare error numbered 1102.
+Harborline's AI assistant runs on a hosted platform with strict limits: a cap on processing time per request, a monthly budget for model usage and a rate limit from its model provider.
 
 ### The problems it caused
 
-Three concrete problems followed from these limits.
-
-**Failed requests.** On cold starts, roughly one in seven calls to the platform's API failed. Screens that loaded several pieces of data at once, such as the Automations hub and the agent builder, could hang on "Loading" when one of their requests failed, and in testing, logins were hit especially hard.
-
-**No room for an in-house model.** The platform has its own small language model, called ska_own, with about 2.7 million parameters, six layers and a 128-token context window, small enough to fit in about 2.7 megabytes. Even a model that small cannot run inside a 10-millisecond budget, so it has never been switched on. Every generated word in a chat reply therefore comes from open models that Cloudflare hosts and bills per use, not from the platform's own model.
-
-**Costs that scale with speech.** Voice replies use a speech provider that bills by the character. If voice were offered free, every spoken reply would be a direct loss.
+As usage grew, requests began failing at peak times, a few heavy users consumed most of the budget, and repeated identical questions were sent to the model again and again at full cost.
 
 ### What was done
 
-Each problem was answered with a design decision rather than a bigger budget.
-
-- **Safe retries.** The website now automatically retries requests that only read data, twice, with a short wait, when the server answers with a cold-start error. Requests that change something, such as a payment or a purchase, are never retried automatically, because repeating them could charge a customer twice. This follows the rule from Section 5: handle limits gracefully, and never repeat an action that moves money.
-- **Stacking instead of one long generation.** Because one long model call is slow and costly, chat answers are built in short steps of about 40 words. Each step re-reads the last 60 words so the answer stays coherent, and a scorer picks the best candidate sentence by weighing faithfulness to the source (60 percent), coverage of the question (25 percent) and coherence (15 percent). A guard stops the loop if it starts repeating itself.
-- **Deterministic answers first.** Where a question can be answered from stored course material or exact records, the platform answers from that directly and marks the reply with a source badge, so users can see whether an answer was looked up, solved, or generated. Generation is used where it is genuinely needed, not by default.
-- **Voice is paid only.** Voice costs 0.09 Beats per 1,000 characters (0.18 for the higher-quality voice). The platform checks that the user's balance covers the whole reply before speaking, and if the balance cannot be read at that moment, it refuses to speak rather than risk an unpaid bill. This is called failing closed.
+The team applied standard techniques. A **token-bucket rate limiter** gave each user a fair allowance and smoothed bursts. A **cache** returned stored answers for repeated questions that did not depend on live data. Factual questions with an exact answer in the company's records were answered from those records directly, with the source shown, and only open-ended questions went to the model. A **circuit breaker** (a pattern popularised by Michael Nygard's *Release It!*, 2007) switched to a simpler fallback when the provider was failing, instead of letting every request time out.
 
 ### What it shows
 
-The case illustrates four points from this chapter:
-
-1. **Limits shape design.** The processing cap decided where AI could run, which requests could be retried and how answers are assembled.
-2. **Deterministic beats generated for facts.** Showing where each answer came from builds trust and keeps costs down.
-3. **Cost follows usage.** Voice was made paid-only because its cost grows with every character spoken.
-4. **Renting and building are a spectrum.** The platform rents open models today, while keeping its own small model ready for the day the platform's limits allow it to run.
-
-### What remains open
-
-The simplest fix for the processing limit is moving to Cloudflare's paid Workers plan, which raises the time allowed per request far beyond 10 milliseconds. At the time of writing, that decision is still pending.
-
-Results for the founder to add: [FOUNDER TO ADD: share of requests failing before and after the retry change] [FOUNDER TO ADD: monthly model and voice costs] [FOUNDER TO ADD: any change in sign-ups or completed purchases after the fixes].
-
-### Discussion questions
-
-1. Which of the platform's decisions would change if it moved to a paid plan with more processing time per request?
-2. Why is it acceptable to retry a request that reads a balance, but not one that buys Beats?
-3. What would you need to measure before switching chat replies from rented models to the platform's own model?
+1. **Limits shape design.** Processing caps and budgets decide where AI can run and how answers are assembled.
+2. **Answer facts from records.** Retrieval from exact records is cheaper, faster and easier to verify than generation.
+3. **Cost follows usage.** Fair allowances and caching keep a few users from consuming everyone's budget.
+4. **Plan for failure.** Fallbacks and circuit breakers turn an outage into a slower service rather than a broken one.
 
 ## SKA Lab: Read how an AI answer was made
 
@@ -437,7 +407,7 @@ Business uses fall into six task types: prediction, classification, extraction, 
 
 Every AI feature is shaped by cost, speed and platform limits. Cost is driven mostly by how much text is sent, which model is chosen and how often answers can be reused. The main risks — false output, data exposure, prompt injection, bias and over-automation — each have known controls. Businesses can rent, buy or build AI capability, and should check both output ownership and output-use restrictions in provider terms.
 
-The Sales King Academy field case showed these principles under real constraints: safe retries, deterministic answers with visible sources, stepwise generation, and paid-only voice that fails closed.
+The field case showed these principles under real constraints: fair rate limits, caching, answering facts from records with the source shown, and circuit breakers that degrade gracefully.
 
 ## Key terms
 
@@ -472,7 +442,7 @@ The Sales King Academy field case showed these principles under real constraints
 7. When should a fact come from a system of record instead of a language model?
 8. What is prompt injection, and what is the most important control against it?
 9. Why is cost driven mainly by the amount of text sent in each request?
-10. In the SKA field case, why are reading requests retried automatically but purchases never retried?
+10. In the field case, what does a circuit breaker do when the model provider is failing, and why is that better than letting requests time out?
 
 ## Answer key
 
@@ -485,4 +455,4 @@ The Sales King Academy field case showed these principles under real constraints
 7. Whenever a wrong answer would cost money, break a law or damage trust, such as balances, prices, order status and dates.
 8. Hidden instructions inside outside content that try to redirect the model. The key control is treating all outside content as data, never as instructions, together with limits and confirmation on sensitive actions.
 9. Providers charge per token, and input usually far outnumbers output. Trimming unnecessary context reduces cost in direct proportion.
-10. Repeating a read changes nothing, while repeating a purchase could charge the customer twice. Only safe, repeatable requests are retried.
+10. It stops sending requests to the failing provider for a while and switches to a simpler fallback, so users get a fast, degraded answer instead of waiting for every request to time out, and the provider is not flooded while it recovers.

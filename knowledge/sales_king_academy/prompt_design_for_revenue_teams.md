@@ -3,9 +3,6 @@ key: prompt_design_for_revenue_teams
 title: "Prompt Design For Revenue Teams"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 8"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # Prompt Design for Revenue Teams
 
-This chapter teaches you how to write the instructions that make AI produce reliable, accurate and on-brand work for sales, marketing and customer success, and how to turn good prompts into shared team assets that are versioned, tested and improved like any other part of the revenue system. Earlier chapters in this volume covered agents and the workflows they run in. Nearly every one of those systems is steered by text a person wrote: the instructions an agent follows, the template that turns call notes into a follow-up email, the rules that keep a proposal section within approved claims. Small differences in that text produce large differences in output. You will learn the parts of a strong prompt, how to supply context without waste, how to use examples and constraints, how to build templates and a governed prompt library, how to test prompts with rubrics and test sets of the right size, how to place prompts inside automated systems with checks around them, and how to defend them against injection and misuse. The chapter closes with a field case from the Sales King Academy platform, where an irrelevant record in the context took over answers across agents until a relevance gate was added, and a lab in which you design and score instructions for an agent of your own.
+This chapter teaches you how to write the instructions that make AI produce reliable, accurate and on-brand work for sales, marketing and customer success, and how to turn good prompts into shared team assets that are versioned, tested and improved like any other part of the revenue system. Earlier chapters in this volume covered agents and the workflows they run in. Nearly every one of those systems is steered by text a person wrote: the instructions an agent follows, the template that turns call notes into a follow-up email, the rules that keep a proposal section within approved claims. Small differences in that text produce large differences in output. You will learn the parts of a strong prompt, how to supply context without waste, how to use examples and constraints, how to build templates and a governed prompt library, how to test prompts with rubrics and test sets of the right size, how to place prompts inside automated systems with checks around them, and how to defend them against injection and misuse. The chapter closes with a field case study, where irrelevant retrieved notes produced confident wrong answers until a relevance threshold was added, and a lab in which you design and score instructions for an agent of your own.
 
 ## Learning objectives
 
@@ -376,53 +373,28 @@ The first versions failed the accuracy gate on 4 of 60 outreach cases, all by ad
 
 Over the following quarter, sampled emails showed consistent tone, no unsupported claims and no unapproved discounts. The invented satisfaction figure disappeared because it was no longer in any prompt, and the approved claims list made it impossible for a new one to spread the same way. The library's change record became the team's history of what worked: each version, what changed and the test result.
 
-## SKA Field Case Study: When the context in the prompt was wrong
+## Field Case Study: When the context in the prompt was wrong
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns what the platform's agents were given as grounding context, and how a relevance gate and persistent answers changed the reliability of their replies.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy's 26 specialist agents answer questions in three modes. **Deterministic** mode answers only from verified knowledge and gives the same answer every time. **Auto** mode uses verified knowledge first, with AI phrasing. **Natural** mode uses AI phrasing in fresh wording each time but stays grounded: numbers and key terms must match the stored answer, or the stored answer is shown word for word. In each case, the platform retrieves knowledge records relevant to the question and supplies them as context, in the way Section 3 described. Each chat reply carries a source badge showing whether it came from deterministic recall, verified knowledge, the web or AI generation.
+Harborline's sales assistant answers questions using retrieved product notes inserted into the prompt.
 
 ### The problems it caused
 
-On October 7, 2026, a retrieval bug was found. One off-topic knowledge record was being selected as context for questions it had nothing to do with, and because it was supplied as grounding, it dominated answers across agents. Questions on different subjects, put to agents with different lanes, came back shaped by the same irrelevant material.
-
-This is the failure Section 3 warned about. Grounding is meant to make answers more accurate by tying them to trusted material. But the model treats whatever it is given as relevant. A record that is accurate in itself, supplied for the wrong question, produces a confident wrong answer, and it does so with the authority of a grounded reply.
-
-**[founder figure: share of answers affected before the fix]** **[founder figure: how long the bug was active before it was found]**
+Representatives reported confident answers that were wrong. Investigation showed the notes inserted into the prompt were accurate, but for the wrong product: retrieval had returned the nearest note even when nothing relevant existed. A second issue was that wording rules ("always quote the price in US dollars") were sometimes ignored.
 
 ### What was done
 
-Two changes followed.
-
-**An on-topic relevance gate.** Before a retrieved record is used as context, it must pass a check that it is actually on the topic of the question. Records that fail are not supplied, so an unrelated record can no longer take over the answer. If nothing relevant passes, the answer cannot lean on irrelevant grounding.
-
-**Persistent answers.** On October 8, 2026, answers were made persistent in every mode: the same question with the same context returns the same stored answer. This turns consistency into a product feature, so a learner who asks a question twice, or two learners who ask the same question, get the same answer. Live web answers are deliberately left unfrozen, because a question about current events or prices should not return yesterday's answer.
-
-These changes work alongside Natural mode's existing wording check, which is a deterministic check of the kind in Section 9: if a freshly worded answer changes a number or a key term from the stored answer, the stored answer is shown word for word instead.
+The team added a **relevance threshold** to retrieval: notes below a tested match score are not inserted, and the assistant says it has no information instead. Wording rules were moved out of the prompt into a **post-generation check** that rejects and regenerates answers that break them. Both changes were measured on a fixed evaluation set of real questions before and after the change.
 
 ### What it shows
 
-The case illustrates four points from this chapter:
-
-1. **Context quality includes relevance.** Accurate material supplied for the wrong question is a source of error, not grounding. Prompt design covers what is retrieved as well as what is written.
-2. **Checks belong outside the model.** The relevance gate and the wording check are rules applied by the system, not requests to the model to be careful, in the same way as Worked example 4's number check.
-3. **Consistency is designed, not hoped for.** Low temperature reduces variation; storing answers removes it for repeated questions. Both are choices made in the system around the prompt.
-4. **Some answers must stay live.** Freezing everything would make current-information answers stale. Good design separates what should be stable from what should be fresh.
-
-### What remains open
-
-Persistence raises a new maintenance question: when the underlying verified knowledge is corrected or improved, stored answers built on the old version must be refreshed, or the platform will consistently repeat an outdated answer. The relevance gate also has to be tuned: set too strictly, it may exclude a useful record; set too loosely, the original problem returns.
-
-**[founder figure: share of questions now answered from stored answers]** **[founder figure: rate at which the relevance gate rejects retrieved records]**
-
-### Discussion questions
-
-1. Why did a single off-topic record affect agents with completely different lanes?
-2. How is the relevance gate similar to the advice in Section 3 to ask whether each piece of context is needed for the task?
-3. What are the benefits and the risks of returning the same stored answer to the same question every time?
-4. Which kinds of question in your own business should get a stable, stored answer, and which should always be answered fresh?
+1. **Context quality includes relevance.** Accurate material for the wrong question is a source of error, not grounding.
+2. **Checks belong outside the model.** Rules applied by the system are reliable in a way that requests to the model are not.
+3. **Test on a fixed evaluation set.** Changes to prompts and retrieval should be measured, not judged by impression.
+4. **"I don't know" is a feature.** Refusing without relevant context prevents confident wrong answers.
 
 ## SKA Lab: Design, test and score agent instructions
 
@@ -468,7 +440,7 @@ Context is the most important ingredient and should be needed, trustworthy, curr
 
 Templates with clear variables, managed in a prompt library with owners, versions, test results and change records, turn individual skill into team capability. Prompts are tested with rubrics, where critical criteria act as gates, and with fixed test sets that must be large enough to reveal rare but harmful failures; roughly 59 cases are needed to be 95 percent sure of seeing a failure that occurs 5 percent of the time. Each revenue task has its own patterns, and prices and calculations always come from systems, not models.
 
-Inside automated systems, prompt chains simplify complex tasks, and deterministic checks on numbers, names, banned terms, format and length catch what prompts cannot prevent. Defences against prompt injection are layered, data sent to providers should be minimized, and content must be honest and lawful, with AI disclosed to buyers. The Sales King Academy field case showed that grounding fails when the context is irrelevant, and how a relevance gate, persistent answers and wording checks made answers more reliable while keeping live answers fresh.
+Inside automated systems, prompt chains simplify complex tasks, and deterministic checks on numbers, names, banned terms, format and length catch what prompts cannot prevent. Defences against prompt injection are layered, data sent to providers should be minimized, and content must be honest and lawful, with AI disclosed to buyers. The field case showed that grounding fails when the context is irrelevant, and that relevance thresholds and checks outside the model fix it.
 
 ## Key terms
 
@@ -512,7 +484,7 @@ Inside automated systems, prompt chains simplify complex tasks, and deterministi
 12. Why should prices in a renewal message be calculated by the system rather than the model?
 13. What layered defences protect a prompt against injection?
 14. In the Northgate case, how did an invented statistic spread, and what stopped it?
-15. In the SKA field case, why did accurate knowledge produce wrong answers, and what did the relevance gate change?
+15. In the field case, why did accurate notes produce wrong answers, and what did the relevance threshold change?
 
 ## Answer key
 
@@ -530,7 +502,7 @@ Inside automated systems, prompt chains simplify complex tasks, and deterministi
 12. Models can round or misstate numbers, as when $1,609.20 became about $1,610. A misstated price creates confusion or a dispute, so the system calculates figures exactly and the prompt only places them, with a number check to confirm.
 13. Separating instructions from data and telling the model to treat outside content only as information, limiting the confidential material the model can reach, passing outputs through deterministic checks and human review for risky categories, and including injection attempts in test sets.
 14. It began as an illustration in one representative's prompt and spread as colleagues copied the prompt. A central library with an approved claims list, a rule to use only those claims and a number check to block any unapproved figure stopped it.
-15. A retrieval bug supplied one off-topic record as grounding for unrelated questions, and the model treated it as relevant, so it dominated answers across agents. The relevance gate checks that each retrieved record is on topic before it is used, so unrelated records are no longer supplied.
+15. Retrieval inserted the nearest note even when it was about a different product, and the model treated it as relevant. The threshold keeps low-scoring notes out of the prompt, so the assistant says it has no information instead of answering from the wrong product.
 
 ## Further reading
 

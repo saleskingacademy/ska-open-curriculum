@@ -3,9 +3,6 @@ key: ai_content_marketing_systems
 title: "AI Content Marketing Systems"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 2"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -202,7 +199,7 @@ Editing works best as several focused passes rather than one general read. Each 
 5. **Readability**: is it at the right reading level for the audience?
 6. **Format**: headings, lists, links, images with descriptive alternative text, and a clear call to action.
 
-AI can perform a first version of passes 3 to 6 well, flagging problems for the editor. Passes 1 and 2 need a person who understands the audience and the business. One problem deserves special attention in AI-assisted text: **repetition**. Models tend to restate points in slightly different words, especially across long pieces or across many pieces generated from similar instructions. An editor should look for the same idea appearing twice and keep only the better version; the Sales King Academy field case later in this chapter shows how much duplication can accumulate when this check is skipped at scale.
+AI can perform a first version of passes 3 to 6 well, flagging problems for the editor. Passes 1 and 2 need a person who understands the audience and the business. One problem deserves special attention in AI-assisted text: **repetition**. Models tend to restate points in slightly different words, especially across long pieces or across many pieces generated from similar instructions. An editor should look for the same idea appearing twice and keep only the better version; the field case later in this chapter shows how much duplication can accumulate when this check is skipped at scale.
 
 ### Readability scores
 
@@ -438,48 +435,29 @@ Cedar & Pine is an online retailer of solid-wood furniture with a small marketin
 
 **Questions to consider.** Why did tripling output with AI fail to raise sales? What role did customer-service emails play in the new strategy? Which single control would have prevented the damaging cleaning advice?
 
-## SKA Field Case Study: Removing duplicate text across a curriculum
+## Field Case Study: Removing duplicate text across a content library
 
-This case comes from Sales King Academy's own content operation: the curriculum you are reading now. It concerns two problems that any business publishing a large body of AI-assisted content can face: material that repeats itself, and good material that readers cannot reach.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy publishes an education catalogue of 1,119 subjects organized into 107 textbooks, at eight levels anchored to real education levels, with every unit labelled by its own 16-digit DNA-16 identifier. The material is written with AI assistance under human direction and is also published in a public curriculum repository on GitHub. The platform's agents answer students' questions from this material, and Deterministic mode answers only from verified knowledge, so the quality of the stored text directly shapes the quality of every answer built on it.
+Harborline's marketing team used AI assistance to draft several hundred help articles and blog posts from similar briefs over a few months. Each piece was edited, but no one compared pieces against each other.
 
 ### The problems it caused
 
-Two problems surfaced in audits in early October 2026.
-
-**Duplicated text.** An audit found repeated sentences across a large part of the catalogue. On 7 and 8 October, 466 subjects had repeated text removed, a total of 1,006 duplicate sentences. The problem was concentrated in exactly the subjects this program is built around: in sales and marketing, about half of the text was duplicated. Repetition of this kind wastes the reader's time, makes material look padded, and weakens the grounding that agents draw on, because the same point restated several times adds bulk without adding knowledge.
-
-**Unreachable content.** A separate audit on 7 October found that the subject index pointed 55 core sales subjects at the wrong folder. The material existed, but students who opened those subjects saw nothing. Good content that cannot be found has, for the reader, the same value as content that was never written.
+An audit found that whole paragraphs recurred across dozens of articles with only small changes in wording. Readers saw the same explanation repeatedly, search engines treated many pages as near-copies, and genuinely useful passages were buried in repetition.
 
 ### What was done
 
-The duplicates were removed while every distinct worked example was kept. That rule matters: the aim was to remove repeated sentences, not to cut material indiscriminately, and worked examples carry much of a textbook's teaching value. For the unreachable subjects, a single fix to the index restored all 55.
-
-Figures the founder holds would complete the picture: **[founder figure: word count of affected subjects before and after duplicate removal]**, **[founder figure: number of student visits to the 55 subjects before and after the index fix]**, **[founder figure: change in answer quality or student feedback after clean-up]**.
+The team used a standard near-duplicate detection method: each paragraph was broken into overlapping word sequences (**shingles**), and the similarity between paragraphs was estimated with **MinHash**, the technique Andrei Broder described in 1997 for finding near-duplicate web pages. Pairs above a similarity threshold were reviewed by an editor, who kept the best version, rewrote or removed the rest, and linked to the kept version where the topic recurred. A similarity check was then added to the editing workflow so new drafts are compared with the library before publication.
 
 ### What it shows
 
-The case illustrates five points from this chapter:
-
-1. **Repetition is the characteristic flaw of AI-assisted content at scale.** Section 5 named repetition as a problem to check for in every edit. When many pieces are generated from similar instructions and the check is skipped, duplication accumulates until it makes up a large share of the text, as it did in the sales and marketing subjects here.
-2. **Quality control must distinguish repetition from substance.** Removing duplicates while keeping every distinct worked example is the content equivalent of the merge decision in Section 11: keep the strongest version of each idea, remove the copies, and protect the material that does the teaching.
-3. **Distribution failures can hide good work.** The index problem is a distribution failure in the sense of Section 7. A single broken lookup made 55 subjects invisible, and a single fix restored them. Content inventories and periodic audits catch such failures; page-by-page editing never will.
-4. **Grounded systems inherit the quality of their sources.** Because the platform's agents answer from stored material, content quality is product quality. A duplicated or unreachable passage weakens every answer that depends on it.
-5. **Audits are a routine, not an event.** Both problems were found by deliberate audits, not by chance. A content system that audits its own inventory finds its problems before its readers do.
-
-### What remains open
-
-The case leaves questions that are good practice for any content operation. How can duplication be caught at the moment of writing, rather than in a later clean-up, for example by checking each new piece against existing material before it is published? What automated check would confirm that every subject in the index points to material that exists and is non-empty? How should the quality of AI-assisted chapters be measured beyond word counts, for instance by the share of review questions students answer correctly? Results for the founder to add: **[founder figure: duplicate-sentence rate in new material since the clean-up]**, **[founder figure: frequency of index and link audits]**.
-
-### Discussion questions
-
-1. Why might AI-assisted material in sales and marketing in particular have accumulated so much repeated text?
-2. Why was it important to keep every distinct worked example while removing duplicates, rather than simply cutting text to a target length?
-3. How is a broken index entry similar to a well-written article that is never distributed?
-4. Design one automatic check that could have prevented each of the two problems described in this case.
+1. **Repetition is the characteristic flaw of AI-assisted content at scale.** Similar instructions produce similar text unless something checks.
+2. **Quality control must separate repetition from substance.** Similarity scores find candidates; an editor decides what stays.
+3. **Use established methods.** Shingling and MinHash are well understood, cheap to run and easy to explain.
+4. **Put the check where content is made.** Catching a duplicate before publication costs far less than cleaning a library afterwards.
+5. **Measure the result.** Track the share of near-duplicate paragraphs over time, not just the number removed once.
 
 ## SKA Lab: Build a brief-driven content workflow with an AI agent
 
@@ -495,7 +473,7 @@ In this lab you build a small content workflow on the live Sales King Academy pl
 6. **Build a brand-voice agent.** Open Agent Builder and create an agent on top of Amplify as its base. In its instructions, include your voice traits, two do-and-don't pairs, a short vocabulary list and one claim rule.
 7. **Edit with your agent.** Give your new agent the draft from step 3 and ask it to revise for voice and to flag sentences that repeat earlier points. Compare the before and after versions.
 8. **Fact-check and score.** Build a claims register for the revised draft, as in Section 6. Then calculate its Flesch Reading Ease and Grade Level by hand from word, sentence and syllable counts, and check your arithmetic by asking an agent to compute it.
-9. **Record usage.** If your session used Beats, check your usage on your account. Usage is metered by seconds of compute, and only full seconds are charged; 1 Beat equals 1 US dollar. Record what the session cost, or that it used only free allowance.
+9. **Record usage.** If your session used Beats, check your usage on your account. 1 Beat equals 1 US dollar. Record what the session cost, or that it used only free allowance.
 
 ### Record your results
 
@@ -524,7 +502,7 @@ Strategy defines personas from evidence, maps content to the stages of the buyin
 
 Editing runs as focused passes for structure, substance, line, voice, readability and format, with special attention to repetition. Readability formulas such as Flesch Reading Ease and Flesch-Kincaid Grade Level are rough but useful guides. A claims register traces every factual claim to a source and a checker. Repurposing turns one strong piece into many channel-specific assets, and a distribution plan uses owned, earned, social, paid and sales channels. Content for search and AI answer systems should match intent, show experience and expertise, cite sources and stay current.
 
-Measurement should move from reach and engagement to conversions and business outcomes, using consistent attribution and comparisons such as cost per qualified lead, with A/B tests judged by a significance check. Marketing content must be truthful and substantiated, testimonials must be genuine, AI involvement must not mislead, copyright must be respected, and email and data-protection rules must be followed. The Sales King Academy field case showed duplication accumulating in AI-assisted material, removed without losing worked examples, and a single broken index entry hiding 55 subjects until one fix restored them.
+Measurement should move from reach and engagement to conversions and business outcomes, using consistent attribution and comparisons such as cost per qualified lead, with A/B tests judged by a significance check. Marketing content must be truthful and substantiated, testimonials must be genuine, AI involvement must not mislead, copyright must be respected, and email and data-protection rules must be followed. The field case showed duplication accumulating in AI-assisted material and how shingling, MinHash and an editor's judgment removed it without losing substance.
 
 ## Key terms
 
@@ -574,7 +552,7 @@ Measurement should move from reach and engagement to conversions and business ou
 12. In an A/B test, a z value of 1.40 is calculated. Is the difference significant at the 5 percent level?
 13. What must a business be able to show before publishing a claim such as "cuts admin time in half"?
 14. What position has the US Copyright Office taken on material generated by AI, and what can a business do to protect its content?
-15. In the SKA field case, why did the duplicate removal keep every distinct worked example?
+15. In the field case, why did an editor, not the similarity score, decide which version of a repeated paragraph to keep?
 
 ## Answer key
 
@@ -592,7 +570,7 @@ Measurement should move from reach and engagement to conversions and business ou
 12. No. 1.40 is less than 1.96, so the difference could plausibly have arisen by chance at the 5 percent level.
 13. Evidence that the claim is true for typical customers, because marketing claims must be truthful and objective claims must be substantiated.
 14. That copyright protects human authorship, so AI-generated material with little human creative contribution may not be protected. A business can ensure meaningful human selection, arrangement and editing, keep records of how important pieces were made, and check its provider's terms.
-15. Because the aim was to remove repeated sentences, not useful material, and worked examples carry much of a textbook's teaching value; keeping the strongest version of each idea is the merge principle applied to content.
+15. Because MinHash only estimates how similar two passages are; it cannot judge which is clearer or more accurate. The score finds candidates and a person keeps the strongest version, so substance is not lost with the repetition.
 
 ## Further reading
 

@@ -3,9 +3,6 @@ key: ai_integration_architecture
 title: "AI Integration Architecture"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 7"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Integration Architecture
 
-An AI model on its own answers questions. An AI model connected to a business's CRM, email, calendar, payment system and knowledge base can do work. This chapter is about those connections: how AI features are wired into the rest of a company's software, and how to design that wiring so it is reliable, secure, affordable and easy to change. You will learn the parts of a typical AI integration, how APIs, webhooks, queues and tool protocols work, how to connect models through a layer you control, how to build retrieval that returns the right material, how to survive failures without duplicating work, how to keep secrets and data safe, how to control cost, and how to watch a live system. The chapter closes with a field case from the Sales King Academy platform, where several small links in the architecture decided what users actually saw, and a lab on the live site.
+An AI model on its own answers questions. An AI model connected to a business's CRM, email, calendar, payment system and knowledge base can do work. This chapter is about those connections: how AI features are wired into the rest of a company's software, and how to design that wiring so it is reliable, secure, affordable and easy to change. You will learn the parts of a typical AI integration, how APIs, webhooks, queues and tool protocols work, how to connect models through a layer you control, how to build retrieval that returns the right material, how to survive failures without duplicating work, how to keep secrets and data safe, how to control cost, and how to watch a live system. The chapter closes with a field case study, where several small links in the architecture decided what users actually saw, and a lab on the live site.
 
 ## Learning objectives
 
@@ -425,52 +422,29 @@ Changes to models, prompts and routing should be released gradually where possib
 
 Every integration creates some dependence on the services it uses. **Lock-in** becomes a problem when switching away would require rebuilding large parts of the system. The model gateway, standard data formats, open protocols such as MCP, and keeping prompts, business rules and data in the business's own systems all reduce lock-in. Some dependence is unavoidable and worth accepting in exchange for speed; the point is to choose it deliberately and know what leaving would cost.
 
-## SKA Field Case Study: Small links that decide what users see
+## Field Case Study: Small links that decide what users see
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy runs as a serverless program on Cloudflare's network. It includes 26 specialist agents with private per-user memory, three answer modes (Deterministic, Auto and Natural), chat source badges, an Agent Builder, Automations, a CRM, vault connections through which customers connect their own tools, a Beats wallet metered by seconds of compute, keyless web search across several public sources, and an education catalogue of 1,119 subjects in 107 textbooks. Each of these features depends on links between components: an index pointing to content, a router choosing a model, a store holding files, a backup ready to restore.
+Harborline's learning portal assembles each course page from three services: a catalogue that lists courses, a content store that holds lessons, and an index that maps catalogue entries to content.
 
 ### The problems it caused
 
-Between September and October 2026, four events showed how much depends on those links.
-
-1. **A plan change removed a component.** On 10 September, the platform moved to Cloudflare's free plan. That plan disabled R2 file storage and tightened database limits, so any feature depending on R2 lost its storage, and the databases had less room.
-2. **Knowledge rows were lost.** On 7 September, a large share of the platform's deterministic knowledge rows was lost.
-3. **A broken lookup hid good content.** On 7 October, an audit found that the subject index pointed 55 core sales subjects at the wrong folder. The material existed, but students opening those subjects saw nothing.
-4. **Routing did not match the business model.** Also on 7 October, it was found that unpaid users had been served by the platform's most expensive model.
+After a routine update, dozens of courses showed empty pages. The content and the catalogue were both intact; the index had been rebuilt with a changed key format, so lookups silently found nothing. No error was raised, because "no lessons found" is a valid answer.
 
 ### What was done
 
-- **Restoring from backups.** The lost knowledge rows were recovered from nightly database backups kept in a separate, access-controlled backup location. The backups existed outside the live system and could be restored, which is the property that matters.
-- **One index fix.** Correcting the subject index restored all 55 subjects at once. The content had never been missing; only the link to it was wrong.
-- **Tiered routing.** Routing was changed so that free and explorer tiers use a small free model, while paid tiers get the large models, aligning model cost with revenue in the way Worked example 2 describes.
-- **Returning to a paid plan.** On 6 October, the platform returned to Cloudflare's Workers paid plan, at $5 a month, restoring the components and headroom the free plan had removed.
+The team restored the previous key format, then added **contract tests** that check every catalogue entry resolves to non-empty content, and a **referential-integrity** check, the same idea as a database foreign key, that fails the build if any link points nowhere. They also listed every platform limit and dependency the system relied on, so that plan or version changes are checked against it.
 
 ### What it shows
 
-The case illustrates five points from this chapter:
-
-1. **Platform limits are architecture.** A plan change removed a component outright. Systems should list the platform features and limits they depend on, and check them when plans change.
-2. **Backups are only as good as restoration.** Recovery worked because the backups were stored separately and could be restored, which is why restoring a backup should be practised before it is needed.
-3. **Lookups need their own tests.** Fifty-five subjects were invisible because of one wrong index entry, and no AI component could have noticed. An automated check that every subject in the index resolves to real content would have caught it.
-4. **Routing is a business decision implemented in code.** Which model serves which user belongs in a single routing layer, where it can be checked against the pricing model and changed in one place.
-5. **The cheapest fix is often a link, not a rebuild.** None of these problems needed new AI capability. They needed the right connection, configuration or restore.
-
-### What remains open
-
-- How often are backups test-restored, and how long does a full restore take? **[founder figure: restore test frequency and duration]**
-- How many students opened the 55 affected subjects while the index was wrong? **[founder figure: affected student sessions]**
-- What was the model cost of serving unpaid users with the large model before the routing change, and what is it now? **[founder figure: monthly model cost before and after the routing change]**
-- Which automated checks now guard the subject index and the routing rules against a repeat?
-
-### Discussion questions
-
-1. Which of the four events would an ordinary software test have caught, and which needed an audit? How would you turn the audit into an automated test?
-2. Why is a single index fix that restores 55 subjects a sign of good architecture, even though the index was wrong?
-3. If you were designing the platform's free tier from scratch, what would you put in the routing layer and why?
+1. **Integration points are where silent failures live.** Each service was fine; the connection between them was not.
+2. **Test the links, not just the parts.** A contract test across services catches what unit tests inside each service cannot.
+3. **Empty is not the same as correct.** Treat "nothing found" for something that should exist as an error.
+4. **Write dependencies down.** A list of the limits and features a system relies on turns surprises into checks.
+5. **Fix the cause, not the symptoms.** Dozens of broken pages had one fault; diagnosis saved rewriting any content.
 
 ## SKA Lab: Trace the integration points of a live platform
 
@@ -508,7 +482,7 @@ An AI integration architecture is the set of decisions about how clients, a gate
 
 APIs carry requests over HTTP with methods, status codes and authentication by API keys or OAuth tokens with limited scopes. Webhooks deliver events and must be verified by signature and processed once. Queues smooth spikes and make retries safe, and rate limits turn into calendar time. A model gateway holds credentials, routes requests to the right model, applies reliability rules and records cost, with prompts treated as versioned configuration and outputs validated against schemas. Tool calling and the Model Context Protocol let models request actions, while the application keeps control of what runs.
 
-Retrieval needs clean chunks, embeddings, metadata filters and relevance thresholds, and exact questions belong to deterministic lookups whose indexes must be tested. Reliability comes from timeouts, retries with backoff and jitter, idempotency keys, circuit breakers, fallbacks and failing closed on money and security checks. Data needs a clear system of record, deliberate caching rules and backups that are tested by restoring them. Security rests on secrets management, input validation, treating outside content as data, tenant isolation, least privilege, an outgoing filter and audit logs. Cost is controlled by routing, context control, caching, deterministic paths, scheduling, limits and metering. The Sales King Academy field case showed that a plan change, a lost dataset, a wrong index entry and a routing rule each affected users more than any model did, and that each was fixed at the right link.
+Retrieval needs clean chunks, embeddings, metadata filters and relevance thresholds, and exact questions belong to deterministic lookups whose indexes must be tested. Reliability comes from timeouts, retries with backoff and jitter, idempotency keys, circuit breakers, fallbacks and failing closed on money and security checks. Data needs a clear system of record, deliberate caching rules and backups that are tested by restoring them. Security rests on secrets management, input validation, treating outside content as data, tenant isolation, least privilege, an outgoing filter and audit logs. Cost is controlled by routing, context control, caching, deterministic paths, scheduling, limits and metering. The field case showed how one changed key format silently emptied dozens of pages, and how contract tests and referential-integrity checks catch such faults before release.
 
 ## Key terms
 
@@ -566,7 +540,7 @@ Retrieval needs clean chunks, embeddings, metadata filters and relevance thresho
 13. When should a system fail closed rather than fall back to allowing an action?
 14. What must be part of the cache key for answers that depend on private data, and why?
 15. Name four levers for controlling the cost of an AI integration.
-16. In the SKA field case, why did one index fix restore 55 subjects, and what test would have caught the problem earlier?
+16. In the field case, why did restoring one key format fix dozens of empty course pages, and what test would have caught the problem earlier?
 
 ## Answer key
 
@@ -585,7 +559,7 @@ Retrieval needs clean chunks, embeddings, metadata filters and relevance thresho
 13. Whenever the check protects money, security or access, such as confirming a balance before a paid action or verifying permissions. If the check cannot be completed, the action must be refused.
 14. The user's identity and permissions, so that one user is never served a cached answer built from another user's private data.
 15. Any four of: routing to the smallest adequate model; sending only necessary context; caching repeated answers; answering exact questions deterministically; batching and scheduling background work; per-user and per-feature limits; metering cost per call.
-16. The subject material existed; only the index entries pointing to it were wrong, so correcting the index reconnected all 55 subjects at once. An automated test that checks every subject in the index resolves to real content would have caught it.
+16. The content and catalogue were intact; only the index links between them were broken, so fixing the key format reconnected every course at once. A contract test that checks every catalogue entry resolves to non-empty content would have failed the build before release.
 
 ## Further reading
 

@@ -2,7 +2,7 @@
 
 Canonical ID: AR-L01-05. Established mathematics; Arithmetic.
 Read [existing Lesson 5](level_01_lessons_01_05.md#lesson-5-number-lines-and-zero) with this companion. Its signed-operation and division statements are previews, not prerequisites assumed mastered. Prerequisites: [comparison](lesson_04_comparing_and_ordering.md), counting and place value. Next: [Lesson 6](lesson_06_zero_and_negatives.md).
-Education-16 and Symbol256: deferred until source validation.
+Catalog placement and topic tags: deferred until source validation.
 
 ## Objectives, notation, and vocabulary
 

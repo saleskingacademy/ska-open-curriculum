@@ -28,11 +28,11 @@ Published machine-readable targeted evidence: [validation report](VALIDATION_14_
 
 Next: Lessons 17–20 covering multi-digit subtraction, signed addition/subtraction, estimation/checking and integrated operations mastery, then two-form Level 2 cumulative assessment. Remaining course lessons, final examination, full capstone, prerequisite closure, academic review, metadata mapping and production serving verification remain open.
 
-Education-16 and Symbol256 mappings remain deferred per existing standards. No private operational code, Chain64 core, learner record or payment configuration is changed. No deployment, learner-serving update, email send, revenue receipt or hardware quantum execution is claimed by this content commit.
+Catalog placement and topic tagging remain deferred per existing standards. No private operational code, learner record or payment configuration is changed. No deployment, learner-serving update, email send, revenue receipt or hardware quantum execution is claimed by this content commit.
 
 ## Post-commit CI result
 
-Content commit: `7945ea3b1d4edb59430a67ae45769e8b44776f73`. GitHub Actions run `38012970291` passed Python compilation and JavaScript syntax, then failed the existing knowledge-only integrity lint. Education-16 and JSON validation steps were skipped, so full CI is not passed.
+Content commit: `7945ea3b1d4edb59430a67ae45769e8b44776f73`. GitHub Actions run `38012970291` passed Python compilation and JavaScript syntax, then failed the existing knowledge-only integrity lint. Catalog and JSON validation steps were skipped, so full CI is not passed.
 
 The lint script and every flagged knowledge file are unchanged by the content commit (verified against its parent diff). Inspection identifies these distinct findings:
 

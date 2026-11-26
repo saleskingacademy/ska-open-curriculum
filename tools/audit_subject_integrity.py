@@ -70,9 +70,11 @@ def audit(repair):
         row = dict(existing.get(sid, {}))
         row.update({"key":sid, "title":meta.get("title") or sid.replace("_"," ").title(),
                     "program":folder, "course_level":int(meta.get("course_level") or row.get("course_level") or 1),
-                    "path":rel, "dna16":meta.get("dna16") or None, "l4_address":meta.get("l4_address") or "",
+                    "path":rel,
                     "sections":list(dict.fromkeys(m.group(1).upper() for m in re.finditer(r"^##\s+(.+)$", body, re.M))),
                     "chars":len(content), "sha256":hashlib.sha256(raw).hexdigest()})
+        for private in ("dna16", "l4_address", "chain256_anchor"):   # platform-internal, not published
+            row.pop(private, None)
         corrected[sid] = row
         if row != existing.get(sid):
             changed += 1

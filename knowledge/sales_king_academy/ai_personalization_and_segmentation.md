@@ -3,9 +3,6 @@ key: ai_personalization_and_segmentation
 title: "AI Personalization And Segmentation"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 9"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Personalization and Segmentation
 
-This chapter teaches you how to divide a market into groups that share real needs, and how to tailor messages, offers and experiences to those groups and to individual buyers, using AI where it helps and data that people would be comfortable knowing you hold. Segmentation decides who you are talking to; personalization decides what you say to them. Done well, both make marketing and sales feel relevant instead of generic, and they direct limited time and money to the buyers most likely to succeed with your product. Done badly, they waste effort on groups that do not exist, embarrass the business with wrong assumptions, or cross legal and ethical lines on privacy and fairness. You will learn to build segments from an ideal customer profile and from data, size and prioritise them, use clustering and scoring methods, write a message matrix, test whether personalization actually works, and check it for consent and fairness. The chapter closes with a field case from the Sales King Academy platform and a lab in which you build a segment-specific agent with the live Agent Builder.
+This chapter teaches you how to divide a market into groups that share real needs, and how to tailor messages, offers and experiences to those groups and to individual buyers, using AI where it helps and data that people would be comfortable knowing you hold. Segmentation decides who you are talking to; personalization decides what you say to them. Done well, both make marketing and sales feel relevant instead of generic, and they direct limited time and money to the buyers most likely to succeed with your product. Done badly, they waste effort on groups that do not exist, embarrass the business with wrong assumptions, or cross legal and ethical lines on privacy and fairness. You will learn to build segments from an ideal customer profile and from data, size and prioritise them, use clustering and scoring methods, write a message matrix, test whether personalization actually works, and check it for consent and fairness. The chapter closes with a field case study and a lab in which you build a segment-specific agent with the live Agent Builder.
 
 ## Learning objectives
 
@@ -440,50 +437,28 @@ She tested the onboarding sequence against the old generic welcome on alternate 
 - **Ignoring fairness.** Screen models and targeting rules for unequal treatment, and watch for proxies.
 - **Never revisiting segments.** Markets and customers change; review segments on a schedule.
 
-## SKA Field Case Study: Relevant, consistent and private answers for each user
+## Field Case Study: Relevant, consistent and private answers for each user
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns how the platform personalises answers for each user while keeping them relevant, consistent and private, and two changes made on 7 and 8 October 2026.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy offers 26 specialist AI agents, each with its own lane. Amplify handles marketing, Closer handles sales closing, Prospect handles lead generation, Monetize handles pricing, and so on. Each agent keeps a private memory for each user, so an agent can tailor its help to what that user has told it before, and no other user can see that memory. Agents answer from the platform's verified knowledge first, and chat source badges show where each answer came from.
-
-In this sense the platform is itself a personalization system. It segments requests by lane (which agent and which subject), tailors answers to the individual through per-user memory, and draws on a shared body of verified knowledge as its proof points, much as a message matrix supplies approved claims to every variant.
+Harborline's assistant remembers each customer's stated preferences, such as preferred tone and product line, to personalise replies.
 
 ### The problems it caused
 
-**One record dominating everyone's answers.** An audit on 7 October found a retrieval bug: one off-topic knowledge record was being pulled into answers across many agents, regardless of what the user had asked. It was a little like a marketing system that shows every segment the same case study because a mapping is wrong. The answers were still grounded in stored knowledge, but in knowledge that did not fit the question, so the grounding made them less useful rather than more.
-
-**Inconsistent answers to the same question.** Before 8 October, a user who asked the same question twice could receive differently worded, and sometimes differently substantive, answers. For a learning platform, that undermines trust: a student cannot tell which version to believe.
+Three problems appeared. Retrieval sometimes pulled a stored note that was only loosely related to the question; the same question asked twice could get two different factual answers; and a configuration error let one customer's stored preference appear in another customer's replies.
 
 ### What was done
 
-**An on-topic relevance gate.** The retrieval step now checks whether a knowledge record is actually on topic for the question before letting it shape the answer. Records that do not pass are left out. This is the equivalent of making sure every variant in a personalised campaign draws only on proof points from its own segment's row of the matrix.
-
-**Persistent answers.** From 8 October, answers are persistent in every mode: the same question asked in the same context returns the same stored answer. Context matters, so personalization is preserved where it belongs, while consistency is guaranteed where nothing relevant has changed. Live web answers, such as news or exchange rates, are deliberately not frozen, because their correct answer changes over time.
-
-These changes sit alongside two standing design choices: each agent's memory of a user is private to that user, and a user sees only their own DNA-16 identifier, usage and Beats, with internal numbers stripped from everything the platform sends out.
+The team applied three standard controls. Retrieval gained a **relevance threshold**, so loosely related notes are ignored. Factual answers are generated with fixed settings and grounded in the same records each time, so the facts stay consistent while the wording can vary. And per-customer memory was enforced with **tenant isolation**: every read and write is scoped to the customer's own identifier at the data layer, so one customer's data cannot be retrieved for another even if application code makes a mistake.
 
 ### What it shows
 
-The case illustrates four points from this chapter.
-
-1. **Relevance beats volume.** Grounding an answer in stored knowledge helps only when that knowledge fits the question, just as personalization helps only when the content fits the segment.
-2. **Segmentation needs clean assignment.** A single record leaking into every lane is the same failure as a contact assigned to the wrong segment, multiplied across all users at once.
-3. **Personalise where context differs; stay consistent where it does not.** Persistent answers tie the response to the question and its context, so two users in different situations can receive different answers, while the same user asking the same thing gets the same reliable answer.
-4. **Privacy is part of the design.** Per-user private memory and a user view limited to DNA-16, usage and Beats show personalization that uses what users knowingly shared, without exposing anything they did not.
-
-### What remains open
-
-The platform still needs measured evidence on several questions. How often did the off-topic record appear in answers before the gate, and what share of answers changed after it? Did users rate answers more highly, or ask fewer repeat questions, after answers became persistent? How should the platform decide when a change in context is large enough to justify a different stored answer?
-
-Results for the founder to add: **[founder figure: share of answers affected by the off-topic record before the relevance gate]** **[founder figure: change in repeat questions or answer ratings after persistent answers]**.
-
-### Discussion questions
-
-1. How is a relevance gate in answer retrieval similar to checking that each personalised email draws only on its own segment's proof points?
-2. What counts as "the same context" for a stored answer? Name two things about a user or a question that should cause a different answer, and two that should not.
-3. Why is it right that live web answers are not frozen, while answers from verified course knowledge are?
+1. **Relevance beats volume.** Stored knowledge helps only when it fits the question.
+2. **Segmentation needs clean assignment.** A record leaking across customers is the same failure as a contact in the wrong segment, multiplied.
+3. **Personalise wording; keep facts consistent.** Users trust a system whose facts do not change when they ask again.
+4. **Enforce privacy at the data layer.** Isolation built into storage protects against mistakes in the code above it.
 
 ## SKA Lab: Build a segment-specific agent
 
@@ -497,7 +472,7 @@ In this lab you use the live Sales King Academy platform to build and test perso
 4. **Test relevance.** Ask your agent to draft a first outreach email for the "aware of problem" stage. Then ask it to draft the same email for a buyer from a completely different segment (for example, a marketing agency). Note whether it adapts sensibly, asks for more information, or forces the law-firm message onto the wrong buyer.
 5. **Test for invented specifics.** Ask the agent: "What percentage of law firms lose revenue to scheduling gaps?" Record whether it gives a sourced figure, says it does not have one, or produces an unsourced number. Check the source badge.
 6. **Test consistency.** Ask the same question from step 4 again, word for word, in the same conversation context. Compare the two answers.
-7. **Test memory and privacy.** Tell the agent one preference (for example, "Keep all drafts under 120 words"). In a later message, ask for another draft and check whether the preference was applied. Then open your account view and note what it shows about you: your DNA-16, your usage and your Beats.
+7. **Test memory and privacy.** Tell the agent one preference (for example, "Keep all drafts under 120 words"). In a later message, ask for another draft and check whether the preference was applied. Then open your account view and note what it shows about you: your own account details, usage and balance.
 8. **Record test contacts.** In the CRM, create three clearly fictional test contacts, one per buying stage, and note which matrix cell each would receive.
 
 ### Record your results
@@ -524,7 +499,7 @@ Good segments start from an ideal customer profile and pass five tests: measurab
 
 A message matrix sets out what each segment should hear at each stage, and gives AI the grounded material it needs to draft variants. Specific claims must come from checked sources. Personalization must be tested against the best generic baseline with sample sizes planned in advance.
 
-Personalization is bound by consent, transparency, purpose limitation and data minimisation, and by special care for sensitive data and inferred traits. Fairness screens such as the disparity ratio help detect unequal treatment, including through proxies. The Sales King Academy field case showed how a relevance gate, persistent answers and private per-user memory keep personalised answers relevant, consistent and private.
+Personalization is bound by consent, transparency, purpose limitation and data minimisation, and by special care for sensitive data and inferred traits. Fairness screens such as the disparity ratio help detect unequal treatment, including through proxies. The field case showed how a relevance threshold, consistent factual answers and tenant-isolated memory make personalisation relevant, reliable and private.
 
 ## Key terms
 
@@ -565,7 +540,7 @@ Personalization is bound by consent, transparency, purpose limitation and data m
 10. What is the "creepiness line", and what simple test helps you notice when you have crossed it?
 11. How can a model treat groups unequally without ever seeing a protected characteristic?
 12. What does a disparity ratio of 0.60 mean, and what should a team do when it finds one?
-13. In the SKA field case, why did grounding in stored knowledge make some answers worse before the relevance gate?
+13. In the field case, why did retrieving stored notes make some answers worse before the relevance threshold was added?
 
 ## Answer key
 
@@ -581,7 +556,7 @@ Personalization is bound by consent, transparency, purpose limitation and data m
 10. The point at which personalization feels intrusive because it uses data the customer did not knowingly share or reveals sensitive inferences. If the recipient would ask "how do they know that?", it has gone too far.
 11. Through proxies: other fields, such as postal codes or purchase patterns, can be correlated with protected characteristics, and the model can learn patterns from historical data that reflect past unequal treatment.
 12. The less-favoured group receives the favourable outcome at 60 percent of the rate of the most-favoured group, well below the 0.8 screening threshold. The team should investigate which features drive the gap, check whether they are legitimate documented criteria or proxies, compare similarly qualified people across groups, and change the model if the gap cannot be justified.
-13. Because one off-topic record was being pulled into answers across many agents regardless of the question, so the answers were grounded in knowledge that did not fit what the user asked. Grounding only helps when it is relevant.
+13. Because retrieval returned the closest note even when it was only loosely related, so answers were grounded in material that did not fit the question. Grounding helps only when the retrieved knowledge is relevant.
 
 ## Further reading
 

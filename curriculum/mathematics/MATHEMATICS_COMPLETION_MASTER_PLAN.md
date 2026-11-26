@@ -116,4 +116,4 @@ COMPLETE: all previous gates pass and intended zero-to-ceiling competencies are 
 11. SAT/formal/computational mathematics.
 12. AI-augmented mathematics and integrated capstone pathway.
 
-Education-16 and Symbol256 mappings are regenerated only after source content and taxonomy for the relevant units pass validation.
+Catalog placement and topic tags are regenerated only after source content and taxonomy for the relevant units pass validation.

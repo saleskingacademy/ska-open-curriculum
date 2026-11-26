@@ -19,7 +19,7 @@ def prose_words(path):
     text = re.sub(r'```.*?```', '', text, flags=re.S)
     lines = []
     for line in text.splitlines():
-        if re.match(r'^(#|\||Canonical ID:|Prerequisites:|Next:|Education-16|Version:|Status:)', line):
+        if re.match(r'^(#|\||Canonical ID:|Prerequisites:|Next:|Catalog placement|Version:|Status:)', line):
             continue
         lines.append(line)
     return len(' '.join(lines).split())

@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-11. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: foundation counting, numeral/place-value interpretation and equality in Lessons 1–5; [mathematical language](lesson_09_mathematical_language.md) and [foundation mastery](lesson_10_foundation_mastery.md). Revisit any failed foundation outcome before proceeding.
 Next: [Lesson 12](lesson_12_addition_facts.md), then multi-digit addition.
-Education-16 and Symbol256: deferred pending instructional, assessment, prerequisite and taxonomy validation.
+Catalog placement and topic tags: deferred pending instructional, assessment, prerequisite and taxonomy validation.
 
 ## Entry check and learning objectives
 

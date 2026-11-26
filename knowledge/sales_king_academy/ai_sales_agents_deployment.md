@@ -3,9 +3,6 @@ key: ai_sales_agents_deployment
 title: "AI Sales Agents Deployment"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 2"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Sales Agents Deployment
 
-This chapter teaches you how to design, launch and supervise AI agents that carry out sales work with some degree of independence: researching accounts, qualifying inbound leads, drafting outreach, updating the CRM and booking meetings. The previous chapter explained what AI is and how language models produce text. Here the question becomes practical and managerial. How do you decide which sales task an agent should take on first? What tools and permissions should it have? How do you limit what it can spend and send? How do you know when it has earned more autonomy, and how do you catch it when it goes wrong? You will learn to write an agent's job description, estimate its cost per task and per conversation, model its effect on pipeline, run a staged rollout with clear promotion rules, and meet the legal and ethical duties that come with letting software speak to buyers. The chapter closes with a field case from the Sales King Academy platform, where a change in model routing by customer tier corrected the economics of its own agents, and a lab in which you build and test an agent of your own on the live site.
+This chapter teaches you how to design, launch and supervise AI agents that carry out sales work with some degree of independence: researching accounts, qualifying inbound leads, drafting outreach, updating the CRM and booking meetings. The previous chapter explained what AI is and how language models produce text. Here the question becomes practical and managerial. How do you decide which sales task an agent should take on first? What tools and permissions should it have? How do you limit what it can spend and send? How do you know when it has earned more autonomy, and how do you catch it when it goes wrong? You will learn to write an agent's job description, estimate its cost per task and per conversation, model its effect on pipeline, run a staged rollout with clear promotion rules, and meet the legal and ethical duties that come with letting software speak to buyers. The chapter closes with a field case study, where a change in model routing by customer tier corrected the economics of its own agents, and a lab in which you build and test an agent of your own on the live site.
 
 ## Learning objectives
 
@@ -392,7 +389,7 @@ Three design rules keep multi-agent systems manageable:
 - **Pass structured handoffs.** The orchestrator should pass fields such as company, contact, verified facts with sources, and open questions, rather than a long free-text summary that the next agent must interpret.
 - **Put the checker outside the writer.** A quality-check agent that reviews the writing agent's draft against rules and sources catches errors that the writer, rereading its own work, tends to repeat. Where the check can be done by ordinary software, such as confirming every number in a draft matches a CRM field, prefer that over a second model.
 
-The Sales King Academy platform itself is organized this way. It offers 26 specialist agents, each with its own lane: for example, Prospect for lead generation, Closer for sales closing, Funnel for conversion and Monetize for pricing, with King acting as the host. Each keeps its own private memory per user, so what a learner discusses with one agent does not leak into another agent's context. You will work with this structure in the lab.
+The Sales King Academy platform itself is organized this way. It offers specialist agents for different jobs: for example, Prospect for lead generation, Closer for sales closing, Funnel for conversion and Monetize for pricing, with King acting as the host. Each keeps its own private memory per user, so what a learner discusses with one agent does not leak into another agent's context. You will work with this structure in the lab.
 
 ## 12. Legal and ethical duties when agents contact buyers
 
@@ -431,53 +428,28 @@ Agent memory about contacts is personal data. Collect only what the task needs, 
 
 Agents that qualify or prioritize leads make decisions that affect people. Check that qualification rules use business criteria, such as company size, industry and stated need, and not proxies that could disadvantage people unfairly. Review a sample of rejected leads periodically to confirm the agent is applying the criteria you intended.
 
-## SKA Field Case Study: Matching model cost to customer tier
+## Field Case Study: Matching model cost to customer tier
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns the economics of the platform's own AI agents and a routing change made in October 2026.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy offers 26 specialist AI agents to its users, each with its own lane and private per-user memory. Users can try the platform without paying, on free and explorer tiers, or buy Beats, the platform's currency, to use paid features. One Beat equals one US dollar, the minimum purchase is 10 Beats, and paid usage is metered by seconds of compute, with only full seconds charged. The agents generate their answers with hosted language models of different sizes and costs.
-
-On October 7, 2026, an audit of how requests were handled found that unpaid users were being served by the most expensive model available to the platform. Every free question, including simple greetings and questions that the platform's verified knowledge could answer directly, was being sent to the largest model.
+Harborline deployed a sales agent that answers prospects' questions and books demos. It used one large model for every conversation.
 
 ### The problems it caused
 
-The routing decision created three connected problems.
-
-**Cost without revenue.** The heaviest model cost was attached to the group of users who paid nothing. As Section 7 explained, the price difference between small and large models can be very large, so the cost of each free conversation was much higher than it needed to be. **[founder figure: model cost per free-tier conversation before the change]**
-
-**Costs that scale the wrong way.** Free tiers exist to let people try the product, so a successful marketing effort brings in more free users. Under the old routing, every increase in free sign-ups increased the platform's largest cost line before any of those users had paid. Growth itself became a financial risk.
-
-**No reason to upgrade.** If free users already received the largest model, paying customers did not get a clearly better experience in exchange for their Beats. The tiers were priced differently but served the same way, which weakens the case for upgrading.
+Conversion was good, but cost per booked demo was high. Analysis showed most conversations were early, simple questions from visitors who were not yet qualified, each served at the highest cost.
 
 ### What was done
 
-Routing was changed so that requests are assigned a model by the user's tier. Free and explorer tiers are now served by a small free model, and paid tiers are served by the large models. The change was made at the point where each request is assigned its model, so a single decision governs every agent, rather than 26 separate settings.
-
-The change sits alongside the platform's other design choices covered in this course. Answers that can come from verified knowledge are served deterministically, whatever the tier, so many questions never need a large model at all; the source badge on each chat reply shows whether an answer came from deterministic recall, verified knowledge, the web or AI generation.
+The agent's job description was rewritten to state which model serves which requests: a small model handles greetings, FAQs and qualification questions; once a visitor is qualified or asks a complex question, the conversation is handed to the larger model. Hand-off rules were tested on recorded conversations before launch, and cost per booked demo became a tracked metric alongside conversion.
 
 ### What it shows
 
-The case illustrates four points from this chapter:
-
-1. **Model choice is part of agent design.** The agent's job description should state which model serves which requests. Leaving it to a default can attach the highest cost to the lowest-value traffic.
-2. **Unit economics must be checked by segment.** An average cost per conversation across all users hid the problem. Splitting the cost by tier revealed it, in the same way Worked example 3 split conversations into early questions and qualified buyers.
-3. **Routing at one choke point is easier to govern.** Because one rule assigns models for every agent, the policy can be audited, changed and tested in one place.
-4. **Tiers need a real difference.** Routing by tier aligns what a customer pays with what the platform spends on them, and gives paying customers a visible reason for their choice.
-
-### What remains open
-
-Routing free users to a small model raises a question that only measurement can answer: is the free experience still good enough to persuade people to upgrade? If small-model answers are noticeably weaker, the platform may save on model costs while losing the conversions that pay for everything. The next step is to compare answer quality and upgrade behaviour before and after the change.
-
-Results for the founder to add: **[founder figure: share of conversations from free and explorer tiers]** **[founder figure: monthly model cost before and after the routing change]** **[founder figure: free-to-paid conversion rate before and after the change]**.
-
-### Discussion questions
-
-1. Why did a single routing default create costs that grew with the success of the platform's marketing?
-2. What would you measure to decide whether the small model gives free users a good enough experience?
-3. Which kinds of question could be moved off generated answers entirely, whatever the tier, and why would that help both cost and consistency?
-4. If you ran an inbound sales agent for your own company, which segments of conversations would you route to a smaller model, and what risk would you watch for?
+1. **Model choice is part of agent design.** It belongs in the agent's specification, not left to a default.
+2. **Check unit economics by segment.** Early-stage and qualified conversations have very different value.
+3. **Escalate on evidence.** Clear hand-off rules keep quality where it matters and cost low where it does not.
+4. **Track cost per outcome.** Cost per booked demo connects model spending to the result the business wants.
 
 ## SKA Lab: Build, scope and test a sales agent
 
@@ -524,7 +496,7 @@ Every agent has a goal, instructions, tools, knowledge, memory, limits and a loo
 
 The first agent task should be high in volume, easy to verify and cheap to get wrong, which usually means internal research or data work before outreach. A one-page job description fixes the goal, trigger, tools, limits, approval points, escalation rules and success measures. Cost per conversation and cost per outcome guide budgeting, and model routing by segment is one of the strongest cost levers. Pipeline models show that relevance improves every later stage, while volume without relevance can reduce meetings and harm deliverability.
 
-A staged rollout moves from shadow mode to approval, sampled review and policy mode, with written promotion and demotion criteria. In production, outcome, quality and safety metrics, daily log review and well-designed escalations keep agents reliable. Multi-agent systems benefit from clear lanes, structured handoffs and checkers separate from writers. Agents that contact buyers must disclose that they are AI, respect consent and opt-outs, tell the truth and protect personal data. The Sales King Academy field case showed how routing models by customer tier aligned the platform's agent costs with what each tier pays.
+A staged rollout moves from shadow mode to approval, sampled review and policy mode, with written promotion and demotion criteria. In production, outcome, quality and safety metrics, daily log review and well-designed escalations keep agents reliable. Multi-agent systems benefit from clear lanes, structured handoffs and checkers separate from writers. Agents that contact buyers must disclose that they are AI, respect consent and opt-outs, tell the truth and protect personal data. The field case showed how routing models by conversation stage aligned the agent's cost with the value of each conversation.
 
 ## Key terms
 
@@ -567,7 +539,7 @@ A staged rollout moves from shadow mode to approval, sampled review and policy m
 11. Why are activity metrics a poor goal for a sales agent?
 12. What must an AI agent do to be honest with a buyer about its identity?
 13. Why does a purchased contact list not give a company a lawful basis to email everyone on it?
-14. In the SKA field case, why did serving free users with the most expensive model make growth a financial risk?
+14. In the field case, why was cost per booked demo a better measure than total model spend?
 
 ## Answer key
 
@@ -584,7 +556,7 @@ A staged rollout moves from shadow mode to approval, sampled review and policy m
 11. They reward volume rather than results, so people tuning the agent push it to send or do more, which can lower relevance, raise complaints and harm the brand. Outcome, quality and safety metrics measure what the agent is actually for.
 12. Identify itself as an AI assistant at the start in plain words, never claim to be a named human or deny being AI when asked, and offer a working route to a real person with a stated response time.
 13. Consent and the right to contact someone depend on the relationship between that person and the sender and on the law where they are; buying a list transfers names, not permission. Opt-outs and prior requests not to be contacted must also be honoured.
-14. Free tiers grow when marketing succeeds, so every new free user added the platform's largest cost before paying anything. Costs therefore rose with sign-ups rather than with revenue.
+14. Because it connects spending to the outcome the business wants. Total spend can rise for good reasons; cost per booked demo shows whether the agent is producing results efficiently.
 
 ## Further reading
 

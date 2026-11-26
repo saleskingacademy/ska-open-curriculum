@@ -3,9 +3,6 @@ key: crypto_payments_integration
 title: "Crypto Payments Integration"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 7"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -358,50 +355,29 @@ In the first month, the reconciliation job finds three orders where the webhook 
 
 The case shows that the code is the smaller part of crypto payments integration. The larger part is policy, written before launch, and the controls that make the policy work automatically.
 
-## SKA Field Case Study: Designing a prepaid, metered credit
+## Field Case Study: Designing a prepaid, metered credit
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It is about a payment design that is deliberately not a cryptocurrency, and why that choice matters.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy charges for usage of its AI features through **Beats**, its platform currency. One Beat equals one US dollar, and the minimum purchase is 10 Beats. Beats are a prepaid credit for using the platform's services. They are not a cryptocurrency, token, coin or investment, and they are not traded on any blockchain. Usage is metered by seconds of compute, and only full seconds are charged. Each user can see their own Beats balance and usage, along with their own DNA-16 identifier, and nothing about the platform's internal records.
-
-The platform runs 26 specialist AI agents. The cost of answering a question depends heavily on which AI model answers it: large models cost much more to run than small ones.
+Harborline sells AI usage through prepaid credits: customers buy a block of credits by card and spend them in small amounts as they use the service, instead of paying for every request.
 
 ### The problems it caused
 
-An audit on 7 October 2026 found that unpaid users had been served by the most expensive model. Every free question was being answered at the highest cost the platform could incur, with no revenue to cover it. For a metered, prepaid system, this is the worst possible mismatch between who pays and what is consumed: the users who paid nothing used the most expensive resource.
-
-The same audit period found a second, related issue: internal chain numbers were appearing in API responses and on screens. For a system in which users should see only their own balance, usage and identifier, that was a privacy failure in the place where users check their spending.
+Two problems appeared early. A customer was occasionally credited twice when the payment processor resent a "payment completed" notification. And usage was metered loosely, so some heavy requests were never charged while customers could not see how their balance had been spent.
 
 ### What was done
 
-Routing was changed so that free and explorer tiers use a small, free model, and paid tiers get the large models. The expensive resource is now consumed by the users whose prepaid Beats pay for it.
-
-A single outgoing filter was put in place to strip internal chain numbers from everything leaving the platform, so the account and usage views show users only their DNA-16, their usage and their Beats.
+Harborline adopted standard practice. Every credit is recorded in a **double-entry ledger**: each purchase and each charge is an entry, and the balance is computed from the entries rather than stored as a single number that can drift. Each payment notification carries the processor's payment identifier, used as an **idempotency key**, so a resent notification cannot credit twice. Metering rules were written down precisely (what is charged, in what unit, with what rounding), shown to customers, and applied before work is performed so that a request without enough credit is refused rather than served free. For accounting, unused prepaid credit is treated as a liability until it is used, as revenue-recognition standards such as ASC 606 and IFRS 15 require.
 
 ### What it shows
 
-1. **Prepaid credit separates payment from consumption.** A customer buys Beats once, at a minimum of 10, and spends them in small amounts as they use the service. This avoids a separate payment for every question, much as the processor payouts in Section 3 batch many customer payments into one bank transfer.
-2. **Metering rules must be stated precisely.** Charging only full seconds means a fraction of a second is not billed. For example, three tasks lasting 2.4, 7.9 and 0.6 seconds of compute total 10.9 seconds, but the billed seconds are 2 + 7 + 0 = 9. The customer is never charged for time not fully used, and the cost of those tasks in Beats is 9 × **[founder figure: Beats charged per second of compute]**. A rule like this, published and applied by the system, is the metering equivalent of the underpayment tolerance in Worked example 3: small, fair and automatic.
-3. **Unit economics decide routing.** The cost of serving a request must be matched to what is paid for it. Sending free users to the most expensive model inverted that match; the routing change restored it.
-4. **Not everything that holds value needs a blockchain.** Beats are sold and spent with one party, the platform, which keeps the record. Under the decision test in Chapter 5, a single-issuer prepaid credit fits an ordinary ledger kept by that party better than a blockchain token: it is simpler, cheaper, easier to correct, and avoids the custody, volatility and regulatory questions this chapter has described.
-5. **Show customers their own money, and only that.** Users need to see their balance and usage to trust a metered system. They do not need, and should not see, internal records.
-
-### What remains open
-
-- The model costs per tier before and after the routing change: **[founder figure: model cost per tier before and after 7 October]**
-- The share of free versus paid usage: **[founder figure: free and paid share of usage]**
-- Monthly Beats sales: **[founder figure: monthly Beats revenue]**
-- How usage data is reconciled with Beats balances, and how often: **[founder figure: reconciliation method and frequency]**
-
-A further open design question for any prepaid system is how to present usage so that customers can predict their spending before they act, for example by showing an estimated cost before a long task begins.
-
-### Discussion questions
-
-1. Why is a prepaid credit issued by one platform better run as a database ledger than as a blockchain token?
-2. What are the advantages to the customer of charging only full seconds of compute? Is there any disadvantage to the platform?
-3. How would you design a daily reconciliation between usage records and Beats balances, using the principles in Section 9?
+1. **Prepaid credit separates payment from consumption.** One card payment covers many small uses.
+2. **Metering rules must be stated precisely.** Customers should be able to recompute their own charges.
+3. **Idempotency prevents double credits.** A payment identifier recorded once makes retries harmless.
+4. **Compute balances from a ledger.** Entries can be audited; a single stored number cannot.
+5. **Charge before you serve.** Checking credit first keeps usage and payment aligned.
 
 ## SKA Lab: Price, record and reconcile with SKA agents
 
@@ -409,7 +385,7 @@ In this lab you use the live Sales King Academy platform to test the calculation
 
 ### Steps
 
-1. **Sign in** at saleskingacademy.com and open your account or wallet view. Record your Beats balance and the usage information shown. Note which identifiers appear, and compare them with the rule that a user sees only their DNA-16, usage and Beats.
+1. **Sign in** at saleskingacademy.com and open your account or wallet view. Record your Beats balance and the usage information shown. Note which identifiers appear, and compare them with the rule that a user sees only their own account details, usage and balance.
 2. **Ask Monetize a pricing question in Deterministic mode.** Open the Monetize agent, choose Deterministic, and ask: "What should a refund policy for crypto payments specify?" Record the source badge and compare the answer with Section 8.
 3. **Ask the same question in Natural mode.** Switch to Natural and repeat the question. Compare wording, length and badge, and check that the key terms match.
 4. **Test exact arithmetic.** Ask Monetize: "An order costs 1,200 dollars. The quote is 60,000 dollars per bitcoin. The price falls to 59,400 dollars before conversion and the processor charges 1 percent. What does the business receive?" Compare the result with Worked example 1 Case B (1,176.12 dollars).
@@ -441,7 +417,7 @@ A payment request specifies asset, network, amount, receiving address and expiry
 
 Stablecoins aim to hold a fixed value through reserves, crypto collateral or algorithms, and carry depeg, issuer, freezing, network and regulatory risks. With volatile assets, the value a business receives depends on the quoted rate, the conversion price and fees; guaranteed quotes and immediate conversion limit exposure. The business case for crypto acceptance depends on realistic adoption and on strategic benefits, not only per-transaction fees.
 
-Edge cases such as underpayment, overpayment, late payment, wrong networks, duplicates and flagged funds need written rules applied automatically. Refunds are new payments, and a fiat-equivalent method keeps both parties whole. Accounting records revenue at the value received and separates fees and holding gains or losses; reconciliation matches orders, payments and payouts using transaction identifiers, with signed and idempotent webhooks. The Sales King Academy field case showed a prepaid, metered credit designed as a database ledger rather than a token, with full-second metering, routing matched to payment, and a privacy filter on what users see.
+Edge cases such as underpayment, overpayment, late payment, wrong networks, duplicates and flagged funds need written rules applied automatically. Refunds are new payments, and a fiat-equivalent method keeps both parties whole. Accounting records revenue at the value received and separates fees and holding gains or losses; reconciliation matches orders, payments and payouts using transaction identifiers, with signed and idempotent webhooks. The field case showed a prepaid credit built on a double-entry ledger, idempotency keys and charging before serving.
 
 ## Key terms
 
@@ -467,7 +443,7 @@ Edge cases such as underpayment, overpayment, late payment, wrong networks, dupl
 - **Idempotent**: producing the same result whether an operation is performed once or several times.
 - **Address substitution**: malware that replaces a copied crypto address with an attacker's address.
 - **Prepaid credit**: value bought in advance from a provider and spent on its services, such as Beats on Sales King Academy; not a cryptocurrency.
-- **Metering**: measuring usage in defined units, such as full seconds of compute, to charge for it.
+- **Metering**: measuring usage in defined units, such as requests or tokens, to charge for it.
 
 ## Review questions
 
@@ -484,7 +460,7 @@ Edge cases such as underpayment, overpayment, late payment, wrong networks, dupl
 11. In Worked example 5, why is sales revenue 1,000 dollars in both the conversion and holding cases?
 12. What does it mean for webhook handling to be idempotent, and why is it necessary?
 13. What controls protect against address substitution when paying suppliers?
-14. In the SKA field case, how many seconds are billed for tasks of 2.4, 7.9 and 0.6 seconds, and why?
+14. In the field case, how does an idempotency key stop a resent payment notification from crediting a customer twice?
 15. Why does the chapter argue that Beats are better run as a database ledger than as a blockchain token?
 
 ## Answer key
@@ -502,7 +478,7 @@ Edge cases such as underpayment, overpayment, late payment, wrong networks, dupl
 11. Revenue is the value of what the customer paid for the goods at the time of the sale. The processor fee and the later loss on disposal are separate items, recorded as an expense and a loss respectively.
 12. Processing the same message more than once has the same effect as processing it once. Webhooks may be delivered several times, so without idempotency an order could be marked paid twice or a refund issued twice.
 13. Verifying the full address on a separate channel, using allow-lists of approved addresses, and sending a small test payment before a large payment to a new address.
-14. 2 + 7 + 0 = 9 seconds, because only full seconds of compute are charged and fractions of a second are not billed.
+14. The processor's payment identifier is recorded with the first credit. When the same notification arrives again, its identifier is already recorded, so the ledger refuses a second entry and the retry is harmless.
 15. Beats are issued and spent with one party, the platform, which keeps the record. Under the decision test in Chapter 5 a blockchain adds no benefit when one party writes the record, while a database ledger is simpler, cheaper, easier to correct and avoids custody, volatility and regulatory issues.
 
 ## Further reading

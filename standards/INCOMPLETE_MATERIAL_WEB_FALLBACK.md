@@ -10,7 +10,7 @@ The learner must be offered source-backed material whenever the requested subjec
 4. Read the relevant source, record its URL, title, retrieval date and the passage or section supporting the claim. Verify calculations, assumptions and prerequisite fit independently. For business, engineering and other changing topics, check the current edition or date.
 5. Explain the material in original SKA wording, cite the supporting sources and distinguish sourced facts from an AI's inference. Offer a worked example, a check the learner can perform and a route back to the course prerequisites. Respect source licenses; do not copy entire copyrighted lessons or test banks.
 6. If search or verification fails, report that specific failure and keep the topic incomplete. Do not return a generic knowledge block under the requested title or present uncited AI generation as validated instruction.
-7. External search, generated supplements and learner progress must not automatically promote a subject to COMPLETE or become assessed training material. Academic, taxonomy, prerequisite and assessment review precede Education-16 and Symbol256 mapping.
+7. External search, generated supplements and learner progress must not automatically promote a subject to COMPLETE or become assessed training material. Academic, taxonomy, prerequisite and assessment review precede catalog placement and topic tagging.
 
 ## Integration state and acceptance checks
 

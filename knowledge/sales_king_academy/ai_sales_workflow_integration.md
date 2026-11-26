@@ -3,9 +3,6 @@ key: ai_sales_workflow_integration
 title: "AI Sales Workflow Integration"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 3"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Sales Workflow Integration
 
-This chapter teaches you how to place AI inside each stage of a sales process, from prospecting to close and handover, so that representatives spend more of their week with buyers and less on research, data entry and drafting. The previous chapter dealt with agents as individual workers. This one deals with the system they work in: the sequence of stages a deal passes through, the data that flows between them, the CRM that records it, and the people who approve what matters. You will learn to map a workflow and measure where time goes, choose the right integration pattern for each step, connect AI outputs to the system of record without corrupting it, set human approval points, measure the effect of an integration honestly, and lead the change so that people actually use it. The chapter closes with a field case from the Sales King Academy platform, where one broken lookup between two systems hid 55 complete sales subjects from students, and a lab in which you run a practice deal through the platform's CRM with help from its agents.
+This chapter teaches you how to place AI inside each stage of a sales process, from prospecting to close and handover, so that representatives spend more of their week with buyers and less on research, data entry and drafting. The previous chapter dealt with agents as individual workers. This one deals with the system they work in: the sequence of stages a deal passes through, the data that flows between them, the CRM that records it, and the people who approve what matters. You will learn to map a workflow and measure where time goes, choose the right integration pattern for each step, connect AI outputs to the system of record without corrupting it, set human approval points, measure the effect of an integration honestly, and lead the change so that people actually use it. The chapter closes with a field case study, where one broken lookup between two systems hid 55 complete sales subjects from students, and a lab in which you run a practice deal through the platform's CRM with help from its agents.
 
 ## Learning objectives
 
@@ -342,53 +339,28 @@ When AI handles buyer data across a workflow, the company's obligations travel w
 - **Accuracy of claims.** Proposals and outreach drafted by AI are statements by the company. Ground them in approved content and verified facts.
 - **Access control.** Integrations often run with broad system access. Give each one only the access it needs, and remove access when an integration is retired.
 
-## SKA Field Case Study: One broken lookup hid 55 sales subjects
+## Field Case Study: One broken lookup hid a whole product line
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns a single integration point between two parts of the platform, and how its failure hid complete, correct material from students.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy's education catalogue covers 1,119 subjects grouped into 107 textbooks, with eight levels anchored to real education levels, and every unit labelled with its own 16-digit DNA-16 identifier. When a student opens a subject, the platform does not search for its material from scratch. It consults a **subject index**, a lookup table that says where each subject's material is stored, and loads the material from that location. The index is the integration point between the catalogue students browse and the content store that holds the chapters.
+Harborline's sales team uses an AI assistant that pulls product information into deal notes. Product pages are found through a lookup table that links product codes to documentation.
 
 ### The problems it caused
 
-On October 7, 2026, an audit of the catalogue found that the subject index pointed 55 core sales subjects at the wrong folder. The material for those subjects existed and was intact, but the lookup sent each request to a location where it was not stored.
-
-The effects were exactly those of a silent integration failure, as described in Section 3:
-
-- **Students saw no material** for 55 subjects at the heart of the sales program, even though the chapters had been written.
-- **Nothing reported an error.** From the platform's point of view, the lookup succeeded: it found an entry and followed it. The absence of material looked the same as a subject that had not been written yet.
-- **Good work was invisible.** Content quality, however high, could not help students who never received it.
-
-**[founder figure: how long the 55 subjects had been unreachable before the audit]** **[founder figure: number of students who opened an affected subject in that period]**
+After a product-code change, the lookup failed for one entire product line. The assistant reported "no information available" for those products, and representatives stopped mentioning them to prospects. Nothing raised an error; sales of the line dipped for weeks before anyone connected the two.
 
 ### What was done
 
-Because the fault was in one lookup, one fix restored everything: correcting the index entries made all 55 subjects available again, with no change to the material itself. The problem was found by an audit, not by any alarm: nothing in the platform had been checking whether each catalogue entry actually led to material.
-
-The same day's audit work included a contrasting use of a single choke point. The audit found internal chain numbers appearing in API responses and on screens, and the fix was a single outgoing filter through which every response passes, which strips those numbers so users see only their DNA-16, their usage and their Beats. Here, concentrating the rule in one place was the strength: one filter protects every screen.
+The lookup was repaired and the team added an **integration health check**: every product code in the catalogue must resolve to non-empty documentation, checked daily, with an alert on any failure. They also started comparing "requests made" with "requests answered", so a sudden rise in empty answers is visible at once.
 
 ### What it shows
 
-The case illustrates four points from this chapter:
-
-1. **Integration points are where silent failures live.** The content and the catalogue were each fine. The connection between them was not, and nothing flagged it.
-2. **An integration must report its own health.** A simple check, such as "every catalogue subject resolves to non-empty material," would have shown the gap at once, just as Section 3 recommends comparing calls processed with calls recorded.
-3. **Choke points cut both ways.** A single lookup that every request depends on can hide good content everywhere at once, and a single filter that every response passes through can protect privacy everywhere at once. The design lesson is to make such points deliberate, tested and monitored.
-4. **Fix the connection, not the content.** The temptation when students see no material is to rewrite it. The right first question is whether the material is reaching them.
-
-### What remains open
-
-The fix restored the 55 subjects, but the platform's catalogue is large and changes often as subjects are expanded. The open question is how to make the check continuous: running the "does every subject resolve?" test automatically whenever the index or the content store changes, so that the next broken lookup is caught in minutes rather than found by an audit.
-
-**[founder figure: results of the continuous index check once in place]**
-
-### Discussion questions
-
-1. Why did the broken index produce no error message, and what would have made the failure visible?
-2. In your own sales workflow, which single lookup or mapping, if wrong, would hide good information from the people who need it?
-3. How is the outgoing privacy filter similar to the subject index, and why did one choke point cause harm while the other prevents it?
-4. What automatic health check would you add to a CRM integration that writes call summaries, so that a silent failure is caught quickly?
+1. **Integration points are where silent failures live.** The catalogue and the documentation were each fine; the link between them was not.
+2. **An integration must report its own health.** A simple resolve-every-code check would have shown the gap on day one.
+3. **Empty answers change behaviour.** People stop using what seems missing, so silent failures have business costs.
+4. **Count both sides.** Comparing requests with successful answers turns a silent failure into a visible metric.
 
 ## SKA Lab: Run a practice deal through an AI-assisted workflow
 
@@ -427,7 +399,7 @@ Four integration patterns are available: in-app assistance, triggered automation
 
 In prospecting, AI applies the ideal customer profile and drafts outreach from sourced, dated facts, within consent rules. In qualification and discovery, frameworks such as BANT and MEDDIC give AI a checklist, and call intelligence writes structured fields, with representatives confirming commitments and buyers told about recording. In proposals, negotiation and close, AI drafts from approved content and prepares the representative, while prices and terms come from systems of record and negotiation stays human. Handover summaries are a valuable, often overlooked integration.
 
-CRM integrations need write rules, matching to prevent duplicates, and visible origin for AI-written values. Review rules should follow risk, and accountability always rests with a person. Measurement needs a baseline, a control group and attention to chance, since small pilots can show differences that are not reliable. Adoption depends on solving real pain, involving representatives, training on real work, fixing incentives and closing the feedback loop. Legal duties on consent, recording, disclosure, data minimization and third-party processing travel with the data. The Sales King Academy field case showed how one wrong lookup hid 55 complete subjects without any error, and how one deliberate choke point can protect privacy everywhere.
+CRM integrations need write rules, matching to prevent duplicates, and visible origin for AI-written values. Review rules should follow risk, and accountability always rests with a person. Measurement needs a baseline, a control group and attention to chance, since small pilots can show differences that are not reliable. Adoption depends on solving real pain, involving representatives, training on real work, fixing incentives and closing the feedback loop. Legal duties on consent, recording, disclosure, data minimization and third-party processing travel with the data. The field case showed how one broken lookup hid a whole product line without any error, and why integrations must report their own health.
 
 ## Key terms
 
@@ -471,7 +443,7 @@ CRM integrations need write rules, matching to prevent duplicates, and visible o
 12. Why is a pilot with a control group stronger evidence than a before-and-after comparison?
 13. In Worked example 3, why was the pilot result encouraging but not proven?
 14. In the Copperfield case, what changed between the failed launch and the successful relaunch?
-15. In the SKA field case, why did 55 subjects disappear for students without any error being reported?
+15. In the field case, why did a whole product line disappear from deal notes without any error being reported?
 
 ## Answer key
 
@@ -489,7 +461,7 @@ CRM integrations need write rules, matching to prevent duplicates, and visible o
 12. Markets, seasons, pricing and other conditions change over time, and any of them could explain a before-and-after difference. A control group measured over the same period shares those conditions.
 13. The win rate per discovery call was 7.2 percent against 5.0 percent, but with only 30 wins in total the test statistic was about 1.02, well short of the roughly 1.96 usually needed for significance at the 5 percent level, so chance could explain the difference.
 14. Summaries wrote directly to structured fields instead of long notes, close date and amount became one-click suggestions controlled by representatives, buyers were told at the start of each call that it would be recorded, and a feedback button led to visible fixes. The AI model itself did not change.
-15. The subject index pointed them to the wrong folder. The lookup itself succeeded, finding an entry and following it, so the platform saw nothing wrong; the missing material looked the same as a subject not yet written.
+15. The lookup ran successfully but found nothing after the product-code change, and "no information available" is a valid answer, so nothing looked wrong. A daily check that every product code resolves to documentation would have flagged it.
 
 ## Further reading
 

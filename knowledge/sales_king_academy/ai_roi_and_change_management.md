@@ -3,9 +3,6 @@ key: ai_roi_and_change_management
 title: "AI ROI And Change Management"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 2, Chapter 1"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI ROI and Change Management
 
-This chapter opens the second volume of the Sales King Academy program. The first volume taught what AI can do in sales and marketing and how to connect it to the systems a business runs on. This volume turns to the questions owners and managers face once the technology is understood: is it worth the money, and will people actually use it? The two questions cannot be separated. An AI tool that would save hundreds of hours a year returns nothing if the team ignores it, and a tool everyone loves can still lose money if its running costs grow faster than its benefits. You will learn to build the full cost and benefit picture of an AI project, calculate return on investment, payback and net present value, work out the unit economics of an AI feature, prove benefits with baselines and comparison groups, and lead people through the change using established frameworks. The chapter closes with a field case from the Sales King Academy platform about paying for AI only where it earns its keep, and a lab in which you measure the cost and value of real tasks on the live site.
+This chapter opens the second volume of the Sales King Academy program. The first volume taught what AI can do in sales and marketing and how to connect it to the systems a business runs on. This volume turns to the questions owners and managers face once the technology is understood: is it worth the money, and will people actually use it? The two questions cannot be separated. An AI tool that would save hundreds of hours a year returns nothing if the team ignores it, and a tool everyone loves can still lose money if its running costs grow faster than its benefits. You will learn to build the full cost and benefit picture of an AI project, calculate return on investment, payback and net present value, work out the unit economics of an AI feature, prove benefits with baselines and comparison groups, and lead people through the change using established frameworks. The chapter closes with a field case study about paying for AI only where it earns its keep, and a lab in which you measure the cost and value of real tasks on the live site.
 
 ## Learning objectives
 
@@ -448,53 +445,29 @@ AI tools change underneath you. Vendors update models, change prices and add or 
 - **Keeping failing projects alive.** Set kill criteria in advance and honour them.
 - **Being vague about jobs.** Uncertainty breeds resistance; be honest.
 
-## SKA Field Case Study: Paying for AI where it earns its keep
+## Field Case Study: Paying for AI where it earns its keep
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns decisions made in September and October 2026 about what the platform's AI should cost, who it should be spent on and how to tell whether an investment in a model is working.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy is run by one founder, who makes every engineering, product and spending decision. The platform offers 26 specialist AI agents, courses, a CRM, automations and Agent Builder, with usage paid in Beats, the platform's currency, at 1 Beat to 1 US dollar. Usage is metered by seconds of compute, and only full seconds are charged. Users on free and explorer tiers can use the platform alongside paying users.
-
-Three facts set the economic context. On 10 September 2026, the platform moved to Cloudflare's free plan to keep fixed costs down; that move disabled R2 file storage and tightened database limits. On 6 October it returned to Cloudflare's Workers paid plan, at $5 a month. And the platform has its own small transformer model, of about 22 million parameters, which the founder is training.
+Harborline offered its AI assistant on a free plan and two paid plans. Every request, from any plan, went to the same large, expensive model.
 
 ### The problems it caused
 
-**Spending the most on users who paid least.** An audit on 7 October found that unpaid users had been served by the most expensive model. Every free conversation therefore carried the highest cost per message, while producing no revenue. This is the pattern in Worked example 3: a variable cost that grows with free usage rather than with revenue.
-
-**Fixed-cost savings that cost capability.** The free plan removed a $5 monthly charge but disabled file storage and tightened database limits, so the platform had to work within hard constraints that affected what it could do for users.
-
-**A model investment that was not doing what it seemed.** On 8 October, testing of the platform's own 22-million-parameter transformer found that it copied its source passage rather than answering the question. Training had produced a model that looked as if it was working on the measure being watched, but had not learned the skill that mattered.
+The monthly model bill grew faster than revenue. When the team split cost by plan, free users, who generated no revenue, accounted for most of it, because they asked many short questions that a much smaller model could answer.
 
 ### What was done
 
-**Routing by tier.** Routing was changed so that free and explorer tiers use a small free model, and paid tiers get the large models. The expensive capability now goes to the users whose payments can support it, while free users still receive answers.
-
-**Returning to the paid plan.** On 6 October the platform returned to the Workers paid plan at $5 a month, judging that the capability restored was worth more than the fee saved.
-
-**Changing how the model is trained and measured.** The retraining plan for the platform's own model switched to question-and-answer pairs drawn from the curriculum, so that it is trained, and can be tested, on answering questions rather than reproducing passages.
+The team introduced **model routing**: simple questions go to a small, cheap model and are escalated to a larger model only when needed, the "cascade" approach studied in work such as FrugalGPT (Chen, Zaharia and Zou, 2023). Plan limits were set from measured cost per request, and the team measured results with a before-and-after comparison against a group that kept the old setup, rather than trusting projected savings.
 
 ### What it shows
 
-The case illustrates five points from this chapter.
-
-1. **Unit economics decide whether a feature can scale.** Serving free users with the most expensive model made cost grow with the wrong thing. Routing by tier ties cost to revenue.
-2. **The cheapest option is not always the best value.** Saving $5 a month on hosting cost capability; the platform judged the paid plan to be worth its fee. A business case must weigh what a saving takes away.
-3. **Measure what was actually achieved.** The in-house model appeared to work until it was tested on the real task. Benefits realisation means checking the outcome that matters, not the activity that is easy to see.
-4. **Investments need kill-or-redesign moments.** Finding that the model copied rather than answered led to a redesign of its training, not to continued spending on the same approach.
-5. **Change affects users.** Moving free users to a smaller model changes their experience. Communicating clearly what each tier includes is part of managing that change.
-
-### What remains open
-
-Several figures are needed to judge these decisions fully, and only the founder holds them. What was the model cost per month before and after routing by tier? Did the change affect how many free users upgraded to paid tiers? What does the retrained model achieve on a held-out set of curriculum questions, compared with the rented models it might one day replace, and at what cost per answer?
-
-Results for the founder to add: **[founder figure: monthly model cost before routing by tier]** **[founder figure: monthly model cost after routing by tier]** **[founder figure: free-to-paid upgrade rate before and after the change]** **[founder figure: retrained model's accuracy on held-out curriculum questions]**.
-
-### Discussion questions
-
-1. Using the structure of Worked example 3, what information would you need to calculate the monthly saving from routing free and explorer tiers to a small model?
-2. The platform saved $5 a month on the free plan and then chose to pay it again. What costs and benefits belong in the business case for that decision?
-3. What test would show whether the retrained in-house model is ready to answer users, and what result would justify switching some traffic to it?
+1. **Unit economics decide whether a feature can scale.** Cost must be tracked per plan and per task, not only in total.
+2. **Averages hide the problem.** Splitting cost by segment revealed what the overall figure concealed.
+3. **Match the tool to the task.** A smaller model is the better value for simple requests.
+4. **Measure what was achieved.** Compare against a control group, not against a forecast.
+5. **The cheapest option is not always the best value.** Routing keeps the large model available where it earns its cost.
 
 ## SKA Lab: Measure the cost and value of an AI task
 
@@ -505,7 +478,7 @@ In this lab you use the live Sales King Academy platform to collect real measure
 1. **Record your starting point.** Sign in at saleskingacademy.com and open your account view. Write down the usage and Beats balance it shows.
 2. **Time a task by hand.** Choose a real task from your work, such as writing a follow-up email after a sales call. Do it yourself without AI and record how many minutes it took.
 3. **Do the same task with an agent.** Open a chat with Closer, the sales closing agent, give it the same information and ask it to draft the email. Edit the draft until you would send it. Record the total minutes, including your editing time.
-4. **Record the cost.** Return to your account view and write down the usage and Beats figures again. Note the difference from step 1. Remember that usage is metered in seconds of compute and only full seconds are charged, and that 1 Beat equals 1 US dollar.
+4. **Record the cost.** Return to your account view and write down the usage and Beats figures again. Note the difference from step 1. Remember that 1 Beat equals 1 US dollar.
 5. **Check the arithmetic with an agent.** Ask Monetize or Ledger: "If a task takes [your step 2 minutes] minutes by hand and [your step 3 minutes] minutes with AI, and I do it 15 times a week for 46 weeks at $45 an hour with half of the saved time redeployed, what is the annual value?" Calculate the answer yourself and compare. Note the source badge.
 6. **Test consistency.** Ask the same question from step 5 a second time, word for word, in the same mode. Note whether you receive the same answer.
 7. **Plan the change.** Ask Mentor, the education agent, to draft a one-week plan for introducing your step 3 workflow to a team of five, including who the champion would be and how you would measure adoption.
@@ -539,7 +512,7 @@ AI features used at volume need sound unit economics: cost per task, routing to 
 
 Adoption spreads unevenly through a group and performance often dips before it improves, so business cases should model an adoption curve. Change management frameworks, including Lewin's three stages, Kotter's eight steps, ADKAR, the diffusion of innovations and the technology acceptance model, guide the rollout. Practical rollouts need a sponsor, champions, workflow-based training, clear rules, honest communication about jobs, layered adoption metrics and reinforcement. Portfolios of AI projects are governed with stage gates, benefits realisation reviews and kill criteria set in advance.
 
-The Sales King Academy field case showed routing by tier tying model cost to revenue, a hosting decision weighed against the capability it removed, and a model investment redesigned after testing showed it had not learned the intended skill.
+The field case showed model routing tying cost to value, cost split by segment revealing what the total hid, and savings measured against a control group.
 
 ## Key terms
 
@@ -584,7 +557,7 @@ The Sales King Academy field case showed routing by tier tying model cost to rev
 11. What five qualities did Rogers identify as speeding the adoption of an innovation?
 12. In Worked example 5, how did a realistic adoption curve change the payback period and first-year ROI?
 13. What are kill criteria, and how do they help a business avoid the sunk cost fallacy?
-14. In the SKA field case, why did serving unpaid users with the most expensive model weaken the platform's unit economics?
+14. In the field case, why did sending every request to the largest model weaken the company's unit economics?
 
 ## Answer key
 
@@ -601,7 +574,7 @@ The Sales King Academy field case showed routing by tier tying model cost to rev
 11. Relative advantage, compatibility, low complexity, the ability to try it on a small scale, and observability of results.
 12. Payback moved from about 3.4 months to month 7, and first-year ROI fell from about 129 percent to about 60.4 percent, because benefits arrived gradually and peaked at 80 percent of plan.
 13. Conditions, written into the business case in advance, under which the project will be stopped or redesigned. They make the decision depend on future costs and benefits measured against agreed thresholds, rather than on the desire to recover money already spent.
-14. Because every free conversation carried the highest cost per message while producing no revenue, so cost grew with free usage rather than with income. Routing free and explorer tiers to a small free model tied the large-model cost to paying users.
+14. Because free users, who produced no revenue, generated most requests and each was served at the highest cost, so cost grew with free usage rather than with income. Routing simple requests to a small model tied cost to value.
 
 ## Further reading
 

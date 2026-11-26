@@ -47,8 +47,8 @@ Every instructional unit should contain:
 - mastery threshold
 - remediation route
 - next-unit dependencies
-- Education-16 placement
-- Symbol256 mapping metadata
+- catalog-number placement
+- topic-tag metadata
 
 ## Assessment standard
 Assessments must progress beyond recall:

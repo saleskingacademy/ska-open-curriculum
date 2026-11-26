@@ -1,37 +1,27 @@
-name: Build symbols + SAT training pairs
-# Free compute (public repo). Rebuilds hierarchical Symbol256 tables and the
-# SAT-selected question/answer pairs whenever the material or the builder changes,
-# weekly, or on demand. Symbols are committed; pairs go to the `training-data` release.
+name: Build knowledge depth
+# Rebuilds knowledge/depth.json (how much material each subject has) whenever the
+# lessons change, weekly, or on demand. The platform's own indexes and study packs are
+# built privately from these lessons and are not published here.
 on:
   push:
     branches: [main]
-    paths: ["knowledge/**", "tools/sat_pairs.js", "tools/sym256.js", "tools/edu16.py", "map/real_subjects.json"]
+    paths: ["knowledge/**", "tools/depth.py"]
   schedule:
     - cron: "17 6 * * 1"
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: { group: build-training, cancel-in-progress: true }
+concurrency: { group: build-depth, cancel-in-progress: true }
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
       - name: Build
-        run: mkdir -p out && node tools/sat_pairs.js | tee out/stats.json && python3 tools/depth.py
-      - name: Education-16 + spent memory + Chain256 attachment (fails on a broken chain)
-        run: python3 tools/edu16.py && node tools/edu16_text.js
-      - name: Commit symbol tables if changed
+        run: python3 tools/depth.py
+      - name: Commit if changed
         run: |
           git config user.name "ska-builder"; git config user.email "noreply@saleskingacademy.com"
-          git add symbols study knowledge/depth.json edu16 map/edu16_registry.json map/edu16_chapters.json map/edu16_stats.json
-          git diff --cached --quiet || { git commit -qm "symbols: rebuild ($(date -u +%F))"; git push -q; }
-      - name: Publish pairs to the training-data release
-        env: { GH_TOKEN: "${{ github.token }}" }
-        run: |
-          gzip -9 -k out/pairs.jsonl
-          gh release view training-data >/dev/null 2>&1 || gh release create training-data --title "SAT training pairs" --notes "Rebuilt automatically by build-training.yml. All rights reserved, Sales King Academy LLC, derived from knowledge/."
-          gh release upload training-data out/pairs.jsonl.gz out/stats.json --clobber
+          git add knowledge/depth.json
+          git diff --cached --quiet || { git commit -qm "depth: rebuild ($(date -u +%F))"; git push -q; }

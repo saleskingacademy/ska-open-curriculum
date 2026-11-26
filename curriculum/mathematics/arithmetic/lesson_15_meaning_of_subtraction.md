@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-15. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [addition meaning](lesson_11_meaning_of_addition.md), [mental addition](lesson_14_mental_addition.md), and [number lines](lesson_05_number_lines.md).
 Next: [Lesson 16: Subtraction facts](lesson_16_subtraction_facts.md).
-Education-16 and Symbol256: mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Entry check and learning outcomes
 

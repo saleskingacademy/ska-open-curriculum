@@ -3,9 +3,6 @@ key: marketing
 title: "Marketing"
 program: marketing_sales
 course_level: 3
-dna16: "0701201824919911"
-l4_address: "S6:P933770714"
-chain256_anchor: "1833441552095756093297551768279218174859766427921600179168201827085771851326610916742864773927921402147187582792171334080011934701705612687518240075555893772792126493886739279210373188509216890376866906462652143848635159279210431523793927920900574308223269"
 updated_at: "2026-10-12"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
 training_use: "specialized SKA models (business, sales, marketing education); not for general-purpose models competing with the writing model"

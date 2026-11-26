@@ -3,9 +3,6 @@ key: ai_marketing_automation_integration
 title: "AI Marketing Automation Integration"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 8"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Marketing Automation Integration
 
-This chapter teaches you how to connect AI to the systems a business already uses to attract, nurture and convert buyers: email platforms, advertising accounts, websites, forms and the customer relationship management system, or CRM. Marketing automation on its own sends the right message at the right time according to rules a person wrote. AI adds judgment to those rules: it can rank leads, choose content, pick a send time and draft copy. Neither is worth much if the systems underneath are badly connected, so the chapter spends as much time on integration, data flow and measurement as it does on the AI itself. You will learn to design lifecycle stages and a sales handoff, build and calibrate a lead score, add AI steps to a workflow safely, keep every message within consent and deliverability rules, and prove with a control group what the automation actually adds. The chapter closes with a field case from the Sales King Academy platform and a lab you complete in its live Automations hub and CRM.
+This chapter teaches you how to connect AI to the systems a business already uses to attract, nurture and convert buyers: email platforms, advertising accounts, websites, forms and the customer relationship management system, or CRM. Marketing automation on its own sends the right message at the right time according to rules a person wrote. AI adds judgment to those rules: it can rank leads, choose content, pick a send time and draft copy. Neither is worth much if the systems underneath are badly connected, so the chapter spends as much time on integration, data flow and measurement as it does on the AI itself. You will learn to design lifecycle stages and a sales handoff, build and calibrate a lead score, add AI steps to a workflow safely, keep every message within consent and deliverability rules, and prove with a control group what the automation actually adds. The chapter closes with a field case study and a lab you complete in its live Automations hub and CRM.
 
 ## Learning objectives
 
@@ -486,48 +483,28 @@ The mistakes below appear again and again in businesses of every size.
 - **No holdout.** Without one, every workflow looks successful, and the business cannot tell which to keep.
 - **Set and forget.** Workflows drift out of date as the business changes. Review them on a schedule.
 
-## SKA Field Case Study: When one broken link hides good work
+## Field Case Study: When one broken link hides good work
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course. It concerns two problems found in an audit on 7 October 2026. Neither was a marketing automation in the narrow sense, but both are integration failures of exactly the kind this chapter describes: a single mapping between two parts of a system, and a single point where data leaves the system for the user.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-The Sales King Academy curriculum holds 1,119 subjects organised into 107 textbooks. The material for each subject is stored in folders by program, and a separate subject index tells the platform where to find the material for each subject when a student opens it. The index is, in effect, a field mapping: subject on one side, folder location on the other.
-
-The platform also runs 26 specialist AI agents, a CRM, automations and a Beats wallet, all served from one program. Internally, the platform uses its own numbering system to link records together. Users are meant to see only three things about their account: their own DNA-16 identifier, their usage and their Beats balance.
+Harborline's marketing automation sends course recommendations based on a mapping between campaign segments and course pages.
 
 ### The problems it caused
 
-**Hidden content.** The audit found that the subject index pointed 55 core sales subjects at the wrong folder. The material for those subjects existed and was intact, but when a student opened one of them, the platform looked in the wrong place, found nothing and showed no material. From the student's side, 55 core subjects appeared empty. Nothing in the material itself was wrong; one lookup was.
-
-**Leaking internal numbers.** The same audit found that internal chain numbers, which link records inside the platform and have no meaning or use for users, were appearing in responses from the platform's interface and on screens. They were not secrets in the sense of passwords, but they were internal data that users should never see, and showing them broke the platform's own privacy rule.
+A field rename in the CRM broke the mapping for one segment. Emails still went out, but every recommendation link for that segment led to an empty page. Nothing errored; click-through for the segment simply fell, and the cause was found only when someone opened the emails as a customer would.
 
 ### What was done
 
-**One index fix.** Because the fault was in the mapping and not in the content, the repair was a single correction to the subject index. That one fix restored all 55 subjects at once.
-
-**One outgoing filter.** Rather than hunting through every screen and every response to remove the internal numbers one by one, the platform added a single filter at the point where data leaves the system. Every outgoing response passes through it, and it strips the internal chain numbers, so users see only their DNA-16, their usage and their Beats. Any new screen or feature built later passes through the same filter automatically.
+The team fixed the field mapping and added two standard monitors: a **synthetic check** that opens a sample of recommendation links every hour and alerts on empty pages, and a **schema-change alert** on the CRM fields the automation depends on. A sudden drop in a segment's click-through now raises an alert instead of waiting for a report.
 
 ### What it shows
 
-The case illustrates four points from this chapter.
-
-1. **Mappings fail quietly.** Like a picklist value that stops records syncing, the broken index produced no error message. Content simply did not appear. Only an audit that checked what users actually saw revealed it.
-2. **Fix the link, not the symptoms.** Fifty-five subjects looked broken, but there was one fault. Diagnosing where the lookup went wrong saved rewriting or reloading anything.
-3. **One choke point beats many checks.** The outgoing filter works like a global suppression list in marketing: one place that every message passes through, so a rule is enforced everywhere at once instead of depending on each workflow remembering it.
-4. **Monitoring must look at outcomes.** Both problems were invisible to the systems that caused them. Checking what reaches the user, whether a student or an email recipient, is the only reliable test.
-
-### What remains open
-
-The case raises questions the platform must still answer with data. How long were the 55 subjects affected, and how many students opened them during that time? Did students who found empty subjects leave or stop using the course? What routine check would catch the next broken mapping within a day rather than at an audit?
-
-Results for the founder to add: **[founder figure: how long the 55 subjects showed no material before the fix]** **[founder figure: number of student visits to the affected subjects during that period]** **[founder figure: any change in course activity after the fix]**.
-
-### Discussion questions
-
-1. What automatic check could run every day to confirm that every subject in the index actually finds material, and what should happen when it fails?
-2. Why is a single outgoing filter more reliable than removing internal numbers from each screen individually? What is its main risk?
-3. Name one integration point in your own business, such as a form-to-CRM connection or a CRM-to-email sync, where a single broken mapping could hide or misdirect work without any error message.
+1. **Mappings fail quietly.** Like a picklist value that stops records syncing, a broken link produces no error message.
+2. **Check what customers actually see.** Synthetic checks test the experience, not just the job status.
+3. **Fix the link, not the symptoms.** One mapping fault caused every bad email.
+4. **Watch for change at the boundaries.** Schema changes in a connected system are the most common cause of silent breakage.
 
 ## SKA Lab: Build and test an integrated automation
 
@@ -571,7 +548,7 @@ Lifecycle stages and a service-level agreement between marketing and sales turn 
 
 AI steps in a workflow need guardrails: approved content or constrained generation, facts from systems of record, frequency caps, review samples and cost estimates. Every message must respect consent and deliverability rules, including authentication and fast unsubscribes. Holdout groups measure what automation actually adds; attribution distributes credit but measures association, not cause. Operating automations well requires ownership, monitoring, change control, a kill switch and regular audits.
 
-The Sales King Academy field case showed how one broken lookup hid 55 subjects and how one outgoing filter enforced a privacy rule everywhere, illustrating why mappings and choke points deserve as much attention as the features built on top of them.
+The field case showed how one broken mapping hid a segment's recommendations without any error, illustrating why mappings and the boundaries between systems deserve as much attention as the features built on top of them.
 
 ## Key terms
 
@@ -616,7 +593,7 @@ The Sales King Academy field case showed how one broken lookup hid 55 subjects a
 10. Why should a model never decide whether a contact may be emailed?
 11. In Worked example 4, how many incremental opportunities did the workflow add, and why should the revenue estimate not be quoted as precise?
 12. Why can attribution and a holdout test give different answers about the value of a channel?
-13. In the SKA field case, why did one index fix restore all 55 subjects?
+13. In the field case, why did the broken mapping produce no error, and what check now catches it?
 
 ## Answer key
 
@@ -632,7 +609,7 @@ The Sales King Academy field case showed how one broken lookup hid 55 subjects a
 10. Consent is a legal and trust requirement that must be exact and auditable. A model's judgment is probabilistic and can be wrong; the decision to send must check the stored consent field by rule.
 11. About 144 incremental opportunities (18,000 × 0.008). The difference was only just significant, and the 95 percent confidence interval for the uplift ran from about 0.11 to 1.49 percentage points, so the true effect could be much smaller or larger.
 12. Attribution distributes credit among recorded touches based on a rule and measures association, so it can credit touches that buyers pass through anyway and ignores untracked influences. A holdout measures what changes when the channel is removed, which is the causal effect.
-13. Because the content for all 55 subjects was intact; the fault was a single wrong folder mapping in the subject index. Correcting that one mapping let the platform find the material for every affected subject.
+13. Emails were still sent successfully; only the links inside them led to empty pages, which is not an error to the sending system. An hourly synthetic check that opens sample links and alerts on empty pages now catches it.
 
 ## Further reading
 

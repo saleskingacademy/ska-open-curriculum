@@ -17,5 +17,5 @@ covered only by this notice.
 
 Exception - dictionary/: the definitions, examples, parts of speech and synonyms in
 dictionary/words/ are from Open English WordNet 2024 (CC BY 4.0) and English Wiktionary
-(CC BY-SA 4.0) and remain under those licences; see dictionary/LICENSE. Only the DNA-16 anchors, Symbol256
+(CC BY-SA 4.0) and remain under those licences; see dictionary/LICENSE. Only the identifiers, meaning
 signatures and build tooling added by Sales King Academy LLC are covered by the notice above.

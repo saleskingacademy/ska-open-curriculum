@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-16. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [addition facts](lesson_12_addition_facts.md) and [subtraction meaning](lesson_15_meaning_of_subtraction.md).
 Next: Lesson 17, Multi-digit subtraction, in [the canonical sequence](../arithmetic_zero_to_advanced.md).
-Education-16 and Symbol256: mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Entry check and learning outcomes
 

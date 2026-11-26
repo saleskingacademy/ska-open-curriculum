@@ -100,7 +100,7 @@ A printed textbook is fixed. Each SKA subject adds, at every level:
 2. **Unlimited practice**: new problems generated per level, each with a checked answer.
 3. **Mastery tracking**: spaced review of what a learner got wrong, with level progression gated by results.
 4. **Living frontier**: L8 is refreshed from new papers, so the top of every subject stays current.
-5. **Cross-subject links**: the Symbol256 map connects each chapter to related chapters in other subjects.
+5. **Cross-subject links**: shared topic tags connect each chapter to related chapters in other subjects.
 
 These are claims about features, not about the knowledge itself. Content quality is measured by the
 checks in sections 2-5, not asserted.

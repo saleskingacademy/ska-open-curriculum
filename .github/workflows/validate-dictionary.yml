@@ -1,15 +1,15 @@
 name: Validate Dictionary
-# Every word and definition must keep a valid, unique DNA-16 anchor and spent address,
-# and no chain or time digits may be published.
+# Every shard must parse, every word must have an identifier, and every definition a
+# part of speech, text and source.
 on:
   push:
-    paths: ['dictionary/**', 'tools/build_dictionary.py', 'tools/build_dictionary_full.py', '.github/workflows/validate-dictionary.yml']
+    paths: ['dictionary/**', 'tools/check_dictionary.py', '.github/workflows/validate-dictionary.yml']
   pull_request:
-    paths: ['dictionary/**', 'tools/build_dictionary.py', 'tools/build_dictionary_full.py']
+    paths: ['dictionary/**', 'tools/check_dictionary.py']
 jobs:
   verify:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tools/build_dictionary_full.py --verify
+      - run: python3 tools/check_dictionary.py

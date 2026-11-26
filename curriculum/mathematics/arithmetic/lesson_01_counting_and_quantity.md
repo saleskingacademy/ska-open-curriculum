@@ -3,7 +3,7 @@
 Canonical ID: AR-L01-01. Established mathematics; Arithmetic.
 This completes the lesson package together with [the existing Lesson 1 explanation](level_01_lessons_01_05.md#lesson-1-counting-and-quantity). Read that explanation first, then use this companion for structured study, practice, verification and assessment. Its worked examples remain part of the package.
 Prerequisites: no mathematics knowledge assumed. A learner may need spoken, tactile or visual support to distinguish objects and follow an ordered count. Next: [Lesson 2](lesson_02_numerals_and_symbols.md).
-Education-16 and Symbol256: deferred until validation of source content and placement.
+Catalog placement and topic tags: deferred until validation of source content and placement.
 
 ## Objectives, vocabulary, and notation
 

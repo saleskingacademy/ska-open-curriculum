@@ -3,7 +3,7 @@
 Canonical ID: AR-L01-06. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: Lessons 1–5 in [the existing Level 1 material](level_01_lessons_01_05.md), especially counting, place value, comparison, and equally spaced number lines.
 Next: [Lesson 7](lesson_07_estimation.md); signed operations are developed fully in Lesson 18.
-Education-16 and Symbol256: mapping deferred until the source, prerequisites, taxonomy, and assessments pass the course-level gates. No existing address is evidence of mastery.
+Catalog placement and topic tags: assignment deferred until the source, prerequisites, taxonomy, and assessments pass the course-level gates. No existing catalog number is evidence of mastery.
 
 ## Entry check and learning objectives
 

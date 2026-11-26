@@ -13,7 +13,7 @@ material is never restarted. Fast-moving technology is researched before claims 
 is labelled established, demonstrated research, in development, credible possibility, or speculation.
 
 **Built on:** the real-subject map (`REAL_SUBJECTS.md`), the textbook standard (`TEXTBOOK_STANDARD.md`),
-the 8-level ladder (`LEVELS.md`) and Education-16 addressing (`EDU16.md`). Part-to-subject map with
+the 8-level ladder (`LEVELS.md`). Part-to-subject map with
 addresses: `map/book_parts.json`.
 
 Written so far: Part 13 opening chapters, *AI Foundations for Business* and *AI Tools and Platforms*

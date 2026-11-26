@@ -3,7 +3,7 @@
 Canonical ID: AR-L02-14. Discipline: established mathematics. Subject: Arithmetic.
 Prerequisites: [addition facts](lesson_12_addition_facts.md), [place-value addition](lesson_13_multi_digit_addition.md), and whole-number place value.
 Next: [Lesson 15: Meaning of subtraction](lesson_15_meaning_of_subtraction.md).
-Education-16 and Symbol256: mapping deferred pending academic and taxonomy validation.
+Catalog placement and topic tags: assignment deferred pending academic and taxonomy validation.
 
 ## Entry check and learning outcomes
 

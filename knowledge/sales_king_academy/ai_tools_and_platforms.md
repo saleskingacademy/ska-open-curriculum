@@ -3,9 +3,6 @@ key: ai_tools_and_platforms
 title: "AI Tools And Platforms"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-09-30"
 chapter: "Sales King Academy, Volume 1, Chapter 2"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -206,7 +203,7 @@ Five practices prevent most credential problems:
 4. **Rotate keys** on a schedule and immediately after any exposure, such as a key pasted into a message or committed to a repository.
 5. **Watch for expiry.** Many tokens expire. An expired token in a deployment or automation pipeline fails silently until someone notices that nothing has run.
 
-The field case below includes an example of what happens when practice 3 and practice 5 are missed.
+The field case below shows a small stack that applies these practices.
 
 ## 8. Costs, contracts and lock-in
 
@@ -384,50 +381,29 @@ The owner rewrites the instructions using the five parts of good agent instructi
 
 On the same ten enquiries, the rewritten agent scores 52 out of 60. Its remaining errors involve two enquiries from just outside the service area, where the service-area list was unclear. Adding a line to the list fixes both. As in earlier examples, the biggest gains came from clear instructions and good source material, not from a more powerful model.
 
-## SKA Field Case Study: The tool stack behind Sales King Academy
+## Field Case Study: A small, reliable tool stack
 
-This case describes the tools that run Sales King Academy, the platform on which you are taking this course, and the decisions behind them.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
-### The stack
+### The situation
 
-Sales King Academy is built and operated by one founder. Its stack is deliberately small:
+Harborline is a five-person company selling online training. It wanted AI assistance in sales and support without building a large engineering team.
 
-- **Hosting and compute:** a single serverless program on Cloudflare's network, with two small databases, several key-value stores for fast lookups and settings, and Cloudflare's hosted AI models. Everything runs in one account under one bill.
-- **Language models:** chat replies are produced by open-weight models hosted on Cloudflare, with a second model family as a fallback. Where a question can be answered from stored course material or exact records, the platform answers from those directly and marks the reply's source.
-- **Vision:** when a buyer uploads a payment receipt screenshot, a vision model from one provider reads it first; if that fails, a vision model hosted on Cloudflare reads it instead.
-- **Email:** a transactional email service sends outreach and notifications from the company's own domain, at roughly 95 emails a day, and an inbound handler captures replies.
-- **Payments:** a card payment link is used for one purpose only, buying Beats, the platform's prepaid credits. Everything else on the platform is priced in Beats.
-- **Code and deployment:** the platform's code lives in a private repository. Every change pushed to the main branch triggers an automated deployment. The course material lives in a separate repository, where free automated jobs rebuild study packs and training data every week.
-- **Tool protocol:** the platform runs its own MCP server, so MCP-capable assistants can use functions such as giving an SKA agent a goal, looking up course material, and searching the connected CRM.
-- **Customer-owned deployment:** customers can run agents they build on their own Cloudflare accounts. Their credentials are stored encrypted in a personal vault and used only for their own deployments, so the compute bill is theirs, not the platform's.
+### The problems it caused
 
-### Decisions that shaped it
+Early on, the team adopted many tools quickly. Data lived in several places, automations broke when one tool changed, and no one knew which system held the true customer record.
 
-**Fallbacks at every AI step.** Each AI function has a second option: a second chat model, a second vision model, and for receipts a final human review. When a provider fails, the task degrades to the next option instead of stopping.
+### What was done
 
-**Verification ladder for payments.** Receipt approval runs strongest-first. The payment processor's own records are checked where available; if not, an AI read of the receipt is accepted only for small amounts within a daily limit; everything else waits for the founder. Every receipt is recorded once, with unique receipt numbers and image fingerprints, so the same payment can never be credited twice.
+The team settled on a deliberately small stack: one CRM as the **system of record** for customers; one integration platform (iPaaS) for automations, with each automation documented and owned; one hosted large-language-model API behind a single internal service, so the model can be changed in one place; a payment processor whose **webhooks are verified by signature** before anything is credited; and a transactional email service on the company's own domain with SPF, DKIM and DMARC configured. Each AI step has a fallback, and credentials live in a secrets manager, never in code or chat.
 
-**Signed webhooks, failing closed.** An early version of the payment webhook accepted messages when no signing secret was configured, which meant anyone who knew the address could have sent a fake "payment completed" event and received credits. It was changed to reject every message unless the signature is present and correct. This is Section 4's "verify what comes in" rule, learned the hard way.
+### What it shows
 
-**One system of record for money.** Purchases once updated an older balance field while charges came from a newer ledger, so a buyer could pay and not see their credits arrive. Both were moved onto the ledger, and the balance screen now reads only from it.
-
-### The credential lesson
-
-In July 2026, the credential that allowed the automated pipeline to deploy code expired. Deployments stopped, but nothing announced the failure clearly: the code repository kept accepting changes, and the site kept running the old version. It took about two weeks to discover that nothing new had shipped. The same credential was stored in three places — two secrets in the code repository and one in the platform itself — and all three had to be replaced for deployments to resume.
-
-The fix combined two practices from Section 7: record every place a credential is used, and watch for expiry. It also added a habit that goes beyond this chapter's list: after every deployment, check the live site itself, not just the pipeline's success badge, because the badge and the reality can disagree.
-
-### What remains open
-
-The platform runs on a free hosting plan with a strict processing limit per request, which affects some AI features, as Chapter 1's field case describes. The payment processor's automatic confirmation also depends on credentials not yet configured, so receipts currently rely on the AI read and founder review.
-
-Results for the founder to add: [FOUNDER TO ADD: monthly cost of each tool in the stack] [FOUNDER TO ADD: outreach reply rate from the 95 emails a day] [FOUNDER TO ADD: number of receipts approved automatically versus by review].
-
-### Discussion questions
-
-1. Which single tool in this stack would cause the most damage if it failed without a fallback, and what fallback would you add?
-2. Why does sending customers' agents to their own Cloudflare accounts change the platform's cost structure?
-3. What check would have caught the expired deployment credential within a day instead of two weeks?
+1. **Fewer tools, clearer ownership.** Every tool has a job and an owner.
+2. **One system of record.** Customer and money data each have one authoritative home.
+3. **Wrap external AI behind one service.** Changing provider then means changing one component.
+4. **Verify what comes in.** Signed webhooks prevent forged events from triggering actions.
+5. **Keep secrets out of code.** A secrets manager and regular rotation limit the damage of a leak.
 
 ## SKA Lab: Build and test your own agent
 
@@ -464,7 +440,7 @@ AI tools come in three layers: models that do the work, platforms that run them,
 
 Tools create value when connected to business systems through APIs, signed webhooks, automation platforms and tool protocols such as MCP, following four rules: expect failure, make actions idempotent, verify what comes in, and grant least access. A weighted scorecard tested on your own data and priced at real volume keeps choices honest. A small stack built around the CRM, with fallbacks and one maintained knowledge source, beats a large collection of overlapping tools. Credentials need a secrets manager, least permission, a record of where each is used, rotation, and expiry checks.
 
-Costs include seats, usage, add-ons and — usually the largest — staff time, so budgets, caps and regular reviews matter, as do contract terms on data, outputs and exit. Tools must be run over time with pinned versions, monitoring, a named owner and planned retirement. The Sales King Academy field case showed these ideas in a real stack: fallbacks at every AI step, a verification ladder for payments, webhooks that fail closed, and a costly lesson about an expired credential.
+Costs include seats, usage, add-ons and — usually the largest — staff time, so budgets, caps and regular reviews matter, as do contract terms on data, outputs and exit. Tools must be run over time with pinned versions, monitoring, a named owner and planned retirement. The field case showed these ideas in a small stack: one system of record, one wrapper around the AI provider, verified webhooks and secrets kept out of code.
 
 ## Key terms
 

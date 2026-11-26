@@ -3,9 +3,6 @@ key: ai_data_privacy_and_governance
 title: "AI Data Privacy And Governance"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 4"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI Data Privacy and Governance
 
-The earlier chapters of this volume showed what AI can do for a business and how to decide where it belongs. This chapter deals with the question that decides whether a business can keep using AI at all: what happens to the data. Every AI feature reads something, and in a sales or service business that something is usually information about real people. You will learn the core principles of privacy law, how personal data moves through an AI system, which technical safeguards work and how to measure them, how to build a governance programme that a small team can actually run, and how to answer the questions customers and regulators will ask. The chapter closes with a field case from the Sales King Academy platform, where a privacy leak was closed at a single point in the system, and a lab you complete on the live site.
+The earlier chapters of this volume showed what AI can do for a business and how to decide where it belongs. This chapter deals with the question that decides whether a business can keep using AI at all: what happens to the data. Every AI feature reads something, and in a sales or service business that something is usually information about real people. You will learn the core principles of privacy law, how personal data moves through an AI system, which technical safeguards work and how to measure them, how to build a governance programme that a small team can actually run, and how to answer the questions customers and regulators will ask. The chapter closes with a field case study, where a privacy leak was closed at a single point in the system, and a lab you complete on the live site.
 
 This chapter explains general principles of privacy law for business learners. It is not legal advice. Laws differ by country and state and change over time, so a business with a specific question should consult a qualified lawyer in its jurisdiction.
 
@@ -422,57 +419,28 @@ A practical **trust pack** for a small business might contain:
 
 Keeping this pack current takes perhaps a day a quarter. It turns governance from an internal chore into something the sales team can hand to a prospect, and it reinforces the message that the business takes care with what it is given.
 
-## SKA Field Case Study: Closing a privacy leak at one choke point
+## Field Case Study: Closing a privacy leak at one choke point
 
-This case comes from the operation of Sales King Academy itself, the platform on which you are taking this course.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-Sales King Academy runs 26 specialist AI agents, a CRM, automations, a Beats wallet and a course catalogue on one platform. Behind the scenes, the platform keeps internal numbering and addressing records, called chain numbers, that it uses to organize its knowledge and the activity on the platform. Each user, by contrast, is identified to themselves by a 16-digit DNA-16 identifier. Each agent also keeps private memory for each user, separate from every other user's.
-
-The platform's stated privacy rule is simple: a user sees only their own DNA-16, their own usage and their own Beats balance, and never the internal chain numbers.
+Harborline's customer portal shows each user their account, usage and invoices. Behind the scenes its services pass many internal values between them: database keys, routing codes and trace identifiers. The written policy said users should see only their own account details, usage and balance.
 
 ### The problems it caused
 
-On 7 October 2026, an audit of the platform found that the rule was not being kept everywhere. Internal chain numbers were appearing in some API responses and on some screens.
-
-This was not a leak of another person's private information, but it was a real privacy and security problem for three reasons.
-
-1. **It broke the platform's own promise.** A privacy rule that holds on most screens but not all of them is not a rule users can rely on.
-2. **It exposed internal structure.** Internal identifiers show how a system is organized. They help anyone trying to probe a system for weaknesses, and they can make it easier to link activity together.
-3. **It showed a design weakness.** The numbers appeared because individual routes and screens returned more than they needed. Fixing them one at a time would leave the next new route free to make the same mistake.
+A security review found internal identifiers appearing in some API responses and on some screens. Each team had been expected to remove them in its own code, and some screens, especially newer ones, did not. Internal identifiers are not secrets on their own, but they reveal how a system is built and help an attacker map it, and they break the principle of showing users only what they need.
 
 ### What was done
 
-Rather than patching each response, the platform added a **single outgoing filter**. Every response leaving the platform now passes through one point that strips internal chain numbers before anything reaches a user's screen or an API client. Users see only their DNA-16, their usage and their Beats.
-
-This is the choke point control described in Section 4. Its value is that it does not depend on every developer, or every AI-assisted piece of code, remembering the rule. New features added later inherit the protection automatically.
-
-The case also connects to two other design choices already in place on the platform. Each agent's memory is private per user, which is the tenant isolation principle from Section 4 applied at the level of individual people. And the chat source badges show users where each answer came from, which supports the transparency principle from Section 2.
+Instead of patching each screen, Harborline added a single **policy enforcement point**, the pattern standardised in access-control models such as XACML: every response leaving the platform now passes through one filter that applies an allow-list of fields users may see and strips everything else. The filter has its own tests, and new screens inherit it automatically. This follows the **data minimisation** principle of the EU GDPR (Article 5(1)(c)) and its requirement of data protection by design and by default (Article 25).
 
 ### What it shows
 
-The case illustrates four points from this chapter:
-
-1. **Privacy by default is a design property, not a policy statement.** The written rule existed before the audit. What made it true was a control that enforces it.
-2. **Choke points beat checklists.** One filter on everything outgoing is easier to test and harder to bypass than a rule every route must follow.
-3. **Audits find what good intentions miss.** The leak was found because someone went looking, which is why the governance programme in Section 5 includes regular reviews.
-4. **Minimization applies to outputs too.** Users were not harmed by having fewer fields on their screens. The removed numbers served no purpose for them.
-
-### What remains open
-
-Several questions are not settled by the filter alone, and they are good practice questions for any platform:
-
-- How will the platform test, on each release, that the filter still catches everything, including fields added in future? A standing automated test that scans responses for the forbidden pattern would answer this.
-- The platform recovered from a data loss in September 2026 using nightly database backups kept in a separate, access-controlled backup location. A governance review should confirm what those backups contain, who can access them and how long they are kept. **[founder figure: backup retention period and access settings]**
-- How long are chat conversations and per-user agent memories retained, and can a user delete them? **[founder figure: conversation and memory retention policy]**
-- How many responses contained chain numbers before the fix, and over what period? **[founder figure: count and duration of exposed responses]**
-
-### Discussion questions
-
-1. Why is a single outgoing filter more reliable than fixing each screen that showed internal numbers?
-2. What would a choke point filter not protect against, and which other controls would cover those gaps?
-3. If you were writing the platform's trust pack for an enterprise buyer, how would you describe this incident and its fix?
+1. **Privacy by default is a design property, not a policy statement.** The policy existed before the review; the filter made it true.
+2. **Choke points beat checklists.** One enforcement point is easier to test and harder to bypass than a rule every route must follow.
+3. **Audits find what good intentions miss.** The leak was found because someone checked real responses, which is why a governance programme schedules reviews.
+4. **Prefer allow-lists to block-lists.** Listing what may leave is safer than listing what may not, because new fields are blocked until approved.
 
 ## SKA Lab: Find the privacy boundaries of a live AI platform
 
@@ -480,7 +448,7 @@ In this lab you use the live Sales King Academy platform to see the privacy prin
 
 ### Steps
 
-1. **Sign in** at saleskingacademy.com. Look through your account, usage and wallet screens and list every piece of information the platform shows about you. Check whether your DNA-16 identifier, your usage and your Beats balance are shown, and whether you see any other long internal numbers.
+1. **Sign in** at saleskingacademy.com. Look through your account, usage and wallet screens and list every piece of information the platform shows about you. Check whether your account identifier, your usage and your Beats balance are shown, and whether you see any other long internal numbers.
 2. **Ask an agent what it remembers.** Open a chat with one agent, such as Mentor, and tell it a harmless made-up fact, for example "My test company is called Bluefinch Tiles." Later in the same session, ask the agent what it knows about your company. Then open a different agent, such as Closer, and ask the same question. Record whether the second agent knows the fact. Compare your result with the platform's description of private per-agent, per-user memory.
 3. **Check the source badges.** Ask an agent a question about this chapter's material, such as "What is data minimization?", and note the source badge. Then ask a question that needs live information, and note how that badge differs. Consider what each badge tells you about where your question's data went.
 4. **Inspect the CRM with test data.** Open the CRM and create one contact using entirely fictional details. Note which fields the CRM asks for, and mark each field as needed or not needed for a simple sales follow-up, using the minimization test from Worked example 1.
@@ -508,7 +476,7 @@ AI does not create privacy duties from nothing, but it makes data easier to copy
 
 A data flow map shows where personal data enters, moves and rests in an AI feature, and where it leaves the business's control. The business usually remains the controller, the AI provider is usually a processor, and a data processing agreement should cover training use, retention, location, subprocessors, security and breach notice. Technical safeguards include minimization, redaction, pseudonymization, permission-aware retrieval, tenant isolation, encryption, enforced retention and a single outgoing filter. Each should be measured, as recall and precision measure a redactor.
 
-Governance gives these controls a structure a small team can run: a short use policy, a register of AI systems, a likelihood-times-impact risk rating with DPIAs for high-risk uses, an audit trail of AI-assisted actions and a practised incident process. The GDPR, California's privacy rules, sector laws and the EU AI Act set the legal frame. Done well, governance shortens sales cycles as well as reducing risk. The Sales King Academy field case showed privacy by default enforced at one choke point, so the platform's rule no longer depends on every screen remembering it.
+Governance gives these controls a structure a small team can run: a short use policy, a register of AI systems, a likelihood-times-impact risk rating with DPIAs for high-risk uses, an audit trail of AI-assisted actions and a practised incident process. The GDPR, California's privacy rules, sector laws and the EU AI Act set the legal frame. Done well, governance shortens sales cycles as well as reducing risk. The field case showed privacy by default enforced at one policy enforcement point, so the rule no longer depends on every screen remembering it.
 
 ## Key terms
 
@@ -555,7 +523,7 @@ Governance gives these controls a structure a small team can run: a short use po
 13. What protection does the GDPR give people against solely automated decisions with significant effects?
 14. What are the four risk levels in the EU AI Act?
 15. Why is it hard to honour a deletion request for data used to train a model, and what is the practical solution?
-16. In the SKA field case, why was a single outgoing filter chosen instead of fixing each screen?
+16. In the field case, why was a single outgoing filter chosen instead of fixing each screen?
 
 ## Answer key
 

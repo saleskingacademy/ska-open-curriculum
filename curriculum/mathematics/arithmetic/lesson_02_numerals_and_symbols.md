@@ -2,7 +2,7 @@
 
 Canonical ID: AR-L01-02. Established mathematics; Arithmetic.
 Read [existing Lesson 2](level_01_lessons_01_05.md#lesson-2-numerals-and-symbols) and its equality examples together with this structured companion. Prerequisite: [Lesson 1](lesson_01_counting_and_quantity.md). Next: [Lesson 3](lesson_03_place_value.md).
-Education-16 and Symbol256: deferred until validation; written representation does not certify meaning.
+Catalog placement and topic tags: deferred until validation; written representation does not certify meaning.
 
 ## Objectives, vocabulary, and notation
 

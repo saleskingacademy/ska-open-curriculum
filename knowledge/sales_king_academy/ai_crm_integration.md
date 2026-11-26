@@ -3,9 +3,6 @@ key: ai_crm_integration
 title: "AI CRM Integration"
 program: sales_king_academy
 course_level: 
-dna16: ""
-l4_address: ""
-chain256_anchor: ""
 updated_at: "2026-10-08"
 chapter: "Sales King Academy, Volume 1, Chapter 3"
 generated_by: "Claude (Anthropic), directed by Sales King Academy LLC"
@@ -16,7 +13,7 @@ source: Sales King Academy program - AI Technology & Integration (original)
 
 # AI CRM Integration
 
-This chapter teaches you how to connect AI to a customer relationship management system so that customer data stays clean, insights appear where salespeople already work, and every summary, score and next step becomes part of the account's permanent record. You will learn how a CRM is structured, how to measure and improve the quality of its data, how integrations read and write records through APIs and webhooks, how to design where AI outputs land, how to build and check a lead score and a forecast, how to roll out AI writes safely, and how to protect the personal data a CRM holds. The chapter closes with a field case from the Sales King Academy platform about keeping internal data out of what users see and keeping AI answers relevant, followed by a lab on the platform's live CRM.
+This chapter teaches you how to connect AI to a customer relationship management system so that customer data stays clean, insights appear where salespeople already work, and every summary, score and next step becomes part of the account's permanent record. You will learn how a CRM is structured, how to measure and improve the quality of its data, how integrations read and write records through APIs and webhooks, how to design where AI outputs land, how to build and check a lead score and a forecast, how to roll out AI writes safely, and how to protect the personal data a CRM holds. The chapter closes with a field case study about keeping internal data out of what users see and keeping AI answers relevant, followed by a lab on the platform's live CRM.
 
 ## Learning objectives
 
@@ -331,7 +328,7 @@ The answer is only as good as the records retrieved. If the retrieval step pulls
 - **Scope the retrieval**: search only within the account, deal or time period the question concerns, and respect the user's permissions.
 - **Gate on relevance**: before an item is used, check that it is genuinely about the question, and discard items that are not, even if they scored highly on a general similarity measure. A small number of well-matched records produces a better answer than a large number of loosely related ones.
 
-The Sales King Academy field case later in this chapter describes a retrieval bug of exactly this kind and the relevance gate that fixed it.
+The field case later in this chapter describes a retrieval fault of exactly this kind and the relevance threshold that fixed it.
 
 ### Answers must cite records
 
@@ -411,50 +408,33 @@ Brightline sells and services office printers and networks to small and mid-size
 
 **Questions to consider.** Why did the earlier writing assistant fail to improve the CRM? Why was fixing the service-system integration a precondition for useful AI summaries? Which of Brightline's design choices protected the forecast from AI errors?
 
-## SKA Field Case Study: One filter for privacy, one gate for relevance
+## Field Case Study: One filter for privacy, one gate for relevance
 
-This case comes from the operation of Sales King Academy itself. It concerns two problems found in audits on 7 October 2026 that every business connecting AI to customer data must guard against: internal data appearing where users can see it, and AI answers grounded in the wrong records.
+*This case is an illustrative composite. Harborline is a fictional company; the practices it uses are standard, widely published ones, cited where they come from.*
 
 ### The situation
 
-The Sales King Academy platform at saleskingacademy.com runs 26 specialist AI agents, each with its own lane and private per-user memory, alongside a CRM with contacts and a pipeline, an Automations hub, Agent Builder, vault connections for customers' own tools, and the Beats wallet, in which 1 Beat equals 1 US dollar. Internally, the platform tracks its records with its own chain numbering. Its privacy rule is that a user sees only three things about their own account in that respect: their DNA-16 identifier, their usage and their Beats. Internal chain numbers are not for users.
-
-The agents answer from stored, verified knowledge where it exists. In Deterministic mode they answer only from verified knowledge; in Auto mode verified knowledge comes first, with AI phrasing; in Natural mode the wording is fresh each time but numbers and key terms must match the stored answer. Every reply carries a source badge showing whether it came from deterministic recall, verified knowledge, the web or AI.
+Harborline's customer portal shows each user their account, usage and invoices. Behind the scenes its services pass many internal values between them: database keys, routing codes and trace identifiers. The written policy said users should see only their own account details, usage and balance.
 
 ### The problems it caused
 
-**Internal numbers on screen.** An audit on 7 October found internal chain numbers appearing in API responses and on screens. Nothing in the privacy rule allowed users to see them; they had leaked through the many separate places where the platform produced output for users.
+A data review found internal record keys and sync codes appearing in CRM exports, in merge fields of customer emails and in webhook payloads sent to partner tools. Each integration had been expected to remove them in its own mapping, and the newest integrations did not. Internal keys are not secrets on their own, but they reveal how the systems are joined, help an attacker map them, and leak data the recipient never needed.
 
-**One record dominating answers.** A second audit the same day found a retrieval bug: a single off-topic knowledge record was dominating answers across agents. Instead of grounding each answer in material about the question asked, the retrieval step kept returning the same irrelevant record, so answers in different agents' lanes were being shaped by material that had nothing to do with the user's question.
-
-Measures that would show the scale of each problem are founder figures: **[founder figure: number of endpoints and screens that exposed internal numbers]**, **[founder figure: share of answers affected by the off-topic record before the fix]**.
+The same review found a second, unrelated fault in the AI assistant: it sometimes answered a question about one account using notes retrieved from a different, merely similar account, because retrieval returned the closest match even when nothing was close.
 
 ### What was done
 
-**A single outgoing filter.** Rather than fixing each screen and each API response separately, the platform added a single outgoing filter that strips internal chain numbers from everything sent to users. Every response now passes through that choke point, so users see only their DNA-16, their usage and their Beats.
+Instead of patching each integration, Harborline routed every outbound CRM flow (exports, email merges and webhooks) through one **policy enforcement point**, the pattern standardised in access-control models such as XACML. It applies a per-destination allow-list of fields and strips everything else, so a partner tool receives only the fields its contract names. The filter has its own tests, and new integrations inherit it automatically. This follows the **data minimisation** principle of the EU GDPR (Article 5(1)(c)) and its requirement of data protection by design and by default (Article 25).
 
-**An on-topic relevance gate.** The retrieval bug was fixed with a relevance gate: before a knowledge record can ground an answer, it must be on topic for the question. A record that does not pass the gate is not used, however often it would otherwise have been retrieved.
+For the assistant, the team added a **relevance threshold** to retrieval-augmented generation (RAG, described by Lewis and colleagues in 2020): retrieved records are used only if their match score passes a tested threshold and they belong to the account in question; otherwise the assistant says it has no matching record.
 
 ### What it shows
 
-The case illustrates five points from this chapter:
-
-1. **Privacy is best enforced at one choke point.** Section 9 described output filtering at a single point all responses pass through. When the rule depends on every screen and endpoint remembering it, some will forget, as the audit found. One filter applied to all output enforces the rule by default, including on screens built later.
-2. **Users should see what they need, and no more.** The platform's privacy rule names exactly what a user sees about their account. The same discipline applies to any CRM: decide what each audience is entitled to see, and filter the rest out, whether the audience is a salesperson, a customer or another system.
-3. **Grounding only helps if the grounding is relevant.** Section 8 warned that an AI answer built on the wrong records is confidently wrong. A single dominant off-topic record did exactly that across agents. An AI account briefing that kept pulling in the same irrelevant note would fail in the same way.
-4. **Gates beat hopes.** Both fixes are gates: one on what leaves the system, one on what is allowed to ground an answer. Gates are simple to reason about and test, which is why they are such common controls in AI-connected systems.
-5. **Audits find what normal use hides.** Neither problem announced itself. Both were found by deliberate audits on the same day, which is the argument for the regular review routines in Section 7.
-
-### What remains open
-
-Questions remain that apply to any business. How should the outgoing filter itself be tested, so that a future change cannot quietly bypass it? Could an automated test check every response for patterns that look like internal numbers before each release? How should the relevance gate's threshold be chosen, so that it rejects off-topic records without also rejecting useful ones, and how would the platform measure that balance? Should the retrieval step also limit how often any single record can be used across unrelated questions, as an early warning of the same failure? Results for the founder to add: **[founder figure: tests added to guard the outgoing filter]**, **[founder figure: answer-relevance measure before and after the gate]**.
-
-### Discussion questions
-
-1. Why is a single outgoing filter more reliable than fixing each screen and API response one by one?
-2. In a business CRM, which internal fields or identifiers should never appear in what customers see, and where would you place the filter?
-3. How is the off-topic record problem similar to an AI account briefing built from the wrong customer's notes?
-4. How would you measure whether a relevance gate is too strict or too loose?
+1. **Privacy is best enforced at one choke point.** A rule every screen must remember will eventually be forgotten; one filter enforces it by default.
+2. **Users should see what they need, and no more.** An explicit allow-list is easier to check than a list of things to hide.
+3. **Retrieval must be relevant, not just nearest.** "Closest match" is not the same as "a match".
+4. **Scope retrieval to the record.** Answers about an account should draw only on that account's data.
+5. **Audit what users actually see.** Both faults were found by inspecting real outputs, not by reading the policy.
 
 ## SKA Lab: Run a read-only AI pilot on the platform's CRM
 
@@ -469,8 +449,8 @@ In this lab you use the live Sales King Academy platform at saleskingacademy.com
 5. **Design the field mapping.** Before asking the AI, fill in a table like the one in Section 4: for each AI output, name its destination in your CRM and its write policy (suggest, write with review, or write automatically).
 6. **Collect suggestions.** Ask Closer to turn your call note into a summary, next steps, competitor mentioned, objection and a suggested close-date change. For each suggestion, decide whether you would accept it unchanged, edit it or reject it, and record your decision. Enter only the ones you accept into the CRM yourself.
 7. **Build a scoring agent.** Open Agent Builder and create an agent on top of Prospect as its base, with the points table from Worked example 2 in its instructions. Give it three invented leads and check its scores against your own hand calculation.
-8. **Check what you can see.** Look at your account and usage screens. Confirm that you see your DNA-16, your usage and your Beats, and no internal chain numbers, in line with the platform's privacy rule. Then review your vault connections and note which outside tools, if any, are connected and whether each is needed.
-9. **Record usage.** If your session used Beats, check your usage on your account. Usage is metered by seconds of compute, and only full seconds are charged; 1 Beat equals 1 US dollar. Record what the session cost, or that it used only free allowance.
+8. **Check what you can see.** Look at your account and usage screens. Confirm that you see only your own account details, usage and balance, and no internal system identifiers. Then review your vault connections and note which outside tools, if any, are connected and whether each is needed.
+9. **Record usage.** If your session used Beats, check your usage on your account. 1 Beat equals 1 US dollar. Record what the session cost, or that it used only free allowance.
 
 ### Record your results
 
@@ -482,7 +462,7 @@ In this lab you use the live Sales King Academy platform at saleskingacademy.com
 | Field mapping: outputs and their write policies | |
 | Suggestions: accepted / edited / rejected | |
 | Lead scores: agent vs your calculation (three leads) | |
-| What your account screens show (DNA-16, usage, Beats, anything else) | |
+| What your account screens show (account details, usage, balance, anything else) | |
 | Vault connections reviewed and any removed | |
 | Beats used, or free allowance only | |
 
@@ -496,7 +476,7 @@ A CRM is the system of record for contacts, companies, deals, activities and tas
 
 Integrations read and write through APIs, subject to rate limits, using API keys or OAuth scopes under the principle of least privilege. Webhooks make integrations responsive but can deliver events late or twice, so writes must be idempotent. Each field has one system of record, and AI must never overwrite an authoritative value. AI features include enrichment, activity capture, lead scoring, drafting, deal risk alerts, forecasting and conversational search. A field mapping gives each AI output one destination, provenance records where each value came from, and write policies move outputs from suggestion to automatic writing only when a pilot shows they are accurate enough, judged field by field.
 
-Lead scores combine fit and engagement, need override rules and must be checked against real outcomes for lift. Signal-adjusted forecasts based on measured win rates and activity often differ sharply from stage-weighted forecasts based on opinion, and the difference is a prompt for discussion. Weekly and quarterly hygiene routines keep data current, and adoption improves when the CRM gives salespeople something back. AI answers from CRM data must retrieve relevant records, cite them, take hard facts from fields and stay consistent. Permission inheritance, data minimization, privacy rights, retention limits, defences against prompt injection and output filtering at a single choke point protect the people whose data the CRM holds. The Sales King Academy field case showed one outgoing filter enforcing a privacy rule across every screen and response, and an on-topic relevance gate stopping one irrelevant record from dominating answers.
+Lead scores combine fit and engagement, need override rules and must be checked against real outcomes for lift. Signal-adjusted forecasts based on measured win rates and activity often differ sharply from stage-weighted forecasts based on opinion, and the difference is a prompt for discussion. Weekly and quarterly hygiene routines keep data current, and adoption improves when the CRM gives salespeople something back. AI answers from CRM data must retrieve relevant records, cite them, take hard facts from fields and stay consistent. Permission inheritance, data minimization, privacy rights, retention limits, defences against prompt injection and output filtering at a single choke point protect the people whose data the CRM holds. The field case showed one outgoing filter enforcing a privacy rule across every screen and a relevance threshold keeping retrieval honest.
 
 ## Key terms
 
@@ -552,7 +532,7 @@ Lead scores combine fit and engagement, need override rules and must be checked 
 12. A score band converts at 18 percent while all leads convert at 6 percent. What is the band's lift?
 13. A $50,000 deal in proposal has a default probability of 60 percent and a historical win rate of 35 percent. What are its default and signal-adjusted weighted values?
 14. Why should write-policy decisions be made field by field rather than on the overall acceptance rate?
-15. In the SKA field case, why was a single outgoing filter chosen to remove internal chain numbers?
+15. In the field case, why was a single outgoing filter chosen to remove internal system identifiers?
 
 ## Answer key
 
@@ -570,7 +550,7 @@ Lead scores combine fit and engagement, need override rules and must be checked 
 12. 18 ÷ 6 = 3.0.
 13. Default: $50,000 × 60% = $30,000. Signal-adjusted: $50,000 × 35% = $17,500.
 14. Because an overall rate can hide fields that are ready and fields that are not; in Worked example 3, the overall 86 percent failed the bar while two fields passed it at 92.5 percent.
-15. Because enforcing the rule at one choke point that all responses pass through is far more reliable than relying on every screen and API response to remember it separately, and it also covers screens built later.
+15. Because enforcing the rule at one policy enforcement point that all responses pass through is far more reliable than relying on every screen and API response to remember it separately, and it also covers screens built later.
 
 ## Further reading
 

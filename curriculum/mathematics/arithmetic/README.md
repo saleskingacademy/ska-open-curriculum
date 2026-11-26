@@ -45,7 +45,7 @@ Lessons 1–5 introduce signed operations, decimals, and division-by-zero reason
 
 The map's stricter routine threshold of 85% applies, along with 80% for transfer and correction of failed prerequisite skills. Ten-item sets therefore require at least nine correct. Lesson quizzes provide explanation credit and require 80%. Major tests additionally track critical outcomes. Human explanation may be oral, written, tactile, or diagrammatic; mathematical expectations stay fixed.
 
-Every new lesson is original instructional expression about established mathematics. No accreditation or independently reviewed academic equivalence is claimed. Education-16 and Symbol256 remain deferred. Automated exact-answer checks supplement a source review; they do not prove educational completeness or replace a human academic review. The manifest reports these limits explicitly.
+Every new lesson is original instructional expression about established mathematics. No accreditation or independently reviewed academic equivalence is claimed. Catalog placement and topic tagging remain deferred. Automated exact-answer checks supplement a source review; they do not prove educational completeness or replace a human academic review. The manifest reports these limits explicitly.
 
 The [Level 1 examination](assessments/level_01_foundation_examination.md) has two 25-item forms with a shared outcome blueprint, explanatory keys, critical-skill thresholds and remediation. The foundational investigation in Lesson 10 is separate from the still-pending Arithmetic course capstone.
 
