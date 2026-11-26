@@ -1,0 +1,21 @@
+Copyright (c) 2026 Sales King Academy LLC. All rights reserved.
+
+Educational material, study packs, symbol files, training data and textbook maps in this
+repository are the property of Sales King Academy LLC. This repository is public so the
+material can be read and built with automated tools; public visibility does not grant any
+licence. You may not copy, republish, distribute, sell, adapt, or use this material (in whole
+or in part) to train machine-learning models, except as allowed by applicable law, without
+written permission from Sales King Academy LLC.
+
+Access to the courses is sold at https://saleskingacademy.com.
+Licensing enquiries: kaleb5664@gmail.com
+
+History: versions of this repository up to and including commit 0a5ca0d were published under
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). Copies obtained from those earlier
+versions remain under that licence. All material added or changed after that commit is
+covered only by this notice.
+
+Exception - dictionary/: the definitions, examples, parts of speech and synonyms in
+dictionary/words/ are from Open English WordNet 2024 (CC BY 4.0) and English Wiktionary
+(CC BY-SA 4.0) and remain under those licences; see dictionary/LICENSE. Only the identifiers, meaning
+signatures and build tooling added by Sales King Academy LLC are covered by the notice above.

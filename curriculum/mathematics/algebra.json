@@ -1,0 +1,140 @@
+{
+  "subject_id": "algebra",
+  "subject_name": "Algebra",
+  "category": "MATHEMATICS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Variables and Expressions",
+          "content": "# Variables and Expressions\n\n## Learning Objectives\n1. Define variables and understand their role in algebra\n2. Write algebraic expressions from word descriptions\n3. Evaluate expressions by substituting values\n4. Distinguish between expressions and equations\n5. Apply order of operations (PEMDAS/BODMAS)\n\n## What is Algebra?\n\nAlgebra is the branch of mathematics that uses letters (variables) to represent unknown quantities. While arithmetic deals with specific numbers (2 + 3 = 5), algebra generalizes patterns: a + b = b + a works for ALL numbers.\n\nThe word \"algebra\" comes from the Arabic \"al-jabr\" meaning \"reunion of broken parts,\" from the 9th-century treatise by mathematician al-Khwarizmi.\n\n## Variables\n\nA **variable** is a symbol (usually a letter) that represents an unknown or changeable value. Common conventions:\n- **x, y, z** \u2014 general unknowns\n- **n, m, k** \u2014 integers\n- **a, b, c** \u2014 constants or coefficients\n- **t** \u2014 time, **d** \u2014 distance, **r** \u2014 rate\n\n### Constants vs. Variables\n- **Constant**: A fixed value that doesn't change (5, \u03c0, -3)\n- **Variable**: A value that can change or is unknown (x, y, n)\n- **Coefficient**: A number multiplied by a variable (the 3 in 3x)\n\n## Algebraic Expressions\n\nAn **algebraic expression** combines variables, numbers, and operations WITHOUT an equals sign.\n\nExamples:\n- 3x + 5 (three times x, plus five)\n- 2a - 7b (two times a, minus seven times b)\n- x\u00b2 + 4x - 1 (x squared plus four x minus one)\n\n### Translating Words to Expressions\n\n| Word/Phrase | Operation | Example |\n|-------------|-----------|---------|\n| sum, plus, more than, increased by | Addition (+) | \"5 more than x\" \u2192 x + 5 |\n| difference, minus, less than, decreased by | Subtraction (-) | \"x decreased by 3\" \u2192 x - 3 |\n| product, times, of, multiplied by | Multiplication (\u00d7) | \"twice n\" \u2192 2n |\n| quotient, divided by, ratio | Division (\u00f7) | \"x divided by 4\" \u2192 x/4 |\n| squared, cubed, power | Exponent | \"x squared\" \u2192 x\u00b2 |\n\n**Important**: \"5 less than x\" means x - 5 (NOT 5 - x). The order matters in subtraction!\n\n## Order of Operations (PEMDAS)\n\nWhen evaluating expressions, follow this order:\n1. **P**arentheses (innermost first)\n2. **E**xponents (powers and roots)\n3. **M**ultiplication and **D**ivision (left to right)\n4. **A**ddition and **S**ubtraction (left to right)\n\n### Example: Evaluate 3(2 + 4)\u00b2 - 8 \u00f7 2\n\nStep 1: Parentheses \u2192 3(6)\u00b2 - 8 \u00f7 2\nStep 2: Exponents \u2192 3(36) - 8 \u00f7 2\nStep 3: Multiplication/Division \u2192 108 - 4\nStep 4: Subtraction \u2192 **104**\n\n## Evaluating Expressions\n\nTo evaluate an expression, substitute the given value for each variable.\n\n### Example 1: Evaluate 3x + 7 when x = 4\n3(4) + 7 = 12 + 7 = **19**\n\n### Example 2: Evaluate a\u00b2 - 2ab + b\u00b2 when a = 3, b = 1\n(3)\u00b2 - 2(3)(1) + (1)\u00b2 = 9 - 6 + 1 = **4**\nNote: This is the expansion of (a - b)\u00b2 = (3 - 1)\u00b2 = 2\u00b2 = 4 \u2713\n\n### Example 3: Evaluate (2x + 1)(x - 3) when x = 5\n(2(5) + 1)(5 - 3) = (11)(2) = **22**\n\n## Like Terms\n\n**Like terms** have the same variable raised to the same power:\n- 3x and 7x are like terms (both have x\u00b9)\n- 5x\u00b2 and -2x\u00b2 are like terms\n- 4x and 4x\u00b2 are NOT like terms (different powers)\n- 3x and 3y are NOT like terms (different variables)\n\n### Combining Like Terms\nAdd or subtract the coefficients: 5x + 3x = 8x, 7y\u00b2 - 2y\u00b2 = 5y\u00b2\n\n## Practice Problems\n\n1. Write an expression for \"the product of 7 and x, decreased by 3\"\n   **Answer**: 7x - 3\n\n2. Evaluate 4x\u00b2 - 3x + 2 when x = 2\n   **Answer**: 4(4) - 3(2) + 2 = 16 - 6 + 2 = 12\n\n3. Simplify: 5a + 3b - 2a + 7b\n   **Answer**: 3a + 10b\n\n4. Evaluate (x + y)\u00b2 when x = 3, y = 2\n   **Answer**: (5)\u00b2 = 25\n\n5. What is the coefficient of x in the expression 8 - 5x + 3x\u00b2?\n   **Answer**: -5\n\n## Key Takeaways\n- Variables represent unknown or changeable quantities\n- Algebraic expressions combine variables, constants, and operations\n- PEMDAS dictates the order of operations\n- Like terms can be combined by adding/subtracting coefficients\n- Careful translation from words to symbols is essential",
+          "quiz": [
+            {
+              "question": "What is the coefficient of x in 7x + 3?",
+              "options": [
+                "3",
+                "7",
+                "x",
+                "10"
+              ],
+              "correct": "7",
+              "explanation": "The coefficient is the number multiplied by the variable"
+            },
+            {
+              "question": "Evaluate 2x + 5 when x = 4",
+              "options": [
+                "8",
+                "13",
+                "11",
+                "9"
+              ],
+              "correct": "13",
+              "explanation": "2(4) + 5 = 8 + 5 = 13"
+            },
+            {
+              "question": "Which are like terms?",
+              "options": [
+                "3x and 3y",
+                "5x\u00b2 and 2x",
+                "4ab and 7ab",
+                "x and x\u00b2"
+              ],
+              "correct": "4ab and 7ab",
+              "explanation": "Like terms have the same variables with the same exponents"
+            },
+            {
+              "question": "Translate: '6 less than twice n'",
+              "options": [
+                "6 - 2n",
+                "2n - 6",
+                "2(n - 6)",
+                "6 - n/2"
+              ],
+              "correct": "2n - 6",
+              "explanation": "'Twice n' is 2n, '6 less than' means subtract 6"
+            },
+            {
+              "question": "Simplify: 3x + 5 + 2x - 1",
+              "options": [
+                "5x + 4",
+                "5x + 6",
+                "6x + 4",
+                "5x - 4"
+              ],
+              "correct": "5x + 4",
+              "explanation": "Combine like terms: (3x+2x) + (5-1) = 5x + 4"
+            }
+          ]
+        },
+        {
+          "lesson": 2,
+          "title": "Solving One-Step Equations",
+          "content": "# Solving One-Step Equations\n\n## Learning Objectives\n1. Understand what an equation is and what it means to solve one\n2. Apply inverse operations to isolate variables\n3. Solve one-step equations involving addition, subtraction, multiplication, and division\n4. Check solutions by substitution\n5. Solve equations with negative numbers and fractions\n\n## What is an Equation?\n\nAn **equation** is a mathematical statement that two expressions are equal, connected by an equals sign (=).\n\n- Expression: 3x + 5 (no equals sign)\n- Equation: 3x + 5 = 14 (has equals sign)\n\n**Solving an equation** means finding the value of the variable that makes the equation true.\n\n## The Balance Principle\n\nThink of an equation as a balance scale. Both sides must remain equal. Whatever you do to one side, you MUST do to the other side.\n\n### Inverse Operations\nEvery operation has an inverse that \"undoes\" it:\n- Addition \u2194 Subtraction\n- Multiplication \u2194 Division\n- Squaring \u2194 Square root\n\n## Solving Addition Equations\n\n**Strategy**: Subtract the same number from both sides.\n\n### Example: x + 7 = 12\nx + 7 - 7 = 12 - 7\nx = 5\n\n**Check**: 5 + 7 = 12 \u2713\n\n### Example: x + (-3) = 10\nx - 3 = 10\nx - 3 + 3 = 10 + 3\nx = 13\n\n## Solving Subtraction Equations\n\n**Strategy**: Add the same number to both sides.\n\n### Example: x - 4 = 9\nx - 4 + 4 = 9 + 4\nx = 13\n\n**Check**: 13 - 4 = 9 \u2713\n\n## Solving Multiplication Equations\n\n**Strategy**: Divide both sides by the coefficient.\n\n### Example: 5x = 35\n5x / 5 = 35 / 5\nx = 7\n\n**Check**: 5(7) = 35 \u2713\n\n### Example: -3x = 18\n-3x / (-3) = 18 / (-3)\nx = -6\n\n**Check**: -3(-6) = 18 \u2713\n\n## Solving Division Equations\n\n**Strategy**: Multiply both sides by the divisor.\n\n### Example: x/4 = 6\n(x/4) \u00d7 4 = 6 \u00d7 4\nx = 24\n\n**Check**: 24/4 = 6 \u2713\n\n## Working with Fractions\n\n### Example: (2/3)x = 8\nMultiply both sides by the reciprocal (3/2):\n(3/2)(2/3)x = 8(3/2)\nx = 12\n\n**Check**: (2/3)(12) = 8 \u2713\n\n## Practice Problems\n\n1. Solve: x + 9 = 15\n   **Answer**: x = 6\n\n2. Solve: y - 7 = -3\n   **Answer**: y = 4\n\n3. Solve: 4n = -28\n   **Answer**: n = -7\n\n4. Solve: m/5 = 12\n   **Answer**: m = 60\n\n5. Solve: -8x = 56\n   **Answer**: x = -7\n\n6. Solve: (3/4)x = 9\n   **Answer**: x = 12\n\n## Key Takeaways\n- An equation states that two expressions are equal\n- The balance principle: do the same operation to both sides\n- Use inverse operations to isolate the variable\n- Always check your solution by substituting back\n- With fractions, multiply by the reciprocal",
+          "quiz": [
+            {
+              "question": "Solve: x + 8 = 15",
+              "options": [
+                "x = 23",
+                "x = 7",
+                "x = 8",
+                "x = -7"
+              ],
+              "correct": "x = 7",
+              "explanation": "Subtract 8 from both sides: x = 15 - 8 = 7"
+            },
+            {
+              "question": "Solve: 6y = -42",
+              "options": [
+                "y = -7",
+                "y = 7",
+                "y = -36",
+                "y = 36"
+              ],
+              "correct": "y = -7",
+              "explanation": "Divide both sides by 6: y = -42/6 = -7"
+            },
+            {
+              "question": "Solve: n/3 = 9",
+              "options": [
+                "n = 3",
+                "n = 6",
+                "n = 27",
+                "n = 12"
+              ],
+              "correct": "n = 27",
+              "explanation": "Multiply both sides by 3: n = 9 \u00d7 3 = 27"
+            },
+            {
+              "question": "What is the inverse of multiplication?",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Division",
+                "Squaring"
+              ],
+              "correct": "Division",
+              "explanation": "Division undoes multiplication"
+            },
+            {
+              "question": "Solve: x - 11 = -4",
+              "options": [
+                "x = -15",
+                "x = 7",
+                "x = -7",
+                "x = 15"
+              ],
+              "correct": "x = 7",
+              "explanation": "Add 11 to both sides: x = -4 + 11 = 7"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

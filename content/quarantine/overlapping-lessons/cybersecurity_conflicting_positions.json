@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "cybersecurity",
+  "lessons": [
+    {
+      "id": "cybersecurity_L2_1",
+      "subject_id": "cybersecurity",
+      "level": 2,
+      "lesson_number": 1,
+      "title": "Threats & Attack Types",
+      "category": "MASTERY",
+      "content": "Understanding attacks is the first defense. KEY CONCEPTS: Malware (virus, ransomware, trojan), phishing/social engineering, DDoS, injection attacks, man-in-the-middle, zero-days. WORKED EXAMPLE: Phishing tricks a user into revealing credentials — the most common breach vector. PRACTICE: 1) Name 4 malware types. 2) Explain phishing. 3) Describe a DDoS attack."
+    }
+  ]
+}

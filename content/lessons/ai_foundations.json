@@ -1,0 +1,83 @@
+[
+ {
+  "id": "ai_foundations_L1_1",
+  "subject_id": "ai_foundations",
+  "level": 1,
+  "lesson_number": 1,
+  "title": "What Is AI",
+  "category": "MASTERY",
+  "content": "Artificial Intelligence is the science of building systems that perform tasks requiring human-like intelligence: perception, reasoning, learning, decision-making. KEY CONCEPTS: Narrow AI (task-specific, today's reality) vs General AI (human-level, not yet achieved). Symbolic AI (rules/logic) vs Machine Learning (learning from data). WORKED EXAMPLE: A spam filter learning from examples is narrow ML AI. PRACTICE: 1) List 3 AI systems you use daily. 2) Classify each as narrow/general. 3) Identify rules-based vs learned."
+ },
+ {
+  "id": "ai_foundations_L1_2",
+  "subject_id": "ai_foundations",
+  "level": 1,
+  "lesson_number": 2,
+  "title": "Ai foundations — Level 1 (Foundations): Lesson 2",
+  "category": "GITHUB_BUILT",
+  "content": "# Lesson 2: The Core Paradigms of Machine Learning\n\n## 1. Learning Objective\nBy the end of this lesson, you will be able to:\n* Formulate machine learning problems within a formal mathematical framework.\n* Differentiate between Supervised Learning, Unsupervised Learning, and Reinforcement Learning based on their data representations, objective functions, and feedback mechanisms.\n* Categorize real-world problems into the appropriate learning paradigm and specify their input-output spaces.\n\n---\n\n## 2. Theoretical Foundations\n\nTraditional computation relies on deductive programming: a human writes explicit deterministic rules $f$ that map inputs $X$ to outputs $Y$ ($f(X) \\to Y$). Machine Learning (ML) inverts this process inductively: an algorithm examines data to approximate an unknown underlying function $f^*: \\mathcal{X} \\to \\mathcal{Y}$. \n\nThe mechanism of this approximation defines the three primary paradigms of machine learning.\n\n```\n                  ┌──────────────────────────────┐\n                  │ Machine Learning Paradigms   │\n                  └──────────────┬───────────────┘\n         ┌───────────────────────┼───────────────────────┐\n         ▼                       ▼                       ▼\n┌──────────────────┐   ┌──────────────────┐   ┌──────────────────┐\n│ Supervised       │   │ Unsupervised     │   │ Reinforcement    │\n│ Learning         │   │ Learning         │   │ Learning         │\n├──────────────────┤   ├──────────────────┤   ├──────────────────┤\n│ Labeled Data     │   │ Unlabeled Data   │   │ State-Action-    │\n│ {(xᵢ, yᵢ)}       │   │ {xᵢ}             │   │ Reward Loop      │\n│                  │   │                  │   │                  │\n│ Goal: Learn      │   │ Goal: Discover   │   │ Goal: Maximize   │\n│ mapping f: X → Y │   │ latent structure │   │ cumulative       │\n│                  │   │ or distribution  │   │ return Gₜ        │\n└──────────────────┘   └──────────────────┘   └──────────────────┘\n```\n\n---\n\n### Paradigm 1: Supervised Learning\nIn supervised learning, the learner receives a dataset of input-output pairs:\n\n$$\\mathcal{D} = \\{(x_1, y_1), (x_2, y_2), \\dots, (x_N, y_N)\\}$$\n\nwhere each $x_i \\in \\mathcal{X} \\subseteq \\mathbb{R}^d$ is a $d$-dimensional feature vector, and each $y_i \\in \\mathcal{Y}$ is a supervisory ground-truth label. \n\nThe objective is to search a hypothesis space $\\mathcal{H}$ for a parameterized function $f_\\theta(x)$ that minimizes an empirical risk (loss) function $\\mathcal{L}$:\n\n$$\\min_{\\theta} \\frac{1}{N} \\sum_{i=1}^{N} \\mathcal{L}(f_\\theta(x_i), y_i)$$\n\nSupervised learning bifurcates based on the nature of the label space $\\mathcal{Y}$:\n1. **Regression:** $\\mathcal{Y} \\subseteq \\mathbb{R}$ (continuous target space, e.g., predicting temperature).\n2. **Classification:** $\\mathcal{Y} = \\{C_1, C_2, \\dots, C_K\\}$ (discrete target space, e.g., medical diagnosis).\n\n---\n\n### Paradigm 2: Unsupervised Learning\nIn unsupervised learning, the dataset lacks explicit supervisory targets:\n\n$$\\mathcal{D} = \\{x_1, x_2, \\dots, x_N\\}$$\n\nThe objective is to infer the underlying probability distribution $p(x)$ or discover intrinsic geometric and structural properties of the data space $\\mathcal{X}$. Common formulations include:\n* **Clustering:** Partitioning $\\mathcal{X}$ into disjoint subsets $S_1, \\dots, S_k$ such that intra-cluster distance is minimized and inter-cluster distance is maximized.\n* **Dimensionality Reduction:** Learning a projection mapping $g: \\mathbb{R}^d \\to \\mathbb{R}^k$ (where $k \\ll d$) that preserves maximal variance or topological relationships.\n* **Density Estimation:** Estimating the continuous probability density function $p(x)$ from which the empirical samples were drawn.\n\n---\n\n### Paradigm 3: Reinforcement Learning (RL)\nUnlike supervised or unsupervised learning, Reinforcement Learning is not defined by a static dataset $\\mathcal{D}$. Instead, it formalizes learning as an agent interacting with an environment over discrete time steps $t = 0, 1, 2, \\dots$, modeled as a Markov Decision Process (MDP) defined by the tuple $("
+ },
+ {
+  "id": "ai_foundations_L2_1",
+  "subject_id": "ai_foundations",
+  "level": 2,
+  "lesson_number": 1,
+  "title": "History & Paradigms",
+  "category": "MASTERY",
+  "content": "AI evolved through waves: symbolic/expert systems (1950s-80s), machine learning (1990s-2010s), deep learning (2010s+), foundation models/LLMs (2020s). KEY CONCEPTS: AI winters (funding collapses when hype outran results). The shift from hand-coded rules to learned patterns. WORKED EXAMPLE: Chess (rules-based Deep Blue 1997) vs Go (learned AlphaGo 2016) shows the paradigm shift. PRACTICE: 1) Map the 4 waves. 2) Explain why deep learning succeeded where rules failed."
+ },
+ {
+  "id": "ai_foundations_L3_1",
+  "subject_id": "ai_foundations",
+  "level": 3,
+  "lesson_number": 1,
+  "title": "How Machines Learn",
+  "category": "MASTERY",
+  "content": "Three learning types: supervised (labeled data), unsupervised (find structure), reinforcement (learn by reward). KEY CONCEPTS: Training data, features, models, inference. Generalization — performing on unseen data. Overfitting vs underfitting. WORKED EXAMPLE: Teaching a model cats vs dogs from labeled photos (supervised). PRACTICE: 1) Pick a problem for each learning type. 2) Define features for a house-price model. 3) Explain overfitting."
+ },
+ {
+  "id": "ai_foundations_L4_1",
+  "subject_id": "ai_foundations",
+  "level": 4,
+  "lesson_number": 1,
+  "title": "Neural Networks",
+  "category": "MASTERY",
+  "content": "Neural networks are layers of interconnected nodes that learn patterns via weighted connections. KEY CONCEPTS: Neurons, weights, activation functions, forward propagation, backpropagation (learning by error correction), gradient descent. Deep = many layers. WORKED EXAMPLE: An image classifier's early layers detect edges, deeper layers detect objects. PRACTICE: 1) Diagram a 3-layer network. 2) Explain backpropagation simply. 3) Define an activation function's role."
+ },
+ {
+  "id": "ai_foundations_L5_1",
+  "subject_id": "ai_foundations",
+  "level": 5,
+  "lesson_number": 1,
+  "title": "Modern AI — LLMs & Transformers",
+  "category": "MASTERY",
+  "content": "Large Language Models use the transformer architecture (attention mechanism) to process and generate language. KEY CONCEPTS: Tokens, embeddings, attention ('which words matter to which'), pre-training + fine-tuning, emergent abilities at scale. WORKED EXAMPLE: An LLM predicts the next token, and at scale this yields reasoning-like behavior. PRACTICE: 1) Explain attention in plain words. 2) Define a token. 3) Describe pre-training vs fine-tuning."
+ },
+ {
+  "id": "ai_foundations_L6_1",
+  "subject_id": "ai_foundations",
+  "level": 6,
+  "lesson_number": 1,
+  "title": "AI Systems & Deployment",
+  "category": "MASTERY",
+  "content": "Real AI systems combine models with data pipelines, APIs, monitoring, and guardrails. KEY CONCEPTS: MLOps (deploying/maintaining models), inference cost, latency, model drift, RAG (retrieval-augmented generation grounds LLMs in real data). WORKED EXAMPLE: A support bot uses RAG to answer from company docs, avoiding hallucination. PRACTICE: 1) Design an AI system's components. 2) Explain model drift. 3) Describe how RAG reduces hallucination."
+ },
+ {
+  "id": "ai_foundations_L7_1",
+  "subject_id": "ai_foundations",
+  "level": 7,
+  "lesson_number": 1,
+  "title": "Grandmaster — AI Strategy & Ethics",
+  "category": "MASTERY",
+  "content": "Deploying AI responsibly requires understanding bias, alignment, safety, and business fit. KEY CONCEPTS: Training-data bias, alignment (AI doing what we intend), interpretability, the build-vs-buy decision, ROI of AI. WORKED EXAMPLE: An AI hiring tool amplifying historical bias must be audited and corrected. PRACTICE: 1) Identify a bias risk in an AI use case. 2) Define alignment. 3) Build an AI ROI case."
+ },
+ {
+  "id": "ai_foundations_L8_1",
+  "subject_id": "ai_foundations",
+  "level": 8,
+  "lesson_number": 1,
+  "title": "King Level — Shaping the AI Frontier",
+  "category": "MASTERY",
+  "content": "At King level you understand AI deeply enough to architect novel systems and anticipate the frontier. KEY CONCEPTS: Multi-agent systems, autonomous agents, the compute-data-algorithm triad, where AI is heading (reasoning, agency, multimodality). Build AI-native products, not AI-bolted-on. WORKED EXAMPLE: An AI-native company designs its entire workflow around autonomous agents. PRACTICE: 1) Envision an AI-native version of a business. 2) Design a multi-agent system. 3) Predict the next AI capability leap."
+ }
+]

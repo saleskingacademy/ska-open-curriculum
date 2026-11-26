@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "entrepreneurship",
+  "lessons": [
+    {
+      "id": "entrepreneurship_L1_1",
+      "subject_id": "entrepreneurship",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Foundations of Entrepreneurship: Core Definitions and First Principles",
+      "category": "MASTERY",
+      "content": "**KEY CONCEPTS**  \nEntrepreneurship is the process of identifying, evaluating, and exploiting opportunities to create value through innovation, risk-taking, and resource mobilization. At its core, entrepreneurship involves three foundational pillars:\n\n1. **Opportunity Recognition**: The ability to identify unmet needs or inefficiencies in markets. According to Shane and Venkataraman’s framework (2000), opportunity recognition is the nexus of knowledge, prior information, and alertness to market changes.\n\n2. **Value Creation**: Central to entrepreneurship is creating value—economic, social, or cultural. The Value Proposition Canvas (Osterwalder, 2014) helps entrepreneurs align their products or services with customer needs, ensuring the value created resonates with the target market.\n\n3. **Risk and Uncertainty Management**: Entrepreneurs operate under conditions of uncertainty. Knight’s distinction (1921) between risk (measurable probabilities) and uncertainty (unmeasurable) is critical. Effective entrepreneurs manage both through strategic planning, iterative experimentation (Lean Startup methodology by Eric Ries), and resource orchestration.\n\nAdditionally, first principles thinking—a problem-solving approach popularized by Elon Musk—involves breaking down complex problems into fundamental truths and reasoning up from there, rather than relying on analogy or convention. This mindset is essential for innovative entrepreneurship.\n\n**WORKED EXAMPLE**  \nConsider Airbnb’s founding. The founders noticed an opportunity (Opportunity Recognition) when a design conference caused a hotel shortage in San Francisco. They created value by offering affordable, accessible lodging alternatives (Value Creation). They faced significant uncertainty about market acceptance and regulatory hurdles (Risk and Uncertainty Management). By applying first principles, they reimagined the hospitality model, leveraging underutilized assets (people’s homes) rather than building new hotels, which disrupted the industry.\n\n**PRACTICE**  \n1. Identify a current market inefficiency or unmet customer need in your local environment. Use Shane and Venkataraman’s opportunity recognition framework to justify why this is a viable entrepreneurial opportunity.  \n2. Using the Value Proposition Canvas, draft a value proposition for a hypothetical product or service that addresses the opportunity identified in Exercise 1. Focus on customer jobs, pains, and gains.  \n3. Differentiate between risk and uncertainty in your proposed venture. Outline at least two strategies you would use to manage each, referencing Knight’s framework and Lean Startup principles."
+    }
+  ]
+}

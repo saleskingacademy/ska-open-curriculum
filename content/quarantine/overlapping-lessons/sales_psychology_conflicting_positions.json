@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "sales_psychology",
+  "lessons": [
+    {
+      "id": "sales_psychology_L1_1",
+      "subject_id": "sales_psychology",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Why People Buy",
+      "category": "MASTERY",
+      "content": "Sales psychology studies why people buy. Core truth: humans decide emotionally and justify rationally. The limbic system (emotion) decides; the neocortex (logic) rationalizes. KEY CONCEPTS: Reach the emotional driver, then arm the buyer with logic. The six core buying emotions: fear, greed, pride, guilt, hope, belonging. WORKED EXAMPLE: A luxury car buyer cites 'safety' (logic) but is driven by status (emotion). PRACTICE: 1) Identify the emotion behind a recent purchase. 2) List the logical reason you told others. 3) Note the gap."
+    }
+  ]
+}

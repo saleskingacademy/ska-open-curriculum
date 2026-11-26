@@ -1,0 +1,258 @@
+{
+ "id": "ai_technology_and_integration_for_business",
+ "title": "AI Technology and Integration for Business",
+ "field": "Business, administration and law",
+ "query": "artificial intelligence adoption firms",
+ "subfields": [
+  {
+   "id": "1404",
+   "name": "Management Information Systems"
+  },
+  {
+   "id": "2002",
+   "name": "Economics and Econometrics"
+  },
+  {
+   "id": "1702",
+   "name": "Artificial Intelligence"
+  }
+ ],
+ "built": "2026-09-30",
+ "status": "ok",
+ "reviews": [
+  {
+   "title": "Artificial intelligence in innovation research: A systematic review, conceptual framework, and future research directions",
+   "authors": [
+    "Marcello M. Mariani",
+    "Isa Machado",
+    "Vittoria Magrelli"
+   ],
+   "et_al": true,
+   "year": 2022,
+   "venue": "Technovation",
+   "doi": "https://doi.org/10.1016/j.technovation.2022.102623",
+   "cited_by": 570,
+   "open_access_url": "https://doi.org/10.1016/j.technovation.2022.102623",
+   "openalex": "https://openalex.org/W4295127154"
+  },
+  {
+   "title": "Applications of artificial intelligence and machine learning within supply chains:systematic review and future research directions",
+   "authors": [
+    "Hassan Younis",
+    "Balan Sundarakani",
+    "Malek Ahmad Alsharairi"
+   ],
+   "et_al": false,
+   "year": 2021,
+   "venue": "Journal of Modelling in Management",
+   "doi": "https://doi.org/10.1108/jm2-12-2020-0322",
+   "cited_by": 133,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W3197052056"
+  },
+  {
+   "title": "Artificial intelligence adoption dynamics and knowledge in SMEs and large firms: A systematic review and bibliometric analysis",
+   "authors": [
+    "Samuel Godadaw Ayinaddis"
+   ],
+   "et_al": false,
+   "year": 2025,
+   "venue": "Journal of Innovation & Knowledge",
+   "doi": "https://doi.org/10.1016/j.jik.2025.100682",
+   "cited_by": 102,
+   "open_access_url": "https://doi.org/10.1016/j.jik.2025.100682",
+   "openalex": "https://openalex.org/W4408735690"
+  },
+  {
+   "title": "A META-ANALYSIS OF AI-DRIVEN BUSINESS ANALYTICS: ENHANCING STRATEGIC DECISION-MAKING IN SMES",
+   "authors": [
+    "Md. Zafor Ikbal"
+   ],
+   "et_al": false,
+   "year": 2025,
+   "venue": null,
+   "doi": "https://doi.org/10.63125/wk9fqv56",
+   "cited_by": 11,
+   "open_access_url": "https://rast-journal.org/index.php/RAST/article/download/5/5",
+   "openalex": "https://openalex.org/W4411716962"
+  },
+  {
+   "title": "AI-DRIVEN BUSINESS ANALYTICS FOR FINANCIAL FORECASTING: A SYSTEMATIC REVIEW OF DECISION SUPPORT MODELS IN SMES",
+   "authors": [
+    "Md Hasan Zamil"
+   ],
+   "et_al": false,
+   "year": 2025,
+   "venue": null,
+   "doi": "https://doi.org/10.63125/gjrpv442",
+   "cited_by": 7,
+   "open_access_url": "https://rast-journal.org/index.php/RAST/article/download/8/8",
+   "openalex": "https://openalex.org/W4411777892"
+  },
+  {
+   "title": "DATA-DRIVEN DECISION-MAKING THROUGH CUSTOMER RELATIONSHIP MANAGEMENT: A SYSTEMATIC LITERATURE REVIEW IN MODERN ENTERPRISES",
+   "authors": [
+    "Md. Musfiqur Rahman"
+   ],
+   "et_al": false,
+   "year": 2024,
+   "venue": "American Journal of Advanced Technology and Engineering Solutions",
+   "doi": "https://doi.org/10.63125/vgr9th76",
+   "cited_by": 6,
+   "open_access_url": "https://ajates-scholarly.com/index.php/ajates/article/download/54/50",
+   "openalex": "https://openalex.org/W4413892133"
+  }
+ ],
+ "frontier": [
+  {
+   "title": "AI adoption rate and corporate green innovation efficiency: Evidence from Chinese energy companies",
+   "authors": [
+    "Zongrun Wang",
+    "Taiyu Zhang",
+    "Xiaohang Ren"
+   ],
+   "et_al": true,
+   "year": 2024,
+   "venue": "Energy Economics",
+   "doi": "https://doi.org/10.1016/j.eneco.2024.107499",
+   "cited_by": 197,
+   "open_access_url": "https://eprints.gla.ac.uk/324072/1/324072.pdf",
+   "openalex": "https://openalex.org/W4392979982"
+  },
+  {
+   "title": "Challenges and opportunities for artificial intelligence in auditing: Evidence from the field",
+   "authors": [
+    "Julia Kokina",
+    "Shay Blanchette",
+    "Thomas H. Davenport"
+   ],
+   "et_al": true,
+   "year": 2025,
+   "venue": "International Journal of Accounting Information Systems",
+   "doi": "https://doi.org/10.1016/j.accinf.2025.100734",
+   "cited_by": 171,
+   "open_access_url": "https://doi.org/10.1016/j.accinf.2025.100734",
+   "openalex": "https://openalex.org/W4406636601"
+  },
+  {
+   "title": "Artificial intelligence adoption in a professional service industry: A multiple case study",
+   "authors": [
+    "Jiaqi Yang",
+    "Yvette Blount",
+    "Alireza Amrollahi"
+   ],
+   "et_al": false,
+   "year": 2024,
+   "venue": "Technological Forecasting and Social Change",
+   "doi": "https://doi.org/10.1016/j.techfore.2024.123251",
+   "cited_by": 166,
+   "open_access_url": "https://doi.org/10.1016/j.techfore.2024.123251",
+   "openalex": "https://openalex.org/W4391707497"
+  },
+  {
+   "title": "Generative artificial intelligence (GenAI) revolution: A deep dive into GenAI adoption",
+   "authors": [
+    "Aman Kumar",
+    "Amit Shankar",
+    "Linda D. Hollebeek"
+   ],
+   "et_al": true,
+   "year": 2025,
+   "venue": "Journal of Business Research",
+   "doi": "https://doi.org/10.1016/j.jbusres.2024.115160",
+   "cited_by": 133,
+   "open_access_url": "https://doi.org/10.1016/j.jbusres.2024.115160",
+   "openalex": "https://openalex.org/W4405971777"
+  },
+  {
+   "title": "AI adoption in America: Who, what, and where",
+   "authors": [
+    "Kristina McElheran",
+    "J. Frank Li",
+    "Erik Brynjolfsson"
+   ],
+   "et_al": true,
+   "year": 2024,
+   "venue": "Journal of Economics & Management Strategy",
+   "doi": "https://doi.org/10.1111/jems.12576",
+   "cited_by": 127,
+   "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jems.12576",
+   "openalex": "https://openalex.org/W4391170963"
+  },
+  {
+   "title": "Greening through AI? The impact of Artificial Intelligence Innovation and Development Pilot Zones on green innovation in China",
+   "authors": [
+    "Razia Mijit",
+    "Qianlin Hu",
+    "Jingxuan Xu"
+   ],
+   "et_al": true,
+   "year": 2025,
+   "venue": "Energy Economics",
+   "doi": "https://doi.org/10.1016/j.eneco.2025.108507",
+   "cited_by": 104,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W4409763843"
+  },
+  {
+   "title": "Unleashing the power of cloud adoption and artificial intelligence in optimizing resilience and sustainable manufacturing supply chain in the USA",
+   "authors": [
+    "Aamir Rashid",
+    "Rizwana Rasheed",
+    "Abdul Hafaz Ngah"
+   ],
+   "et_al": true,
+   "year": 2024,
+   "venue": "Journal of Manufacturing Technology Management",
+   "doi": "https://doi.org/10.1108/jmtm-02-2024-0080",
+   "cited_by": 74,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W4400101233"
+  },
+  {
+   "title": "Does Artificial Intelligence Promote Firms’ Innovation Efficiency: Evidence from the Robot Application",
+   "authors": [
+    "Shuai Wang",
+    "Xin Huang",
+    "Mengyue Xia"
+   ],
+   "et_al": true,
+   "year": 2024,
+   "venue": "Journal of the Knowledge Economy",
+   "doi": "https://doi.org/10.1007/s13132-023-01707-w",
+   "cited_by": 61,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W4391228559"
+  },
+  {
+   "title": "Reducing carbon emission at the corporate level: Does artificial intelligence matter?",
+   "authors": [
+    "Yanchao Feng",
+    "Yitong Yan",
+    "Ke Shi"
+   ],
+   "et_al": true,
+   "year": 2025,
+   "venue": "Environmental Impact Assessment Review",
+   "doi": "https://doi.org/10.1016/j.eiar.2025.107911",
+   "cited_by": 58,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W4408310489"
+  },
+  {
+   "title": "Does artificial intelligence suppress firms' greenwashing behavior? Evidence from robot adoption in China",
+   "authors": [
+    "Caiquan Bai",
+    "Di Yao",
+    "Qihang Xue"
+   ],
+   "et_al": false,
+   "year": 2024,
+   "venue": "Energy Economics",
+   "doi": "https://doi.org/10.1016/j.eneco.2024.108168",
+   "cited_by": 57,
+   "open_access_url": null,
+   "openalex": "https://openalex.org/W4405747473"
+  }
+ ]
+}

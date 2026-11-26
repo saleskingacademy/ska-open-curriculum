@@ -1,0 +1,140 @@
+{
+  "subject_id": "chemistry_general",
+  "subject_name": "General Chemistry",
+  "category": "PHYSICAL_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Atoms and the Periodic Table",
+          "content": "# Atoms and the Periodic Table\n\n## Learning Objectives\n1. Describe the structure of an atom (protons, neutrons, electrons)\n2. Read and interpret the periodic table\n3. Define atomic number, mass number, and isotopes\n4. Understand electron configuration and valence electrons\n5. Identify trends in the periodic table\n\n## Atomic Structure\n\nAll matter is composed of atoms \u2014 the smallest unit of an element that retains the chemical properties of that element. The concept dates back to ancient Greek philosopher Democritus (460-370 BC), but modern atomic theory was developed by John Dalton in 1803.\n\n### Subatomic Particles\n\n| Particle | Charge | Mass (amu) | Location |\n|----------|--------|------------|----------|\n| Proton | +1 | 1.007 | Nucleus |\n| Neutron | 0 | 1.009 | Nucleus |\n| Electron | -1 | 0.0005 | Electron cloud |\n\nThe nucleus contains protons and neutrons (collectively called nucleons) and accounts for nearly all the atom's mass. Electrons orbit the nucleus in energy levels (shells).\n\n### Key Numbers\n- **Atomic Number (Z)**: Number of protons = defines the element\n- **Mass Number (A)**: Protons + Neutrons\n- **Isotopes**: Same element, different number of neutrons\n  - Carbon-12: 6 protons, 6 neutrons\n  - Carbon-14: 6 protons, 8 neutrons (radioactive, used in dating)\n\n## The Periodic Table\n\nDmitri Mendeleev published the first periodic table in 1869, organizing elements by increasing atomic mass and grouping those with similar properties. The modern table orders elements by atomic number.\n\n### Structure\n- **Periods** (rows 1-7): Each period adds a new electron shell\n- **Groups** (columns 1-18): Elements in the same group have similar chemical properties\n- **Blocks**: s-block (groups 1-2), p-block (groups 13-18), d-block (groups 3-12), f-block (lanthanides and actinides)\n\n### Important Groups\n- **Group 1 \u2014 Alkali Metals**: Li, Na, K... Very reactive, soft metals, +1 charge\n- **Group 2 \u2014 Alkaline Earth Metals**: Be, Mg, Ca... Reactive, +2 charge\n- **Group 17 \u2014 Halogens**: F, Cl, Br, I... Very reactive nonmetals, -1 charge\n- **Group 18 \u2014 Noble Gases**: He, Ne, Ar... Unreactive, full outer shells\n\n## Electron Configuration\n\nElectrons fill energy levels in order: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p...\n\nExamples:\n- Hydrogen (H, Z=1): 1s\u00b9\n- Carbon (C, Z=6): 1s\u00b2 2s\u00b2 2p\u00b2\n- Sodium (Na, Z=11): 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b9\n- Iron (Fe, Z=26): 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 4s\u00b2 3d\u2076\n\n**Valence Electrons**: Electrons in the outermost shell determine chemical behavior\n- Carbon has 4 valence electrons \u2192 forms 4 bonds\n- Sodium has 1 valence electron \u2192 easily loses it\n- Chlorine has 7 valence electrons \u2192 easily gains 1\n\n## Periodic Trends\n\n| Trend | Across a Period (\u2192) | Down a Group (\u2193) |\n|-------|---------------------|-------------------|\n| Atomic Radius | Decreases | Increases |\n| Ionization Energy | Increases | Decreases |\n| Electronegativity | Increases | Decreases |\n| Metallic Character | Decreases | Increases |\n\n**Why?** Going across a period, more protons pull electrons closer (smaller radius, higher IE). Going down a group, more electron shells mean outer electrons are farther from the nucleus.\n\n## Practice Problems\n\n1. How many protons, neutrons, and electrons does \u00b2\u2077\u2081\u2083Al have?\n   **Answer**: 13 protons, 14 neutrons (27-13), 13 electrons\n\n2. Write the electron configuration for Chlorine (Z=17).\n   **Answer**: 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2075\n\n3. Which has a larger atomic radius: Na or Cl? Why?\n   **Answer**: Na \u2014 same period but fewer protons pulling electrons in\n\n4. What are isotopes? Give an example.\n   **Answer**: Atoms of the same element with different neutron counts. Example: C-12 and C-14\n\n5. Why are noble gases unreactive?\n   **Answer**: They have full outer electron shells (stable configuration)\n\n## Key Takeaways\n- Atoms consist of protons, neutrons (nucleus) and electrons (cloud)\n- Atomic number defines the element; mass number = protons + neutrons\n- The periodic table organizes elements by atomic number and properties\n- Electron configuration determines chemical behavior\n- Periodic trends (radius, IE, electronegativity) follow predictable patterns",
+          "quiz": [
+            {
+              "question": "What defines which element an atom is?",
+              "options": [
+                "Number of electrons",
+                "Number of neutrons",
+                "Number of protons",
+                "Atomic mass"
+              ],
+              "correct": "Number of protons",
+              "explanation": "The atomic number (number of protons) uniquely identifies each element"
+            },
+            {
+              "question": "How many valence electrons does Carbon have?",
+              "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+              ],
+              "correct": "4",
+              "explanation": "Carbon's electron config is 1s\u00b2 2s\u00b2 2p\u00b2 \u2014 4 electrons in the outer shell"
+            },
+            {
+              "question": "Atomic radius DECREASES going across a period because:",
+              "options": [
+                "More electron shells",
+                "Fewer protons",
+                "More protons pulling electrons closer",
+                "Electrons repel"
+              ],
+              "correct": "More protons pulling electrons closer",
+              "explanation": "More protons create stronger nuclear attraction, pulling electrons inward"
+            },
+            {
+              "question": "What is an isotope?",
+              "options": [
+                "Different element, same mass",
+                "Same element, different neutrons",
+                "Same element, different protons",
+                "Different charge"
+              ],
+              "correct": "Same element, different neutrons",
+              "explanation": "Isotopes have the same number of protons but different numbers of neutrons"
+            },
+            {
+              "question": "Noble gases are unreactive because:",
+              "options": [
+                "They are very light",
+                "They have no electrons",
+                "Their outer shells are full",
+                "They are radioactive"
+              ],
+              "correct": "Their outer shells are full",
+              "explanation": "Full outer electron shells make noble gases chemically stable"
+            }
+          ]
+        },
+        {
+          "lesson": 2,
+          "title": "Chemical Bonds and Molecular Structure",
+          "content": "# Chemical Bonds and Molecular Structure\n\n## Learning Objectives\n1. Explain why atoms form chemical bonds\n2. Distinguish between ionic, covalent, and metallic bonds\n3. Draw Lewis dot structures\n4. Predict molecular shapes using VSEPR theory\n5. Understand polarity and electronegativity differences\n\n## Why Do Atoms Bond?\n\nAtoms bond to achieve a more stable electron configuration \u2014 typically a full outer shell of 8 electrons (the **octet rule**). Hydrogen is an exception, seeking only 2 electrons (a filled 1s shell).\n\nThe driving force behind chemical bonding is the lowering of overall energy. Bonded atoms have less potential energy than separated atoms.\n\n## Types of Chemical Bonds\n\n### Ionic Bonds\nFormed when one atom TRANSFERS electrons to another, creating oppositely charged ions that attract.\n\n**Example: NaCl (table salt)**\n- Na (1 valence e\u207b) \u2192 loses 1 electron \u2192 Na\u207a\n- Cl (7 valence e\u207b) \u2192 gains 1 electron \u2192 Cl\u207b\n- Electrostatic attraction holds Na\u207a and Cl\u207b together\n\n**Characteristics**: High melting points, conduct electricity when dissolved, form crystal lattices\n\n**Rule of thumb**: Ionic bonds form between metals and nonmetals (electronegativity difference > 1.7)\n\n### Covalent Bonds\nFormed when atoms SHARE electrons.\n\n**Example: H\u2082O (water)**\n- Each H shares 1 electron with O\n- O shares 1 electron with each H\n- All atoms achieve stable configurations\n\n**Types**:\n- Single bond: 1 shared pair (H-H)\n- Double bond: 2 shared pairs (O=O)\n- Triple bond: 3 shared pairs (N\u2261N)\n\n**Characteristics**: Lower melting points, don't conduct electricity, form discrete molecules\n\n### Metallic Bonds\nMetal atoms share a 'sea of electrons' that flow freely between positive metal ions.\n\n**Characteristics**: Conduct electricity, malleable, ductile, lustrous\n\n## Lewis Dot Structures\n\nLewis structures show valence electrons as dots around atomic symbols.\n\n### Drawing Steps:\n1. Count total valence electrons\n2. Place least electronegative atom in center\n3. Connect atoms with single bonds (2 e\u207b each)\n4. Distribute remaining electrons as lone pairs\n5. Form double/triple bonds if needed for octets\n\n**Example: CO\u2082**\n- Total valence e\u207b: C(4) + O(4) + O(4) = 12 [note: should be C(4) + 2\u00d7O(6) = 16]\n- Corrected: C(4) + 2\u00d7O(6) = 16 electrons\n- Structure: O=C=O (two double bonds)\n\n## VSEPR Theory (Molecular Geometry)\n\nValence Shell Electron Pair Repulsion theory predicts 3D shapes based on electron pair arrangement.\n\n| Electron Pairs | Bond Pairs | Lone Pairs | Shape | Example | Bond Angle |\n|---------------|------------|------------|-------|---------|------------|\n| 2 | 2 | 0 | Linear | CO\u2082 | 180\u00b0 |\n| 3 | 3 | 0 | Trigonal planar | BF\u2083 | 120\u00b0 |\n| 3 | 2 | 1 | Bent | SO\u2082 | ~120\u00b0 |\n| 4 | 4 | 0 | Tetrahedral | CH\u2084 | 109.5\u00b0 |\n| 4 | 3 | 1 | Trigonal pyramidal | NH\u2083 | 107\u00b0 |\n| 4 | 2 | 2 | Bent | H\u2082O | 104.5\u00b0 |\n\n## Polarity\n\nA bond is **polar** when electrons are shared unequally (electronegativity difference 0.4-1.7).\n\nA molecule is **polar** if:\n1. It has polar bonds AND\n2. The bond dipoles don't cancel out (asymmetric shape)\n\nCO\u2082 is nonpolar (linear, dipoles cancel) but H\u2082O is polar (bent, dipoles don't cancel).\n\n## Practice Problems\n\n1. Is MgCl\u2082 ionic or covalent? Why?\n   **Answer**: Ionic \u2014 Mg is a metal, Cl is a nonmetal; Mg transfers 2 electrons\n\n2. Draw the Lewis structure for NH\u2083.\n   **Answer**: N in center with 3 N-H bonds and 1 lone pair on N\n\n3. What is the shape of CH\u2084?\n   **Answer**: Tetrahedral (4 bond pairs, 0 lone pairs, 109.5\u00b0 angles)\n\n4. Why is H\u2082O polar but CO\u2082 is not?\n   **Answer**: H\u2082O is bent (dipoles don't cancel); CO\u2082 is linear (dipoles cancel)\n\n5. Which bond is stronger: single, double, or triple?\n   **Answer**: Triple > Double > Single (more shared electrons = stronger bond)\n\n## Key Takeaways\n- Atoms bond to achieve stable electron configurations (octet rule)\n- Ionic bonds: electron transfer between metals and nonmetals\n- Covalent bonds: electron sharing between nonmetals\n- Lewis structures show valence electrons and bonding\n- VSEPR theory predicts molecular shapes from electron pair repulsion\n- Polarity depends on both bond polarity and molecular geometry",
+          "quiz": [
+            {
+              "question": "Ionic bonds typically form between:",
+              "options": [
+                "Two metals",
+                "Two nonmetals",
+                "A metal and nonmetal",
+                "Noble gases"
+              ],
+              "correct": "A metal and nonmetal",
+              "explanation": "Metals transfer electrons to nonmetals, creating ions"
+            },
+            {
+              "question": "What is the shape of a molecule with 4 bond pairs and 0 lone pairs?",
+              "options": [
+                "Linear",
+                "Bent",
+                "Tetrahedral",
+                "Trigonal"
+              ],
+              "correct": "Tetrahedral",
+              "explanation": "4 bond pairs with no lone pairs = tetrahedral (109.5\u00b0)"
+            },
+            {
+              "question": "CO\u2082 is nonpolar because:",
+              "options": [
+                "It has no polar bonds",
+                "It is linear so dipoles cancel",
+                "Carbon is nonpolar",
+                "It is a gas"
+              ],
+              "correct": "It is linear so dipoles cancel",
+              "explanation": "CO\u2082 has polar C=O bonds but the linear shape makes dipoles cancel"
+            },
+            {
+              "question": "How many valence electrons does Oxygen have?",
+              "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+              ],
+              "correct": "6",
+              "explanation": "Oxygen is in Group 16 and has 6 valence electrons"
+            },
+            {
+              "question": "A triple bond involves sharing:",
+              "options": [
+                "2 electrons",
+                "4 electrons",
+                "6 electrons",
+                "8 electrons"
+              ],
+              "correct": "6 electrons",
+              "explanation": "A triple bond = 3 shared pairs = 6 electrons"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

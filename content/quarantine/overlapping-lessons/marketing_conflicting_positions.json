@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "marketing",
+  "lessons": [
+    {
+      "id": "marketing_L1_1",
+      "subject_id": "marketing",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Marketing Foundations",
+      "category": "MASTERY",
+      "content": "Marketing identifies, creates, communicates, and delivers value profitably. It's not just promotion — it's understanding needs deeply. KEY CONCEPTS: Right product, right people, right message, right time and price. WORKED EXAMPLE: A brand wins by solving a specific frustration competitors ignore. PRACTICE: 1) Define your customer's core need. 2) State your value in one sentence. 3) Name who it's NOT for."
+    }
+  ]
+}

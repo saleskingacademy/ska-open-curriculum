@@ -1,0 +1,78 @@
+{
+  "subject_id": "psychology_general",
+  "subject_name": "Psychology",
+  "category": "SOCIAL_SCIENCES",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Psychology",
+          "content": "# Introduction to Psychology\n\n## Learning Objectives\n1. Define psychology and its major subfields\n2. Understand the history of psychology as a science\n3. Identify major psychological perspectives\n4. Distinguish between research methods\n5. Apply psychological concepts to everyday behavior\n\n## What is Psychology?\n\nPsychology is the scientific study of behavior and mental processes. It seeks to understand how people think, feel, and act \u2014 both individually and in groups.\n\n## Historical Development\n\n- **Wilhelm Wundt (1879)**: Founded first psychology lab in Leipzig, Germany \u2014 birth of scientific psychology\n- **William James**: Functionalism \u2014 how mental processes help us adapt\n- **Sigmund Freud**: Psychoanalysis \u2014 unconscious mind drives behavior\n- **John Watson & B.F. Skinner**: Behaviorism \u2014 only observable behavior matters\n- **Abraham Maslow & Carl Rogers**: Humanistic \u2014 focus on growth and potential\n- **Cognitive Revolution (1960s)**: Return to studying mental processes\n\n## Major Perspectives\n\n1. **Biological**: Behavior is rooted in genetics, brain chemistry, and evolution\n2. **Cognitive**: Focuses on thinking, memory, perception, problem-solving\n3. **Behavioral**: Behavior is learned through conditioning and reinforcement\n4. **Psychodynamic**: Unconscious conflicts shape behavior (Freud)\n5. **Humanistic**: People are inherently good and strive for self-actualization\n6. **Sociocultural**: Behavior is influenced by social and cultural contexts\n7. **Evolutionary**: Behavior evolved to solve survival problems\n\n## Research Methods\n\n- **Experiment**: Manipulate variables to test cause and effect (gold standard)\n- **Correlation**: Measure relationship between variables (no causation!)\n- **Case Study**: In-depth study of one individual\n- **Survey**: Large-scale data collection via questionnaires\n- **Naturalistic Observation**: Observe behavior in natural settings\n\n**Correlation \u2260 Causation**: Ice cream sales and drowning rates are correlated (both increase in summer), but ice cream doesn't cause drowning!\n\n## Maslow's Hierarchy of Needs\n1. Physiological (food, water, shelter)\n2. Safety (security, stability)\n3. Love/Belonging (relationships)\n4. Esteem (achievement, recognition)\n5. Self-Actualization (reaching full potential)\n\n## Practice Problems\n1. Which perspective would study how neurotransmitters affect depression?\n   **Answer**: Biological perspective\n\n2. A researcher finds that students who sleep more get better grades. Can we conclude sleep causes better grades?\n   **Answer**: No \u2014 this is correlational, not experimental. A third variable (conscientiousness) could explain both.\n\n## Key Takeaways\n- Psychology scientifically studies behavior and mental processes\n- Multiple perspectives offer different lenses for understanding behavior\n- No single perspective explains everything \u2014 they complement each other\n- Correlation does not equal causation\n- Research methods vary in their ability to establish cause and effect",
+          "quiz": [
+            {
+              "question": "What is the main focus of Psychology?",
+              "options": [
+                "Study of psychology",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of psychology",
+              "explanation": "Psychology encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Psychology?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Psychology has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Psychology lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

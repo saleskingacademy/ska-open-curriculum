@@ -1,0 +1,25 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "statistics",
+  "lessons": [
+    {
+      "id": "statistics_L1_1",
+      "subject_id": "statistics",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Descriptive Statistics",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Statistics is the science of learning from data. Descriptive statistics summarize data; inferential statistics draw conclusions about populations from samples. Measures of center: mean (average, sensitive to outliers), median (middle, robust), mode (most frequent). Measures of spread: range, variance (average squared deviation), standard deviation (typical distance from mean). Percentiles and quartiles. The shape of data: symmetric, skewed, bimodal. Visualization: histograms, box plots, scatter plots reveal patterns numbers alone hide.\n\nWORKED EXAMPLE: For data {2, 3, 3, 4, 100}, the mean is 22.4 (pulled up by the outlier 100), but the median is 3 (unaffected). This is why median income is reported instead of mean — a few billionaires distort the average. Choosing the right measure of center is the first act of honest statistics.\n\nPRACTICE: 1) Find the mean, median, and mode of {5,7,7,9,12}. 2) Explain when median beats mean. 3) Calculate the range of a dataset."
+    },
+    {
+      "id": "statistics_L2_1",
+      "subject_id": "statistics",
+      "level": 2,
+      "lesson_number": 1,
+      "title": "Probability Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Probability quantifies uncertainty from 0 (impossible) to 1 (certain). Sample space (all outcomes), events (subsets). The addition rule (P(A or B) = P(A) + P(B) − P(A and B)) and multiplication rule for independent events (P(A and B) = P(A)·P(B)). Conditional probability P(A|B) = P(A and B)/P(B). Independence vs mutual exclusivity (different concepts). Combinations and permutations count possibilities. Expected value (probability-weighted average) drives rational decisions under uncertainty.\n\nWORKED EXAMPLE: Rolling two dice, P(sum=7) = 6/36 = 1/6 (six ways: 1-6, 2-5, 3-4, 4-3, 5-2, 6-1 out of 36 outcomes). Seven is the most likely sum, which is why it's central in games of chance. Counting outcomes correctly — the sample space — is the foundation of all probability.\n\nPRACTICE: 1) Find P(drawing a heart) from a deck. 2) Compute expected value of a $10 bet with 30% win chance for $50. 3) Explain independence vs mutual exclusivity."
+    }
+  ]
+}

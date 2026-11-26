@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "negotiation",
+  "lessons": [
+    {
+      "id": "negotiation_L1_1",
+      "subject_id": "negotiation",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Negotiation Foundations",
+      "category": "MASTERY",
+      "content": "Negotiation reaches agreement between parties with differing interests. It's not winning against the other side — it's creating and claiming value. KEY CONCEPTS: Win-win beats win-lose for lasting deals. Every negotiation has interests (why) beneath positions (what). WORKED EXAMPLE: Two people want an orange — one needs juice, one needs peel. Positions clash; interests don't. PRACTICE: 1) List your interests in a real negotiation. 2) Guess the other side's interests. 3) Find a creative trade."
+    }
+  ]
+}

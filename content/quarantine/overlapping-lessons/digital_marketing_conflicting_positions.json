@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "digital_marketing",
+  "lessons": [
+    {
+      "id": "digital_marketing_L1_1",
+      "subject_id": "digital_marketing",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Digital Marketing Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Digital marketing promotes products through digital channels, with the defining advantage of measurability — every dollar can be traced to a result, unlike traditional advertising. The core channels: search (SEO/SEM), social media, email, content, display, and affiliate. The marketing funnel online: Awareness → Interest → Consideration → Conversion → Retention/Advocacy. Owned media (your site/list), earned media (shares/PR), and paid media (ads) each play a role. The fundamental shift: from interruption (pushing messages) to permission and attraction (earning attention with value).\n\nWORKED EXAMPLE: A business spends $1,000 on a billboard (traditional) and $1,000 on Google Ads. The billboard gives a vague guess at reach. The Google Ads report shows exactly: 40,000 impressions, 800 clicks, 40 conversions, $25 cost per customer. Digital's measurability turns marketing from guesswork into an optimizable machine — this is its core power.\n\nPRACTICE: 1) Map the digital funnel for a product. 2) Classify three channels as owned/earned/paid. 3) Explain why measurability changes how marketing budgets are allocated."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Definitions, examples, parts of speech and synonym sets in dictionary/words/ come from
+Open English WordNet 2024 (https://github.com/globalwordnet/english-wordnet),
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Changes made by Sales King Academy LLC: entries regrouped by written form into two-letter
+shards; each word and definition assigned a permanent identifier; each definition given a meaning
+signature; examples limited to two and synonyms to six per definition.
+
+The WordNet content above remains under CC BY 4.0. The identifiers, meaning signatures
+and the build tooling are Copyright (c) 2026 Sales King Academy LLC.
+
+Definitions, examples, parts of speech and synonyms in senses marked "src": "wikt" come from English
+Wiktionary (https://en.wiktionary.org), extracted by kaikki.org / wiktextract, licensed under Creative
+Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+Changes made: entries regrouped by written form into three-letter shards; obsolete and archaic senses and
+senses that repeat an existing definition removed; examples limited to two; each word and definition
+assigned a permanent identifier and a meaning signature. These Wiktionary-derived files are shared under
+CC BY-SA 4.0 as that licence requires.

@@ -1,0 +1,78 @@
+{
+  "subject_id": "criminal_law",
+  "subject_name": "Criminal Law",
+  "category": "LAW_LEGAL",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Foundations of Criminal Law",
+          "content": "# Foundations of Criminal Law\n\n## Learning Objectives\n1. Define criminal law and distinguish it from civil law\n2. Understand the elements of a crime (actus reus, mens rea)\n3. Classify crimes by severity (felony, misdemeanor, infraction)\n4. Explain the burden of proof in criminal cases\n5. Identify constitutional protections for the accused\n\n## Criminal Law vs Civil Law\n\n| Feature | Criminal Law | Civil Law |\n|---------|-------------|----------|\n| Purpose | Punish offenders, protect society | Resolve disputes, compensate victims |\n| Parties | State/Government vs. Defendant | Plaintiff vs. Defendant |\n| Burden | Beyond reasonable doubt | Preponderance of evidence |\n| Outcome | Prison, fines, probation | Monetary damages, injunctions |\n| Example | Robbery, assault, fraud | Contract breach, negligence |\n\n## Elements of a Crime\n\nTo convict, prosecution must prove BOTH:\n\n### 1. Actus Reus (Guilty Act)\nThe physical element \u2014 the actual criminal act or failure to act (omission).\n- Voluntary action (not reflexes or unconscious acts)\n- Can include failure to act when there's a legal duty\n\n### 2. Mens Rea (Guilty Mind)\nThe mental element \u2014 criminal intent:\n- **Purposely**: Intended the specific result\n- **Knowingly**: Aware conduct would cause the result\n- **Recklessly**: Conscious disregard of substantial risk\n- **Negligently**: Should have been aware of the risk\n\n**Strict Liability**: Some crimes require no mens rea (statutory rape, selling alcohol to minors)\n\n## Classification of Crimes\n- **Felony**: Serious crimes, 1+ years in prison (murder, robbery, arson)\n- **Misdemeanor**: Less serious, up to 1 year (petty theft, simple assault)\n- **Infraction**: Minor violations, typically fines only (traffic tickets, jaywalking)\n\n## Constitutional Protections\n- **4th Amendment**: No unreasonable searches/seizures\n- **5th Amendment**: Right against self-incrimination, due process, double jeopardy\n- **6th Amendment**: Right to speedy trial, counsel, jury, confront witnesses\n- **8th Amendment**: No excessive bail, no cruel and unusual punishment\n- **14th Amendment**: Equal protection, due process (states)\n\n## Burden of Proof\nProsecution must prove guilt **beyond a reasonable doubt** \u2014 the highest standard in law. The defendant is **presumed innocent** until proven guilty.\n\n## Practice Problems\n1. What are the two elements required for most crimes?\n   **Answer**: Actus reus (guilty act) and mens rea (guilty mind)\n2. What is the burden of proof in criminal cases?\n   **Answer**: Beyond a reasonable doubt\n3. Which amendment protects against self-incrimination?\n   **Answer**: The Fifth Amendment\n\n## Key Takeaways\n- Criminal law punishes offenders; civil law compensates victims\n- Most crimes require both a guilty act AND guilty mind\n- The prosecution bears the burden of proving guilt beyond reasonable doubt\n- The Constitution provides extensive protections for the accused",
+          "quiz": [
+            {
+              "question": "What is the main focus of Criminal Law?",
+              "options": [
+                "Study of criminal law",
+                "Only theory",
+                "Random topics",
+                "None"
+              ],
+              "correct": "Study of criminal law",
+              "explanation": "Criminal Law is the systematic study of its domain"
+            },
+            {
+              "question": "True or False: This subject has practical applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Never"
+              ],
+              "correct": "True",
+              "explanation": "Criminal Law has extensive real-world applications"
+            },
+            {
+              "question": "What level is this lesson?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 = Beginner (AP/GCSE + 10%)"
+            },
+            {
+              "question": "How many mastery levels does SKA offer?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 levels: Beginner through Grandmaster"
+            },
+            {
+              "question": "What does the quiz at the end of each lesson test?",
+              "options": [
+                "Memory only",
+                "Understanding of key concepts",
+                "Speed reading",
+                "Nothing"
+              ],
+              "correct": "Understanding of key concepts",
+              "explanation": "Quizzes test comprehension of the lesson's core concepts"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

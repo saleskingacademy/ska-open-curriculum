@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "description": "Explicit registry for published supplemental broad-topic lesson files that do not have a chapter in knowledge/paths.json. These are not substitute IDs for narrower canonical subjects and must not be counted as complete curricula.",
+  "subjects": {
+    "ai_foundations": {
+      "title": "Artificial Intelligence Foundations",
+      "field": "computer_science",
+      "status": "supplemental_partial"
+    },
+    "calculus": {
+      "title": "Calculus Overview",
+      "field": "mathematics",
+      "status": "supplemental_partial"
+    },
+    "communication": {
+      "title": "Communication Foundations",
+      "field": "social_sciences",
+      "status": "supplemental_partial"
+    },
+    "crypto_blockchain": {
+      "title": "Cryptocurrency and Blockchain Overview",
+      "field": "computer_science",
+      "status": "supplemental_partial"
+    },
+    "economics": {
+      "title": "Economics Foundations",
+      "field": "accounting_finance",
+      "status": "supplemental_partial"
+    },
+    "investing": {
+      "title": "Investing Foundations",
+      "field": "accounting_finance",
+      "status": "supplemental_partial"
+    },
+    "mathematics": {
+      "title": "Mathematics Overview",
+      "field": "mathematics",
+      "status": "supplemental_partial"
+    },
+    "ska_business_ai_autonomous_operations": {
+      "title": "SKA Business, AI and Autonomous Operations",
+      "field": "business",
+      "status": "supplemental_partial"
+    }
+  }
+}

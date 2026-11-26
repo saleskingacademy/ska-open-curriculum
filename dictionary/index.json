@@ -1,0 +1,24 @@
+{
+ "version": 2,
+ "band": "88",
+ "words": 1395225,
+ "senses": 1209564,
+ "shard_key": "first three letters",
+ "anchor": "88 WWWWWWWW SSSS T C (T: 1 word, 2 sense; C: Luhn)",
+ "spent_memory": "derived privately: region 2021-06-01T00:00:00Z, offset_cs = W*1000 + S",
+ "symbol": "Symbol256 stable of the definition, sparse pos:digit",
+ "sources": [
+  {
+   "name": "Open English WordNet 2024",
+   "src": "wn",
+   "license": "CC BY 4.0",
+   "url": "https://github.com/globalwordnet/english-wordnet"
+  },
+  {
+   "name": "English Wiktionary (kaikki.org extraction)",
+   "src": "wikt",
+   "license": "CC BY-SA 4.0",
+   "url": "https://kaikki.org/dictionary/English/"
+  }
+ ]
+}

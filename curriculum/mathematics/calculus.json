@@ -1,0 +1,78 @@
+{
+  "subject_id": "calculus",
+  "subject_name": "Calculus",
+  "category": "MATHEMATICS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Limits and Continuity",
+          "content": "# Limits and Continuity\n\n## Learning Objectives\n1. Understand the concept of a limit intuitively and formally\n2. Evaluate limits using direct substitution, factoring, and rationalization\n3. Identify one-sided limits and limits at infinity\n4. Determine continuity of a function at a point\n5. Apply the Intermediate Value Theorem\n\n## What is a Limit?\n\nThe limit of f(x) as x approaches a value c is the value that f(x) gets closer to as x gets closer to c. Written: lim(x\u2192c) f(x) = L\n\nThis is the foundation of ALL calculus. Derivatives are limits. Integrals are limits. Without limits, there is no calculus.\n\n## Evaluating Limits\n\n### Direct Substitution\nIf f(x) is continuous at c, then lim(x\u2192c) f(x) = f(c)\n\nExample: lim(x\u21923) (x\u00b2 + 1) = 9 + 1 = 10\n\n### Factoring (when direct substitution gives 0/0)\nExample: lim(x\u21922) (x\u00b2 - 4)/(x - 2) = lim(x\u21922) (x+2)(x-2)/(x-2) = lim(x\u21922) (x+2) = 4\n\n### Rationalization\nExample: lim(x\u21920) (\u221a(x+1) - 1)/x\nMultiply by conjugate: = lim(x\u21920) x/[x(\u221a(x+1)+1)] = 1/2\n\n## One-Sided Limits\n- Left-hand limit: lim(x\u2192c\u207b) f(x) \u2014 approaching from the left\n- Right-hand limit: lim(x\u2192c\u207a) f(x) \u2014 approaching from the right\n- The two-sided limit exists only if both one-sided limits are equal\n\n## Continuity\nA function is continuous at c if:\n1. f(c) is defined\n2. lim(x\u2192c) f(x) exists\n3. lim(x\u2192c) f(x) = f(c)\n\nIf any condition fails, the function has a discontinuity at c.\n\n## Limits at Infinity\nlim(x\u2192\u221e) 1/x = 0\nlim(x\u2192\u221e) (3x\u00b2 + 2)/(x\u00b2 - 1) = 3 (divide by highest power)\n\n## Practice Problems\n1. Evaluate: lim(x\u21924) (x\u00b2 - 16)/(x - 4)\n   **Answer**: Factor: (x+4)(x-4)/(x-4) = x+4 = 8\n\n2. Does lim(x\u21920) |x|/x exist?\n   **Answer**: No. Left limit = -1, right limit = 1. They differ.\n\n3. lim(x\u2192\u221e) (5x\u00b3 + 2x)/(3x\u00b3 - 1)\n   **Answer**: 5/3 (ratio of leading coefficients)\n\n## Key Takeaways\n- Limits describe behavior as x approaches a value, not AT the value\n- Direct substitution works for continuous functions\n- Factor or rationalize when you get 0/0 (indeterminate form)\n- Continuity requires the limit to exist AND equal the function value\n- Limits at infinity reveal horizontal asymptotes",
+          "quiz": [
+            {
+              "question": "What is the main focus of Calculus?",
+              "options": [
+                "Study of calculus",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of calculus",
+              "explanation": "Calculus encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Calculus?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Calculus has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Calculus lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

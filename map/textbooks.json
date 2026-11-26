@@ -1,0 +1,10244 @@
+{
+"version": 1,
+"rule": "Each subject is one chapter (8,000 words) of an original SKA textbook. Customers still buy by subject.",
+"chapter_words": 8000,
+"books": [
+{
+"book_id": "sales_king_academy_volume_1",
+"title": "Sales King Academy, Volume 1",
+"category": "SALES_KING_ACADEMY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "ai_business_process_automation",
+"title": "Ai Business Process Automation",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ai_content_marketing_systems",
+"title": "Ai Content Marketing Systems",
+"current_words": 390,
+"words_needed": 7610,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "ai_crm_integration",
+"title": "Ai Crm Integration",
+"current_words": 424,
+"words_needed": 7576,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "ai_data_privacy_and_governance",
+"title": "Ai Data Privacy And Governance",
+"current_words": 457,
+"words_needed": 7543,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "ai_for_crypto_market_analysis",
+"title": "Ai For Crypto Market Analysis",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "ai_foundations_for_business",
+"title": "Ai Foundations For Business",
+"current_words": 6951,
+"words_needed": 1049,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "ai_integration_architecture",
+"title": "Ai Integration Architecture",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "ai_marketing_automation_integration",
+"title": "Ai Marketing Automation Integration",
+"current_words": 391,
+"words_needed": 7609,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "ai_personalization_and_segmentation",
+"title": "Ai Personalization And Segmentation",
+"current_words": 373,
+"words_needed": 7627,
+"reference_books": []
+}
+],
+"current_words": 8986,
+"words_needed": 63014
+},
+{
+"book_id": "sales_king_academy_volume_2",
+"title": "Sales King Academy, Volume 2",
+"category": "SALES_KING_ACADEMY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "ai_roi_and_change_management",
+"title": "Ai Roi And Change Management",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ai_sales_agents_deployment",
+"title": "Ai Sales Agents Deployment",
+"current_words": 419,
+"words_needed": 7581,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "ai_sales_workflow_integration",
+"title": "Ai Sales Workflow Integration",
+"current_words": 433,
+"words_needed": 7567,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "ai_tools_and_platforms",
+"title": "Ai Tools And Platforms",
+"current_words": 517,
+"words_needed": 7483,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "blockchain_fundamentals_for_business",
+"title": "Blockchain Fundamentals For Business",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "crypto_compliance_and_risk",
+"title": "Crypto Compliance And Risk",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "crypto_payments_integration",
+"title": "Crypto Payments Integration",
+"current_words": 0,
+"words_needed": 8000,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "prompt_design_for_revenue_teams",
+"title": "Prompt Design For Revenue Teams",
+"current_words": 473,
+"words_needed": 7527,
+"reference_books": []
+}
+],
+"current_words": 1842,
+"words_needed": 62158
+},
+{
+"book_id": "business_volume_1",
+"title": "Business, Volume 1",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "business_fundamentals",
+"title": "Business Fundamentals",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": [
+"Introduction to Business"
+]
+},
+{
+"n": 2,
+"subject": "entrepreneurship",
+"title": "Entrepreneurship",
+"current_words": 2201,
+"words_needed": 5799,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "management",
+"title": "Management",
+"current_words": 3227,
+"words_needed": 4773,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "leadership",
+"title": "Leadership",
+"current_words": 2003,
+"words_needed": 5997,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "marketing",
+"title": "Marketing",
+"current_words": 8656,
+"words_needed": 0,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "digital_marketing",
+"title": "Digital Marketing",
+"current_words": 2689,
+"words_needed": 5311,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "sales",
+"title": "Sales",
+"current_words": 8825,
+"words_needed": 0,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sales_psychology",
+"title": "Sales Psychology",
+"current_words": 3036,
+"words_needed": 4964,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 9,
+"subject": "negotiation",
+"title": "Negotiation",
+"current_words": 3222,
+"words_needed": 4778,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "accounting",
+"title": "Accounting",
+"current_words": 3513,
+"words_needed": 4487,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "financial_accounting",
+"title": "Financial Accounting",
+"current_words": 4062,
+"words_needed": 3938,
+"reference_books": []
+}
+],
+"current_words": 45315,
+"words_needed": 44166
+},
+{
+"book_id": "business_volume_2",
+"title": "Business, Volume 2",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "managerial_accounting",
+"title": "Managerial Accounting",
+"current_words": 2882,
+"words_needed": 5118,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "corporate_finance",
+"title": "Corporate Finance",
+"current_words": 3745,
+"words_needed": 4255,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "investment_analysis",
+"title": "Investment Analysis",
+"current_words": 4620,
+"words_needed": 3380,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "portfolio_management",
+"title": "Portfolio Management",
+"current_words": 4002,
+"words_needed": 3998,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "banking",
+"title": "Banking",
+"current_words": 3678,
+"words_needed": 4322,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "insurance",
+"title": "Insurance",
+"current_words": 2277,
+"words_needed": 5723,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "real_estate",
+"title": "Real Estate",
+"current_words": 3938,
+"words_needed": 4062,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "business_strategy",
+"title": "Business Strategy",
+"current_words": 2816,
+"words_needed": 5184,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "competitive_analysis",
+"title": "Competitive Analysis",
+"current_words": 3935,
+"words_needed": 4065,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "business_analytics",
+"title": "Business Analytics",
+"current_words": 4173,
+"words_needed": 3827,
+"reference_books": [
+"Introductory Business Statistics"
+]
+},
+{
+"n": 11,
+"subject": "operations_management",
+"title": "Operations Management",
+"current_words": 2364,
+"words_needed": 5636,
+"reference_books": []
+}
+],
+"current_words": 38430,
+"words_needed": 49570
+},
+{
+"book_id": "business_volume_3",
+"title": "Business, Volume 3",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "supply_chain",
+"title": "Supply Chain",
+"current_words": 4005,
+"words_needed": 3995,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "logistics",
+"title": "Logistics",
+"current_words": 3774,
+"words_needed": 4226,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "project_management",
+"title": "Project Management",
+"current_words": 4777,
+"words_needed": 3223,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "agile_scrum",
+"title": "Agile Scrum",
+"current_words": 2772,
+"words_needed": 5228,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "six_sigma",
+"title": "Six Sigma",
+"current_words": 3916,
+"words_needed": 4084,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "human_resources",
+"title": "Human Resources",
+"current_words": 3435,
+"words_needed": 4565,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "organizational_behavior",
+"title": "Organizational Behavior",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "talent_management",
+"title": "Talent Management",
+"current_words": 2713,
+"words_needed": 5287,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "international_business",
+"title": "International Business",
+"current_words": 4032,
+"words_needed": 3968,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "import_export",
+"title": "Import Export",
+"current_words": 3757,
+"words_needed": 4243,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "trade_finance",
+"title": "Trade Finance",
+"current_words": 3832,
+"words_needed": 4168,
+"reference_books": []
+}
+],
+"current_words": 40894,
+"words_needed": 47106
+},
+{
+"book_id": "business_volume_4",
+"title": "Business, Volume 4",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "e_commerce",
+"title": "E Commerce",
+"current_words": 3537,
+"words_needed": 4463,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "dropshipping",
+"title": "Dropshipping",
+"current_words": 3403,
+"words_needed": 4597,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "affiliate_marketing",
+"title": "Affiliate Marketing",
+"current_words": 4120,
+"words_needed": 3880,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "social_media_marketing",
+"title": "Social Media Marketing",
+"current_words": 2369,
+"words_needed": 5631,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "seo",
+"title": "Seo",
+"current_words": 2191,
+"words_needed": 5809,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "content_marketing",
+"title": "Content Marketing",
+"current_words": 3207,
+"words_needed": 4793,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "brand_management",
+"title": "Brand Management",
+"current_words": 4528,
+"words_needed": 3472,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "public_relations",
+"title": "Public Relations",
+"current_words": 3996,
+"words_needed": 4004,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "advertising",
+"title": "Advertising",
+"current_words": 2100,
+"words_needed": 5900,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "business_law",
+"title": "Business Law",
+"current_words": 4346,
+"words_needed": 3654,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "contract_law",
+"title": "Contract Law",
+"current_words": 2938,
+"words_needed": 5062,
+"reference_books": []
+}
+],
+"current_words": 36735,
+"words_needed": 51265
+},
+{
+"book_id": "business_volume_5",
+"title": "Business, Volume 5",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "intellectual_property_business",
+"title": "Intellectual Property Business",
+"current_words": 4067,
+"words_needed": 3933,
+"reference_books": [
+"Introduction to Intellectual Property"
+]
+},
+{
+"n": 2,
+"subject": "startup_funding",
+"title": "Startup Funding",
+"current_words": 3677,
+"words_needed": 4323,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "venture_capital",
+"title": "Venture Capital",
+"current_words": 3784,
+"words_needed": 4216,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "private_equity",
+"title": "Private Equity",
+"current_words": 2213,
+"words_needed": 5787,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "mergers_acquisitions",
+"title": "Mergers Acquisitions",
+"current_words": 3514,
+"words_needed": 4486,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "corporate_governance",
+"title": "Corporate Governance",
+"current_words": 3603,
+"words_needed": 4397,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "business_ethics",
+"title": "Business Ethics",
+"current_words": 3248,
+"words_needed": 4752,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sustainability_business",
+"title": "Sustainability Business",
+"current_words": 4140,
+"words_needed": 3860,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "franchise_development",
+"title": "Franchise Development",
+"current_words": 3690,
+"words_needed": 4310,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "consulting",
+"title": "Consulting",
+"current_words": 4165,
+"words_needed": 3835,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "systems_thinking",
+"title": "Systems Thinking",
+"current_words": 3500,
+"words_needed": 4500,
+"reference_books": []
+}
+],
+"current_words": 39601,
+"words_needed": 48399
+},
+{
+"book_id": "business_volume_6",
+"title": "Business, Volume 6",
+"category": "BUSINESS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "strategic_management",
+"title": "Strategic Management",
+"current_words": 3408,
+"words_needed": 4592,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "knowledge_management",
+"title": "Knowledge Management",
+"current_words": 3906,
+"words_needed": 4094,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "technical_product_management",
+"title": "Technical Product Management",
+"current_words": 4340,
+"words_needed": 3660,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "advanced_negotiation",
+"title": "Advanced Negotiation",
+"current_words": 3700,
+"words_needed": 4300,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "revenue_operations",
+"title": "Revenue Operations",
+"current_words": 3237,
+"words_needed": 4763,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "strategic_intelligence",
+"title": "Strategic Intelligence",
+"current_words": 3887,
+"words_needed": 4113,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "influencer_marketing",
+"title": "Influencer Marketing",
+"current_words": 4217,
+"words_needed": 3783,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "business_intelligence",
+"title": "Business Intelligence",
+"current_words": 4105,
+"words_needed": 3895,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "corporate_strategy",
+"title": "Corporate Strategy",
+"current_words": 2058,
+"words_needed": 5942,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "product_management",
+"title": "Product Management",
+"current_words": 3606,
+"words_needed": 4394,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "supply_chain_strategy",
+"title": "Supply Chain Strategy",
+"current_words": 4293,
+"words_needed": 3707,
+"reference_books": []
+}
+],
+"current_words": 40757,
+"words_needed": 47243
+},
+{
+"book_id": "economics_finance_volume_1",
+"title": "Economics Finance, Volume 1",
+"category": "ECONOMICS_FINANCE",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "microeconomics",
+"title": "Microeconomics",
+"current_words": 3865,
+"words_needed": 4135,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 2,
+"subject": "macroeconomics",
+"title": "Macroeconomics",
+"current_words": 3843,
+"words_needed": 4157,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 3,
+"subject": "econometrics",
+"title": "Econometrics",
+"current_words": 4086,
+"words_needed": 3914,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "behavioral_economics",
+"title": "Behavioral Economics",
+"current_words": 4511,
+"words_needed": 3489,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 5,
+"subject": "development_economics",
+"title": "Development Economics",
+"current_words": 4454,
+"words_needed": 3546,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 6,
+"subject": "international_economics",
+"title": "International Economics",
+"current_words": 4427,
+"words_needed": 3573,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 7,
+"subject": "labor_economics",
+"title": "Labor Economics",
+"current_words": 4002,
+"words_needed": 3998,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 8,
+"subject": "public_economics",
+"title": "Public Economics",
+"current_words": 3330,
+"words_needed": 4670,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 9,
+"subject": "health_economics",
+"title": "Health Economics",
+"current_words": 4878,
+"words_needed": 3122,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 10,
+"subject": "environmental_economics",
+"title": "Environmental Economics",
+"current_words": 4688,
+"words_needed": 3312,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 11,
+"subject": "monetary_economics",
+"title": "Monetary Economics",
+"current_words": 4999,
+"words_needed": 3001,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 12,
+"subject": "fiscal_policy",
+"title": "Fiscal Policy",
+"current_words": 4215,
+"words_needed": 3785,
+"reference_books": []
+}
+],
+"current_words": 51298,
+"words_needed": 44702
+},
+{
+"book_id": "economics_finance_volume_2",
+"title": "Economics Finance, Volume 2",
+"category": "ECONOMICS_FINANCE",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "economic_history",
+"title": "Economic History",
+"current_words": 4402,
+"words_needed": 3598,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "personal_finance",
+"title": "Personal Finance",
+"current_words": 3108,
+"words_needed": 4892,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "financial_planning",
+"title": "Financial Planning",
+"current_words": 4634,
+"words_needed": 3366,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "tax_planning",
+"title": "Tax Planning",
+"current_words": 4201,
+"words_needed": 3799,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "wealth_management",
+"title": "Wealth Management",
+"current_words": 4383,
+"words_needed": 3617,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "retirement_planning",
+"title": "Retirement Planning",
+"current_words": 2845,
+"words_needed": 5155,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "stock_market",
+"title": "Stock Market",
+"current_words": 4215,
+"words_needed": 3785,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "options_trading",
+"title": "Options Trading",
+"current_words": 4018,
+"words_needed": 3982,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "futures_trading",
+"title": "Futures Trading",
+"current_words": 2428,
+"words_needed": 5572,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "forex_trading",
+"title": "Forex Trading",
+"current_words": 3782,
+"words_needed": 4218,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "cryptocurrency",
+"title": "Cryptocurrency",
+"current_words": 2270,
+"words_needed": 5730,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "defi",
+"title": "Defi",
+"current_words": 2355,
+"words_needed": 5645,
+"reference_books": []
+}
+],
+"current_words": 42641,
+"words_needed": 53359
+},
+{
+"book_id": "economics_finance_volume_3",
+"title": "Economics Finance, Volume 3",
+"category": "ECONOMICS_FINANCE",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "technical_analysis",
+"title": "Technical Analysis",
+"current_words": 4016,
+"words_needed": 3984,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "fundamental_analysis",
+"title": "Fundamental Analysis",
+"current_words": 4211,
+"words_needed": 3789,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "risk_management",
+"title": "Risk Management",
+"current_words": 2333,
+"words_needed": 5667,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "insurance_finance",
+"title": "Insurance Finance",
+"current_words": 4491,
+"words_needed": 3509,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "fintech",
+"title": "Fintech",
+"current_words": 3473,
+"words_needed": 4527,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "financial_regulations",
+"title": "Financial Regulations",
+"current_words": 4297,
+"words_needed": 3703,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "compliance_finance",
+"title": "Compliance Finance",
+"current_words": 3739,
+"words_needed": 4261,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "behavioral_finance",
+"title": "Behavioral Finance",
+"current_words": 4146,
+"words_needed": 3854,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "fintech_systems",
+"title": "Fintech Systems",
+"current_words": 3666,
+"words_needed": 4334,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "financial_engineering",
+"title": "Financial Engineering",
+"current_words": 4855,
+"words_needed": 3145,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "nft_digital_assets",
+"title": "Nft Digital Assets",
+"current_words": 4689,
+"words_needed": 3311,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "tokenomics_defi",
+"title": "Tokenomics Defi",
+"current_words": 3481,
+"words_needed": 4519,
+"reference_books": []
+}
+],
+"current_words": 47397,
+"words_needed": 48603
+},
+{
+"book_id": "personal_development_volume_1",
+"title": "Personal Development, Volume 1",
+"category": "PERSONAL_DEVELOPMENT",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "critical_thinking",
+"title": "Critical Thinking",
+"current_words": 4128,
+"words_needed": 3872,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "problem_solving",
+"title": "Problem Solving",
+"current_words": 4342,
+"words_needed": 3658,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "decision_making",
+"title": "Decision Making",
+"current_words": 2130,
+"words_needed": 5870,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "emotional_intelligence",
+"title": "Emotional Intelligence",
+"current_words": 2716,
+"words_needed": 5284,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "mindfulness_meditation",
+"title": "Mindfulness Meditation",
+"current_words": 4169,
+"words_needed": 3831,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "time_management",
+"title": "Time Management",
+"current_words": 3518,
+"words_needed": 4482,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "productivity",
+"title": "Productivity",
+"current_words": 2184,
+"words_needed": 5816,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "goal_setting",
+"title": "Goal Setting",
+"current_words": 4078,
+"words_needed": 3922,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "communication_skills",
+"title": "Communication Skills",
+"current_words": 3843,
+"words_needed": 4157,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "interpersonal_skills",
+"title": "Interpersonal Skills",
+"current_words": 3601,
+"words_needed": 4399,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "conflict_resolution",
+"title": "Conflict Resolution",
+"current_words": 3918,
+"words_needed": 4082,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "stress_management",
+"title": "Stress Management",
+"current_words": 2285,
+"words_needed": 5715,
+"reference_books": []
+}
+],
+"current_words": 40912,
+"words_needed": 55088
+},
+{
+"book_id": "personal_development_volume_2",
+"title": "Personal Development, Volume 2",
+"category": "PERSONAL_DEVELOPMENT",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "financial_literacy",
+"title": "Financial Literacy",
+"current_words": 3985,
+"words_needed": 4015,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "career_development",
+"title": "Career Development",
+"current_words": 3930,
+"words_needed": 4070,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "study_skills",
+"title": "Study Skills",
+"current_words": 3821,
+"words_needed": 4179,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "speed_reading",
+"title": "Speed Reading",
+"current_words": 2243,
+"words_needed": 5757,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "memory_techniques",
+"title": "Memory Techniques",
+"current_words": 3498,
+"words_needed": 4502,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "creative_thinking",
+"title": "Creative Thinking",
+"current_words": 3431,
+"words_needed": 4569,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "innovation_methods",
+"title": "Innovation Methods",
+"current_words": 3368,
+"words_needed": 4632,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "physical_fitness",
+"title": "Physical Fitness",
+"current_words": 3855,
+"words_needed": 4145,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "nutrition_wellness",
+"title": "Nutrition Wellness",
+"current_words": 4046,
+"words_needed": 3954,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "sleep_science",
+"title": "Sleep Science",
+"current_words": 4201,
+"words_needed": 3799,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "relationship_skills",
+"title": "Relationship Skills",
+"current_words": 3903,
+"words_needed": 4097,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "parenting",
+"title": "Parenting",
+"current_words": 3473,
+"words_needed": 4527,
+"reference_books": []
+}
+],
+"current_words": 43754,
+"words_needed": 52246
+},
+{
+"book_id": "media_communications_volume_1",
+"title": "Media Communications, Volume 1",
+"category": "MEDIA_COMMUNICATIONS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "broadcasting",
+"title": "Broadcasting",
+"current_words": 3922,
+"words_needed": 4078,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "digital_media_production",
+"title": "Digital Media Production",
+"current_words": 2629,
+"words_needed": 5371,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "documentary_filmmaking",
+"title": "Documentary Filmmaking",
+"current_words": 3858,
+"words_needed": 4142,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "podcasting",
+"title": "Podcasting",
+"current_words": 4371,
+"words_needed": 3629,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "social_media_strategy",
+"title": "Social Media Strategy",
+"current_words": 2801,
+"words_needed": 5199,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "media_ethics",
+"title": "Media Ethics",
+"current_words": 4440,
+"words_needed": 3560,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "photojournalism",
+"title": "Photojournalism",
+"current_words": 4050,
+"words_needed": 3950,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sports_journalism",
+"title": "Sports Journalism",
+"current_words": 4101,
+"words_needed": 3899,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "crisis_communications",
+"title": "Crisis Communications",
+"current_words": 2079,
+"words_needed": 5921,
+"reference_books": []
+}
+],
+"current_words": 32251,
+"words_needed": 39749
+},
+{
+"book_id": "media_communications_volume_2",
+"title": "Media Communications, Volume 2",
+"category": "MEDIA_COMMUNICATIONS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "corporate_communications",
+"title": "Corporate Communications",
+"current_words": 2137,
+"words_needed": 5863,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "technical_writing_advanced",
+"title": "Technical Writing Advanced",
+"current_words": 4055,
+"words_needed": 3945,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "speech_writing",
+"title": "Speech Writing",
+"current_words": 4652,
+"words_needed": 3348,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "media_law",
+"title": "Media Law",
+"current_words": 4271,
+"words_needed": 3729,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "audience_analytics",
+"title": "Audience Analytics",
+"current_words": 3817,
+"words_needed": 4183,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "content_strategy",
+"title": "Content Strategy",
+"current_words": 2126,
+"words_needed": 5874,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "podcast_production",
+"title": "Podcast Production",
+"current_words": 4187,
+"words_needed": 3813,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "television_film_production",
+"title": "Television Film Production",
+"current_words": 4152,
+"words_needed": 3848,
+"reference_books": []
+}
+],
+"current_words": 29397,
+"words_needed": 34603
+},
+{
+"book_id": "logistics_supply_chain_volume_1",
+"title": "Logistics Supply Chain, Volume 1",
+"category": "LOGISTICS_SUPPLY_CHAIN",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "supply_chain_management",
+"title": "Supply Chain Management",
+"current_words": 4515,
+"words_needed": 3485,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "logistics_operations",
+"title": "Logistics Operations",
+"current_words": 2283,
+"words_needed": 5717,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "warehouse_management",
+"title": "Warehouse Management",
+"current_words": 4855,
+"words_needed": 3145,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "inventory_optimization",
+"title": "Inventory Optimization",
+"current_words": 3837,
+"words_needed": 4163,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "procurement",
+"title": "Procurement",
+"current_words": 3463,
+"words_needed": 4537,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "transportation_management",
+"title": "Transportation Management",
+"current_words": 3774,
+"words_needed": 4226,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "demand_forecasting",
+"title": "Demand Forecasting",
+"current_words": 4759,
+"words_needed": 3241,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "global_trade_logistics",
+"title": "Global Trade Logistics",
+"current_words": 4093,
+"words_needed": 3907,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "last_mile_delivery",
+"title": "Last Mile Delivery",
+"current_words": 4553,
+"words_needed": 3447,
+"reference_books": []
+}
+],
+"current_words": 36132,
+"words_needed": 35868
+},
+{
+"book_id": "logistics_supply_chain_volume_2",
+"title": "Logistics Supply Chain, Volume 2",
+"category": "LOGISTICS_SUPPLY_CHAIN",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "cold_chain_logistics",
+"title": "Cold Chain Logistics",
+"current_words": 3992,
+"words_needed": 4008,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "reverse_logistics",
+"title": "Reverse Logistics",
+"current_words": 2842,
+"words_needed": 5158,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "freight_management",
+"title": "Freight Management",
+"current_words": 3598,
+"words_needed": 4402,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "customs_brokerage",
+"title": "Customs Brokerage",
+"current_words": 3479,
+"words_needed": 4521,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "supply_chain_analytics",
+"title": "Supply Chain Analytics",
+"current_words": 4371,
+"words_needed": 3629,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "vendor_management",
+"title": "Vendor Management",
+"current_words": 3967,
+"words_needed": 4033,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "lean_supply_chain",
+"title": "Lean Supply Chain",
+"current_words": 3962,
+"words_needed": 4038,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "supply_chain_risk",
+"title": "Supply Chain Risk",
+"current_words": 3926,
+"words_needed": 4074,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "supply_chain_resilience",
+"title": "Supply Chain Resilience",
+"current_words": 4249,
+"words_needed": 3751,
+"reference_books": []
+}
+],
+"current_words": 34386,
+"words_needed": 37614
+},
+{
+"book_id": "real_estate_volume_1",
+"title": "Real Estate, Volume 1",
+"category": "REAL_ESTATE",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "real_estate_fundamentals",
+"title": "Real Estate Fundamentals",
+"current_words": 4044,
+"words_needed": 3956,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "property_valuation",
+"title": "Property Valuation",
+"current_words": 4464,
+"words_needed": 3536,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "real_estate_law",
+"title": "Real Estate Law",
+"current_words": 4164,
+"words_needed": 3836,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "commercial_real_estate",
+"title": "Commercial Real Estate",
+"current_words": 4129,
+"words_needed": 3871,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "residential_real_estate",
+"title": "Residential Real Estate",
+"current_words": 2638,
+"words_needed": 5362,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "real_estate_investment",
+"title": "Real Estate Investment",
+"current_words": 3912,
+"words_needed": 4088,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "property_management",
+"title": "Property Management",
+"current_words": 3747,
+"words_needed": 4253,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "real_estate_development",
+"title": "Real Estate Development",
+"current_words": 4412,
+"words_needed": 3588,
+"reference_books": []
+}
+],
+"current_words": 31510,
+"words_needed": 32490
+},
+{
+"book_id": "real_estate_volume_2",
+"title": "Real Estate, Volume 2",
+"category": "REAL_ESTATE",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "real_estate_finance",
+"title": "Real Estate Finance",
+"current_words": 4372,
+"words_needed": 3628,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "land_use_planning",
+"title": "Land Use Planning",
+"current_words": 2961,
+"words_needed": 5039,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "real_estate_marketing",
+"title": "Real Estate Marketing",
+"current_words": 3840,
+"words_needed": 4160,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "mortgage_lending",
+"title": "Mortgage Lending",
+"current_words": 4430,
+"words_needed": 3570,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "real_estate_appraisal",
+"title": "Real Estate Appraisal",
+"current_words": 4475,
+"words_needed": 3525,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "construction_management_re",
+"title": "Construction Management Re",
+"current_words": 3682,
+"words_needed": 4318,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "real_estate_negotiation",
+"title": "Real Estate Negotiation",
+"current_words": 2952,
+"words_needed": 5048,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "reit_analysis",
+"title": "Reit Analysis",
+"current_words": 3836,
+"words_needed": 4164,
+"reference_books": []
+}
+],
+"current_words": 30548,
+"words_needed": 33452
+},
+{
+"book_id": "sales_mastery_volume_1",
+"title": "Sales Mastery, Volume 1",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "account_based_marketing",
+"title": "Account Based Marketing",
+"current_words": 3880,
+"words_needed": 4120,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "buyer_psychology",
+"title": "Buyer Psychology",
+"current_words": 3556,
+"words_needed": 4444,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 3,
+"subject": "campaign_planning",
+"title": "Campaign Planning",
+"current_words": 3686,
+"words_needed": 4314,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "cart_abandonment_recovery",
+"title": "Cart Abandonment Recovery",
+"current_words": 3783,
+"words_needed": 4217,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "closing_techniques",
+"title": "Closing Techniques",
+"current_words": 4499,
+"words_needed": 3501,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "cold_calling_mastery",
+"title": "Cold Calling Mastery",
+"current_words": 4327,
+"words_needed": 3673,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "cold_email_deliverability",
+"title": "Cold Email Deliverability",
+"current_words": 3612,
+"words_needed": 4388,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "community_management",
+"title": "Community Management",
+"current_words": 2700,
+"words_needed": 5300,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "community_marketing",
+"title": "Community Marketing",
+"current_words": 3828,
+"words_needed": 4172,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "competitive_intelligence",
+"title": "Competitive Intelligence",
+"current_words": 3913,
+"words_needed": 4087,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "consultative_selling",
+"title": "Consultative Selling",
+"current_words": 2745,
+"words_needed": 5255,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "content_calendar_systems",
+"title": "Content Calendar Systems",
+"current_words": 4371,
+"words_needed": 3629,
+"reference_books": []
+}
+],
+"current_words": 44900,
+"words_needed": 51100
+},
+{
+"book_id": "sales_mastery_volume_2",
+"title": "Sales Mastery, Volume 2",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "conversion_rate_optimization",
+"title": "Conversion Rate Optimization",
+"current_words": 4004,
+"words_needed": 3996,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "copywriting_conversion",
+"title": "Copywriting Conversion",
+"current_words": 3858,
+"words_needed": 4142,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "creator_economy",
+"title": "Creator Economy",
+"current_words": 2538,
+"words_needed": 5462,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "customer_journey_mapping",
+"title": "Customer Journey Mapping",
+"current_words": 3772,
+"words_needed": 4228,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "deal_qualification_frameworks",
+"title": "Deal Qualification Frameworks",
+"current_words": 4269,
+"words_needed": 3731,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "demand_generation",
+"title": "Demand Generation",
+"current_words": 4273,
+"words_needed": 3727,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "discovery_questioning",
+"title": "Discovery Questioning",
+"current_words": 4530,
+"words_needed": 3470,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "engagement_strategy",
+"title": "Engagement Strategy",
+"current_words": 2423,
+"words_needed": 5577,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "enterprise_b2b_selling",
+"title": "Enterprise B2b Selling",
+"current_words": 4188,
+"words_needed": 3812,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "event_marketing",
+"title": "Event Marketing",
+"current_words": 2809,
+"words_needed": 5191,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "followup_systems",
+"title": "Followup Systems",
+"current_words": 4186,
+"words_needed": 3814,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "incident_response",
+"title": "Incident Response",
+"current_words": 3785,
+"words_needed": 4215,
+"reference_books": []
+}
+],
+"current_words": 44635,
+"words_needed": 51365
+},
+{
+"book_id": "sales_mastery_volume_3",
+"title": "Sales Mastery, Volume 3",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "intent_data_signals",
+"title": "Intent Data Signals",
+"current_words": 2770,
+"words_needed": 5230,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "landing_page_design",
+"title": "Landing Page Design",
+"current_words": 4339,
+"words_needed": 3661,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "lead_enrichment",
+"title": "Lead Enrichment",
+"current_words": 4498,
+"words_needed": 3502,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "lifecycle_marketing",
+"title": "Lifecycle Marketing",
+"current_words": 3827,
+"words_needed": 4173,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "linkedin_prospecting",
+"title": "Linkedin Prospecting",
+"current_words": 3583,
+"words_needed": 4417,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "list_building",
+"title": "List Building",
+"current_words": 4134,
+"words_needed": 3866,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "market_intelligence",
+"title": "Market Intelligence",
+"current_words": 3850,
+"words_needed": 4150,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "marketing_automation",
+"title": "Marketing Automation",
+"current_words": 3844,
+"words_needed": 4156,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "media_buying",
+"title": "Media Buying",
+"current_words": 4426,
+"words_needed": 3574,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "message_queues",
+"title": "Message Queues",
+"current_words": 4592,
+"words_needed": 3408,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "multithreading_deals",
+"title": "Multithreading Deals",
+"current_words": 2645,
+"words_needed": 5355,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "objection_handling",
+"title": "Objection Handling",
+"current_words": 4378,
+"words_needed": 3622,
+"reference_books": []
+}
+],
+"current_words": 46886,
+"words_needed": 49114
+},
+{
+"book_id": "sales_mastery_volume_4",
+"title": "Sales Mastery, Volume 4",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "okr_goal_systems",
+"title": "Okr Goal Systems",
+"current_words": 2590,
+"words_needed": 5410,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "organizational_design",
+"title": "Organizational Design",
+"current_words": 3855,
+"words_needed": 4145,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "outbound_prospecting",
+"title": "Outbound Prospecting",
+"current_words": 3779,
+"words_needed": 4221,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "outbound_sequencing",
+"title": "Outbound Sequencing",
+"current_words": 4296,
+"words_needed": 3704,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "packaging_and_tiers",
+"title": "Packaging And Tiers",
+"current_words": 4753,
+"words_needed": 3247,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "pipeline_management",
+"title": "Pipeline Management",
+"current_words": 4229,
+"words_needed": 3771,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "positioning_strategy",
+"title": "Positioning Strategy",
+"current_words": 4015,
+"words_needed": 3985,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "price_elasticity_analysis",
+"title": "Price Elasticity Analysis",
+"current_words": 4500,
+"words_needed": 3500,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "pricing_conversations",
+"title": "Pricing Conversations",
+"current_words": 4263,
+"words_needed": 3737,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "pricing_psychology",
+"title": "Pricing Psychology",
+"current_words": 4105,
+"words_needed": 3895,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 11,
+"subject": "procurement_navigation",
+"title": "Procurement Navigation",
+"current_words": 4398,
+"words_needed": 3602,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "product_launch_strategy",
+"title": "Product Launch Strategy",
+"current_words": 4141,
+"words_needed": 3859,
+"reference_books": []
+}
+],
+"current_words": 48924,
+"words_needed": 47076
+},
+{
+"book_id": "sales_mastery_volume_5",
+"title": "Sales Mastery, Volume 5",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "product_marketing",
+"title": "Product Marketing",
+"current_words": 3742,
+"words_needed": 4258,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "product_roadmapping",
+"title": "Product Roadmapping",
+"current_words": 4090,
+"words_needed": 3910,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "prospecting_systems",
+"title": "Prospecting Systems",
+"current_words": 4505,
+"words_needed": 3495,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "rapport_building",
+"title": "Rapport Building",
+"current_words": 3660,
+"words_needed": 4340,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "referral_generation",
+"title": "Referral Generation",
+"current_words": 3992,
+"words_needed": 4008,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "reputation_management",
+"title": "Reputation Management",
+"current_words": 4302,
+"words_needed": 3698,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "sales_cadence_design",
+"title": "Sales Cadence Design",
+"current_words": 3098,
+"words_needed": 4902,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sales_demo_mastery",
+"title": "Sales Demo Mastery",
+"current_words": 4735,
+"words_needed": 3265,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "sales_negotiation_tactics",
+"title": "Sales Negotiation Tactics",
+"current_words": 3957,
+"words_needed": 4043,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "sales_scripting",
+"title": "Sales Scripting",
+"current_words": 4132,
+"words_needed": 3868,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "sdr_management",
+"title": "Sdr Management",
+"current_words": 4503,
+"words_needed": 3497,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "shareholder_value",
+"title": "Shareholder Value",
+"current_words": 3279,
+"words_needed": 4721,
+"reference_books": []
+}
+],
+"current_words": 47995,
+"words_needed": 48005
+},
+{
+"book_id": "sales_mastery_volume_6",
+"title": "Sales Mastery, Volume 6",
+"category": "SALES_MASTERY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "short_form_video_strategy",
+"title": "Short Form Video Strategy",
+"current_words": 3676,
+"words_needed": 4324,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "social_listening",
+"title": "Social Listening",
+"current_words": 3557,
+"words_needed": 4443,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "source_verification",
+"title": "Source Verification",
+"current_words": 4259,
+"words_needed": 3741,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "system_integration_patterns",
+"title": "System Integration Patterns",
+"current_words": 4073,
+"words_needed": 3927,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "territory_planning",
+"title": "Territory Planning",
+"current_words": 4493,
+"words_needed": 3507,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "threat_intelligence_analysis",
+"title": "Threat Intelligence Analysis",
+"current_words": 4003,
+"words_needed": 3997,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "tonality_and_voice",
+"title": "Tonality And Voice",
+"current_words": 4268,
+"words_needed": 3732,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "upsell_cross_sell",
+"title": "Upsell Cross Sell",
+"current_words": 3963,
+"words_needed": 4037,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "user_research_methods",
+"title": "User Research Methods",
+"current_words": 3707,
+"words_needed": 4293,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "value_articulation",
+"title": "Value Articulation",
+"current_words": 4233,
+"words_needed": 3767,
+"reference_books": []
+}
+],
+"current_words": 40232,
+"words_needed": 39768
+},
+{
+"book_id": "ai_powered_selling",
+"title": "AI Powered Selling",
+"category": "AI_POWERED_SELLING",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "ai_agent_orchestration_sales",
+"title": "Ai Agent Orchestration Sales",
+"current_words": 4100,
+"words_needed": 3900,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ai_assisted_prospecting",
+"title": "Ai Assisted Prospecting",
+"current_words": 4104,
+"words_needed": 3896,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "ai_call_preparation",
+"title": "Ai Call Preparation",
+"current_words": 4458,
+"words_needed": 3542,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "ai_ethics_in_selling",
+"title": "Ai Ethics In Selling",
+"current_words": 3780,
+"words_needed": 4220,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "ai_objection_simulation",
+"title": "Ai Objection Simulation",
+"current_words": 4235,
+"words_needed": 3765,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "ai_pipeline_forecasting",
+"title": "Ai Pipeline Forecasting",
+"current_words": 4155,
+"words_needed": 3845,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "ai_proposal_generation",
+"title": "Ai Proposal Generation",
+"current_words": 4246,
+"words_needed": 3754,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "ai_sales_research",
+"title": "Ai Sales Research",
+"current_words": 3894,
+"words_needed": 4106,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "human_ai_handoff",
+"title": "Human Ai Handoff",
+"current_words": 4193,
+"words_needed": 3807,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "prompt_engineering_for_sales",
+"title": "Prompt Engineering For Sales",
+"current_words": 4093,
+"words_needed": 3907,
+"reference_books": []
+}
+],
+"current_words": 41258,
+"words_needed": 38742
+},
+{
+"book_id": "growth_and_revenue_analytics_volume_1",
+"title": "Growth And Revenue Analytics, Volume 1",
+"category": "GROWTH_AND_REVENUE_ANALYTICS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "ab_testing_statistics",
+"title": "Ab Testing Statistics",
+"current_words": 2952,
+"words_needed": 5048,
+"reference_books": [
+"Introductory Statistics"
+]
+},
+{
+"n": 2,
+"subject": "activation_metrics",
+"title": "Activation Metrics",
+"current_words": 4111,
+"words_needed": 3889,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "attribution_modeling",
+"title": "Attribution Modeling",
+"current_words": 4209,
+"words_needed": 3791,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "checkout_optimization",
+"title": "Checkout Optimization",
+"current_words": 4290,
+"words_needed": 3710,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "churn_reduction",
+"title": "Churn Reduction",
+"current_words": 4136,
+"words_needed": 3864,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "cohort_retention_analysis",
+"title": "Cohort Retention Analysis",
+"current_words": 3535,
+"words_needed": 4465,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "discount_strategy",
+"title": "Discount Strategy",
+"current_words": 3992,
+"words_needed": 4008,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "expansion_revenue",
+"title": "Expansion Revenue",
+"current_words": 3943,
+"words_needed": 4057,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "experiment_design",
+"title": "Experiment Design",
+"current_words": 4418,
+"words_needed": 3582,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "funnel_analytics",
+"title": "Funnel Analytics",
+"current_words": 4193,
+"words_needed": 3807,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "growth_marketing",
+"title": "Growth Marketing",
+"current_words": 3933,
+"words_needed": 4067,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "icp_definition",
+"title": "Icp Definition",
+"current_words": 3835,
+"words_needed": 4165,
+"reference_books": []
+}
+],
+"current_words": 47547,
+"words_needed": 48453
+},
+{
+"book_id": "growth_and_revenue_analytics_volume_2",
+"title": "Growth And Revenue Analytics, Volume 2",
+"category": "GROWTH_AND_REVENUE_ANALYTICS",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "kpi_frameworks",
+"title": "Kpi Frameworks",
+"current_words": 3630,
+"words_needed": 4370,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "lead_magnet_design",
+"title": "Lead Magnet Design",
+"current_words": 4378,
+"words_needed": 3622,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "ltv_modeling",
+"title": "Ltv Modeling",
+"current_words": 4028,
+"words_needed": 3972,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "margin_management",
+"title": "Margin Management",
+"current_words": 2966,
+"words_needed": 5034,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "marketing_analytics",
+"title": "Marketing Analytics",
+"current_words": 4376,
+"words_needed": 3624,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "marketing_attribution",
+"title": "Marketing Attribution",
+"current_words": 4151,
+"words_needed": 3849,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "pricing_page_design",
+"title": "Pricing Page Design",
+"current_words": 4271,
+"words_needed": 3729,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "revenue_forecasting",
+"title": "Revenue Forecasting",
+"current_words": 4414,
+"words_needed": 3586,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "saas_metrics",
+"title": "Saas Metrics",
+"current_words": 3713,
+"words_needed": 4287,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "subscription_economics",
+"title": "Subscription Economics",
+"current_words": 3830,
+"words_needed": 4170,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 11,
+"subject": "usage_based_pricing",
+"title": "Usage Based Pricing",
+"current_words": 3943,
+"words_needed": 4057,
+"reference_books": []
+}
+],
+"current_words": 43700,
+"words_needed": 44300
+},
+{
+"book_id": "executive_leadership_volume_1",
+"title": "Executive Leadership, Volume 1",
+"category": "EXECUTIVE_LEADERSHIP",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "board_management",
+"title": "Board Management",
+"current_words": 4547,
+"words_needed": 3453,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "brand_narrative",
+"title": "Brand Narrative",
+"current_words": 3806,
+"words_needed": 4194,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "brand_positioning_strategy",
+"title": "Brand Positioning Strategy",
+"current_words": 3719,
+"words_needed": 4281,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "capital_allocation",
+"title": "Capital Allocation",
+"current_words": 4572,
+"words_needed": 3428,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "crisis_leadership",
+"title": "Crisis Leadership",
+"current_words": 3893,
+"words_needed": 4107,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "dashboard_design",
+"title": "Dashboard Design",
+"current_words": 3815,
+"words_needed": 4185,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "due_diligence_research",
+"title": "Due Diligence Research",
+"current_words": 3994,
+"words_needed": 4006,
+"reference_books": []
+}
+],
+"current_words": 28346,
+"words_needed": 27654
+},
+{
+"book_id": "executive_leadership_volume_2",
+"title": "Executive Leadership, Volume 2",
+"category": "EXECUTIVE_LEADERSHIP",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "executive_communication",
+"title": "Executive Communication",
+"current_words": 3857,
+"words_needed": 4143,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "executive_decision_making",
+"title": "Executive Decision Making",
+"current_words": 4400,
+"words_needed": 3600,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "investor_relations",
+"title": "Investor Relations",
+"current_words": 3828,
+"words_needed": 4172,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "ma_strategy",
+"title": "Ma Strategy",
+"current_words": 4275,
+"words_needed": 3725,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "succession_planning",
+"title": "Succession Planning",
+"current_words": 4026,
+"words_needed": 3974,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "user_onboarding_design",
+"title": "User Onboarding Design",
+"current_words": 3821,
+"words_needed": 4179,
+"reference_books": []
+}
+],
+"current_words": 24207,
+"words_needed": 23793
+},
+{
+"book_id": "business_technology",
+"title": "Business Technology",
+"category": "BUSINESS_TECHNOLOGY",
+"tier": 1,
+"chapters": [
+{
+"n": 1,
+"subject": "additive_manufacturing_3d",
+"title": "Additive Manufacturing 3d",
+"current_words": 4850,
+"words_needed": 3150,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "data_pipeline_design",
+"title": "Data Pipeline Design",
+"current_words": 4399,
+"words_needed": 3601,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "data_protection_law",
+"title": "Data Protection Law",
+"current_words": 3206,
+"words_needed": 4794,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "funnel_architecture",
+"title": "Funnel Architecture",
+"current_words": 4492,
+"words_needed": 3508,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "identity_access_management",
+"title": "Identity Access Management",
+"current_words": 4133,
+"words_needed": 3867,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "mvp_design",
+"title": "Mvp Design",
+"current_words": 4167,
+"words_needed": 3833,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "oauth_identity",
+"title": "Oauth Identity",
+"current_words": 3868,
+"words_needed": 4132,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "security_compliance_frameworks",
+"title": "Security Compliance Frameworks",
+"current_words": 3983,
+"words_needed": 4017,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "webhook_architecture",
+"title": "Webhook Architecture",
+"current_words": 3896,
+"words_needed": 4104,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "zero_trust_architecture",
+"title": "Zero Trust Architecture",
+"current_words": 4071,
+"words_needed": 3929,
+"reference_books": []
+}
+],
+"current_words": 41065,
+"words_needed": 38935
+},
+{
+"book_id": "mathematics_volume_1",
+"title": "Mathematics, Volume 1",
+"category": "MATHEMATICS",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "arithmetic",
+"title": "Arithmetic",
+"current_words": 4247,
+"words_needed": 3753,
+"reference_books": [
+"Prealgebra"
+]
+},
+{
+"n": 2,
+"subject": "pre_algebra",
+"title": "Pre Algebra",
+"current_words": 4540,
+"words_needed": 3460,
+"reference_books": [
+"Prealgebra"
+]
+},
+{
+"n": 3,
+"subject": "algebra_1",
+"title": "Algebra 1",
+"current_words": 4445,
+"words_needed": 3555,
+"reference_books": [
+"Elementary Algebra"
+]
+},
+{
+"n": 4,
+"subject": "algebra_2",
+"title": "Algebra 2",
+"current_words": 5135,
+"words_needed": 2865,
+"reference_books": [
+"Intermediate Algebra"
+]
+},
+{
+"n": 5,
+"subject": "geometry",
+"title": "Geometry",
+"current_words": 3837,
+"words_needed": 4163,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "trigonometry",
+"title": "Trigonometry",
+"current_words": 2554,
+"words_needed": 5446,
+"reference_books": [
+"Algebra and Trigonometry"
+]
+},
+{
+"n": 7,
+"subject": "precalculus",
+"title": "Precalculus",
+"current_words": 2615,
+"words_needed": 5385,
+"reference_books": [
+"Precalculus"
+]
+},
+{
+"n": 8,
+"subject": "calculus_1",
+"title": "Calculus 1",
+"current_words": 4753,
+"words_needed": 3247,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "calculus_2",
+"title": "Calculus 2",
+"current_words": 5207,
+"words_needed": 2793,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "calculus_3",
+"title": "Calculus 3",
+"current_words": 5677,
+"words_needed": 2323,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "differential_equations",
+"title": "Differential Equations",
+"current_words": 5209,
+"words_needed": 2791,
+"reference_books": []
+}
+],
+"current_words": 48219,
+"words_needed": 39781
+},
+{
+"book_id": "mathematics_volume_2",
+"title": "Mathematics, Volume 2",
+"category": "MATHEMATICS",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "linear_algebra",
+"title": "Linear Algebra",
+"current_words": 5546,
+"words_needed": 2454,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "abstract_algebra",
+"title": "Abstract Algebra",
+"current_words": 5195,
+"words_needed": 2805,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "number_theory",
+"title": "Number Theory",
+"current_words": 2704,
+"words_needed": 5296,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "discrete_mathematics",
+"title": "Discrete Mathematics",
+"current_words": 2271,
+"words_needed": 5729,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "probability",
+"title": "Probability",
+"current_words": 4911,
+"words_needed": 3089,
+"reference_books": [
+"Introductory Statistics"
+]
+},
+{
+"n": 6,
+"subject": "statistics",
+"title": "Statistics",
+"current_words": 4108,
+"words_needed": 3892,
+"reference_books": [
+"Introductory Statistics"
+]
+},
+{
+"n": 7,
+"subject": "mathematical_logic",
+"title": "Mathematical Logic",
+"current_words": 5614,
+"words_needed": 2386,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "topology",
+"title": "Topology",
+"current_words": 5086,
+"words_needed": 2914,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "real_analysis",
+"title": "Real Analysis",
+"current_words": 5348,
+"words_needed": 2652,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "complex_analysis",
+"title": "Complex Analysis",
+"current_words": 5166,
+"words_needed": 2834,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "numerical_methods",
+"title": "Numerical Methods",
+"current_words": 4851,
+"words_needed": 3149,
+"reference_books": []
+}
+],
+"current_words": 50800,
+"words_needed": 37200
+},
+{
+"book_id": "mathematics_volume_3",
+"title": "Mathematics, Volume 3",
+"category": "MATHEMATICS",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "graph_theory",
+"title": "Graph Theory",
+"current_words": 2779,
+"words_needed": 5221,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "combinatorics",
+"title": "Combinatorics",
+"current_words": 2628,
+"words_needed": 5372,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "game_theory",
+"title": "Game Theory",
+"current_words": 4871,
+"words_needed": 3129,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "cryptography_math",
+"title": "Cryptography Math",
+"current_words": 2328,
+"words_needed": 5672,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "actuarial_mathematics",
+"title": "Actuarial Mathematics",
+"current_words": 5547,
+"words_needed": 2453,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "financial_mathematics",
+"title": "Financial Mathematics",
+"current_words": 5144,
+"words_needed": 2856,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "mathematical_modeling",
+"title": "Mathematical Modeling",
+"current_words": 4992,
+"words_needed": 3008,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "set_theory",
+"title": "Set Theory",
+"current_words": 4387,
+"words_needed": 3613,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "bayesian_statistics",
+"title": "Bayesian Statistics",
+"current_words": 2251,
+"words_needed": 5749,
+"reference_books": [
+"Introductory Statistics"
+]
+},
+{
+"n": 10,
+"subject": "operations_research",
+"title": "Operations Research",
+"current_words": 2411,
+"words_needed": 5589,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "applied_mathematics",
+"title": "Applied Mathematics",
+"current_words": 4774,
+"words_needed": 3226,
+"reference_books": []
+}
+],
+"current_words": 42112,
+"words_needed": 45888
+},
+{
+"book_id": "mathematics_volume_4",
+"title": "Mathematics, Volume 4",
+"category": "MATHEMATICS",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "computational_complexity",
+"title": "Computational Complexity",
+"current_words": 4944,
+"words_needed": 3056,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "decision_science",
+"title": "Decision Science",
+"current_words": 4433,
+"words_needed": 3567,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "information_theory",
+"title": "Information Theory",
+"current_words": 4117,
+"words_needed": 3883,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "algebraic_geometry",
+"title": "Algebraic Geometry",
+"current_words": 5229,
+"words_needed": 2771,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "arithmetic_geometry",
+"title": "Arithmetic Geometry",
+"current_words": 4771,
+"words_needed": 3229,
+"reference_books": [
+"Prealgebra"
+]
+},
+{
+"n": 6,
+"subject": "derived_algebraic_geometry",
+"title": "Derived Algebraic Geometry",
+"current_words": 5409,
+"words_needed": 2591,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "ergodic_theory",
+"title": "Ergodic Theory",
+"current_words": 2305,
+"words_needed": 5695,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "functional_analysis",
+"title": "Functional Analysis",
+"current_words": 4941,
+"words_needed": 3059,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "geometric_group_theory",
+"title": "Geometric Group Theory",
+"current_words": 2622,
+"words_needed": 5378,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "higher_category_theory",
+"title": "Higher Category Theory",
+"current_words": 2282,
+"words_needed": 5718,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "homotopy_type_theory",
+"title": "Homotopy Type Theory",
+"current_words": 2447,
+"words_needed": 5553,
+"reference_books": []
+}
+],
+"current_words": 43500,
+"words_needed": 44500
+},
+{
+"book_id": "physical_sciences_volume_1",
+"title": "Physical Sciences, Volume 1",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "physics_mechanics",
+"title": "Physics Mechanics",
+"current_words": 2472,
+"words_needed": 5528,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 2,
+"subject": "physics_thermodynamics",
+"title": "Physics Thermodynamics",
+"current_words": 2386,
+"words_needed": 5614,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 3,
+"subject": "physics_electromagnetism",
+"title": "Physics Electromagnetism",
+"current_words": 3154,
+"words_needed": 4846,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "physics_optics",
+"title": "Physics Optics",
+"current_words": 4111,
+"words_needed": 3889,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 5,
+"subject": "physics_waves",
+"title": "Physics Waves",
+"current_words": 2271,
+"words_needed": 5729,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 6,
+"subject": "quantum_mechanics",
+"title": "Quantum Mechanics",
+"current_words": 2528,
+"words_needed": 5472,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 7,
+"subject": "relativity",
+"title": "Relativity",
+"current_words": 3295,
+"words_needed": 4705,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "nuclear_physics",
+"title": "Nuclear Physics",
+"current_words": 5059,
+"words_needed": 2941,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 9,
+"subject": "particle_physics",
+"title": "Particle Physics",
+"current_words": 3074,
+"words_needed": 4926,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 10,
+"subject": "astrophysics",
+"title": "Astrophysics",
+"current_words": 2217,
+"words_needed": 5783,
+"reference_books": [
+"College Physics",
+"Astronomy"
+]
+},
+{
+"n": 11,
+"subject": "plasma_physics",
+"title": "Plasma Physics",
+"current_words": 4759,
+"words_needed": 3241,
+"reference_books": [
+"College Physics"
+]
+}
+],
+"current_words": 35326,
+"words_needed": 52674
+},
+{
+"book_id": "physical_sciences_volume_2",
+"title": "Physical Sciences, Volume 2",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "condensed_matter",
+"title": "Condensed Matter",
+"current_words": 3699,
+"words_needed": 4301,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "classical_mechanics_advanced",
+"title": "Classical Mechanics Advanced",
+"current_words": 5182,
+"words_needed": 2818,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 3,
+"subject": "statistical_mechanics",
+"title": "Statistical Mechanics",
+"current_words": 5233,
+"words_needed": 2767,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "chemistry_general",
+"title": "Chemistry General",
+"current_words": 4474,
+"words_needed": 3526,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 5,
+"subject": "chemistry_organic",
+"title": "Chemistry Organic",
+"current_words": 3975,
+"words_needed": 4025,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 6,
+"subject": "chemistry_inorganic",
+"title": "Chemistry Inorganic",
+"current_words": 3600,
+"words_needed": 4400,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 7,
+"subject": "chemistry_physical",
+"title": "Chemistry Physical",
+"current_words": 4824,
+"words_needed": 3176,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 8,
+"subject": "chemistry_analytical",
+"title": "Chemistry Analytical",
+"current_words": 4926,
+"words_needed": 3074,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 9,
+"subject": "biochemistry",
+"title": "Biochemistry",
+"current_words": 2178,
+"words_needed": 5822,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 10,
+"subject": "chemistry_environmental",
+"title": "Chemistry Environmental",
+"current_words": 4244,
+"words_needed": 3756,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 11,
+"subject": "chemistry_nuclear",
+"title": "Chemistry Nuclear",
+"current_words": 4805,
+"words_needed": 3195,
+"reference_books": [
+"Chemistry"
+]
+}
+],
+"current_words": 47140,
+"words_needed": 40860
+},
+{
+"book_id": "physical_sciences_volume_3",
+"title": "Physical Sciences, Volume 3",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "chemistry_polymer",
+"title": "Chemistry Polymer",
+"current_words": 4093,
+"words_needed": 3907,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 2,
+"subject": "materials_science",
+"title": "Materials Science",
+"current_words": 4946,
+"words_needed": 3054,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "nanotechnology",
+"title": "Nanotechnology",
+"current_words": 3318,
+"words_needed": 4682,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "earth_science",
+"title": "Earth Science",
+"current_words": 3778,
+"words_needed": 4222,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "geology",
+"title": "Geology",
+"current_words": 4340,
+"words_needed": 3660,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "meteorology",
+"title": "Meteorology",
+"current_words": 4445,
+"words_needed": 3555,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "oceanography",
+"title": "Oceanography",
+"current_words": 2415,
+"words_needed": 5585,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "astronomy",
+"title": "Astronomy",
+"current_words": 2355,
+"words_needed": 5645,
+"reference_books": [
+"Astronomy"
+]
+},
+{
+"n": 9,
+"subject": "cosmology",
+"title": "Cosmology",
+"current_words": 4786,
+"words_needed": 3214,
+"reference_books": [
+"Astronomy"
+]
+},
+{
+"n": 10,
+"subject": "planetary_science",
+"title": "Planetary Science",
+"current_words": 4626,
+"words_needed": 3374,
+"reference_books": [
+"Astronomy"
+]
+},
+{
+"n": 11,
+"subject": "environmental_science",
+"title": "Environmental Science",
+"current_words": 4287,
+"words_needed": 3713,
+"reference_books": []
+}
+],
+"current_words": 43389,
+"words_needed": 44611
+},
+{
+"book_id": "physical_sciences_volume_4",
+"title": "Physical Sciences, Volume 4",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "climate_science",
+"title": "Climate Science",
+"current_words": 4546,
+"words_needed": 3454,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ecology",
+"title": "Ecology",
+"current_words": 4400,
+"words_needed": 3600,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 3,
+"subject": "quantum_information",
+"title": "Quantum Information",
+"current_words": 3900,
+"words_needed": 4100,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "climate_modeling",
+"title": "Climate Modeling",
+"current_words": 4386,
+"words_needed": 3614,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "astrobiology",
+"title": "Astrobiology",
+"current_words": 5759,
+"words_needed": 2241,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 6,
+"subject": "exoplanet_science",
+"title": "Exoplanet Science",
+"current_words": 4921,
+"words_needed": 3079,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "string_theory_physics",
+"title": "String Theory Physics",
+"current_words": 4993,
+"words_needed": 3007,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 8,
+"subject": "volcanology_seismology",
+"title": "Volcanology Seismology",
+"current_words": 4522,
+"words_needed": 3478,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "paleontology_fossils",
+"title": "Paleontology Fossils",
+"current_words": 3340,
+"words_needed": 4660,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "atmospheric_science",
+"title": "Atmospheric Science",
+"current_words": 4034,
+"words_needed": 3966,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "attosecond_physics",
+"title": "Attosecond Physics",
+"current_words": 4191,
+"words_needed": 3809,
+"reference_books": [
+"College Physics"
+]
+}
+],
+"current_words": 48992,
+"words_needed": 39008
+},
+{
+"book_id": "physical_sciences_volume_5",
+"title": "Physical Sciences, Volume 5",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "cold_atom_physics",
+"title": "Cold Atom Physics",
+"current_words": 4948,
+"words_needed": 3052,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 2,
+"subject": "condensed_matter_physics",
+"title": "Condensed Matter Physics",
+"current_words": 2420,
+"words_needed": 5580,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 3,
+"subject": "fusion_plasma_physics",
+"title": "Fusion Plasma Physics",
+"current_words": 4981,
+"words_needed": 3019,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "geophysics",
+"title": "Geophysics",
+"current_words": 3991,
+"words_needed": 4009,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 5,
+"subject": "gravitational_wave_astronomy",
+"title": "Gravitational Wave Astronomy",
+"current_words": 4387,
+"words_needed": 3613,
+"reference_books": [
+"Astronomy"
+]
+},
+{
+"n": 6,
+"subject": "loop_quantum_gravity",
+"title": "Loop Quantum Gravity",
+"current_words": 2582,
+"words_needed": 5418,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "materials_physics",
+"title": "Materials Physics",
+"current_words": 4877,
+"words_needed": 3123,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 8,
+"subject": "metamaterials",
+"title": "Metamaterials",
+"current_words": 5374,
+"words_needed": 2626,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "plasmonics",
+"title": "Plasmonics",
+"current_words": 4553,
+"words_needed": 3447,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "quantum_chromodynamics",
+"title": "Quantum Chromodynamics",
+"current_words": 3989,
+"words_needed": 4011,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "quantum_field_theory",
+"title": "Quantum Field Theory",
+"current_words": 4404,
+"words_needed": 3596,
+"reference_books": []
+}
+],
+"current_words": 46506,
+"words_needed": 41494
+},
+{
+"book_id": "physical_sciences_volume_6",
+"title": "Physical Sciences, Volume 6",
+"category": "PHYSICAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "quantum_gravity_phenomenology",
+"title": "Quantum Gravity Phenomenology",
+"current_words": 2960,
+"words_needed": 5040,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "quantum_optics",
+"title": "Quantum Optics",
+"current_words": 3992,
+"words_needed": 4008,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 3,
+"subject": "quantum_thermodynamics",
+"title": "Quantum Thermodynamics",
+"current_words": 2404,
+"words_needed": 5596,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "spintronics",
+"title": "Spintronics",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "string_theory",
+"title": "String Theory",
+"current_words": 4017,
+"words_needed": 3983,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "topological_insulators",
+"title": "Topological Insulators",
+"current_words": 4723,
+"words_needed": 3277,
+"reference_books": []
+}
+],
+"current_words": 21977,
+"words_needed": 26023
+},
+{
+"book_id": "life_sciences_volume_1",
+"title": "Life Sciences, Volume 1",
+"category": "LIFE_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "biology_general",
+"title": "Biology General",
+"current_words": 4096,
+"words_needed": 3904,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 2,
+"subject": "cell_biology",
+"title": "Cell Biology",
+"current_words": 4635,
+"words_needed": 3365,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 3,
+"subject": "molecular_biology",
+"title": "Molecular Biology",
+"current_words": 3907,
+"words_needed": 4093,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 4,
+"subject": "genetics",
+"title": "Genetics",
+"current_words": 2165,
+"words_needed": 5835,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 5,
+"subject": "evolution",
+"title": "Evolution",
+"current_words": 4782,
+"words_needed": 3218,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 6,
+"subject": "microbiology",
+"title": "Microbiology",
+"current_words": 4626,
+"words_needed": 3374,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 7,
+"subject": "virology",
+"title": "Virology",
+"current_words": 2879,
+"words_needed": 5121,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "immunology",
+"title": "Immunology",
+"current_words": 3913,
+"words_needed": 4087,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "anatomy_physiology",
+"title": "Anatomy Physiology",
+"current_words": 3019,
+"words_needed": 4981,
+"reference_books": [
+"Anatomy and Physiology"
+]
+},
+{
+"n": 10,
+"subject": "botany",
+"title": "Botany",
+"current_words": 3368,
+"words_needed": 4632,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 11,
+"subject": "zoology",
+"title": "Zoology",
+"current_words": 4054,
+"words_needed": 3946,
+"reference_books": [
+"Biology"
+]
+}
+],
+"current_words": 41444,
+"words_needed": 46556
+},
+{
+"book_id": "life_sciences_volume_2",
+"title": "Life Sciences, Volume 2",
+"category": "LIFE_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "marine_biology",
+"title": "Marine Biology",
+"current_words": 4153,
+"words_needed": 3847,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 2,
+"subject": "neuroscience",
+"title": "Neuroscience",
+"current_words": 2947,
+"words_needed": 5053,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "bioinformatics",
+"title": "Bioinformatics",
+"current_words": 3463,
+"words_needed": 4537,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "biotechnology",
+"title": "Biotechnology",
+"current_words": 2679,
+"words_needed": 5321,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "developmental_biology",
+"title": "Developmental Biology",
+"current_words": 4201,
+"words_needed": 3799,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 6,
+"subject": "ecology_advanced",
+"title": "Ecology Advanced",
+"current_words": 3701,
+"words_needed": 4299,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 7,
+"subject": "conservation_biology",
+"title": "Conservation Biology",
+"current_words": 4363,
+"words_needed": 3637,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 8,
+"subject": "parasitology",
+"title": "Parasitology",
+"current_words": 4150,
+"words_needed": 3850,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "mycology",
+"title": "Mycology",
+"current_words": 4082,
+"words_needed": 3918,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "entomology",
+"title": "Entomology",
+"current_words": 4235,
+"words_needed": 3765,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "ornithology",
+"title": "Ornithology",
+"current_words": 2667,
+"words_needed": 5333,
+"reference_books": []
+}
+],
+"current_words": 40641,
+"words_needed": 47359
+},
+{
+"book_id": "life_sciences_volume_3",
+"title": "Life Sciences, Volume 3",
+"category": "LIFE_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "epidemiology",
+"title": "Epidemiology",
+"current_words": 4080,
+"words_needed": 3920,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "toxicology",
+"title": "Toxicology",
+"current_words": 4198,
+"words_needed": 3802,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "pharmacology",
+"title": "Pharmacology",
+"current_words": 4028,
+"words_needed": 3972,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "nutrition_science",
+"title": "Nutrition Science",
+"current_words": 2030,
+"words_needed": 5970,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "exercise_science",
+"title": "Exercise Science",
+"current_words": 3685,
+"words_needed": 4315,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "kinesiology",
+"title": "Kinesiology",
+"current_words": 4194,
+"words_needed": 3806,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "bioinformatics_genomics",
+"title": "Bioinformatics Genomics",
+"current_words": 3437,
+"words_needed": 4563,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "computational_neuroscience",
+"title": "Computational Neuroscience",
+"current_words": 4236,
+"words_needed": 3764,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "synthetic_biology",
+"title": "Synthetic Biology",
+"current_words": 4601,
+"words_needed": 3399,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 10,
+"subject": "biophotonics",
+"title": "Biophotonics",
+"current_words": 2292,
+"words_needed": 5708,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "connectomics",
+"title": "Connectomics",
+"current_words": 3600,
+"words_needed": 4400,
+"reference_books": []
+}
+],
+"current_words": 40381,
+"words_needed": 47619
+},
+{
+"book_id": "life_sciences_volume_4",
+"title": "Life Sciences, Volume 4",
+"category": "LIFE_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "crispr_gene_editing",
+"title": "Crispr Gene Editing",
+"current_words": 3490,
+"words_needed": 4510,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "cryo_electron_microscopy",
+"title": "Cryo Electron Microscopy",
+"current_words": 4331,
+"words_needed": 3669,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "epigenetics_advanced",
+"title": "Epigenetics Advanced",
+"current_words": 3419,
+"words_needed": 4581,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 4,
+"subject": "metabolomics",
+"title": "Metabolomics",
+"current_words": 4037,
+"words_needed": 3963,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "optogenetics",
+"title": "Optogenetics",
+"current_words": 3888,
+"words_needed": 4112,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 6,
+"subject": "organoid_engineering",
+"title": "Organoid Engineering",
+"current_words": 2241,
+"words_needed": 5759,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "phylogenomics",
+"title": "Phylogenomics",
+"current_words": 2943,
+"words_needed": 5057,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "protein_folding_prediction",
+"title": "Protein Folding Prediction",
+"current_words": 4014,
+"words_needed": 3986,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "single_cell_genomics",
+"title": "Single Cell Genomics",
+"current_words": 4370,
+"words_needed": 3630,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 10,
+"subject": "systems_biology",
+"title": "Systems Biology",
+"current_words": 4063,
+"words_needed": 3937,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 11,
+"subject": "xenobiology",
+"title": "Xenobiology",
+"current_words": 4359,
+"words_needed": 3641,
+"reference_books": [
+"Biology"
+]
+}
+],
+"current_words": 41155,
+"words_needed": 46845
+},
+{
+"book_id": "medicine_health_volume_1",
+"title": "Medicine Health, Volume 1",
+"category": "MEDICINE_HEALTH",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "human_anatomy",
+"title": "Human Anatomy",
+"current_words": 3890,
+"words_needed": 4110,
+"reference_books": [
+"Anatomy and Physiology"
+]
+},
+{
+"n": 2,
+"subject": "human_physiology",
+"title": "Human Physiology",
+"current_words": 4077,
+"words_needed": 3923,
+"reference_books": [
+"Anatomy and Physiology"
+]
+},
+{
+"n": 3,
+"subject": "pathology",
+"title": "Pathology",
+"current_words": 4131,
+"words_needed": 3869,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "pharmacology_medical",
+"title": "Pharmacology Medical",
+"current_words": 4055,
+"words_needed": 3945,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "surgery_fundamentals",
+"title": "Surgery Fundamentals",
+"current_words": 3732,
+"words_needed": 4268,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "internal_medicine",
+"title": "Internal Medicine",
+"current_words": 4209,
+"words_needed": 3791,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "pediatrics",
+"title": "Pediatrics",
+"current_words": 3330,
+"words_needed": 4670,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "obstetrics_gynecology",
+"title": "Obstetrics Gynecology",
+"current_words": 3858,
+"words_needed": 4142,
+"reference_books": [
+"Biology"
+]
+},
+{
+"n": 9,
+"subject": "psychiatry",
+"title": "Psychiatry",
+"current_words": 4550,
+"words_needed": 3450,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "radiology",
+"title": "Radiology",
+"current_words": 4003,
+"words_needed": 3997,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "anesthesiology",
+"title": "Anesthesiology",
+"current_words": 3652,
+"words_needed": 4348,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "emergency_medicine",
+"title": "Emergency Medicine",
+"current_words": 2328,
+"words_needed": 5672,
+"reference_books": []
+}
+],
+"current_words": 45815,
+"words_needed": 50185
+},
+{
+"book_id": "law_volume_2",
+"title": "Law, Volume 2",
+"category": "LAW",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "tax_law",
+"title": "Tax Law",
+"current_words": 3178,
+"words_needed": 4822,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "intellectual_property_law",
+"title": "Intellectual Property Law",
+"current_words": 4619,
+"words_needed": 3381,
+"reference_books": [
+"Introduction to Intellectual Property"
+]
+},
+{
+"n": 3,
+"subject": "patent_law",
+"title": "Patent Law",
+"current_words": 4500,
+"words_needed": 3500,
+"reference_books": [
+"Introduction to Intellectual Property"
+]
+},
+{
+"n": 4,
+"subject": "trademark_law",
+"title": "Trademark Law",
+"current_words": 4531,
+"words_needed": 3469,
+"reference_books": [
+"Introduction to Intellectual Property"
+]
+},
+{
+"n": 5,
+"subject": "copyright_law",
+"title": "Copyright Law",
+"current_words": 4786,
+"words_needed": 3214,
+"reference_books": [
+"Introduction to Intellectual Property"
+]
+},
+{
+"n": 6,
+"subject": "employment_law",
+"title": "Employment Law",
+"current_words": 2903,
+"words_needed": 5097,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "labor_law",
+"title": "Labor Law",
+"current_words": 4592,
+"words_needed": 3408,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "environmental_law",
+"title": "Environmental Law",
+"current_words": 3012,
+"words_needed": 4988,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "health_law",
+"title": "Health Law",
+"current_words": 4513,
+"words_needed": 3487,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "cyber_law",
+"title": "Cyber Law",
+"current_words": 4669,
+"words_needed": 3331,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "international_law",
+"title": "International Law",
+"current_words": 5104,
+"words_needed": 2896,
+"reference_books": []
+}
+],
+"current_words": 46407,
+"words_needed": 41593
+},
+{
+"book_id": "humanities_volume_1",
+"title": "Humanities, Volume 1",
+"category": "HUMANITIES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "philosophy_intro",
+"title": "Philosophy Intro",
+"current_words": 4180,
+"words_needed": 3820,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ethics",
+"title": "Ethics",
+"current_words": 3907,
+"words_needed": 4093,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "metaphysics",
+"title": "Metaphysics",
+"current_words": 2339,
+"words_needed": 5661,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "epistemology",
+"title": "Epistemology",
+"current_words": 4084,
+"words_needed": 3916,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "logic_philosophy",
+"title": "Logic Philosophy",
+"current_words": 4093,
+"words_needed": 3907,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "aesthetics",
+"title": "Aesthetics",
+"current_words": 2127,
+"words_needed": 5873,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "philosophy_mind",
+"title": "Philosophy Mind",
+"current_words": 4488,
+"words_needed": 3512,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "philosophy_science",
+"title": "Philosophy Science",
+"current_words": 4443,
+"words_needed": 3557,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "existentialism",
+"title": "Existentialism",
+"current_words": 4683,
+"words_needed": 3317,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "political_philosophy",
+"title": "Political Philosophy",
+"current_words": 4826,
+"words_needed": 3174,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "eastern_philosophy",
+"title": "Eastern Philosophy",
+"current_words": 5062,
+"words_needed": 2938,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "ancient_philosophy",
+"title": "Ancient Philosophy",
+"current_words": 4529,
+"words_needed": 3471,
+"reference_books": []
+}
+],
+"current_words": 48761,
+"words_needed": 47239
+},
+{
+"book_id": "social_sciences_volume_1",
+"title": "Social Sciences, Volume 1",
+"category": "SOCIAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "psychology_general",
+"title": "Psychology General",
+"current_words": 4357,
+"words_needed": 3643,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 2,
+"subject": "cognitive_psychology",
+"title": "Cognitive Psychology",
+"current_words": 2740,
+"words_needed": 5260,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 3,
+"subject": "behavioral_psychology",
+"title": "Behavioral Psychology",
+"current_words": 2810,
+"words_needed": 5190,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 4,
+"subject": "developmental_psychology",
+"title": "Developmental Psychology",
+"current_words": 4165,
+"words_needed": 3835,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 5,
+"subject": "social_psychology",
+"title": "Social Psychology",
+"current_words": 4320,
+"words_needed": 3680,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 6,
+"subject": "clinical_psychology",
+"title": "Clinical Psychology",
+"current_words": 4005,
+"words_needed": 3995,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 7,
+"subject": "abnormal_psychology",
+"title": "Abnormal Psychology",
+"current_words": 2680,
+"words_needed": 5320,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 8,
+"subject": "neuropsychology",
+"title": "Neuropsychology",
+"current_words": 2645,
+"words_needed": 5355,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 9,
+"subject": "forensic_psychology",
+"title": "Forensic Psychology",
+"current_words": 4362,
+"words_needed": 3638,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 10,
+"subject": "educational_psychology",
+"title": "Educational Psychology",
+"current_words": 4453,
+"words_needed": 3547,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 11,
+"subject": "industrial_organizational_psych",
+"title": "Industrial Organizational Psych",
+"current_words": 4133,
+"words_needed": 3867,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "positive_psychology",
+"title": "Positive Psychology",
+"current_words": 4067,
+"words_needed": 3933,
+"reference_books": [
+"Psychology"
+]
+}
+],
+"current_words": 44737,
+"words_needed": 51263
+},
+{
+"book_id": "social_sciences_volume_2",
+"title": "Social Sciences, Volume 2",
+"category": "SOCIAL_SCIENCES",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "health_psychology",
+"title": "Health Psychology",
+"current_words": 4042,
+"words_needed": 3958,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 2,
+"subject": "sociology",
+"title": "Sociology",
+"current_words": 4093,
+"words_needed": 3907,
+"reference_books": [
+"Introduction to Sociology 2e"
+]
+},
+{
+"n": 3,
+"subject": "social_theory",
+"title": "Social Theory",
+"current_words": 2516,
+"words_needed": 5484,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "research_methods_social",
+"title": "Research Methods Social",
+"current_words": 3911,
+"words_needed": 4089,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "criminology",
+"title": "Criminology",
+"current_words": 4255,
+"words_needed": 3745,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "demography",
+"title": "Demography",
+"current_words": 6218,
+"words_needed": 1782,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "urban_studies",
+"title": "Urban Studies",
+"current_words": 2127,
+"words_needed": 5873,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "political_science",
+"title": "Political Science",
+"current_words": 2766,
+"words_needed": 5234,
+"reference_books": [
+"American Government 3e"
+]
+},
+{
+"n": 9,
+"subject": "comparative_politics",
+"title": "Comparative Politics",
+"current_words": 3796,
+"words_needed": 4204,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "international_relations",
+"title": "International Relations",
+"current_words": 4387,
+"words_needed": 3613,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "public_policy",
+"title": "Public Policy",
+"current_words": 4355,
+"words_needed": 3645,
+"reference_books": [
+"American Government 3e"
+]
+},
+{
+"n": 12,
+"subject": "public_administration",
+"title": "Public Administration",
+"current_words": 3981,
+"words_needed": 4019,
+"reference_books": []
+}
+],
+"current_words": 46447,
+"words_needed": 49553
+},
+{
+"book_id": "education_volume_1",
+"title": "Education, Volume 1",
+"category": "EDUCATION",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "pedagogy",
+"title": "Pedagogy",
+"current_words": 2220,
+"words_needed": 5780,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "curriculum_design",
+"title": "Curriculum Design",
+"current_words": 4444,
+"words_needed": 3556,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "educational_psychology_ed",
+"title": "Educational Psychology Ed",
+"current_words": 2866,
+"words_needed": 5134,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 4,
+"subject": "classroom_management",
+"title": "Classroom Management",
+"current_words": 2951,
+"words_needed": 5049,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "assessment_evaluation",
+"title": "Assessment Evaluation",
+"current_words": 3954,
+"words_needed": 4046,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "special_education",
+"title": "Special Education",
+"current_words": 4065,
+"words_needed": 3935,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "gifted_education",
+"title": "Gifted Education",
+"current_words": 3414,
+"words_needed": 4586,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "early_childhood_education",
+"title": "Early Childhood Education",
+"current_words": 4420,
+"words_needed": 3580,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "elementary_education",
+"title": "Elementary Education",
+"current_words": 2819,
+"words_needed": 5181,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "secondary_education",
+"title": "Secondary Education",
+"current_words": 3746,
+"words_needed": 4254,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "higher_education_admin",
+"title": "Higher Education Admin",
+"current_words": 3685,
+"words_needed": 4315,
+"reference_books": []
+}
+],
+"current_words": 38584,
+"words_needed": 49416
+},
+{
+"book_id": "trades_vocational_volume_1",
+"title": "Trades Vocational, Volume 1",
+"category": "TRADES_VOCATIONAL",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "electrical_work",
+"title": "Electrical Work",
+"current_words": 4142,
+"words_needed": 3858,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "plumbing",
+"title": "Plumbing",
+"current_words": 4718,
+"words_needed": 3282,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "carpentry",
+"title": "Carpentry",
+"current_words": 4032,
+"words_needed": 3968,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "welding",
+"title": "Welding",
+"current_words": 4958,
+"words_needed": 3042,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "hvac",
+"title": "Hvac",
+"current_words": 2417,
+"words_needed": 5583,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "auto_mechanics",
+"title": "Auto Mechanics",
+"current_words": 4864,
+"words_needed": 3136,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 7,
+"subject": "diesel_mechanics",
+"title": "Diesel Mechanics",
+"current_words": 4873,
+"words_needed": 3127,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 8,
+"subject": "machining",
+"title": "Machining",
+"current_words": 2325,
+"words_needed": 5675,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "cnc_programming",
+"title": "Cnc Programming",
+"current_words": 4199,
+"words_needed": 3801,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "woodworking",
+"title": "Woodworking",
+"current_words": 4064,
+"words_needed": 3936,
+"reference_books": []
+}
+],
+"current_words": 40592,
+"words_needed": 39408
+},
+{
+"book_id": "agriculture_environmental_volume_1",
+"title": "Agriculture Environmental, Volume 1",
+"category": "AGRICULTURE_ENVIRONMENTAL",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "agriculture_fundamentals",
+"title": "Agriculture Fundamentals",
+"current_words": 4318,
+"words_needed": 3682,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "crop_science",
+"title": "Crop Science",
+"current_words": 3654,
+"words_needed": 4346,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "soil_science",
+"title": "Soil Science",
+"current_words": 2586,
+"words_needed": 5414,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "animal_science",
+"title": "Animal Science",
+"current_words": 3083,
+"words_needed": 4917,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "dairy_science",
+"title": "Dairy Science",
+"current_words": 2344,
+"words_needed": 5656,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "poultry_science",
+"title": "Poultry Science",
+"current_words": 3869,
+"words_needed": 4131,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "aquaculture",
+"title": "Aquaculture",
+"current_words": 4723,
+"words_needed": 3277,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "forestry",
+"title": "Forestry",
+"current_words": 3669,
+"words_needed": 4331,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "wildlife_management",
+"title": "Wildlife Management",
+"current_words": 2814,
+"words_needed": 5186,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "agricultural_economics",
+"title": "Agricultural Economics",
+"current_words": 4407,
+"words_needed": 3593,
+"reference_books": [
+"Principles of Economics 2e"
+]
+},
+{
+"n": 11,
+"subject": "agricultural_engineering_ag",
+"title": "Agricultural Engineering Ag",
+"current_words": 4809,
+"words_needed": 3191,
+"reference_books": []
+}
+],
+"current_words": 40276,
+"words_needed": 47724
+},
+{
+"book_id": "aviation_aerospace_volume_1",
+"title": "Aviation Aerospace, Volume 1",
+"category": "AVIATION_AEROSPACE",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "aerodynamics",
+"title": "Aerodynamics",
+"current_words": 3959,
+"words_needed": 4041,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "aircraft_systems",
+"title": "Aircraft Systems",
+"current_words": 3503,
+"words_needed": 4497,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "flight_mechanics",
+"title": "Flight Mechanics",
+"current_words": 4985,
+"words_needed": 3015,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 4,
+"subject": "avionics",
+"title": "Avionics",
+"current_words": 4060,
+"words_needed": 3940,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "air_traffic_control",
+"title": "Air Traffic Control",
+"current_words": 5004,
+"words_needed": 2996,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "aerospace_propulsion",
+"title": "Aerospace Propulsion",
+"current_words": 4433,
+"words_needed": 3567,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "space_systems_engineering",
+"title": "Space Systems Engineering",
+"current_words": 3866,
+"words_needed": 4134,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "orbital_mechanics",
+"title": "Orbital Mechanics",
+"current_words": 4902,
+"words_needed": 3098,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 9,
+"subject": "aircraft_maintenance",
+"title": "Aircraft Maintenance",
+"current_words": 3995,
+"words_needed": 4005,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "flight_navigation",
+"title": "Flight Navigation",
+"current_words": 4448,
+"words_needed": 3552,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "aviation_meteorology",
+"title": "Aviation Meteorology",
+"current_words": 4218,
+"words_needed": 3782,
+"reference_books": []
+}
+],
+"current_words": 47373,
+"words_needed": 40627
+},
+{
+"book_id": "sustainability_environment_volume_2",
+"title": "Sustainability Environment, Volume 2",
+"category": "SUSTAINABILITY_ENVIRONMENT",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "ocean_conservation",
+"title": "Ocean Conservation",
+"current_words": 3487,
+"words_needed": 4513,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "urban_sustainability",
+"title": "Urban Sustainability",
+"current_words": 4550,
+"words_needed": 3450,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "environmental_impact_assessment",
+"title": "Environmental Impact Assessment",
+"current_words": 4371,
+"words_needed": 3629,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "sustainable_supply_chains",
+"title": "Sustainable Supply Chains",
+"current_words": 4514,
+"words_needed": 3486,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "green_chemistry",
+"title": "Green Chemistry",
+"current_words": 4166,
+"words_needed": 3834,
+"reference_books": [
+"Chemistry"
+]
+},
+{
+"n": 6,
+"subject": "climate_adaptation",
+"title": "Climate Adaptation",
+"current_words": 4589,
+"words_needed": 3411,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "environmental_justice",
+"title": "Environmental Justice",
+"current_words": 4273,
+"words_needed": 3727,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sustainability_metrics",
+"title": "Sustainability Metrics",
+"current_words": 4073,
+"words_needed": 3927,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "climate_engineering",
+"title": "Climate Engineering",
+"current_words": 4538,
+"words_needed": 3462,
+"reference_books": []
+}
+],
+"current_words": 38561,
+"words_needed": 33439
+},
+{
+"book_id": "sports_fitness_volume_1",
+"title": "Sports Fitness, Volume 1",
+"category": "SPORTS_FITNESS",
+"tier": 2,
+"chapters": [
+{
+"n": 1,
+"subject": "sports_management",
+"title": "Sports Management",
+"current_words": 3583,
+"words_needed": 4417,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "coaching_methodology",
+"title": "Coaching Methodology",
+"current_words": 4073,
+"words_needed": 3927,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "sports_nutrition",
+"title": "Sports Nutrition",
+"current_words": 4558,
+"words_needed": 3442,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "strength_conditioning",
+"title": "Strength Conditioning",
+"current_words": 2141,
+"words_needed": 5859,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "sports_psychology",
+"title": "Sports Psychology",
+"current_words": 4000,
+"words_needed": 4000,
+"reference_books": [
+"Psychology"
+]
+},
+{
+"n": 6,
+"subject": "athletic_training",
+"title": "Athletic Training",
+"current_words": 4023,
+"words_needed": 3977,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "biomechanics",
+"title": "Biomechanics",
+"current_words": 2303,
+"words_needed": 5697,
+"reference_books": [
+"College Physics"
+]
+},
+{
+"n": 8,
+"subject": "sports_analytics",
+"title": "Sports Analytics",
+"current_words": 4296,
+"words_needed": 3704,
+"reference_books": []
+}
+],
+"current_words": 28977,
+"words_needed": 35023
+},
+{
+"book_id": "mathematics_volume_5",
+"title": "Mathematics, Volume 5",
+"category": "MATHEMATICS",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "langlands_program",
+"title": "Langlands Program",
+"current_words": 4824,
+"words_needed": 3176,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "measure_theory",
+"title": "Measure Theory",
+"current_words": 2258,
+"words_needed": 5742,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "model_theory",
+"title": "Model Theory",
+"current_words": 4712,
+"words_needed": 3288,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "motivic_cohomology",
+"title": "Motivic Cohomology",
+"current_words": 4423,
+"words_needed": 3577,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "numerical_analysis",
+"title": "Numerical Analysis",
+"current_words": 5332,
+"words_needed": 2668,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "operator_algebras",
+"title": "Operator Algebras",
+"current_words": 3307,
+"words_needed": 4693,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "representation_theory",
+"title": "Representation Theory",
+"current_words": 4297,
+"words_needed": 3703,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "stochastic_analysis",
+"title": "Stochastic Analysis",
+"current_words": 5413,
+"words_needed": 2587,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "tropical_geometry",
+"title": "Tropical Geometry",
+"current_words": 5081,
+"words_needed": 2919,
+"reference_books": []
+}
+],
+"current_words": 39647,
+"words_needed": 32353
+},
+{
+"book_id": "medicine_health_volume_2",
+"title": "Medicine Health, Volume 2",
+"category": "MEDICINE_HEALTH",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "cardiology",
+"title": "Cardiology",
+"current_words": 3728,
+"words_needed": 4272,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "neurology",
+"title": "Neurology",
+"current_words": 3988,
+"words_needed": 4012,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "oncology",
+"title": "Oncology",
+"current_words": 3823,
+"words_needed": 4177,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "dermatology",
+"title": "Dermatology",
+"current_words": 3820,
+"words_needed": 4180,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "ophthalmology",
+"title": "Ophthalmology",
+"current_words": 2717,
+"words_needed": 5283,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "orthopedics",
+"title": "Orthopedics",
+"current_words": 3406,
+"words_needed": 4594,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "urology",
+"title": "Urology",
+"current_words": 3785,
+"words_needed": 4215,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "endocrinology",
+"title": "Endocrinology",
+"current_words": 3693,
+"words_needed": 4307,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "gastroenterology",
+"title": "Gastroenterology",
+"current_words": 2806,
+"words_needed": 5194,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "pulmonology",
+"title": "Pulmonology",
+"current_words": 3747,
+"words_needed": 4253,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "nephrology",
+"title": "Nephrology",
+"current_words": 4073,
+"words_needed": 3927,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "hematology",
+"title": "Hematology",
+"current_words": 4130,
+"words_needed": 3870,
+"reference_books": []
+}
+],
+"current_words": 43716,
+"words_needed": 52284
+},
+{
+"book_id": "medicine_health_volume_3",
+"title": "Medicine Health, Volume 3",
+"category": "MEDICINE_HEALTH",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "infectious_disease",
+"title": "Infectious Disease",
+"current_words": 3667,
+"words_needed": 4333,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "nursing",
+"title": "Nursing",
+"current_words": 3958,
+"words_needed": 4042,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "public_health",
+"title": "Public Health",
+"current_words": 3793,
+"words_needed": 4207,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "epidemiology_medical",
+"title": "Epidemiology Medical",
+"current_words": 3875,
+"words_needed": 4125,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "medical_ethics",
+"title": "Medical Ethics",
+"current_words": 4182,
+"words_needed": 3818,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "clinical_research",
+"title": "Clinical Research",
+"current_words": 4243,
+"words_needed": 3757,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "telemedicine",
+"title": "Telemedicine",
+"current_words": 4391,
+"words_needed": 3609,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "sports_medicine",
+"title": "Sports Medicine",
+"current_words": 4684,
+"words_needed": 3316,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "rehabilitation",
+"title": "Rehabilitation",
+"current_words": 3876,
+"words_needed": 4124,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "occupational_therapy",
+"title": "Occupational Therapy",
+"current_words": 3887,
+"words_needed": 4113,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "physical_therapy",
+"title": "Physical Therapy",
+"current_words": 3858,
+"words_needed": 4142,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "speech_pathology",
+"title": "Speech Pathology",
+"current_words": 4561,
+"words_needed": 3439,
+"reference_books": []
+}
+],
+"current_words": 48975,
+"words_needed": 47025
+},
+{
+"book_id": "medicine_health_volume_4",
+"title": "Medicine Health, Volume 4",
+"category": "MEDICINE_HEALTH",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "dental_science",
+"title": "Dental Science",
+"current_words": 3916,
+"words_needed": 4084,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "veterinary_science",
+"title": "Veterinary Science",
+"current_words": 4476,
+"words_needed": 3524,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "alternative_medicine",
+"title": "Alternative Medicine",
+"current_words": 4046,
+"words_needed": 3954,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "mental_health",
+"title": "Mental Health",
+"current_words": 3740,
+"words_needed": 4260,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "addiction_science",
+"title": "Addiction Science",
+"current_words": 4841,
+"words_needed": 3159,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "geriatrics",
+"title": "Geriatrics",
+"current_words": 3392,
+"words_needed": 4608,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "palliative_care",
+"title": "Palliative Care",
+"current_words": 4246,
+"words_needed": 3754,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "nutrition_medical",
+"title": "Nutrition Medical",
+"current_words": 3766,
+"words_needed": 4234,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "health_informatics",
+"title": "Health Informatics",
+"current_words": 3803,
+"words_needed": 4197,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "aging_gerontology_science",
+"title": "Aging Gerontology Science",
+"current_words": 2842,
+"words_needed": 5158,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "dentistry_oral_health",
+"title": "Dentistry Oral Health",
+"current_words": 4156,
+"words_needed": 3844,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "biohacking_longevity",
+"title": "Biohacking Longevity",
+"current_words": 4496,
+"words_needed": 3504,
+"reference_books": []
+}
+],
+"current_words": 47720,
+"words_needed": 48280
+},
+{
+"book_id": "medicine_health_volume_5",
+"title": "Medicine Health, Volume 5",
+"category": "MEDICINE_HEALTH",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "gene_therapy",
+"title": "Gene Therapy",
+"current_words": 3544,
+"words_needed": 4456,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "immunotherapy_advanced",
+"title": "Immunotherapy Advanced",
+"current_words": 3370,
+"words_needed": 4630,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "nanomedicine",
+"title": "Nanomedicine",
+"current_words": 2342,
+"words_needed": 5658,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "neuroprosthetics",
+"title": "Neuroprosthetics",
+"current_words": 3610,
+"words_needed": 4390,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "pharmacogenomics",
+"title": "Pharmacogenomics",
+"current_words": 3120,
+"words_needed": 4880,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "precision_oncology",
+"title": "Precision Oncology",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "radiogenomics",
+"title": "Radiogenomics",
+"current_words": 3461,
+"words_needed": 4539,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "regenerative_medicine",
+"title": "Regenerative Medicine",
+"current_words": 2093,
+"words_needed": 5907,
+"reference_books": []
+}
+],
+"current_words": 25421,
+"words_needed": 38579
+},
+{
+"book_id": "law_volume_1",
+"title": "Law, Volume 1",
+"category": "LAW",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "legal_fundamentals",
+"title": "Legal Fundamentals",
+"current_words": 4195,
+"words_needed": 3805,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "constitutional_law",
+"title": "Constitutional Law",
+"current_words": 4342,
+"words_needed": 3658,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "criminal_law",
+"title": "Criminal Law",
+"current_words": 4746,
+"words_needed": 3254,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "civil_law",
+"title": "Civil Law",
+"current_words": 4071,
+"words_needed": 3929,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "contract_law_legal",
+"title": "Contract Law Legal",
+"current_words": 4238,
+"words_needed": 3762,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "tort_law",
+"title": "Tort Law",
+"current_words": 4432,
+"words_needed": 3568,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "property_law",
+"title": "Property Law",
+"current_words": 4676,
+"words_needed": 3324,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "family_law",
+"title": "Family Law",
+"current_words": 4703,
+"words_needed": 3297,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "immigration_law",
+"title": "Immigration Law",
+"current_words": 4893,
+"words_needed": 3107,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "corporate_law",
+"title": "Corporate Law",
+"current_words": 4631,
+"words_needed": 3369,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "securities_law",
+"title": "Securities Law",
+"current_words": 4468,
+"words_needed": 3532,
+"reference_books": []
+}
+],
+"current_words": 49395,
+"words_needed": 38605
+},
+{
+"book_id": "law_volume_3",
+"title": "Law, Volume 3",
+"category": "LAW",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "human_rights_law",
+"title": "Human Rights Law",
+"current_words": 4617,
+"words_needed": 3383,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "maritime_law",
+"title": "Maritime Law",
+"current_words": 4326,
+"words_needed": 3674,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "bankruptcy_law",
+"title": "Bankruptcy Law",
+"current_words": 4328,
+"words_needed": 3672,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "antitrust_law",
+"title": "Antitrust Law",
+"current_words": 4446,
+"words_needed": 3554,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "administrative_law",
+"title": "Administrative Law",
+"current_words": 4118,
+"words_needed": 3882,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "legal_research",
+"title": "Legal Research",
+"current_words": 4051,
+"words_needed": 3949,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "legal_writing",
+"title": "Legal Writing",
+"current_words": 2857,
+"words_needed": 5143,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "trial_advocacy",
+"title": "Trial Advocacy",
+"current_words": 4374,
+"words_needed": 3626,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "mediation_arbitration",
+"title": "Mediation Arbitration",
+"current_words": 3862,
+"words_needed": 4138,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "criminal_justice",
+"title": "Criminal Justice",
+"current_words": 4406,
+"words_needed": 3594,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "forensic_science",
+"title": "Forensic Science",
+"current_words": 3748,
+"words_needed": 4252,
+"reference_books": []
+}
+],
+"current_words": 45133,
+"words_needed": 42867
+},
+{
+"book_id": "humanities_volume_2",
+"title": "Humanities, Volume 2",
+"category": "HUMANITIES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "modern_philosophy",
+"title": "Modern Philosophy",
+"current_words": 4326,
+"words_needed": 3674,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "history_world",
+"title": "History World",
+"current_words": 4691,
+"words_needed": 3309,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "history_ancient",
+"title": "History Ancient",
+"current_words": 3807,
+"words_needed": 4193,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "history_medieval",
+"title": "History Medieval",
+"current_words": 4895,
+"words_needed": 3105,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "history_renaissance",
+"title": "History Renaissance",
+"current_words": 4191,
+"words_needed": 3809,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "history_modern",
+"title": "History Modern",
+"current_words": 4825,
+"words_needed": 3175,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "history_american",
+"title": "History American",
+"current_words": 3227,
+"words_needed": 4773,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "history_european",
+"title": "History European",
+"current_words": 4064,
+"words_needed": 3936,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "history_asian",
+"title": "History Asian",
+"current_words": 2521,
+"words_needed": 5479,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "history_african",
+"title": "History African",
+"current_words": 5312,
+"words_needed": 2688,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "history_latin_american",
+"title": "History Latin American",
+"current_words": 4816,
+"words_needed": 3184,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "history_middle_east",
+"title": "History Middle East",
+"current_words": 4875,
+"words_needed": 3125,
+"reference_books": []
+}
+],
+"current_words": 51550,
+"words_needed": 44450
+},
+{
+"book_id": "humanities_volume_3",
+"title": "Humanities, Volume 3",
+"category": "HUMANITIES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "military_history",
+"title": "Military History",
+"current_words": 4606,
+"words_needed": 3394,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "economic_history_hum",
+"title": "Economic History Hum",
+"current_words": 4073,
+"words_needed": 3927,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "history_science",
+"title": "History Science",
+"current_words": 4603,
+"words_needed": 3397,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "history_art",
+"title": "History Art",
+"current_words": 5040,
+"words_needed": 2960,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "archaeology",
+"title": "Archaeology",
+"current_words": 4722,
+"words_needed": 3278,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "anthropology",
+"title": "Anthropology",
+"current_words": 4604,
+"words_needed": 3396,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "cultural_anthropology",
+"title": "Cultural Anthropology",
+"current_words": 4199,
+"words_needed": 3801,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "physical_anthropology",
+"title": "Physical Anthropology",
+"current_words": 4246,
+"words_needed": 3754,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "linguistics",
+"title": "Linguistics",
+"current_words": 4170,
+"words_needed": 3830,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "religious_studies",
+"title": "Religious Studies",
+"current_words": 5154,
+"words_needed": 2846,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "theology",
+"title": "Theology",
+"current_words": 4353,
+"words_needed": 3647,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "mythology",
+"title": "Mythology",
+"current_words": 4747,
+"words_needed": 3253,
+"reference_books": []
+}
+],
+"current_words": 54517,
+"words_needed": 41483
+},
+{
+"book_id": "humanities_volume_4",
+"title": "Humanities, Volume 4",
+"category": "HUMANITIES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "gender_studies",
+"title": "Gender Studies",
+"current_words": 2018,
+"words_needed": 5982,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ethnic_studies",
+"title": "Ethnic Studies",
+"current_words": 3936,
+"words_needed": 4064,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "disability_studies",
+"title": "Disability Studies",
+"current_words": 4539,
+"words_needed": 3461,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "classical_studies",
+"title": "Classical Studies",
+"current_words": 5163,
+"words_needed": 2837,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "medieval_studies",
+"title": "Medieval Studies",
+"current_words": 4532,
+"words_needed": 3468,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "ancient_china_civilization",
+"title": "Ancient China Civilization",
+"current_words": 5122,
+"words_needed": 2878,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "ancient_egypt_civilization",
+"title": "Ancient Egypt Civilization",
+"current_words": 5150,
+"words_needed": 2850,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "ancient_india_civilization",
+"title": "Ancient India Civilization",
+"current_words": 4839,
+"words_needed": 3161,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "ancient_mesoamerica",
+"title": "Ancient Mesoamerica",
+"current_words": 4750,
+"words_needed": 3250,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "ancient_mesopotamia",
+"title": "Ancient Mesopotamia",
+"current_words": 3923,
+"words_needed": 4077,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "astrology_cultural_history",
+"title": "Astrology Cultural History",
+"current_words": 4917,
+"words_needed": 3083,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "byzantine_empire",
+"title": "Byzantine Empire",
+"current_words": 4095,
+"words_needed": 3905,
+"reference_books": []
+}
+],
+"current_words": 52984,
+"words_needed": 43016
+},
+{
+"book_id": "humanities_volume_5",
+"title": "Humanities, Volume 5",
+"category": "HUMANITIES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "folklore_mythology",
+"title": "Folklore Mythology",
+"current_words": 4977,
+"words_needed": 3023,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "indigenous_studies_global",
+"title": "Indigenous Studies Global",
+"current_words": 4737,
+"words_needed": 3263,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "ottoman_empire",
+"title": "Ottoman Empire",
+"current_words": 4155,
+"words_needed": 3845,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "postcolonial_theory",
+"title": "Postcolonial Theory",
+"current_words": 4604,
+"words_needed": 3396,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "prehistory_human_origins",
+"title": "Prehistory Human Origins",
+"current_words": 2176,
+"words_needed": 5824,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "roman_civilization",
+"title": "Roman Civilization",
+"current_words": 3260,
+"words_needed": 4740,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "viking_norse_history",
+"title": "Viking Norse History",
+"current_words": 2480,
+"words_needed": 5520,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "death_dying_studies",
+"title": "Death Dying Studies",
+"current_words": 4648,
+"words_needed": 3352,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "poetry_poetics",
+"title": "Poetry Poetics",
+"current_words": 4285,
+"words_needed": 3715,
+"reference_books": []
+}
+],
+"current_words": 35322,
+"words_needed": 36678
+},
+{
+"book_id": "social_sciences_volume_3",
+"title": "Social Sciences, Volume 3",
+"category": "SOCIAL_SCIENCES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "diplomacy",
+"title": "Diplomacy",
+"current_words": 2938,
+"words_needed": 5062,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "geography",
+"title": "Geography",
+"current_words": 2123,
+"words_needed": 5877,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "human_geography",
+"title": "Human Geography",
+"current_words": 3496,
+"words_needed": 4504,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "gis_mapping",
+"title": "Gis Mapping",
+"current_words": 3837,
+"words_needed": 4163,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "communication_studies",
+"title": "Communication Studies",
+"current_words": 3595,
+"words_needed": 4405,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "media_studies",
+"title": "Media Studies",
+"current_words": 4779,
+"words_needed": 3221,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "journalism",
+"title": "Journalism",
+"current_words": 4314,
+"words_needed": 3686,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "library_science",
+"title": "Library Science",
+"current_words": 2324,
+"words_needed": 5676,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "information_science",
+"title": "Information Science",
+"current_words": 2247,
+"words_needed": 5753,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "social_work",
+"title": "Social Work",
+"current_words": 3932,
+"words_needed": 4068,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "community_development",
+"title": "Community Development",
+"current_words": 4276,
+"words_needed": 3724,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "geopolitics",
+"title": "Geopolitics",
+"current_words": 4395,
+"words_needed": 3605,
+"reference_books": []
+}
+],
+"current_words": 42256,
+"words_needed": 53744
+},
+{
+"book_id": "social_sciences_volume_4",
+"title": "Social Sciences, Volume 4",
+"category": "SOCIAL_SCIENCES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "cognitive_science",
+"title": "Cognitive Science",
+"current_words": 3770,
+"words_needed": 4230,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "urban_planning",
+"title": "Urban Planning",
+"current_words": 4703,
+"words_needed": 3297,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "geopolitical_strategy",
+"title": "Geopolitical Strategy",
+"current_words": 4397,
+"words_needed": 3603,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "cognitive_neuroscience",
+"title": "Cognitive Neuroscience",
+"current_words": 3519,
+"words_needed": 4481,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "cartography_gis",
+"title": "Cartography Gis",
+"current_words": 4363,
+"words_needed": 3637,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "futurism_futures_studies",
+"title": "Futurism Futures Studies",
+"current_words": 2975,
+"words_needed": 5025,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "neurolinguistic_programming",
+"title": "Neurolinguistic Programming",
+"current_words": 4385,
+"words_needed": 3615,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "communication_theory",
+"title": "Communication Theory",
+"current_words": 3305,
+"words_needed": 4695,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "buddhism",
+"title": "Buddhism",
+"current_words": 4219,
+"words_needed": 3781,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "christianity_studies",
+"title": "Christianity Studies",
+"current_words": 2602,
+"words_needed": 5398,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "classics",
+"title": "Classics",
+"current_words": 4396,
+"words_needed": 3604,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "comparative_mythology",
+"title": "Comparative Mythology",
+"current_words": 3028,
+"words_needed": 4972,
+"reference_books": []
+}
+],
+"current_words": 45662,
+"words_needed": 50338
+},
+{
+"book_id": "social_sciences_volume_5",
+"title": "Social Sciences, Volume 5",
+"category": "SOCIAL_SCIENCES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "hinduism_studies",
+"title": "Hinduism Studies",
+"current_words": 3976,
+"words_needed": 4024,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "islam_studies",
+"title": "Islam Studies",
+"current_words": 4563,
+"words_needed": 3437,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "judaism_studies",
+"title": "Judaism Studies",
+"current_words": 2289,
+"words_needed": 5711,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "linguistics_historical",
+"title": "Linguistics Historical",
+"current_words": 3006,
+"words_needed": 4994,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "monetary_policy",
+"title": "Monetary Policy",
+"current_words": 4910,
+"words_needed": 3090,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "renaissance_studies",
+"title": "Renaissance Studies",
+"current_words": 2357,
+"words_needed": 5643,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "stoicism",
+"title": "Stoicism",
+"current_words": 2128,
+"words_needed": 5872,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "taoism",
+"title": "Taoism",
+"current_words": 4211,
+"words_needed": 3789,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "world_religions",
+"title": "World Religions",
+"current_words": 4657,
+"words_needed": 3343,
+"reference_books": []
+}
+],
+"current_words": 32097,
+"words_needed": 39903
+},
+{
+"book_id": "education_volume_2",
+"title": "Education, Volume 2",
+"category": "EDUCATION",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "educational_technology",
+"title": "Educational Technology",
+"current_words": 4066,
+"words_needed": 3934,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "online_learning_design",
+"title": "Online Learning Design",
+"current_words": 4311,
+"words_needed": 3689,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "adult_education",
+"title": "Adult Education",
+"current_words": 4280,
+"words_needed": 3720,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "literacy_education",
+"title": "Literacy Education",
+"current_words": 3609,
+"words_needed": 4391,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "stem_education",
+"title": "Stem Education",
+"current_words": 6012,
+"words_needed": 1988,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "multicultural_education",
+"title": "Multicultural Education",
+"current_words": 4619,
+"words_needed": 3381,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "educational_leadership",
+"title": "Educational Leadership",
+"current_words": 2665,
+"words_needed": 5335,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "school_counseling",
+"title": "School Counseling",
+"current_words": 3935,
+"words_needed": 4065,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "educational_research",
+"title": "Educational Research",
+"current_words": 4624,
+"words_needed": 3376,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "education_policy",
+"title": "Education Policy",
+"current_words": 2580,
+"words_needed": 5420,
+"reference_books": []
+}
+],
+"current_words": 40701,
+"words_needed": 39299
+},
+{
+"book_id": "computer_science_volume_1",
+"title": "Computer Science, Volume 1",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "computer_fundamentals",
+"title": "Computer Fundamentals",
+"current_words": 4323,
+"words_needed": 3677,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "programming_basics",
+"title": "Programming Basics",
+"current_words": 3727,
+"words_needed": 4273,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "python",
+"title": "Python",
+"current_words": 3979,
+"words_needed": 4021,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "javascript",
+"title": "Javascript",
+"current_words": 2095,
+"words_needed": 5905,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "typescript",
+"title": "Typescript",
+"current_words": 2199,
+"words_needed": 5801,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "java",
+"title": "Java",
+"current_words": 3892,
+"words_needed": 4108,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "cpp",
+"title": "Cpp",
+"current_words": 3876,
+"words_needed": 4124,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "csharp",
+"title": "Csharp",
+"current_words": 2162,
+"words_needed": 5838,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "rust",
+"title": "Rust",
+"current_words": 2230,
+"words_needed": 5770,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "go",
+"title": "Go",
+"current_words": 4343,
+"words_needed": 3657,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "swift",
+"title": "Swift",
+"current_words": 3832,
+"words_needed": 4168,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "kotlin",
+"title": "Kotlin",
+"current_words": 2885,
+"words_needed": 5115,
+"reference_books": []
+}
+],
+"current_words": 39543,
+"words_needed": 56457
+},
+{
+"book_id": "computer_science_volume_2",
+"title": "Computer Science, Volume 2",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "ruby",
+"title": "Ruby",
+"current_words": 2151,
+"words_needed": 5849,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "php",
+"title": "Php",
+"current_words": 3574,
+"words_needed": 4426,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "html_css",
+"title": "Html Css",
+"current_words": 5357,
+"words_needed": 2643,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "react",
+"title": "React",
+"current_words": 4743,
+"words_needed": 3257,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "angular",
+"title": "Angular",
+"current_words": 4484,
+"words_needed": 3516,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "vue",
+"title": "Vue",
+"current_words": 3526,
+"words_needed": 4474,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "nodejs",
+"title": "Nodejs",
+"current_words": 4215,
+"words_needed": 3785,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "data_structures",
+"title": "Data Structures",
+"current_words": 3831,
+"words_needed": 4169,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "algorithms",
+"title": "Algorithms",
+"current_words": 4758,
+"words_needed": 3242,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "database_design",
+"title": "Database Design",
+"current_words": 2285,
+"words_needed": 5715,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "sql",
+"title": "Sql",
+"current_words": 4045,
+"words_needed": 3955,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "nosql",
+"title": "Nosql",
+"current_words": 4252,
+"words_needed": 3748,
+"reference_books": []
+}
+],
+"current_words": 47221,
+"words_needed": 48779
+},
+{
+"book_id": "computer_science_volume_3",
+"title": "Computer Science, Volume 3",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "operating_systems",
+"title": "Operating Systems",
+"current_words": 3773,
+"words_needed": 4227,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "computer_networks",
+"title": "Computer Networks",
+"current_words": 2115,
+"words_needed": 5885,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "cybersecurity",
+"title": "Cybersecurity",
+"current_words": 3795,
+"words_needed": 4205,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "cryptography",
+"title": "Cryptography",
+"current_words": 3776,
+"words_needed": 4224,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "cloud_computing",
+"title": "Cloud Computing",
+"current_words": 4398,
+"words_needed": 3602,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "devops",
+"title": "Devops",
+"current_words": 2344,
+"words_needed": 5656,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "docker_kubernetes",
+"title": "Docker Kubernetes",
+"current_words": 4408,
+"words_needed": 3592,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "system_design",
+"title": "System Design",
+"current_words": 3828,
+"words_needed": 4172,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "compiler_design",
+"title": "Compiler Design",
+"current_words": 4291,
+"words_needed": 3709,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "computer_architecture",
+"title": "Computer Architecture",
+"current_words": 2265,
+"words_needed": 5735,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "distributed_systems",
+"title": "Distributed Systems",
+"current_words": 2529,
+"words_needed": 5471,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "parallel_computing",
+"title": "Parallel Computing",
+"current_words": 2842,
+"words_needed": 5158,
+"reference_books": []
+}
+],
+"current_words": 40364,
+"words_needed": 55636
+},
+{
+"book_id": "computer_science_volume_4",
+"title": "Computer Science, Volume 4",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "software_engineering",
+"title": "Software Engineering",
+"current_words": 3554,
+"words_needed": 4446,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "agile_methodology",
+"title": "Agile Methodology",
+"current_words": 4773,
+"words_needed": 3227,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "version_control_git",
+"title": "Version Control Git",
+"current_words": 2840,
+"words_needed": 5160,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "api_design",
+"title": "Api Design",
+"current_words": 4491,
+"words_needed": 3509,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "microservices",
+"title": "Microservices",
+"current_words": 3699,
+"words_needed": 4301,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "machine_learning",
+"title": "Machine Learning",
+"current_words": 4920,
+"words_needed": 3080,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "deep_learning",
+"title": "Deep Learning",
+"current_words": 3964,
+"words_needed": 4036,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "natural_language_processing",
+"title": "Natural Language Processing",
+"current_words": 3899,
+"words_needed": 4101,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "computer_vision",
+"title": "Computer Vision",
+"current_words": 3895,
+"words_needed": 4105,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "reinforcement_learning",
+"title": "Reinforcement Learning",
+"current_words": 4913,
+"words_needed": 3087,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "robotics_programming",
+"title": "Robotics Programming",
+"current_words": 3678,
+"words_needed": 4322,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "data_science",
+"title": "Data Science",
+"current_words": 4222,
+"words_needed": 3778,
+"reference_books": []
+}
+],
+"current_words": 48848,
+"words_needed": 47152
+},
+{
+"book_id": "computer_science_volume_5",
+"title": "Computer Science, Volume 5",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "data_engineering",
+"title": "Data Engineering",
+"current_words": 4022,
+"words_needed": 3978,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "big_data",
+"title": "Big Data",
+"current_words": 2226,
+"words_needed": 5774,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "blockchain",
+"title": "Blockchain",
+"current_words": 5052,
+"words_needed": 2948,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "quantum_computing",
+"title": "Quantum Computing",
+"current_words": 2330,
+"words_needed": 5670,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "embedded_systems",
+"title": "Embedded Systems",
+"current_words": 4203,
+"words_needed": 3797,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "mobile_development",
+"title": "Mobile Development",
+"current_words": 3050,
+"words_needed": 4950,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "game_development",
+"title": "Game Development",
+"current_words": 4250,
+"words_needed": 3750,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "ar_vr_development",
+"title": "Ar Vr Development",
+"current_words": 4226,
+"words_needed": 3774,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "web3",
+"title": "Web3",
+"current_words": 3799,
+"words_needed": 4201,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "iot_programming",
+"title": "Iot Programming",
+"current_words": 2376,
+"words_needed": 5624,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "information_security",
+"title": "Information Security",
+"current_words": 3505,
+"words_needed": 4495,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "applied_cryptography",
+"title": "Applied Cryptography",
+"current_words": 4485,
+"words_needed": 3515,
+"reference_books": []
+}
+],
+"current_words": 43524,
+"words_needed": 52476
+},
+{
+"book_id": "computer_science_volume_6",
+"title": "Computer Science, Volume 6",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "devops_engineering",
+"title": "Devops Engineering",
+"current_words": 3573,
+"words_needed": 4427,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "game_design",
+"title": "Game Design",
+"current_words": 4942,
+"words_needed": 3058,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "prompt_engineering",
+"title": "Prompt Engineering",
+"current_words": 2165,
+"words_needed": 5835,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "predictive_analytics",
+"title": "Predictive Analytics",
+"current_words": 4884,
+"words_needed": 3116,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "quantum_computing_applications",
+"title": "Quantum Computing Applications",
+"current_words": 4794,
+"words_needed": 3206,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "advanced_cryptography",
+"title": "Advanced Cryptography",
+"current_words": 3993,
+"words_needed": 4007,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "human_computer_interaction",
+"title": "Human Computer Interaction",
+"current_words": 3517,
+"words_needed": 4483,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "enterprise_ai_architecture",
+"title": "Enterprise Ai Architecture",
+"current_words": 3587,
+"words_needed": 4413,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "autonomous_systems",
+"title": "Autonomous Systems",
+"current_words": 4089,
+"words_needed": 3911,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "artificial_intelligence_foundations",
+"title": "Artificial Intelligence Foundations",
+"current_words": 4738,
+"words_needed": 3262,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "ai_ethics_governance",
+"title": "Ai Ethics Governance",
+"current_words": 2871,
+"words_needed": 5129,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "cloud_native_architecture",
+"title": "Cloud Native Architecture",
+"current_words": 4395,
+"words_needed": 3605,
+"reference_books": []
+}
+],
+"current_words": 47548,
+"words_needed": 48452
+},
+{
+"book_id": "computer_science_volume_7",
+"title": "Computer Science, Volume 7",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "computer_vision_ai",
+"title": "Computer Vision Ai",
+"current_words": 4835,
+"words_needed": 3165,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "devops_culture",
+"title": "Devops Culture",
+"current_words": 4454,
+"words_needed": 3546,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "digital_forensics_advanced",
+"title": "Digital Forensics Advanced",
+"current_words": 4482,
+"words_needed": 3518,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "generative_ai_systems",
+"title": "Generative Ai Systems",
+"current_words": 4486,
+"words_needed": 3514,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "large_language_models",
+"title": "Large Language Models",
+"current_words": 2913,
+"words_needed": 5087,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "no_code_low_code",
+"title": "No Code Low Code",
+"current_words": 3186,
+"words_needed": 4814,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "penetration_testing",
+"title": "Penetration Testing",
+"current_words": 4174,
+"words_needed": 3826,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "quantum_machine_learning",
+"title": "Quantum Machine Learning",
+"current_words": 4532,
+"words_needed": 3468,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "blockchain_development",
+"title": "Blockchain Development",
+"current_words": 4327,
+"words_needed": 3673,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "category_theory_cs",
+"title": "Category Theory Cs",
+"current_words": 4859,
+"words_needed": 3141,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "causal_inference_ml",
+"title": "Causal Inference Ml",
+"current_words": 3989,
+"words_needed": 4011,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "compilers",
+"title": "Compilers",
+"current_words": 4836,
+"words_needed": 3164,
+"reference_books": []
+}
+],
+"current_words": 51073,
+"words_needed": 44927
+},
+{
+"book_id": "computer_science_volume_8",
+"title": "Computer Science, Volume 8",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "computer_graphics",
+"title": "Computer Graphics",
+"current_words": 4300,
+"words_needed": 3700,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "differentiable_programming",
+"title": "Differentiable Programming",
+"current_words": 4459,
+"words_needed": 3541,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "diffusion_models",
+"title": "Diffusion Models",
+"current_words": 4516,
+"words_needed": 3484,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "dna_data_storage",
+"title": "Dna Data Storage",
+"current_words": 4041,
+"words_needed": 3959,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "federated_learning",
+"title": "Federated Learning",
+"current_words": 4568,
+"words_needed": 3432,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "formal_verification",
+"title": "Formal Verification",
+"current_words": 4372,
+"words_needed": 3628,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "graph_neural_networks",
+"title": "Graph Neural Networks",
+"current_words": 3079,
+"words_needed": 4921,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "homomorphic_encryption",
+"title": "Homomorphic Encryption",
+"current_words": 3835,
+"words_needed": 4165,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "mechanistic_interpretability",
+"title": "Mechanistic Interpretability",
+"current_words": 4485,
+"words_needed": 3515,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "mobile_app_development",
+"title": "Mobile App Development",
+"current_words": 4185,
+"words_needed": 3815,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "neural_architecture_search",
+"title": "Neural Architecture Search",
+"current_words": 3055,
+"words_needed": 4945,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "neuromorphic_computing",
+"title": "Neuromorphic Computing",
+"current_words": 3860,
+"words_needed": 4140,
+"reference_books": []
+}
+],
+"current_words": 48755,
+"words_needed": 47245
+},
+{
+"book_id": "computer_science_volume_9",
+"title": "Computer Science, Volume 9",
+"category": "COMPUTER_SCIENCE",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "photonic_computing",
+"title": "Photonic Computing",
+"current_words": 4119,
+"words_needed": 3881,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "program_synthesis",
+"title": "Program Synthesis",
+"current_words": 2326,
+"words_needed": 5674,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "quantum_error_correction",
+"title": "Quantum Error Correction",
+"current_words": 2277,
+"words_needed": 5723,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "site_reliability_engineering",
+"title": "Site Reliability Engineering",
+"current_words": 4151,
+"words_needed": 3849,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "spiking_neural_networks",
+"title": "Spiking Neural Networks",
+"current_words": 4576,
+"words_needed": 3424,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "topological_quantum_computing",
+"title": "Topological Quantum Computing",
+"current_words": 4622,
+"words_needed": 3378,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "type_theory",
+"title": "Type Theory",
+"current_words": 3462,
+"words_needed": 4538,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "zero_knowledge_proofs",
+"title": "Zero Knowledge Proofs",
+"current_words": 4590,
+"words_needed": 3410,
+"reference_books": []
+}
+],
+"current_words": 30123,
+"words_needed": 33877
+},
+{
+"book_id": "engineering_volume_1",
+"title": "Engineering, Volume 1",
+"category": "ENGINEERING",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "engineering_fundamentals",
+"title": "Engineering Fundamentals",
+"current_words": 4728,
+"words_needed": 3272,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "mechanical_engineering",
+"title": "Mechanical Engineering",
+"current_words": 4630,
+"words_needed": 3370,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "electrical_engineering",
+"title": "Electrical Engineering",
+"current_words": 4369,
+"words_needed": 3631,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "civil_engineering",
+"title": "Civil Engineering",
+"current_words": 4680,
+"words_needed": 3320,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "chemical_engineering",
+"title": "Chemical Engineering",
+"current_words": 2994,
+"words_needed": 5006,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "aerospace_engineering",
+"title": "Aerospace Engineering",
+"current_words": 2485,
+"words_needed": 5515,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "biomedical_engineering",
+"title": "Biomedical Engineering",
+"current_words": 4498,
+"words_needed": 3502,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "environmental_engineering",
+"title": "Environmental Engineering",
+"current_words": 4484,
+"words_needed": 3516,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "industrial_engineering",
+"title": "Industrial Engineering",
+"current_words": 4675,
+"words_needed": 3325,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "nuclear_engineering",
+"title": "Nuclear Engineering",
+"current_words": 4486,
+"words_needed": 3514,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "petroleum_engineering",
+"title": "Petroleum Engineering",
+"current_words": 4309,
+"words_needed": 3691,
+"reference_books": []
+}
+],
+"current_words": 46338,
+"words_needed": 41662
+},
+{
+"book_id": "engineering_volume_2",
+"title": "Engineering, Volume 2",
+"category": "ENGINEERING",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "mining_engineering",
+"title": "Mining Engineering",
+"current_words": 2501,
+"words_needed": 5499,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "agricultural_engineering",
+"title": "Agricultural Engineering",
+"current_words": 2943,
+"words_needed": 5057,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "marine_engineering",
+"title": "Marine Engineering",
+"current_words": 5155,
+"words_needed": 2845,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "robotics_engineering",
+"title": "Robotics Engineering",
+"current_words": 4107,
+"words_needed": 3893,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "mechatronics",
+"title": "Mechatronics",
+"current_words": 3882,
+"words_needed": 4118,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "structural_engineering",
+"title": "Structural Engineering",
+"current_words": 4735,
+"words_needed": 3265,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "geotechnical_engineering",
+"title": "Geotechnical Engineering",
+"current_words": 4925,
+"words_needed": 3075,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "transportation_engineering",
+"title": "Transportation Engineering",
+"current_words": 2440,
+"words_needed": 5560,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "water_resources_engineering",
+"title": "Water Resources Engineering",
+"current_words": 2326,
+"words_needed": 5674,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "power_systems",
+"title": "Power Systems",
+"current_words": 3958,
+"words_needed": 4042,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "control_systems",
+"title": "Control Systems",
+"current_words": 4294,
+"words_needed": 3706,
+"reference_books": []
+}
+],
+"current_words": 41266,
+"words_needed": 46734
+},
+{
+"book_id": "engineering_volume_3",
+"title": "Engineering, Volume 3",
+"category": "ENGINEERING",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "signal_processing",
+"title": "Signal Processing",
+"current_words": 3179,
+"words_needed": 4821,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "telecommunications",
+"title": "Telecommunications",
+"current_words": 4598,
+"words_needed": 3402,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "electronics",
+"title": "Electronics",
+"current_words": 4516,
+"words_needed": 3484,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "vlsi_design",
+"title": "Vlsi Design",
+"current_words": 4866,
+"words_needed": 3134,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "cad_cam",
+"title": "Cad Cam",
+"current_words": 3767,
+"words_needed": 4233,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "manufacturing_engineering",
+"title": "Manufacturing Engineering",
+"current_words": 3844,
+"words_needed": 4156,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "quality_engineering",
+"title": "Quality Engineering",
+"current_words": 4789,
+"words_needed": 3211,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "systems_engineering",
+"title": "Systems Engineering",
+"current_words": 3655,
+"words_needed": 4345,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "reliability_engineering",
+"title": "Reliability Engineering",
+"current_words": 2435,
+"words_needed": 5565,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "materials_engineering",
+"title": "Materials Engineering",
+"current_words": 4396,
+"words_needed": 3604,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "ocean_engineering",
+"title": "Ocean Engineering",
+"current_words": 4856,
+"words_needed": 3144,
+"reference_books": []
+}
+],
+"current_words": 44901,
+"words_needed": 43099
+},
+{
+"book_id": "engineering_volume_4",
+"title": "Engineering, Volume 4",
+"category": "ENGINEERING",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "digital_twins",
+"title": "Digital Twins",
+"current_words": 4591,
+"words_needed": 3409,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "autonomous_vehicles_tech",
+"title": "Autonomous Vehicles Tech",
+"current_words": 5092,
+"words_needed": 2908,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "drone_technology",
+"title": "Drone Technology",
+"current_words": 3447,
+"words_needed": 4553,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "additive_manufacturing_advanced",
+"title": "Additive Manufacturing Advanced",
+"current_words": 4170,
+"words_needed": 3830,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "aerospace_propulsion_advanced",
+"title": "Aerospace Propulsion Advanced",
+"current_words": 3173,
+"words_needed": 4827,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "brain_computer_interfaces",
+"title": "Brain Computer Interfaces",
+"current_words": 3931,
+"words_needed": 4069,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "directed_energy_systems",
+"title": "Directed Energy Systems",
+"current_words": 4057,
+"words_needed": 3943,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "fault_tolerant_systems",
+"title": "Fault Tolerant Systems",
+"current_words": 2768,
+"words_needed": 5232,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "hypersonics",
+"title": "Hypersonics",
+"current_words": 3918,
+"words_needed": 4082,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "mems_nems",
+"title": "Mems Nems",
+"current_words": 4415,
+"words_needed": 3585,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "microfluidics",
+"title": "Microfluidics",
+"current_words": 4535,
+"words_needed": 3465,
+"reference_books": []
+}
+],
+"current_words": 44097,
+"words_needed": 43903
+},
+{
+"book_id": "engineering_volume_5",
+"title": "Engineering, Volume 5",
+"category": "ENGINEERING",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "molecular_nanotechnology",
+"title": "Molecular Nanotechnology",
+"current_words": 3013,
+"words_needed": 4987,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "nanophotonics",
+"title": "Nanophotonics",
+"current_words": 4315,
+"words_needed": 3685,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "photonics",
+"title": "Photonics",
+"current_words": 2334,
+"words_needed": 5666,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "quantum_engineering",
+"title": "Quantum Engineering",
+"current_words": 2126,
+"words_needed": 5874,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "soft_robotics",
+"title": "Soft Robotics",
+"current_words": 4351,
+"words_needed": 3649,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "swarm_robotics",
+"title": "Swarm Robotics",
+"current_words": 2213,
+"words_needed": 5787,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "tissue_engineering",
+"title": "Tissue Engineering",
+"current_words": 3784,
+"words_needed": 4216,
+"reference_books": []
+}
+],
+"current_words": 22136,
+"words_needed": 33864
+},
+{
+"book_id": "languages_volume_1",
+"title": "Languages, Volume 1",
+"category": "LANGUAGES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "english_grammar",
+"title": "English Grammar",
+"current_words": 4267,
+"words_needed": 3733,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "english_composition",
+"title": "English Composition",
+"current_words": 4014,
+"words_needed": 3986,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "english_literature",
+"title": "English Literature",
+"current_words": 4631,
+"words_needed": 3369,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "american_literature",
+"title": "American Literature",
+"current_words": 4569,
+"words_needed": 3431,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "british_literature",
+"title": "British Literature",
+"current_words": 4818,
+"words_needed": 3182,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "world_literature",
+"title": "World Literature",
+"current_words": 4710,
+"words_needed": 3290,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "creative_writing",
+"title": "Creative Writing",
+"current_words": 3605,
+"words_needed": 4395,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "technical_writing",
+"title": "Technical Writing",
+"current_words": 4145,
+"words_needed": 3855,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "business_writing",
+"title": "Business Writing",
+"current_words": 3408,
+"words_needed": 4592,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "public_speaking",
+"title": "Public Speaking",
+"current_words": 4313,
+"words_needed": 3687,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "rhetoric",
+"title": "Rhetoric",
+"current_words": 2297,
+"words_needed": 5703,
+"reference_books": []
+}
+],
+"current_words": 44777,
+"words_needed": 43223
+},
+{
+"book_id": "languages_volume_2",
+"title": "Languages, Volume 2",
+"category": "LANGUAGES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "debate",
+"title": "Debate",
+"current_words": 3939,
+"words_needed": 4061,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "spanish",
+"title": "Spanish",
+"current_words": 2538,
+"words_needed": 5462,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "french",
+"title": "French",
+"current_words": 2568,
+"words_needed": 5432,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "german",
+"title": "German",
+"current_words": 2223,
+"words_needed": 5777,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "italian",
+"title": "Italian",
+"current_words": 3560,
+"words_needed": 4440,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "portuguese",
+"title": "Portuguese",
+"current_words": 4234,
+"words_needed": 3766,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "mandarin_chinese",
+"title": "Mandarin Chinese",
+"current_words": 2584,
+"words_needed": 5416,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "japanese",
+"title": "Japanese",
+"current_words": 2334,
+"words_needed": 5666,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "korean",
+"title": "Korean",
+"current_words": 2341,
+"words_needed": 5659,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "arabic",
+"title": "Arabic",
+"current_words": 3863,
+"words_needed": 4137,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "hindi",
+"title": "Hindi",
+"current_words": 3759,
+"words_needed": 4241,
+"reference_books": []
+}
+],
+"current_words": 33943,
+"words_needed": 54057
+},
+{
+"book_id": "languages_volume_3",
+"title": "Languages, Volume 3",
+"category": "LANGUAGES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "russian",
+"title": "Russian",
+"current_words": 2162,
+"words_needed": 5838,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "turkish",
+"title": "Turkish",
+"current_words": 2271,
+"words_needed": 5729,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "vietnamese",
+"title": "Vietnamese",
+"current_words": 4062,
+"words_needed": 3938,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "thai",
+"title": "Thai",
+"current_words": 4191,
+"words_needed": 3809,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "swahili",
+"title": "Swahili",
+"current_words": 4875,
+"words_needed": 3125,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "latin",
+"title": "Latin",
+"current_words": 4109,
+"words_needed": 3891,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "ancient_greek",
+"title": "Ancient Greek",
+"current_words": 4396,
+"words_needed": 3604,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "hebrew",
+"title": "Hebrew",
+"current_words": 2524,
+"words_needed": 5476,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "sanskrit",
+"title": "Sanskrit",
+"current_words": 4055,
+"words_needed": 3945,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "sign_language",
+"title": "Sign Language",
+"current_words": 4734,
+"words_needed": 3266,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "linguistics_applied",
+"title": "Linguistics Applied",
+"current_words": 4312,
+"words_needed": 3688,
+"reference_books": []
+}
+],
+"current_words": 41691,
+"words_needed": 46309
+},
+{
+"book_id": "languages_volume_4",
+"title": "Languages, Volume 4",
+"category": "LANGUAGES",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "translation_interpretation",
+"title": "Translation Interpretation",
+"current_words": 4396,
+"words_needed": 3604,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "esl_teaching",
+"title": "Esl Teaching",
+"current_words": 4823,
+"words_needed": 3177,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "phonetics_phonology",
+"title": "Phonetics Phonology",
+"current_words": 4623,
+"words_needed": 3377,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "syntax",
+"title": "Syntax",
+"current_words": 2491,
+"words_needed": 5509,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "semantics_pragmatics",
+"title": "Semantics Pragmatics",
+"current_words": 2111,
+"words_needed": 5889,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "sociolinguistics",
+"title": "Sociolinguistics",
+"current_words": 4059,
+"words_needed": 3941,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "psycholinguistics",
+"title": "Psycholinguistics",
+"current_words": 4745,
+"words_needed": 3255,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "computational_linguistics",
+"title": "Computational Linguistics",
+"current_words": 4222,
+"words_needed": 3778,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "corpus_linguistics",
+"title": "Corpus Linguistics",
+"current_words": 4779,
+"words_needed": 3221,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "sign_language_communication",
+"title": "Sign Language Communication",
+"current_words": 4708,
+"words_needed": 3292,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "braille_accessibility",
+"title": "Braille Accessibility",
+"current_words": 4942,
+"words_needed": 3058,
+"reference_books": []
+}
+],
+"current_words": 45899,
+"words_needed": 42101
+},
+{
+"book_id": "arts_volume_1",
+"title": "Arts, Volume 1",
+"category": "ARTS",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "art_fundamentals",
+"title": "Art Fundamentals",
+"current_words": 4165,
+"words_needed": 3835,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "drawing",
+"title": "Drawing",
+"current_words": 3983,
+"words_needed": 4017,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "painting",
+"title": "Painting",
+"current_words": 2271,
+"words_needed": 5729,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "sculpture",
+"title": "Sculpture",
+"current_words": 4612,
+"words_needed": 3388,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "printmaking",
+"title": "Printmaking",
+"current_words": 4283,
+"words_needed": 3717,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "ceramics",
+"title": "Ceramics",
+"current_words": 2307,
+"words_needed": 5693,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "photography",
+"title": "Photography",
+"current_words": 2295,
+"words_needed": 5705,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "digital_art",
+"title": "Digital Art",
+"current_words": 4808,
+"words_needed": 3192,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "graphic_design",
+"title": "Graphic Design",
+"current_words": 4020,
+"words_needed": 3980,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "ui_ux_design",
+"title": "Ui Ux Design",
+"current_words": 3421,
+"words_needed": 4579,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "web_design",
+"title": "Web Design",
+"current_words": 3586,
+"words_needed": 4414,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "typography_design",
+"title": "Typography Design",
+"current_words": 3868,
+"words_needed": 4132,
+"reference_books": []
+}
+],
+"current_words": 43619,
+"words_needed": 52381
+},
+{
+"book_id": "arts_volume_2",
+"title": "Arts, Volume 2",
+"category": "ARTS",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "illustration",
+"title": "Illustration",
+"current_words": 4352,
+"words_needed": 3648,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "animation",
+"title": "Animation",
+"current_words": 4046,
+"words_needed": 3954,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "film_studies",
+"title": "Film Studies",
+"current_words": 4255,
+"words_needed": 3745,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "filmmaking",
+"title": "Filmmaking",
+"current_words": 4012,
+"words_needed": 3988,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "screenwriting",
+"title": "Screenwriting",
+"current_words": 4640,
+"words_needed": 3360,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "video_editing",
+"title": "Video Editing",
+"current_words": 3947,
+"words_needed": 4053,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "sound_design",
+"title": "Sound Design",
+"current_words": 3901,
+"words_needed": 4099,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "cinematography",
+"title": "Cinematography",
+"current_words": 3800,
+"words_needed": 4200,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "art_history",
+"title": "Art History",
+"current_words": 2388,
+"words_needed": 5612,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "art_criticism",
+"title": "Art Criticism",
+"current_words": 3462,
+"words_needed": 4538,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "museum_studies",
+"title": "Museum Studies",
+"current_words": 3772,
+"words_needed": 4228,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "music_theory",
+"title": "Music Theory",
+"current_words": 2219,
+"words_needed": 5781,
+"reference_books": []
+}
+],
+"current_words": 44794,
+"words_needed": 51206
+},
+{
+"book_id": "arts_volume_3",
+"title": "Arts, Volume 3",
+"category": "ARTS",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "music_composition",
+"title": "Music Composition",
+"current_words": 3663,
+"words_needed": 4337,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "music_production",
+"title": "Music Production",
+"current_words": 3909,
+"words_needed": 4091,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "piano",
+"title": "Piano",
+"current_words": 2265,
+"words_needed": 5735,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "guitar",
+"title": "Guitar",
+"current_words": 3389,
+"words_needed": 4611,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "voice",
+"title": "Voice",
+"current_words": 3750,
+"words_needed": 4250,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "drums",
+"title": "Drums",
+"current_words": 2394,
+"words_needed": 5606,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "orchestration",
+"title": "Orchestration",
+"current_words": 3882,
+"words_needed": 4118,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "music_history",
+"title": "Music History",
+"current_words": 2442,
+"words_needed": 5558,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "ethnomusicology",
+"title": "Ethnomusicology",
+"current_words": 4592,
+"words_needed": 3408,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "theater_studies",
+"title": "Theater Studies",
+"current_words": 3756,
+"words_needed": 4244,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "acting",
+"title": "Acting",
+"current_words": 3555,
+"words_needed": 4445,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "directing_theater",
+"title": "Directing Theater",
+"current_words": 3859,
+"words_needed": 4141,
+"reference_books": []
+}
+],
+"current_words": 41456,
+"words_needed": 54544
+},
+{
+"book_id": "arts_volume_4",
+"title": "Arts, Volume 4",
+"category": "ARTS",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "playwriting",
+"title": "Playwriting",
+"current_words": 3928,
+"words_needed": 4072,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "stagecraft",
+"title": "Stagecraft",
+"current_words": 4204,
+"words_needed": 3796,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "dance",
+"title": "Dance",
+"current_words": 3869,
+"words_needed": 4131,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "fashion_design",
+"title": "Fashion Design",
+"current_words": 3856,
+"words_needed": 4144,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "interior_design",
+"title": "Interior Design",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "industrial_design",
+"title": "Industrial Design",
+"current_words": 4405,
+"words_needed": 3595,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "architecture",
+"title": "Architecture",
+"current_words": 3799,
+"words_needed": 4201,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "landscape_architecture",
+"title": "Landscape Architecture",
+"current_words": 3542,
+"words_needed": 4458,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "urban_planning_design",
+"title": "Urban Planning Design",
+"current_words": 4489,
+"words_needed": 3511,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "art_conservation",
+"title": "Art Conservation",
+"current_words": 2292,
+"words_needed": 5708,
+"reference_books": []
+},
+{
+"n": 11,
+"subject": "film_directing",
+"title": "Film Directing",
+"current_words": 4040,
+"words_needed": 3960,
+"reference_books": []
+},
+{
+"n": 12,
+"subject": "typography",
+"title": "Typography",
+"current_words": 4075,
+"words_needed": 3925,
+"reference_books": []
+}
+],
+"current_words": 46380,
+"words_needed": 49620
+},
+{
+"book_id": "philosophy_religion",
+"title": "Philosophy Religion",
+"category": "PHILOSOPHY_RELIGION",
+"tier": 3,
+"chapters": [
+{
+"n": 1,
+"subject": "western_philosophy",
+"title": "Western Philosophy",
+"current_words": 5245,
+"words_needed": 2755,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "ethics_moral_philosophy",
+"title": "Ethics Moral Philosophy",
+"current_words": 4541,
+"words_needed": 3459,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "philosophy_of_mind",
+"title": "Philosophy Of Mind",
+"current_words": 5293,
+"words_needed": 2707,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "philosophy_of_science",
+"title": "Philosophy Of Science",
+"current_words": 4846,
+"words_needed": 3154,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "comparative_religion",
+"title": "Comparative Religion",
+"current_words": 4822,
+"words_needed": 3178,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "philosophy_of_language",
+"title": "Philosophy Of Language",
+"current_words": 4966,
+"words_needed": 3034,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "bioethics",
+"title": "Bioethics",
+"current_words": 2253,
+"words_needed": 5747,
+"reference_books": []
+}
+],
+"current_words": 31966,
+"words_needed": 24034
+},
+{
+"book_id": "trades_vocational_volume_2",
+"title": "Trades Vocational, Volume 2",
+"category": "TRADES_VOCATIONAL",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "masonry",
+"title": "Masonry",
+"current_words": 4399,
+"words_needed": 3601,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "roofing",
+"title": "Roofing",
+"current_words": 3666,
+"words_needed": 4334,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "painting_trades",
+"title": "Painting Trades",
+"current_words": 2270,
+"words_needed": 5730,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "landscaping",
+"title": "Landscaping",
+"current_words": 2178,
+"words_needed": 5822,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "horticulture",
+"title": "Horticulture",
+"current_words": 4493,
+"words_needed": 3507,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "agriculture",
+"title": "Agriculture",
+"current_words": 4297,
+"words_needed": 3703,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "culinary_arts",
+"title": "Culinary Arts",
+"current_words": 4273,
+"words_needed": 3727,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "baking_pastry",
+"title": "Baking Pastry",
+"current_words": 2358,
+"words_needed": 5642,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "food_science",
+"title": "Food Science",
+"current_words": 2193,
+"words_needed": 5807,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "cosmetology",
+"title": "Cosmetology",
+"current_words": 3968,
+"words_needed": 4032,
+"reference_books": []
+}
+],
+"current_words": 34095,
+"words_needed": 45905
+},
+{
+"book_id": "trades_vocational_volume_3",
+"title": "Trades Vocational, Volume 3",
+"category": "TRADES_VOCATIONAL",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "barbering",
+"title": "Barbering",
+"current_words": 3914,
+"words_needed": 4086,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "esthetician",
+"title": "Esthetician",
+"current_words": 3412,
+"words_needed": 4588,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "firefighting",
+"title": "Firefighting",
+"current_words": 3778,
+"words_needed": 4222,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "emt_paramedic",
+"title": "Emt Paramedic",
+"current_words": 2090,
+"words_needed": 5910,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "law_enforcement",
+"title": "Law Enforcement",
+"current_words": 3505,
+"words_needed": 4495,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "aviation_pilot",
+"title": "Aviation Pilot",
+"current_words": 4927,
+"words_needed": 3073,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "commercial_driving",
+"title": "Commercial Driving",
+"current_words": 4719,
+"words_needed": 3281,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "marine_operations",
+"title": "Marine Operations",
+"current_words": 4327,
+"words_needed": 3673,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "real_estate_licensing",
+"title": "Real Estate Licensing",
+"current_words": 4306,
+"words_needed": 3694,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "insurance_licensing",
+"title": "Insurance Licensing",
+"current_words": 2726,
+"words_needed": 5274,
+"reference_books": []
+}
+],
+"current_words": 37704,
+"words_needed": 42296
+},
+{
+"book_id": "trades_vocational_volume_4",
+"title": "Trades Vocational, Volume 4",
+"category": "TRADES_VOCATIONAL",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "home_inspection",
+"title": "Home Inspection",
+"current_words": 3828,
+"words_needed": 4172,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "surveying",
+"title": "Surveying",
+"current_words": 3948,
+"words_needed": 4052,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "dental_hygiene",
+"title": "Dental Hygiene",
+"current_words": 4289,
+"words_needed": 3711,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "medical_assisting",
+"title": "Medical Assisting",
+"current_words": 4096,
+"words_needed": 3904,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "phlebotomy",
+"title": "Phlebotomy",
+"current_words": 4421,
+"words_needed": 3579,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "pharmacy_technician",
+"title": "Pharmacy Technician",
+"current_words": 2330,
+"words_needed": 5670,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "radiology_technician",
+"title": "Radiology Technician",
+"current_words": 4250,
+"words_needed": 3750,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "veterinary_technician",
+"title": "Veterinary Technician",
+"current_words": 3443,
+"words_needed": 4557,
+"reference_books": []
+}
+],
+"current_words": 30605,
+"words_needed": 33395
+},
+{
+"book_id": "agriculture_environmental_volume_2",
+"title": "Agriculture Environmental, Volume 2",
+"category": "AGRICULTURE_ENVIRONMENTAL",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "food_technology",
+"title": "Food Technology",
+"current_words": 3093,
+"words_needed": 4907,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "organic_farming",
+"title": "Organic Farming",
+"current_words": 3707,
+"words_needed": 4293,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "precision_agriculture",
+"title": "Precision Agriculture",
+"current_words": 2899,
+"words_needed": 5101,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "sustainable_agriculture",
+"title": "Sustainable Agriculture",
+"current_words": 4413,
+"words_needed": 3587,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "agricultural_biotechnology",
+"title": "Agricultural Biotechnology",
+"current_words": 4791,
+"words_needed": 3209,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "irrigation_science",
+"title": "Irrigation Science",
+"current_words": 3859,
+"words_needed": 4141,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "pest_management",
+"title": "Pest Management",
+"current_words": 4079,
+"words_needed": 3921,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "plant_pathology",
+"title": "Plant Pathology",
+"current_words": 4339,
+"words_needed": 3661,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "range_management",
+"title": "Range Management",
+"current_words": 3881,
+"words_needed": 4119,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "agribusiness",
+"title": "Agribusiness",
+"current_words": 4341,
+"words_needed": 3659,
+"reference_books": []
+}
+],
+"current_words": 39402,
+"words_needed": 40598
+},
+{
+"book_id": "aviation_aerospace_volume_2",
+"title": "Aviation Aerospace, Volume 2",
+"category": "AVIATION_AEROSPACE",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "aviation_safety",
+"title": "Aviation Safety",
+"current_words": 4099,
+"words_needed": 3901,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "unmanned_aerial_systems",
+"title": "Unmanned Aerial Systems",
+"current_words": 4873,
+"words_needed": 3127,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "rocket_science",
+"title": "Rocket Science",
+"current_words": 2300,
+"words_needed": 5700,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "satellite_communications",
+"title": "Satellite Communications",
+"current_words": 5245,
+"words_needed": 2755,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "aerospace_materials",
+"title": "Aerospace Materials",
+"current_words": 4997,
+"words_needed": 3003,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "human_factors_aviation",
+"title": "Human Factors Aviation",
+"current_words": 3742,
+"words_needed": 4258,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "aviation_law",
+"title": "Aviation Law",
+"current_words": 4418,
+"words_needed": 3582,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "airport_management",
+"title": "Airport Management",
+"current_words": 3373,
+"words_needed": 4627,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "spacecraft_design",
+"title": "Spacecraft Design",
+"current_words": 4123,
+"words_needed": 3877,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "space_exploration_history",
+"title": "Space Exploration History",
+"current_words": 5437,
+"words_needed": 2563,
+"reference_books": []
+}
+],
+"current_words": 42607,
+"words_needed": 37393
+},
+{
+"book_id": "sustainability_environment_volume_1",
+"title": "Sustainability Environment, Volume 1",
+"category": "SUSTAINABILITY_ENVIRONMENT",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "renewable_energy",
+"title": "Renewable Energy",
+"current_words": 4557,
+"words_needed": 3443,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "solar_energy_systems",
+"title": "Solar Energy Systems",
+"current_words": 4725,
+"words_needed": 3275,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "wind_energy",
+"title": "Wind Energy",
+"current_words": 2293,
+"words_needed": 5707,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "energy_storage",
+"title": "Energy Storage",
+"current_words": 3865,
+"words_needed": 4135,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "green_building",
+"title": "Green Building",
+"current_words": 4714,
+"words_needed": 3286,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "waste_management",
+"title": "Waste Management",
+"current_words": 3893,
+"words_needed": 4107,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "water_treatment",
+"title": "Water Treatment",
+"current_words": 2121,
+"words_needed": 5879,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "circular_economy",
+"title": "Circular Economy",
+"current_words": 4223,
+"words_needed": 3777,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "carbon_management",
+"title": "Carbon Management",
+"current_words": 3051,
+"words_needed": 4949,
+"reference_books": []
+},
+{
+"n": 10,
+"subject": "environmental_policy",
+"title": "Environmental Policy",
+"current_words": 4407,
+"words_needed": 3593,
+"reference_books": []
+}
+],
+"current_words": 37849,
+"words_needed": 42151
+},
+{
+"book_id": "sports_fitness_volume_2",
+"title": "Sports Fitness, Volume 2",
+"category": "SPORTS_FITNESS",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "recreation_management",
+"title": "Recreation Management",
+"current_words": 3823,
+"words_needed": 4177,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "sports_marketing",
+"title": "Sports Marketing",
+"current_words": 3564,
+"words_needed": 4436,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "youth_sports_development",
+"title": "Youth Sports Development",
+"current_words": 4187,
+"words_needed": 3813,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "performance_analysis",
+"title": "Performance Analysis",
+"current_words": 3804,
+"words_needed": 4196,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "sports_law_ethics",
+"title": "Sports Law Ethics",
+"current_words": 4104,
+"words_needed": 3896,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "esports_management",
+"title": "Esports Management",
+"current_words": 2048,
+"words_needed": 5952,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "fitness_programming",
+"title": "Fitness Programming",
+"current_words": 2246,
+"words_needed": 5754,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "esports_competitive_gaming",
+"title": "Esports Competitive Gaming",
+"current_words": 4393,
+"words_needed": 3607,
+"reference_books": []
+}
+],
+"current_words": 28169,
+"words_needed": 35831
+},
+{
+"book_id": "military_defense_volume_1",
+"title": "Military Defense, Volume 1",
+"category": "MILITARY_DEFENSE",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "military_history_studies",
+"title": "Military History Studies",
+"current_words": 4816,
+"words_needed": 3184,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "military_strategy",
+"title": "Military Strategy",
+"current_words": 4831,
+"words_needed": 3169,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "military_tactics",
+"title": "Military Tactics",
+"current_words": 4837,
+"words_needed": 3163,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "military_leadership",
+"title": "Military Leadership",
+"current_words": 4529,
+"words_needed": 3471,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "national_security",
+"title": "National Security",
+"current_words": 2836,
+"words_needed": 5164,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "intelligence_analysis",
+"title": "Intelligence Analysis",
+"current_words": 2913,
+"words_needed": 5087,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "counterterrorism",
+"title": "Counterterrorism",
+"current_words": 2107,
+"words_needed": 5893,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "cyber_defense",
+"title": "Cyber Defense",
+"current_words": 3795,
+"words_needed": 4205,
+"reference_books": []
+}
+],
+"current_words": 30664,
+"words_needed": 33336
+},
+{
+"book_id": "military_defense_volume_2",
+"title": "Military Defense, Volume 2",
+"category": "MILITARY_DEFENSE",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "military_logistics",
+"title": "Military Logistics",
+"current_words": 4138,
+"words_needed": 3862,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "weapons_systems",
+"title": "Weapons Systems",
+"current_words": 3917,
+"words_needed": 4083,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "naval_science",
+"title": "Naval Science",
+"current_words": 4299,
+"words_needed": 3701,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "air_force_science",
+"title": "Air Force Science",
+"current_words": 2243,
+"words_needed": 5757,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "military_law",
+"title": "Military Law",
+"current_words": 4702,
+"words_needed": 3298,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "veterans_affairs",
+"title": "Veterans Affairs",
+"current_words": 3576,
+"words_needed": 4424,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "peacekeeping",
+"title": "Peacekeeping",
+"current_words": 3971,
+"words_needed": 4029,
+"reference_books": []
+}
+],
+"current_words": 26846,
+"words_needed": 29154
+},
+{
+"book_id": "agriculture_food_volume_1",
+"title": "Agriculture Food, Volume 1",
+"category": "AGRICULTURE_FOOD",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "agronomy",
+"title": "Agronomy",
+"current_words": 3589,
+"words_needed": 4411,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "animal_husbandry",
+"title": "Animal Husbandry",
+"current_words": 2369,
+"words_needed": 5631,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "irrigation_engineering",
+"title": "Irrigation Engineering",
+"current_words": 2223,
+"words_needed": 5777,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "food_safety",
+"title": "Food Safety",
+"current_words": 3891,
+"words_needed": 4109,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "viticulture",
+"title": "Viticulture",
+"current_words": 4113,
+"words_needed": 3887,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "permaculture",
+"title": "Permaculture",
+"current_words": 4385,
+"words_needed": 3615,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "apiculture",
+"title": "Apiculture",
+"current_words": 4322,
+"words_needed": 3678,
+"reference_books": []
+}
+],
+"current_words": 24892,
+"words_needed": 31108
+},
+{
+"book_id": "agriculture_food_volume_2",
+"title": "Agriculture Food, Volume 2",
+"category": "AGRICULTURE_FOOD",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "agroforestry",
+"title": "Agroforestry",
+"current_words": 3607,
+"words_needed": 4393,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "seed_technology",
+"title": "Seed Technology",
+"current_words": 4321,
+"words_needed": 3679,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "weed_science",
+"title": "Weed Science",
+"current_words": 3700,
+"words_needed": 4300,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "farm_management",
+"title": "Farm Management",
+"current_words": 4016,
+"words_needed": 3984,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "regenerative_agriculture",
+"title": "Regenerative Agriculture",
+"current_words": 4017,
+"words_needed": 3983,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "brewing_fermentation_science",
+"title": "Brewing Fermentation Science",
+"current_words": 3793,
+"words_needed": 4207,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "wine_viticulture_enology",
+"title": "Wine Viticulture Enology",
+"current_words": 4204,
+"words_needed": 3796,
+"reference_books": []
+}
+],
+"current_words": 27658,
+"words_needed": 28342
+},
+{
+"book_id": "hospitality_tourism_volume_1",
+"title": "Hospitality Tourism, Volume 1",
+"category": "HOSPITALITY_TOURISM",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "hotel_management",
+"title": "Hotel Management",
+"current_words": 2692,
+"words_needed": 5308,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "restaurant_management",
+"title": "Restaurant Management",
+"current_words": 3712,
+"words_needed": 4288,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "food_beverage_management",
+"title": "Food Beverage Management",
+"current_words": 4989,
+"words_needed": 3011,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "tourism_planning",
+"title": "Tourism Planning",
+"current_words": 4066,
+"words_needed": 3934,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "event_management",
+"title": "Event Management",
+"current_words": 4776,
+"words_needed": 3224,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "travel_agency_operations",
+"title": "Travel Agency Operations",
+"current_words": 3628,
+"words_needed": 4372,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "hospitality_marketing",
+"title": "Hospitality Marketing",
+"current_words": 4015,
+"words_needed": 3985,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "resort_management",
+"title": "Resort Management",
+"current_words": 3366,
+"words_needed": 4634,
+"reference_books": []
+},
+{
+"n": 9,
+"subject": "cruise_line_management",
+"title": "Cruise Line Management",
+"current_words": 2644,
+"words_needed": 5356,
+"reference_books": []
+}
+],
+"current_words": 33888,
+"words_needed": 38112
+},
+{
+"book_id": "hospitality_tourism_volume_2",
+"title": "Hospitality Tourism, Volume 2",
+"category": "HOSPITALITY_TOURISM",
+"tier": 4,
+"chapters": [
+{
+"n": 1,
+"subject": "spa_management",
+"title": "Spa Management",
+"current_words": 3389,
+"words_needed": 4611,
+"reference_books": []
+},
+{
+"n": 2,
+"subject": "sustainable_tourism",
+"title": "Sustainable Tourism",
+"current_words": 3559,
+"words_needed": 4441,
+"reference_books": []
+},
+{
+"n": 3,
+"subject": "heritage_tourism",
+"title": "Heritage Tourism",
+"current_words": 3454,
+"words_needed": 4546,
+"reference_books": []
+},
+{
+"n": 4,
+"subject": "adventure_tourism",
+"title": "Adventure Tourism",
+"current_words": 3448,
+"words_needed": 4552,
+"reference_books": []
+},
+{
+"n": 5,
+"subject": "hospitality_law",
+"title": "Hospitality Law",
+"current_words": 3977,
+"words_needed": 4023,
+"reference_books": []
+},
+{
+"n": 6,
+"subject": "revenue_management_hospitality",
+"title": "Revenue Management Hospitality",
+"current_words": 4071,
+"words_needed": 3929,
+"reference_books": []
+},
+{
+"n": 7,
+"subject": "guest_relations",
+"title": "Guest Relations",
+"current_words": 3700,
+"words_needed": 4300,
+"reference_books": []
+},
+{
+"n": 8,
+"subject": "casino_management",
+"title": "Casino Management",
+"current_words": 3381,
+"words_needed": 4619,
+"reference_books": []
+}
+],
+"current_words": 28979,
+"words_needed": 35021
+}
+]
+}

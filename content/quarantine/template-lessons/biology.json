@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "biology_L1_1",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 1,
+    "title": "Scientific method in biology: Foundations",
+    "content": "This original Sales King Academy lesson develops Scientific method in biology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Scientific method in biology to the adjacent topic Cell structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Scientific method in biology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Scientific method in biology.",
+      "Explain one relationship between Scientific method in biology and Cell structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Scientific method in biology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_2",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 2,
+    "title": "Cell structure: Foundations",
+    "content": "This original Sales King Academy lesson develops Cell structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Cell structure to the adjacent topic Membranes and transport, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cell structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cell structure.",
+      "Explain one relationship between Cell structure and Membranes and transport.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cell structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_3",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 3,
+    "title": "Membranes and transport: Foundations",
+    "content": "This original Sales King Academy lesson develops Membranes and transport as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Membranes and transport to the adjacent topic Biomolecules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Membranes and transport; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Membranes and transport.",
+      "Explain one relationship between Membranes and transport and Biomolecules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Membranes and transport.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_4",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 4,
+    "title": "Biomolecules: Foundations",
+    "content": "This original Sales King Academy lesson develops Biomolecules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Biomolecules to the adjacent topic Enzymes, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Biomolecules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Biomolecules.",
+      "Explain one relationship between Biomolecules and Enzymes.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Biomolecules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_5",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 5,
+    "title": "Enzymes: Foundations",
+    "content": "This original Sales King Academy lesson develops Enzymes as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Enzymes to the adjacent topic Cellular respiration, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Enzymes; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Enzymes.",
+      "Explain one relationship between Enzymes and Cellular respiration.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Enzymes.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_6",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 6,
+    "title": "Cellular respiration: Foundations",
+    "content": "This original Sales King Academy lesson develops Cellular respiration as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Cellular respiration to the adjacent topic Photosynthesis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cellular respiration; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cellular respiration.",
+      "Explain one relationship between Cellular respiration and Photosynthesis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cellular respiration.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_7",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 7,
+    "title": "Photosynthesis: Foundations",
+    "content": "This original Sales King Academy lesson develops Photosynthesis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Photosynthesis to the adjacent topic DNA structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Photosynthesis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Photosynthesis.",
+      "Explain one relationship between Photosynthesis and DNA structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Photosynthesis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_8",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 8,
+    "title": "DNA structure: Foundations",
+    "content": "This original Sales King Academy lesson develops DNA structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect DNA structure to the adjacent topic DNA replication, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA structure.",
+      "Explain one relationship between DNA structure and DNA replication.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_9",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 9,
+    "title": "DNA replication: Foundations",
+    "content": "This original Sales King Academy lesson develops DNA replication as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect DNA replication to the adjacent topic Gene expression, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA replication; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA replication.",
+      "Explain one relationship between DNA replication and Gene expression.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA replication.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L1_10",
+    "subject_id": "biology",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 10,
+    "title": "Gene expression: Foundations",
+    "content": "This original Sales King Academy lesson develops Gene expression as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Gene expression to the adjacent topic Mitosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gene expression; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gene expression.",
+      "Explain one relationship between Gene expression and Mitosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gene expression.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_1",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 1,
+    "title": "Mitosis: Core Framework",
+    "content": "This original Sales King Academy lesson develops Mitosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Mitosis to the adjacent topic Meiosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mitosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mitosis.",
+      "Explain one relationship between Mitosis and Meiosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mitosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_2",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 2,
+    "title": "Meiosis: Core Framework",
+    "content": "This original Sales King Academy lesson develops Meiosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Meiosis to the adjacent topic Inheritance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Meiosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Meiosis.",
+      "Explain one relationship between Meiosis and Inheritance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Meiosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_3",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 3,
+    "title": "Inheritance: Core Framework",
+    "content": "This original Sales King Academy lesson develops Inheritance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Inheritance to the adjacent topic Mutations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Inheritance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Inheritance.",
+      "Explain one relationship between Inheritance and Mutations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Inheritance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_4",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 4,
+    "title": "Mutations: Core Framework",
+    "content": "This original Sales King Academy lesson develops Mutations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Mutations to the adjacent topic Evolution, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mutations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mutations.",
+      "Explain one relationship between Mutations and Evolution.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mutations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_5",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 5,
+    "title": "Evolution: Core Framework",
+    "content": "This original Sales King Academy lesson develops Evolution as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Evolution to the adjacent topic Natural selection, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Evolution; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Evolution.",
+      "Explain one relationship between Evolution and Natural selection.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Evolution.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_6",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 6,
+    "title": "Natural selection: Core Framework",
+    "content": "This original Sales King Academy lesson develops Natural selection as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Natural selection to the adjacent topic Population genetics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Natural selection; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Natural selection.",
+      "Explain one relationship between Natural selection and Population genetics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Natural selection.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_7",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 7,
+    "title": "Population genetics: Core Framework",
+    "content": "This original Sales King Academy lesson develops Population genetics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Population genetics to the adjacent topic Microbiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Population genetics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Population genetics.",
+      "Explain one relationship between Population genetics and Microbiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Population genetics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_8",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 8,
+    "title": "Microbiology: Core Framework",
+    "content": "This original Sales King Academy lesson develops Microbiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Microbiology to the adjacent topic Viruses, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Microbiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Microbiology.",
+      "Explain one relationship between Microbiology and Viruses.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Microbiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_9",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 9,
+    "title": "Viruses: Core Framework",
+    "content": "This original Sales King Academy lesson develops Viruses as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Viruses to the adjacent topic Immune systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Viruses; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Viruses.",
+      "Explain one relationship between Viruses and Immune systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Viruses.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L2_10",
+    "subject_id": "biology",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 10,
+    "title": "Immune systems: Core Framework",
+    "content": "This original Sales King Academy lesson develops Immune systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Immune systems to the adjacent topic Plant physiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Immune systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Immune systems.",
+      "Explain one relationship between Immune systems and Plant physiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Immune systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_1",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 1,
+    "title": "Plant physiology: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Plant physiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Plant physiology to the adjacent topic Animal physiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Plant physiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Plant physiology.",
+      "Explain one relationship between Plant physiology and Animal physiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Plant physiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_2",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 2,
+    "title": "Animal physiology: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Animal physiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Animal physiology to the adjacent topic Ecology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Animal physiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Animal physiology.",
+      "Explain one relationship between Animal physiology and Ecology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Animal physiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_3",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 3,
+    "title": "Ecology: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Ecology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Ecology to the adjacent topic Energy flow, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Ecology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Ecology.",
+      "Explain one relationship between Ecology and Energy flow.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Ecology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_4",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 4,
+    "title": "Energy flow: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Energy flow as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Energy flow to the adjacent topic Biogeochemical cycles, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Energy flow; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Energy flow.",
+      "Explain one relationship between Energy flow and Biogeochemical cycles.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Energy flow.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_5",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 5,
+    "title": "Biogeochemical cycles: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Biogeochemical cycles as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Biogeochemical cycles to the adjacent topic Population ecology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Biogeochemical cycles; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Biogeochemical cycles.",
+      "Explain one relationship between Biogeochemical cycles and Population ecology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Biogeochemical cycles.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_6",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 6,
+    "title": "Population ecology: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Population ecology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Population ecology to the adjacent topic Communities, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Population ecology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Population ecology.",
+      "Explain one relationship between Population ecology and Communities.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Population ecology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_7",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 7,
+    "title": "Communities: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Communities as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Communities to the adjacent topic Ecosystems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Communities; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Communities.",
+      "Explain one relationship between Communities and Ecosystems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Communities.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_8",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 8,
+    "title": "Ecosystems: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Ecosystems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Ecosystems to the adjacent topic Conservation biology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Ecosystems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Ecosystems.",
+      "Explain one relationship between Ecosystems and Conservation biology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Ecosystems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_9",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 9,
+    "title": "Conservation biology: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Conservation biology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Conservation biology to the adjacent topic Experimental design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Conservation biology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Conservation biology.",
+      "Explain one relationship between Conservation biology and Experimental design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Conservation biology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L3_10",
+    "subject_id": "biology",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 10,
+    "title": "Experimental design: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Experimental design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Experimental design to the adjacent topic Scientific method in biology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Experimental design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Experimental design.",
+      "Explain one relationship between Experimental design and Scientific method in biology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Experimental design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_1",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 1,
+    "title": "Scientific method in biology: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Scientific method in biology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Scientific method in biology to the adjacent topic Cell structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Scientific method in biology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Scientific method in biology.",
+      "Explain one relationship between Scientific method in biology and Cell structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Scientific method in biology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_2",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 2,
+    "title": "Cell structure: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Cell structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Cell structure to the adjacent topic Membranes and transport, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cell structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cell structure.",
+      "Explain one relationship between Cell structure and Membranes and transport.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cell structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_3",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 3,
+    "title": "Membranes and transport: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Membranes and transport as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Membranes and transport to the adjacent topic Biomolecules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Membranes and transport; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Membranes and transport.",
+      "Explain one relationship between Membranes and transport and Biomolecules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Membranes and transport.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_4",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 4,
+    "title": "Biomolecules: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Biomolecules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Biomolecules to the adjacent topic Enzymes, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Biomolecules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Biomolecules.",
+      "Explain one relationship between Biomolecules and Enzymes.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Biomolecules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_5",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 5,
+    "title": "Enzymes: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Enzymes as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Enzymes to the adjacent topic Cellular respiration, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Enzymes; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Enzymes.",
+      "Explain one relationship between Enzymes and Cellular respiration.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Enzymes.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_6",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 6,
+    "title": "Cellular respiration: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Cellular respiration as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Cellular respiration to the adjacent topic Photosynthesis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cellular respiration; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cellular respiration.",
+      "Explain one relationship between Cellular respiration and Photosynthesis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cellular respiration.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_7",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 7,
+    "title": "Photosynthesis: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Photosynthesis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Photosynthesis to the adjacent topic DNA structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Photosynthesis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Photosynthesis.",
+      "Explain one relationship between Photosynthesis and DNA structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Photosynthesis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_8",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 8,
+    "title": "DNA structure: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops DNA structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect DNA structure to the adjacent topic DNA replication, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA structure.",
+      "Explain one relationship between DNA structure and DNA replication.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_9",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 9,
+    "title": "DNA replication: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops DNA replication as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect DNA replication to the adjacent topic Gene expression, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA replication; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA replication.",
+      "Explain one relationship between DNA replication and Gene expression.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA replication.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L4_10",
+    "subject_id": "biology",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 10,
+    "title": "Gene expression: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Gene expression as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Gene expression to the adjacent topic Mitosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gene expression; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gene expression.",
+      "Explain one relationship between Gene expression and Mitosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gene expression.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_1",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 1,
+    "title": "Mitosis: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Mitosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Mitosis to the adjacent topic Meiosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mitosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mitosis.",
+      "Explain one relationship between Mitosis and Meiosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mitosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_2",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 2,
+    "title": "Meiosis: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Meiosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Meiosis to the adjacent topic Inheritance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Meiosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Meiosis.",
+      "Explain one relationship between Meiosis and Inheritance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Meiosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_3",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 3,
+    "title": "Inheritance: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Inheritance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Inheritance to the adjacent topic Mutations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Inheritance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Inheritance.",
+      "Explain one relationship between Inheritance and Mutations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Inheritance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_4",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 4,
+    "title": "Mutations: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Mutations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Mutations to the adjacent topic Evolution, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mutations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mutations.",
+      "Explain one relationship between Mutations and Evolution.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mutations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_5",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 5,
+    "title": "Evolution: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Evolution as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Evolution to the adjacent topic Natural selection, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Evolution; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Evolution.",
+      "Explain one relationship between Evolution and Natural selection.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Evolution.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_6",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 6,
+    "title": "Natural selection: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Natural selection as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Natural selection to the adjacent topic Population genetics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Natural selection; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Natural selection.",
+      "Explain one relationship between Natural selection and Population genetics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Natural selection.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_7",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 7,
+    "title": "Population genetics: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Population genetics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Population genetics to the adjacent topic Microbiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Population genetics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Population genetics.",
+      "Explain one relationship between Population genetics and Microbiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Population genetics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_8",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 8,
+    "title": "Microbiology: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Microbiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Microbiology to the adjacent topic Viruses, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Microbiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Microbiology.",
+      "Explain one relationship between Microbiology and Viruses.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Microbiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_9",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 9,
+    "title": "Viruses: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Viruses as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Viruses to the adjacent topic Immune systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Viruses; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Viruses.",
+      "Explain one relationship between Viruses and Immune systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Viruses.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L5_10",
+    "subject_id": "biology",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 10,
+    "title": "Immune systems: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Immune systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Immune systems to the adjacent topic Plant physiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Immune systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Immune systems.",
+      "Explain one relationship between Immune systems and Plant physiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Immune systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_1",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 1,
+    "title": "Plant physiology: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Plant physiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Plant physiology to the adjacent topic Animal physiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Plant physiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Plant physiology.",
+      "Explain one relationship between Plant physiology and Animal physiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Plant physiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_2",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 2,
+    "title": "Animal physiology: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Animal physiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Animal physiology to the adjacent topic Ecology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Animal physiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Animal physiology.",
+      "Explain one relationship between Animal physiology and Ecology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Animal physiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_3",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 3,
+    "title": "Ecology: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Ecology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Ecology to the adjacent topic Energy flow, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Ecology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Ecology.",
+      "Explain one relationship between Ecology and Energy flow.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Ecology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_4",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 4,
+    "title": "Energy flow: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Energy flow as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Energy flow to the adjacent topic Biogeochemical cycles, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Energy flow; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Energy flow.",
+      "Explain one relationship between Energy flow and Biogeochemical cycles.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Energy flow.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_5",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 5,
+    "title": "Biogeochemical cycles: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Biogeochemical cycles as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Biogeochemical cycles to the adjacent topic Population ecology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Biogeochemical cycles; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Biogeochemical cycles.",
+      "Explain one relationship between Biogeochemical cycles and Population ecology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Biogeochemical cycles.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_6",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 6,
+    "title": "Population ecology: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Population ecology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Population ecology to the adjacent topic Communities, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Population ecology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Population ecology.",
+      "Explain one relationship between Population ecology and Communities.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Population ecology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_7",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 7,
+    "title": "Communities: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Communities as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Communities to the adjacent topic Ecosystems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Communities; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Communities.",
+      "Explain one relationship between Communities and Ecosystems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Communities.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_8",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 8,
+    "title": "Ecosystems: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Ecosystems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Ecosystems to the adjacent topic Conservation biology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Ecosystems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Ecosystems.",
+      "Explain one relationship between Ecosystems and Conservation biology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Ecosystems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_9",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 9,
+    "title": "Conservation biology: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Conservation biology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Conservation biology to the adjacent topic Experimental design, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Conservation biology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Conservation biology.",
+      "Explain one relationship between Conservation biology and Experimental design.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Conservation biology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L6_10",
+    "subject_id": "biology",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 10,
+    "title": "Experimental design: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Experimental design as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Experimental design to the adjacent topic Scientific method in biology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Experimental design; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Experimental design.",
+      "Explain one relationship between Experimental design and Scientific method in biology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Experimental design.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_1",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 1,
+    "title": "Scientific method in biology: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Scientific method in biology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Scientific method in biology to the adjacent topic Cell structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Scientific method in biology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Scientific method in biology.",
+      "Explain one relationship between Scientific method in biology and Cell structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Scientific method in biology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_2",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 2,
+    "title": "Cell structure: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Cell structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Cell structure to the adjacent topic Membranes and transport, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cell structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cell structure.",
+      "Explain one relationship between Cell structure and Membranes and transport.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cell structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_3",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 3,
+    "title": "Membranes and transport: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Membranes and transport as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Membranes and transport to the adjacent topic Biomolecules, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Membranes and transport; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Membranes and transport.",
+      "Explain one relationship between Membranes and transport and Biomolecules.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Membranes and transport.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_4",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 4,
+    "title": "Biomolecules: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Biomolecules as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Biomolecules to the adjacent topic Enzymes, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Biomolecules; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Biomolecules.",
+      "Explain one relationship between Biomolecules and Enzymes.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Biomolecules.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_5",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 5,
+    "title": "Enzymes: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Enzymes as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Enzymes to the adjacent topic Cellular respiration, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Enzymes; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Enzymes.",
+      "Explain one relationship between Enzymes and Cellular respiration.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Enzymes.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_6",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 6,
+    "title": "Cellular respiration: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Cellular respiration as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Cellular respiration to the adjacent topic Photosynthesis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Cellular respiration; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Cellular respiration.",
+      "Explain one relationship between Cellular respiration and Photosynthesis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Cellular respiration.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_7",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 7,
+    "title": "Photosynthesis: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Photosynthesis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Photosynthesis to the adjacent topic DNA structure, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Photosynthesis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Photosynthesis.",
+      "Explain one relationship between Photosynthesis and DNA structure.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Photosynthesis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_8",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 8,
+    "title": "DNA structure: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops DNA structure as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect DNA structure to the adjacent topic DNA replication, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA structure; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA structure.",
+      "Explain one relationship between DNA structure and DNA replication.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA structure.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_9",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 9,
+    "title": "DNA replication: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops DNA replication as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect DNA replication to the adjacent topic Gene expression, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving DNA replication; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in DNA replication.",
+      "Explain one relationship between DNA replication and Gene expression.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of DNA replication.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L7_10",
+    "subject_id": "biology",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 10,
+    "title": "Gene expression: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Gene expression as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Gene expression to the adjacent topic Mitosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gene expression; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gene expression.",
+      "Explain one relationship between Gene expression and Mitosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gene expression.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_1",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 1,
+    "title": "Mitosis: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Mitosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Mitosis to the adjacent topic Meiosis, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mitosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mitosis.",
+      "Explain one relationship between Mitosis and Meiosis.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mitosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_2",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 2,
+    "title": "Meiosis: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Meiosis as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Meiosis to the adjacent topic Inheritance, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Meiosis; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Meiosis.",
+      "Explain one relationship between Meiosis and Inheritance.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Meiosis.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_3",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 3,
+    "title": "Inheritance: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Inheritance as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Inheritance to the adjacent topic Mutations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Inheritance; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Inheritance.",
+      "Explain one relationship between Inheritance and Mutations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Inheritance.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_4",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 4,
+    "title": "Mutations: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Mutations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Mutations to the adjacent topic Evolution, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Mutations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Mutations.",
+      "Explain one relationship between Mutations and Evolution.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Mutations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_5",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 5,
+    "title": "Evolution: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Evolution as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Evolution to the adjacent topic Natural selection, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Evolution; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Evolution.",
+      "Explain one relationship between Evolution and Natural selection.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Evolution.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_6",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 6,
+    "title": "Natural selection: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Natural selection as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Natural selection to the adjacent topic Population genetics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Natural selection; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Natural selection.",
+      "Explain one relationship between Natural selection and Population genetics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Natural selection.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_7",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 7,
+    "title": "Population genetics: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Population genetics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Population genetics to the adjacent topic Microbiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Population genetics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Population genetics.",
+      "Explain one relationship between Population genetics and Microbiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Population genetics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_8",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 8,
+    "title": "Microbiology: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Microbiology as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Microbiology to the adjacent topic Viruses, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Microbiology; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Microbiology.",
+      "Explain one relationship between Microbiology and Viruses.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Microbiology.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_9",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 9,
+    "title": "Viruses: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Viruses as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Viruses to the adjacent topic Immune systems, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Viruses; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Viruses.",
+      "Explain one relationship between Viruses and Immune systems.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Viruses.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "biology_L8_10",
+    "subject_id": "biology",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 10,
+    "title": "Immune systems: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Immune systems as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Immune systems to the adjacent topic Plant physiology, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Immune systems; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Immune systems.",
+      "Explain one relationship between Immune systems and Plant physiology.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Immune systems.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  }
+]

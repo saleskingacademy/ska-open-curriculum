@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "discrete_mathematics",
+  "lessons": [
+    {
+      "id": "discrete_mathematics_L1_1",
+      "subject_id": "discrete_mathematics",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Logic & Proof",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Discrete math studies distinct, separate values — the mathematics of computation. Propositional logic: statements that are true or false, combined with AND (∧), OR (∨), NOT (¬), IMPLIES (→). Truth tables evaluate compound statements. Logical equivalences (De Morgan's laws: ¬(A∧B) = ¬A∨¬B). Predicate logic adds quantifiers: ∀ (for all), ∃ (there exists). Proof techniques: direct proof, proof by contradiction, proof by contrapositive, and mathematical induction (prove base case, then that each case implies the next — like dominoes).\n\nWORKED EXAMPLE: Prove that if n² is even, then n is even, by contrapositive: assume n is odd (n=2k+1), then n² = 4k²+4k+1 = 2(2k²+2k)+1, which is odd. Since 'n odd → n² odd' is proven, its contrapositive 'n² even → n even' holds. Contrapositive proof turns a hard direct proof into an easy one — a core technique of rigorous reasoning.\n\nPRACTICE: 1) Build a truth table for A → B. 2) State De Morgan's laws. 3) Explain how mathematical induction works."
+    }
+  ]
+}

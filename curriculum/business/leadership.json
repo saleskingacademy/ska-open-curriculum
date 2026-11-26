@@ -1,0 +1,78 @@
+{
+  "subject_id": "leadership",
+  "subject_name": "Leadership",
+  "category": "BUSINESS",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Foundations of Leadership",
+          "content": "# Foundations of Leadership\n\n## Learning Objectives\n1. Define leadership and distinguish it from management\n2. Identify major leadership theories and their evolution\n3. Recognize different leadership styles\n4. Understand the role of emotional intelligence in leadership\n5. Apply self-assessment to identify your leadership strengths\n\n## What is Leadership?\n\nLeadership is the ability to influence, motivate, and enable others to contribute toward achieving shared goals. It's not about a title or position \u2014 it's about action and impact.\n\n### Leadership vs. Management\n\n| Leadership | Management |\n|------------|------------|\n| Sets direction and vision | Plans and organizes |\n| Inspires and motivates | Controls and monitors |\n| Focuses on people | Focuses on systems |\n| Creates change | Maintains stability |\n| Asks 'why' and 'what if' | Asks 'how' and 'when' |\n\nBoth are essential. The best leaders are also good managers, and effective managers lead their teams.\n\n## Evolution of Leadership Theory\n\n### 1. Great Man Theory (1840s)\nLeaders are born, not made. This deterministic view held that leadership qualities were innate. Largely discredited but influenced trait theory.\n\n### 2. Trait Theory (1930s-1940s)\nIdentified specific traits common in leaders: intelligence, self-confidence, determination, integrity, sociability. Problem: no universal set of traits guarantees leadership.\n\n### 3. Behavioral Theory (1950s-1960s)\nShifted focus from WHO leaders are to WHAT leaders DO. Two dimensions: task-oriented behavior and relationship-oriented behavior.\n\n### 4. Situational Leadership (1970s)\nHersey and Blanchard: The best leadership style depends on followers' readiness. Match your approach to your team's maturity level.\n\n### 5. Transformational Leadership (1978)\nJames MacGregor Burns: Leaders inspire followers to transcend self-interest for the collective good. Four components: idealized influence, inspirational motivation, intellectual stimulation, individualized consideration.\n\n### 6. Servant Leadership (1970)\nRobert Greenleaf: The leader's primary purpose is to serve others. Lead by empowering your team.\n\n## Leadership Styles\n\n1. **Autocratic**: Leader makes decisions alone. Fast but can demotivate. Good in crises.\n2. **Democratic**: Team participates in decisions. Slower but higher engagement.\n3. **Laissez-faire**: Hands-off. Works with highly skilled, self-motivated teams.\n4. **Transformational**: Inspires and challenges. Drives innovation and change.\n5. **Servant**: Prioritizes team needs. Builds trust and loyalty.\n6. **Coaching**: Develops individuals. Long-term growth focus.\n\nNo single style is best \u2014 effective leaders adapt their approach to the situation.\n\n## Emotional Intelligence (EQ)\n\nDaniel Goleman identified five components critical for leadership:\n\n1. **Self-awareness**: Knowing your emotions, strengths, weaknesses\n2. **Self-regulation**: Controlling impulses and emotions\n3. **Motivation**: Internal drive beyond money or status\n4. **Empathy**: Understanding others' emotions and perspectives\n5. **Social skills**: Managing relationships and building networks\n\nResearch shows EQ is more predictive of leadership success than IQ.\n\n## Practice Problems\n\n1. What is the key difference between leadership and management?\n   **Answer**: Leadership focuses on vision, influence, and people; management focuses on planning, organizing, and systems.\n\n2. According to situational leadership theory, when should you use a directive style?\n   **Answer**: When team members have low competence and need clear guidance.\n\n3. Name the five components of emotional intelligence.\n   **Answer**: Self-awareness, self-regulation, motivation, empathy, social skills.\n\n4. Why was the Great Man Theory largely discredited?\n   **Answer**: It assumed leaders were born, not made, ignoring that leadership skills can be developed.\n\n5. In what situation would an autocratic leadership style be appropriate?\n   **Answer**: During a crisis or emergency when fast decisions are needed and there's no time for group discussion.\n\n## Key Takeaways\n- Leadership is about influence and vision, not just position\n- Leadership theory evolved from trait-based to situational and transformational\n- Effective leaders adapt their style to the situation and team needs\n- Emotional intelligence is more predictive of leadership success than IQ\n- The best leaders combine management skills with inspirational vision",
+          "quiz": [
+            {
+              "question": "What distinguishes leadership from management?",
+              "options": [
+                "Title and salary",
+                "Vision and influence vs. planning and control",
+                "Age and experience",
+                "Education level"
+              ],
+              "correct": "Vision and influence vs. planning and control",
+              "explanation": "Leadership focuses on setting direction and inspiring people; management focuses on organizing and monitoring"
+            },
+            {
+              "question": "Transformational leadership involves:",
+              "options": [
+                "Making all decisions alone",
+                "Inspiring followers to transcend self-interest",
+                "Avoiding responsibility",
+                "Maintaining the status quo"
+              ],
+              "correct": "Inspiring followers to transcend self-interest",
+              "explanation": "Burns defined transformational leadership as inspiring others to work toward collective good"
+            },
+            {
+              "question": "EQ stands for:",
+              "options": [
+                "Education Quotient",
+                "Emotional Intelligence",
+                "Efficiency Quality",
+                "Executive Qualities"
+              ],
+              "correct": "Emotional Intelligence",
+              "explanation": "EQ = Emotional Quotient/Intelligence, identified by Daniel Goleman"
+            },
+            {
+              "question": "Situational leadership says:",
+              "options": [
+                "One style fits all",
+                "Style depends on the situation and followers",
+                "Only experts can lead",
+                "Leadership is innate"
+              ],
+              "correct": "Style depends on the situation and followers",
+              "explanation": "Hersey and Blanchard argued leaders should adapt style to team readiness"
+            },
+            {
+              "question": "Servant leadership prioritizes:",
+              "options": [
+                "Profit maximization",
+                "Leader's authority",
+                "Serving and empowering the team",
+                "Speed of decisions"
+              ],
+              "correct": "Serving and empowering the team",
+              "explanation": "Robert Greenleaf's servant leadership puts team members' needs first"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

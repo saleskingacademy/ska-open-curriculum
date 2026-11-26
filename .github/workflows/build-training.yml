@@ -1,0 +1,27 @@
+name: Build knowledge depth
+# Rebuilds knowledge/depth.json (how much material each subject has) whenever the
+# lessons change, weekly, or on demand. The platform's own indexes and study packs are
+# built privately from these lessons and are not published here.
+on:
+  push:
+    branches: [main]
+    paths: ["knowledge/**", "tools/depth.py"]
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: build-depth, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        run: python3 tools/depth.py
+      - name: Commit if changed
+        run: |
+          git config user.name "ska-builder"; git config user.email "noreply@saleskingacademy.com"
+          git add knowledge/depth.json
+          git diff --cached --quiet || { git commit -qm "depth: rebuild ($(date -u +%F))"; git push -q; }

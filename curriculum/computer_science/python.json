@@ -1,0 +1,78 @@
+{
+  "subject_id": "python",
+  "subject_name": "Python Programming",
+  "category": "COMPUTER_SCIENCE",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Introduction to Python and Your First Program",
+          "content": "# Introduction to Python and Your First Program\n\n## Learning Objectives\n1. Understand what Python is and why it's widely used\n2. Set up a Python development environment\n3. Write and run your first Python program\n4. Use the print() function for output\n5. Understand basic syntax rules and comments\n\n## What is Python?\n\nPython is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991. It emphasizes code readability with its use of significant whitespace (indentation).\n\n### Why Python?\n- **Readable**: Python code reads almost like English\n- **Versatile**: Used in web development, data science, AI/ML, automation, scientific computing\n- **Large ecosystem**: Over 400,000 packages on PyPI (Python Package Index)\n- **In demand**: One of the most sought-after programming skills in the job market\n- **Beginner-friendly**: Lower learning curve compared to languages like C++ or Java\n\n### Who uses Python?\nGoogle, Netflix, Instagram, Spotify, NASA, CERN, and thousands of other organizations rely on Python.\n\n## Your First Program\n\nThe traditional first program in any language displays \"Hello, World!\" to the screen.\n\n```python\nprint(\"Hello, World!\")\n```\n\nOutput: `Hello, World!`\n\n### Understanding print()\n- `print()` is a **built-in function** that outputs text to the console\n- Text inside quotes is called a **string**\n- You can use single quotes ('...') or double quotes (\"...\") \u2014 both work the same\n\n```python\nprint(\"Hello, World!\")    # double quotes\nprint('Hello, World!')    # single quotes \u2014 same result\n```\n\n## Variables and Data Types\n\nVariables store data for later use. Python is dynamically typed \u2014 you don't need to declare the type.\n\n```python\nname = \"Alice\"         # string (text)\nage = 25               # integer (whole number)\nheight = 5.6           # float (decimal number)\nis_student = True      # boolean (True/False)\n```\n\n### Naming Rules\n- Must start with a letter or underscore (_)\n- Can contain letters, numbers, underscores\n- Case-sensitive: `name` and `Name` are different variables\n- Convention: use snake_case (e.g., `first_name`, `total_score`)\n- Cannot use reserved words: `if`, `else`, `for`, `while`, `class`, `def`, etc.\n\n## Basic Operations\n\n```python\n# Arithmetic\nx = 10 + 3     # Addition: 13\ny = 10 - 3     # Subtraction: 7\nz = 10 * 3     # Multiplication: 30\nw = 10 / 3     # Division: 3.333...\nq = 10 // 3    # Floor division: 3\nr = 10 % 3     # Modulo (remainder): 1\np = 10 ** 3    # Exponentiation: 1000\n```\n\n## String Operations\n\n```python\nfirst = \"Hello\"\nlast = \"World\"\nfull = first + \" \" + last    # Concatenation: \"Hello World\"\nrepeated = \"Ha\" * 3           # Repetition: \"HaHaHa\"\nlength = len(full)             # Length: 11\n```\n\n## F-Strings (Formatted Strings)\n\nThe modern way to embed variables in strings:\n\n```python\nname = \"Alice\"\nage = 25\nprint(f\"My name is {name} and I am {age} years old.\")\n# Output: My name is Alice and I am 25 years old.\n\npi = 3.14159\nprint(f\"Pi is approximately {pi:.2f}\")\n# Output: Pi is approximately 3.14\n```\n\n## Comments\n\nComments explain your code and are ignored by Python:\n\n```python\n# This is a single-line comment\n\n\"\"\"\nThis is a multi-line comment\n(technically a docstring)\n\"\"\"\n```\n\n## User Input\n\n```python\nname = input(\"What is your name? \")\nprint(f\"Hello, {name}!\")\n\nage = int(input(\"How old are you? \"))  # Convert string to integer\nprint(f\"In 10 years you'll be {age + 10}\")\n```\n\n## Practice Problems\n\n1. Write a program that prints your name and age.\n2. Create two variables, `x = 15` and `y = 4`, and print their sum, difference, product, and quotient.\n3. Write a program that asks the user for their name and greets them.\n4. Calculate and print the area of a rectangle with width=7 and height=12.\n5. Use an f-string to print: \"The result of 17 divided by 3 is 5.67\" (using actual division).\n\n## Key Takeaways\n- Python is readable, versatile, and beginner-friendly\n- print() outputs text to the console\n- Variables store data without type declarations\n- F-strings (f\"...{var}...\") are the modern way to format output\n- Comments explain code and are ignored by the interpreter\n- input() reads user input as a string (convert with int(), float() as needed)",
+          "quiz": [
+            {
+              "question": "What does print('Hello') output?",
+              "options": [
+                "'Hello'",
+                "Hello",
+                "print(Hello)",
+                "Error"
+              ],
+              "correct": "Hello",
+              "explanation": "print() displays the string content without the quotes"
+            },
+            {
+              "question": "Which is a valid variable name?",
+              "options": [
+                "2name",
+                "my-var",
+                "first_name",
+                "class"
+              ],
+              "correct": "first_name",
+              "explanation": "Variable names must start with a letter/underscore and can't be reserved words"
+            },
+            {
+              "question": "What is 10 // 3 in Python?",
+              "options": [
+                "3.33",
+                "3",
+                "4",
+                "1"
+              ],
+              "correct": "3",
+              "explanation": "// is floor division, which rounds down to the nearest integer"
+            },
+            {
+              "question": "What is the output of: f'{5 * 3}'?",
+              "options": [
+                "5 * 3",
+                "15",
+                "{5 * 3}",
+                "Error"
+              ],
+              "correct": "15",
+              "explanation": "F-strings evaluate the expression inside the braces"
+            },
+            {
+              "question": "Which converts string '42' to an integer?",
+              "options": [
+                "str(42)",
+                "int('42')",
+                "float('42')",
+                "num('42')"
+              ],
+              "correct": "int('42')",
+              "explanation": "int() converts a string to an integer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

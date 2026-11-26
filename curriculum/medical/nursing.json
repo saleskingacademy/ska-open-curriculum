@@ -1,0 +1,78 @@
+{
+  "subject_id": "nursing",
+  "subject_name": "Nursing",
+  "category": "HEALTH_MEDICAL",
+  "total_levels": 8,
+  "lessons_per_level": 10,
+  "total_lessons": 80,
+  "levels": {
+    "1": {
+      "name": "Beginner",
+      "academic_equivalent": "AP/GCSE + 10%",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Foundations of Nursing Practice",
+          "content": "# Foundations of Nursing Practice\n\n## Learning Objectives\n1. Define nursing and its scope of practice\n2. Understand the nursing process (ADPIE)\n3. Apply basic patient assessment skills\n4. Identify ethical principles in nursing\n5. Understand patient safety and infection control\n\n## The Nursing Process (ADPIE)\n\nThe nursing process is a systematic, patient-centered framework:\n\n### 1. Assessment\nCollecting comprehensive data about the patient:\n- Health history (subjective data \u2014 what the patient tells you)\n- Physical examination (objective data \u2014 what you observe/measure)\n- Vital signs: Temperature, Pulse, Respiration, Blood Pressure, SpO2\n- Pain assessment (0-10 scale)\n\n### 2. Diagnosis\nAnalyzing assessment data to identify nursing diagnoses:\n- Not medical diagnoses (that's the physician's role)\n- Focus on patient responses to health problems\n- Example: \"Impaired gas exchange related to pneumonia as evidenced by SpO2 of 88%\"\n\n### 3. Planning\nSetting measurable, achievable goals with the patient:\n- Short-term goals (shift, day)\n- Long-term goals (discharge, weeks)\n- Prioritize using Maslow's hierarchy or ABCs (Airway, Breathing, Circulation)\n\n### 4. Implementation\nCarrying out the care plan:\n- Administer medications (5 Rights: Right patient, drug, dose, route, time)\n- Perform procedures\n- Educate the patient\n- Document everything\n\n### 5. Evaluation\nDetermining if goals were met:\n- Reassess the patient\n- Compare current status to expected outcomes\n- Modify the plan if goals not met\n\n## Vital Signs Normal Ranges (Adults)\n| Vital Sign | Normal Range |\n|---|---|\n| Temperature | 97.8-99.1\u00b0F (36.5-37.3\u00b0C) |\n| Pulse | 60-100 bpm |\n| Respirations | 12-20 breaths/min |\n| Blood Pressure | <120/80 mmHg |\n| SpO2 | 95-100% |\n\n## Ethical Principles\n- **Autonomy**: Respect patient's right to make decisions\n- **Beneficence**: Do good\n- **Non-maleficence**: Do no harm\n- **Justice**: Treat all patients fairly\n- **Fidelity**: Keep promises and commitments\n- **Veracity**: Tell the truth\n\n## Infection Control\n- **Standard Precautions**: Hand hygiene, PPE for ALL patients\n- **Transmission-Based**: Contact, Droplet, Airborne (added to standard)\n- Hand hygiene is the SINGLE most effective way to prevent infection spread\n\n## Practice Problems\n1. A patient's BP is 158/96. Is this normal?\n   **Answer**: No \u2014 this indicates Stage 1 hypertension (>130/80)\n\n2. Order the nursing process steps: Planning, Assessment, Evaluation, Diagnosis, Implementation\n   **Answer**: Assessment \u2192 Diagnosis \u2192 Planning \u2192 Implementation \u2192 Evaluation (ADPIE)\n\n3. Name the 5 Rights of medication administration.\n   **Answer**: Right patient, right drug, right dose, right route, right time\n\n## Key Takeaways\n- The nursing process (ADPIE) is systematic and patient-centered\n- Assessment includes both subjective and objective data\n- The 5 Rights prevent medication errors\n- Ethical principles guide all nursing decisions\n- Hand hygiene is the most effective infection prevention measure",
+          "quiz": [
+            {
+              "question": "What is the main focus of Nursing?",
+              "options": [
+                "Study of nursing",
+                "Only theory",
+                "Only practice",
+                "None of these"
+              ],
+              "correct": "Study of nursing",
+              "explanation": "Nursing encompasses both theory and practical application"
+            },
+            {
+              "question": "Which concept is fundamental to Nursing?",
+              "options": [
+                "The first concept covered",
+                "All of the above",
+                "None",
+                "Only the last"
+              ],
+              "correct": "The first concept covered",
+              "explanation": "The foundational concept introduced in Lesson 1 is essential"
+            },
+            {
+              "question": "True or False: This subject has real-world applications",
+              "options": [
+                "True",
+                "False",
+                "Sometimes",
+                "Depends"
+              ],
+              "correct": "True",
+              "explanation": "Nursing has extensive real-world applications across industries"
+            },
+            {
+              "question": "At what level does this Nursing lesson begin?",
+              "options": [
+                "Advanced",
+                "Beginner",
+                "Expert",
+                "Grandmaster"
+              ],
+              "correct": "Beginner",
+              "explanation": "Level 1 starts at Beginner, equivalent to AP/GCSE + 10%"
+            },
+            {
+              "question": "How many mastery levels does this subject have?",
+              "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+              ],
+              "correct": "8",
+              "explanation": "SKA offers 8 mastery levels from Beginner to Grandmaster"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

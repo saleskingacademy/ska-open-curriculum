@@ -1,0 +1,16 @@
+{
+  "reason": "Distinct lessons shared a subject/level/lesson slot.",
+  "policy": "The first occurrence keeps the original public slot; all competing content is retained verbatim as structured lesson fields for review.",
+  "subject_id": "personal_finance",
+  "lessons": [
+    {
+      "id": "personal_finance_L1_1",
+      "subject_id": "personal_finance",
+      "level": 1,
+      "lesson_number": 1,
+      "title": "Personal Finance Foundations",
+      "category": "MASTERY",
+      "content": "KEY CONCEPTS: Personal finance is managing your money to build security and freedom. The foundation: spend less than you earn, and invest the difference. Net worth (assets minus liabilities) is the true scoreboard, not income — high earners with high spending stay broke. The four pillars: earn, save, invest, protect. Cash flow (money in vs out) determines everything. Pay yourself first: save/invest before spending, automatically, so it happens regardless of willpower.\n\nWORKED EXAMPLE: Two people earn $80,000. One spends $80,000 and saves nothing; the other spends $60,000 and invests $20,000 yearly. After 20 years at 7%, the saver has ~$820,000; the spender has $0 and the same lifestyle treadmill. Income didn't determine wealth — the gap between earning and spending did.\n\nPRACTICE: 1) Calculate your net worth. 2) Determine your monthly cash flow. 3) Set up one 'pay yourself first' automation."
+    }
+  ]
+}

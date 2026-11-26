@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "physics_L1_1",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 1,
+    "title": "Units and vectors: Foundations",
+    "content": "This original Sales King Academy lesson develops Units and vectors as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Units and vectors to the adjacent topic Kinematics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Units and vectors; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Units and vectors.",
+      "Explain one relationship between Units and vectors and Kinematics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Units and vectors.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_2",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 2,
+    "title": "Kinematics: Foundations",
+    "content": "This original Sales King Academy lesson develops Kinematics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Kinematics to the adjacent topic Newton's laws, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Kinematics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Kinematics.",
+      "Explain one relationship between Kinematics and Newton's laws.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Kinematics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_3",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 3,
+    "title": "Newton's laws: Foundations",
+    "content": "This original Sales King Academy lesson develops Newton's laws as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Newton's laws to the adjacent topic Work and energy, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Newton's laws; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Newton's laws.",
+      "Explain one relationship between Newton's laws and Work and energy.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Newton's laws.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_4",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 4,
+    "title": "Work and energy: Foundations",
+    "content": "This original Sales King Academy lesson develops Work and energy as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Work and energy to the adjacent topic Momentum, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Work and energy; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Work and energy.",
+      "Explain one relationship between Work and energy and Momentum.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Work and energy.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_5",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 5,
+    "title": "Momentum: Foundations",
+    "content": "This original Sales King Academy lesson develops Momentum as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Momentum to the adjacent topic Rotational motion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Momentum; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Momentum.",
+      "Explain one relationship between Momentum and Rotational motion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Momentum.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_6",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 6,
+    "title": "Rotational motion: Foundations",
+    "content": "This original Sales King Academy lesson develops Rotational motion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Rotational motion to the adjacent topic Gravitation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Rotational motion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Rotational motion.",
+      "Explain one relationship between Rotational motion and Gravitation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Rotational motion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_7",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 7,
+    "title": "Gravitation: Foundations",
+    "content": "This original Sales King Academy lesson develops Gravitation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Gravitation to the adjacent topic Oscillations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gravitation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gravitation.",
+      "Explain one relationship between Gravitation and Oscillations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gravitation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_8",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 8,
+    "title": "Oscillations: Foundations",
+    "content": "This original Sales King Academy lesson develops Oscillations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Oscillations to the adjacent topic Waves, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Oscillations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Oscillations.",
+      "Explain one relationship between Oscillations and Waves.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Oscillations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_9",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 9,
+    "title": "Waves: Foundations",
+    "content": "This original Sales King Academy lesson develops Waves as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Waves to the adjacent topic Fluid mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Waves; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Waves.",
+      "Explain one relationship between Waves and Fluid mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Waves.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L1_10",
+    "subject_id": "physics",
+    "level": 1,
+    "level_name": "Foundations",
+    "lesson_number": 10,
+    "title": "Fluid mechanics: Foundations",
+    "content": "This original Sales King Academy lesson develops Fluid mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is foundations. The learner should connect Fluid mechanics to the adjacent topic Temperature, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Fluid mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Fluid mechanics.",
+      "Explain one relationship between Fluid mechanics and Temperature.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Fluid mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_1",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 1,
+    "title": "Temperature: Core Framework",
+    "content": "This original Sales King Academy lesson develops Temperature as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Temperature to the adjacent topic Thermodynamics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Temperature; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Temperature.",
+      "Explain one relationship between Temperature and Thermodynamics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Temperature.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_2",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 2,
+    "title": "Thermodynamics: Core Framework",
+    "content": "This original Sales King Academy lesson develops Thermodynamics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Thermodynamics to the adjacent topic Electric charge, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Thermodynamics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Thermodynamics.",
+      "Explain one relationship between Thermodynamics and Electric charge.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Thermodynamics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_3",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 3,
+    "title": "Electric charge: Core Framework",
+    "content": "This original Sales King Academy lesson develops Electric charge as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Electric charge to the adjacent topic Electric fields, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric charge; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric charge.",
+      "Explain one relationship between Electric charge and Electric fields.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric charge.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_4",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 4,
+    "title": "Electric fields: Core Framework",
+    "content": "This original Sales King Academy lesson develops Electric fields as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Electric fields to the adjacent topic Electric potential, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric fields; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric fields.",
+      "Explain one relationship between Electric fields and Electric potential.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric fields.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_5",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 5,
+    "title": "Electric potential: Core Framework",
+    "content": "This original Sales King Academy lesson develops Electric potential as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Electric potential to the adjacent topic Circuits, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric potential; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric potential.",
+      "Explain one relationship between Electric potential and Circuits.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric potential.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_6",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 6,
+    "title": "Circuits: Core Framework",
+    "content": "This original Sales King Academy lesson develops Circuits as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Circuits to the adjacent topic Magnetism, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Circuits; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Circuits.",
+      "Explain one relationship between Circuits and Magnetism.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Circuits.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_7",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 7,
+    "title": "Magnetism: Core Framework",
+    "content": "This original Sales King Academy lesson develops Magnetism as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Magnetism to the adjacent topic Electromagnetic induction, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Magnetism; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Magnetism.",
+      "Explain one relationship between Magnetism and Electromagnetic induction.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Magnetism.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_8",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 8,
+    "title": "Electromagnetic induction: Core Framework",
+    "content": "This original Sales King Academy lesson develops Electromagnetic induction as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Electromagnetic induction to the adjacent topic Optics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electromagnetic induction; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electromagnetic induction.",
+      "Explain one relationship between Electromagnetic induction and Optics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electromagnetic induction.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_9",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 9,
+    "title": "Optics: Core Framework",
+    "content": "This original Sales King Academy lesson develops Optics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Optics to the adjacent topic Special relativity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Optics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Optics.",
+      "Explain one relationship between Optics and Special relativity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Optics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L2_10",
+    "subject_id": "physics",
+    "level": 2,
+    "level_name": "Core Concepts",
+    "lesson_number": 10,
+    "title": "Special relativity: Core Framework",
+    "content": "This original Sales King Academy lesson develops Special relativity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is core concepts. The learner should connect Special relativity to the adjacent topic Quantum foundations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Special relativity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Special relativity.",
+      "Explain one relationship between Special relativity and Quantum foundations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Special relativity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_1",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 1,
+    "title": "Quantum foundations: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Quantum foundations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Quantum foundations to the adjacent topic Wave mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Quantum foundations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Quantum foundations.",
+      "Explain one relationship between Quantum foundations and Wave mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Quantum foundations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_2",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 2,
+    "title": "Wave mechanics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Wave mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Wave mechanics to the adjacent topic Statistical physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Wave mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Wave mechanics.",
+      "Explain one relationship between Wave mechanics and Statistical physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Wave mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_3",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 3,
+    "title": "Statistical physics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Statistical physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Statistical physics to the adjacent topic Lagrangian mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Statistical physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Statistical physics.",
+      "Explain one relationship between Statistical physics and Lagrangian mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Statistical physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_4",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 4,
+    "title": "Lagrangian mechanics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Lagrangian mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Lagrangian mechanics to the adjacent topic Hamiltonian mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Lagrangian mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Lagrangian mechanics.",
+      "Explain one relationship between Lagrangian mechanics and Hamiltonian mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Lagrangian mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_5",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 5,
+    "title": "Hamiltonian mechanics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Hamiltonian mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Hamiltonian mechanics to the adjacent topic Electromagnetism, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Hamiltonian mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Hamiltonian mechanics.",
+      "Explain one relationship between Hamiltonian mechanics and Electromagnetism.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Hamiltonian mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_6",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 6,
+    "title": "Electromagnetism: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Electromagnetism as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Electromagnetism to the adjacent topic Solid-state physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electromagnetism; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electromagnetism.",
+      "Explain one relationship between Electromagnetism and Solid-state physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electromagnetism.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_7",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 7,
+    "title": "Solid-state physics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Solid-state physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Solid-state physics to the adjacent topic Nuclear physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Solid-state physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Solid-state physics.",
+      "Explain one relationship between Solid-state physics and Nuclear physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Solid-state physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_8",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 8,
+    "title": "Nuclear physics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Nuclear physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Nuclear physics to the adjacent topic Particle physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Nuclear physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Nuclear physics.",
+      "Explain one relationship between Nuclear physics and Particle physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Nuclear physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_9",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 9,
+    "title": "Particle physics: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Particle physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Particle physics to the adjacent topic Experimental methods, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Particle physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Particle physics.",
+      "Explain one relationship between Particle physics and Experimental methods.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Particle physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L3_10",
+    "subject_id": "physics",
+    "level": 3,
+    "level_name": "Intermediate Application",
+    "lesson_number": 10,
+    "title": "Experimental methods: Applied Reasoning",
+    "content": "This original Sales King Academy lesson develops Experimental methods as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is intermediate application. The learner should connect Experimental methods to the adjacent topic Units and vectors, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Experimental methods; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Experimental methods.",
+      "Explain one relationship between Experimental methods and Units and vectors.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Experimental methods.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_1",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 1,
+    "title": "Units and vectors: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Units and vectors as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Units and vectors to the adjacent topic Kinematics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Units and vectors; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Units and vectors.",
+      "Explain one relationship between Units and vectors and Kinematics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Units and vectors.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_2",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 2,
+    "title": "Kinematics: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Kinematics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Kinematics to the adjacent topic Newton's laws, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Kinematics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Kinematics.",
+      "Explain one relationship between Kinematics and Newton's laws.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Kinematics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_3",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 3,
+    "title": "Newton's laws: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Newton's laws as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Newton's laws to the adjacent topic Work and energy, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Newton's laws; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Newton's laws.",
+      "Explain one relationship between Newton's laws and Work and energy.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Newton's laws.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_4",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 4,
+    "title": "Work and energy: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Work and energy as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Work and energy to the adjacent topic Momentum, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Work and energy; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Work and energy.",
+      "Explain one relationship between Work and energy and Momentum.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Work and energy.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_5",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 5,
+    "title": "Momentum: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Momentum as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Momentum to the adjacent topic Rotational motion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Momentum; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Momentum.",
+      "Explain one relationship between Momentum and Rotational motion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Momentum.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_6",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 6,
+    "title": "Rotational motion: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Rotational motion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Rotational motion to the adjacent topic Gravitation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Rotational motion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Rotational motion.",
+      "Explain one relationship between Rotational motion and Gravitation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Rotational motion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_7",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 7,
+    "title": "Gravitation: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Gravitation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Gravitation to the adjacent topic Oscillations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gravitation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gravitation.",
+      "Explain one relationship between Gravitation and Oscillations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gravitation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_8",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 8,
+    "title": "Oscillations: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Oscillations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Oscillations to the adjacent topic Waves, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Oscillations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Oscillations.",
+      "Explain one relationship between Oscillations and Waves.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Oscillations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_9",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 9,
+    "title": "Waves: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Waves as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Waves to the adjacent topic Fluid mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Waves; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Waves.",
+      "Explain one relationship between Waves and Fluid mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Waves.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L4_10",
+    "subject_id": "physics",
+    "level": 4,
+    "level_name": "Advanced Undergraduate",
+    "lesson_number": 10,
+    "title": "Fluid mechanics: Advanced Analysis",
+    "content": "This original Sales King Academy lesson develops Fluid mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is advanced undergraduate. The learner should connect Fluid mechanics to the adjacent topic Temperature, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Fluid mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Fluid mechanics.",
+      "Explain one relationship between Fluid mechanics and Temperature.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Fluid mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_1",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 1,
+    "title": "Temperature: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Temperature as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Temperature to the adjacent topic Thermodynamics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Temperature; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Temperature.",
+      "Explain one relationship between Temperature and Thermodynamics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Temperature.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_2",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 2,
+    "title": "Thermodynamics: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Thermodynamics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Thermodynamics to the adjacent topic Electric charge, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Thermodynamics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Thermodynamics.",
+      "Explain one relationship between Thermodynamics and Electric charge.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Thermodynamics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_3",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 3,
+    "title": "Electric charge: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Electric charge as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Electric charge to the adjacent topic Electric fields, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric charge; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric charge.",
+      "Explain one relationship between Electric charge and Electric fields.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric charge.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_4",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 4,
+    "title": "Electric fields: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Electric fields as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Electric fields to the adjacent topic Electric potential, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric fields; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric fields.",
+      "Explain one relationship between Electric fields and Electric potential.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric fields.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_5",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 5,
+    "title": "Electric potential: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Electric potential as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Electric potential to the adjacent topic Circuits, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric potential; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric potential.",
+      "Explain one relationship between Electric potential and Circuits.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric potential.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_6",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 6,
+    "title": "Circuits: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Circuits as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Circuits to the adjacent topic Magnetism, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Circuits; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Circuits.",
+      "Explain one relationship between Circuits and Magnetism.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Circuits.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_7",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 7,
+    "title": "Magnetism: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Magnetism as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Magnetism to the adjacent topic Electromagnetic induction, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Magnetism; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Magnetism.",
+      "Explain one relationship between Magnetism and Electromagnetic induction.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Magnetism.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_8",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 8,
+    "title": "Electromagnetic induction: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Electromagnetic induction as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Electromagnetic induction to the adjacent topic Optics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electromagnetic induction; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electromagnetic induction.",
+      "Explain one relationship between Electromagnetic induction and Optics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electromagnetic induction.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_9",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 9,
+    "title": "Optics: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Optics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Optics to the adjacent topic Special relativity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Optics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Optics.",
+      "Explain one relationship between Optics and Special relativity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Optics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L5_10",
+    "subject_id": "physics",
+    "level": 5,
+    "level_name": "Honors / Advanced",
+    "lesson_number": 10,
+    "title": "Special relativity: Honors Synthesis",
+    "content": "This original Sales King Academy lesson develops Special relativity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is honors / advanced. The learner should connect Special relativity to the adjacent topic Quantum foundations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Special relativity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Special relativity.",
+      "Explain one relationship between Special relativity and Quantum foundations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Special relativity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_1",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 1,
+    "title": "Quantum foundations: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Quantum foundations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Quantum foundations to the adjacent topic Wave mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Quantum foundations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Quantum foundations.",
+      "Explain one relationship between Quantum foundations and Wave mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Quantum foundations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_2",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 2,
+    "title": "Wave mechanics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Wave mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Wave mechanics to the adjacent topic Statistical physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Wave mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Wave mechanics.",
+      "Explain one relationship between Wave mechanics and Statistical physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Wave mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_3",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 3,
+    "title": "Statistical physics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Statistical physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Statistical physics to the adjacent topic Lagrangian mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Statistical physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Statistical physics.",
+      "Explain one relationship between Statistical physics and Lagrangian mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Statistical physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_4",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 4,
+    "title": "Lagrangian mechanics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Lagrangian mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Lagrangian mechanics to the adjacent topic Hamiltonian mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Lagrangian mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Lagrangian mechanics.",
+      "Explain one relationship between Lagrangian mechanics and Hamiltonian mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Lagrangian mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_5",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 5,
+    "title": "Hamiltonian mechanics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Hamiltonian mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Hamiltonian mechanics to the adjacent topic Electromagnetism, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Hamiltonian mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Hamiltonian mechanics.",
+      "Explain one relationship between Hamiltonian mechanics and Electromagnetism.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Hamiltonian mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_6",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 6,
+    "title": "Electromagnetism: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Electromagnetism as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Electromagnetism to the adjacent topic Solid-state physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electromagnetism; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electromagnetism.",
+      "Explain one relationship between Electromagnetism and Solid-state physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electromagnetism.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_7",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 7,
+    "title": "Solid-state physics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Solid-state physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Solid-state physics to the adjacent topic Nuclear physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Solid-state physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Solid-state physics.",
+      "Explain one relationship between Solid-state physics and Nuclear physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Solid-state physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_8",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 8,
+    "title": "Nuclear physics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Nuclear physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Nuclear physics to the adjacent topic Particle physics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Nuclear physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Nuclear physics.",
+      "Explain one relationship between Nuclear physics and Particle physics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Nuclear physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_9",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 9,
+    "title": "Particle physics: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Particle physics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Particle physics to the adjacent topic Experimental methods, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Particle physics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Particle physics.",
+      "Explain one relationship between Particle physics and Experimental methods.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Particle physics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L6_10",
+    "subject_id": "physics",
+    "level": 6,
+    "level_name": "Graduate Study",
+    "lesson_number": 10,
+    "title": "Experimental methods: Graduate Methods",
+    "content": "This original Sales King Academy lesson develops Experimental methods as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is graduate study. The learner should connect Experimental methods to the adjacent topic Units and vectors, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Experimental methods; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Experimental methods.",
+      "Explain one relationship between Experimental methods and Units and vectors.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Experimental methods.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_1",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 1,
+    "title": "Units and vectors: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Units and vectors as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Units and vectors to the adjacent topic Kinematics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Units and vectors; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Units and vectors.",
+      "Explain one relationship between Units and vectors and Kinematics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Units and vectors.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_2",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 2,
+    "title": "Kinematics: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Kinematics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Kinematics to the adjacent topic Newton's laws, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Kinematics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Kinematics.",
+      "Explain one relationship between Kinematics and Newton's laws.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Kinematics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_3",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 3,
+    "title": "Newton's laws: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Newton's laws as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Newton's laws to the adjacent topic Work and energy, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Newton's laws; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Newton's laws.",
+      "Explain one relationship between Newton's laws and Work and energy.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Newton's laws.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_4",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 4,
+    "title": "Work and energy: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Work and energy as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Work and energy to the adjacent topic Momentum, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Work and energy; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Work and energy.",
+      "Explain one relationship between Work and energy and Momentum.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Work and energy.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_5",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 5,
+    "title": "Momentum: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Momentum as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Momentum to the adjacent topic Rotational motion, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Momentum; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Momentum.",
+      "Explain one relationship between Momentum and Rotational motion.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Momentum.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_6",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 6,
+    "title": "Rotational motion: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Rotational motion as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Rotational motion to the adjacent topic Gravitation, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Rotational motion; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Rotational motion.",
+      "Explain one relationship between Rotational motion and Gravitation.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Rotational motion.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_7",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 7,
+    "title": "Gravitation: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Gravitation as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Gravitation to the adjacent topic Oscillations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Gravitation; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Gravitation.",
+      "Explain one relationship between Gravitation and Oscillations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Gravitation.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_8",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 8,
+    "title": "Oscillations: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Oscillations as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Oscillations to the adjacent topic Waves, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Oscillations; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Oscillations.",
+      "Explain one relationship between Oscillations and Waves.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Oscillations.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_9",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 9,
+    "title": "Waves: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Waves as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Waves to the adjacent topic Fluid mechanics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Waves; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Waves.",
+      "Explain one relationship between Waves and Fluid mechanics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Waves.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L7_10",
+    "subject_id": "physics",
+    "level": 7,
+    "level_name": "Doctoral Preparation",
+    "lesson_number": 10,
+    "title": "Fluid mechanics: Doctoral Inquiry",
+    "content": "This original Sales King Academy lesson develops Fluid mechanics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is doctoral preparation. The learner should connect Fluid mechanics to the adjacent topic Temperature, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Fluid mechanics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Fluid mechanics.",
+      "Explain one relationship between Fluid mechanics and Temperature.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Fluid mechanics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_1",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 1,
+    "title": "Temperature: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Temperature as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Temperature to the adjacent topic Thermodynamics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Temperature; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Temperature.",
+      "Explain one relationship between Temperature and Thermodynamics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Temperature.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_2",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 2,
+    "title": "Thermodynamics: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Thermodynamics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Thermodynamics to the adjacent topic Electric charge, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Thermodynamics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Thermodynamics.",
+      "Explain one relationship between Thermodynamics and Electric charge.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Thermodynamics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_3",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 3,
+    "title": "Electric charge: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Electric charge as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Electric charge to the adjacent topic Electric fields, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric charge; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric charge.",
+      "Explain one relationship between Electric charge and Electric fields.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric charge.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_4",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 4,
+    "title": "Electric fields: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Electric fields as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Electric fields to the adjacent topic Electric potential, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric fields; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric fields.",
+      "Explain one relationship between Electric fields and Electric potential.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric fields.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_5",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 5,
+    "title": "Electric potential: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Electric potential as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Electric potential to the adjacent topic Circuits, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electric potential; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electric potential.",
+      "Explain one relationship between Electric potential and Circuits.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electric potential.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_6",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 6,
+    "title": "Circuits: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Circuits as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Circuits to the adjacent topic Magnetism, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Circuits; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Circuits.",
+      "Explain one relationship between Circuits and Magnetism.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Circuits.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_7",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 7,
+    "title": "Magnetism: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Magnetism as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Magnetism to the adjacent topic Electromagnetic induction, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Magnetism; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Magnetism.",
+      "Explain one relationship between Magnetism and Electromagnetic induction.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Magnetism.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_8",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 8,
+    "title": "Electromagnetic induction: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Electromagnetic induction as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Electromagnetic induction to the adjacent topic Optics, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Electromagnetic induction; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Electromagnetic induction.",
+      "Explain one relationship between Electromagnetic induction and Optics.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Electromagnetic induction.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_9",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 9,
+    "title": "Optics: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Optics as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Optics to the adjacent topic Special relativity, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Optics; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Optics.",
+      "Explain one relationship between Optics and Special relativity.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Optics.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  },
+  {
+    "id": "physics_L8_10",
+    "subject_id": "physics",
+    "level": 8,
+    "level_name": "Research & Frontier",
+    "lesson_number": 10,
+    "title": "Special relativity: Research Frontier",
+    "content": "This original Sales King Academy lesson develops Special relativity as a structured learning problem. The learner first identifies the governing ideas, defines the important terms, distinguishes closely related concepts, and then applies the framework to a concrete case. At this level, the emphasis is research & frontier. The learner should connect Special relativity to the adjacent topic Quantum foundations, because durable mastery depends on prerequisite and cross-topic relationships rather than isolated memorization.",
+    "worked_example": "Worked example: construct a small example involving Special relativity; state the assumptions; apply the relevant framework step by step; check the result; then explain why the result follows from the assumptions.",
+    "practice": [
+      "Define the central terms used in Special relativity.",
+      "Explain one relationship between Special relativity and Quantum foundations.",
+      "Create a new example and solve or analyze it without copying the worked example."
+    ],
+    "assessment": [
+      "Recall: identify the core principle of Special relativity.",
+      "Apply: use the principle in an unfamiliar scenario.",
+      "Analyze: identify an assumption, limitation, or competing interpretation."
+    ],
+    "answer_guidance": "A strong response defines the relevant concepts, makes assumptions explicit, uses a defensible chain of reasoning, checks the conclusion, and distinguishes established knowledge from interpretation or uncertainty.",
+    "originality_note": "Original instructional copy authored for Sales King Academy; not copied from a textbook, course, publisher, or proprietary curriculum."
+  }
+]
